@@ -1,0 +1,5 @@
+# ASR adaptation of the TTS-arxiv-daily Pages configuration.
+title: ASR Arxiv Daily
+description: 自动追踪自动语音识别与语音转文字论文，每 12 小时更新。
+theme: jekyll-theme-cayman
+show_downloads: false

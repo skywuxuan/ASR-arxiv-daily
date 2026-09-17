@@ -1,0 +1,35 @@
+# Adapted from TTS-arxiv-daily for automatic speech recognition.
+project_name: ASR-arxiv-daily
+description: 自动追踪 arXiv 上的自动语音识别与语音转文字论文。
+# Optional: owner/repository for badges. GitHub Actions detects its repository.
+repository: skywuxuan/ASR-arxiv-daily
+show_badge: false
+show_authors: true
+show_links: true
+max_results: 50
+
+publish_readme: true
+publish_gitpage: true
+publish_wechat: false
+json_path: docs/asr-arxiv-daily.json
+md_readme_path: README.md
+md_gitpage_path: docs/index.md
+md_wechat_path: docs/wechat.md
+
+# GitHub search results are candidates, not verified official implementations.
+search_code: true
+github_max_requests: 10
+request_timeout: 20
+
+keywords:
+  ASR:
+    filters:
+      - Automatic Speech Recognition
+      - Speech Recognition
+      - Speech-to-Text
+      - Speech to Text
+      - Speech Transcription
+    # Require speech context for the ambiguous abbreviation ASR.
+    abbreviations: [ASR]
+    context: [speech, spoken, transcription, acoustic]
+    categories: [cs.CL, cs.SD, eess.AS]
