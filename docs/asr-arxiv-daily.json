@@ -1,6 +1,831 @@
 {
-  "last_fetched": null,
+  "last_fetched": "2026-09-17T09:28:00+00:00",
   "topics": {
-    "ASR": {}
+    "ASR": {
+      "2609.18748": {
+        "title": "TeleAntiFraud 2.0: A Refreshable, Profile-Grounded, and Audio-Based Benchmark for Telecom Fraud Detection",
+        "authors": [
+          "Huiyuan Liu",
+          "Zhiming Ma",
+          "Yanxing Liu",
+          "Shun Zhang",
+          "Qifan Wang",
+          "Di Liu",
+          "Yifan Wang",
+          "Yuyang Deng",
+          "Haoyang Meng",
+          "Yijin Zhou",
+          "Yuxi Zhao",
+          "Chengxian Hu",
+          "Peidong Wang",
+          "Peng Chen"
+        ],
+        "published": "2026-09-16",
+        "updated": "2026-09-16",
+        "url": "https://arxiv.org/abs/2609.18748",
+        "pdf_url": "https://arxiv.org/pdf/2609.18748",
+        "code_url": "https://github.com/InsomaniacElf/sg-tamil-tts-resources",
+        "code_source": "github_search",
+        "code_checked_at": "2026-09-17T09:28:00+00:00"
+      },
+      "2609.18686": {
+        "title": "Multi-Teacher Distillation for Cross-Domain Streaming Electrolaryngeal Speech Encoding",
+        "authors": [
+          "Benedikt Mayrhofer",
+          "Enrique Orozco Olivares",
+          "Franz Pernkopf",
+          "Philipp Aichinger",
+          "Martin Hagmüller"
+        ],
+        "published": "2026-09-16",
+        "updated": "2026-09-16",
+        "url": "https://arxiv.org/abs/2609.18686",
+        "pdf_url": "https://arxiv.org/pdf/2609.18686",
+        "code_url": "https://github.com/InsomaniacElf/sg-tamil-tts-resources",
+        "code_source": "github_search",
+        "code_checked_at": "2026-09-17T09:28:02+00:00"
+      },
+      "2609.18680": {
+        "title": "HearInContext: A Benchmark for Implicit Context in Speech Recognition",
+        "authors": [
+          "Yifan Gao",
+          "Yao Tian",
+          "Hongbin Suo"
+        ],
+        "published": "2026-09-16",
+        "updated": "2026-09-16",
+        "url": "https://arxiv.org/abs/2609.18680",
+        "pdf_url": "https://arxiv.org/pdf/2609.18680",
+        "code_url": "https://github.com/InsomaniacElf/sg-tamil-tts-resources",
+        "code_source": "github_search",
+        "code_checked_at": "2026-09-17T09:28:04+00:00"
+      },
+      "2609.18533": {
+        "title": "A Probe Shift Is Not a Fairness Fix: The Limits of Representation Steering in Speech Models",
+        "authors": [
+          "Nicolas Bourrel",
+          "Abderrahmane Issam",
+          "Gerasimos Spanakis"
+        ],
+        "published": "2026-09-16",
+        "updated": "2026-09-16",
+        "url": "https://arxiv.org/abs/2609.18533",
+        "pdf_url": "https://arxiv.org/pdf/2609.18533",
+        "code_url": "https://github.com/Tavish9/awesome-daily-AI-arxiv",
+        "code_source": "github_search",
+        "code_checked_at": "2026-09-17T09:28:06+00:00"
+      },
+      "2609.18516": {
+        "title": "Align, Integrate, and Fire: Efficient Token-Level Alignment for Zero-Shot SpeechLLMs",
+        "authors": [
+          "Abderrahmane Issam",
+          "Yusuf Can Semerci",
+          "Jan Scholtes",
+          "Gerasimos Spanakis"
+        ],
+        "published": "2026-09-16",
+        "updated": "2026-09-16",
+        "url": "https://arxiv.org/abs/2609.18516",
+        "pdf_url": "https://arxiv.org/pdf/2609.18516",
+        "code_url": "https://github.com/Tavish9/awesome-daily-AI-arxiv",
+        "code_source": "github_search",
+        "code_checked_at": "2026-09-17T09:28:08+00:00"
+      },
+      "2609.18333": {
+        "title": "Look Less, Hear Better: Jointly Rewarded GRPO for Streaming ASR",
+        "authors": [
+          "Xiuwen Zheng"
+        ],
+        "published": "2026-09-16",
+        "updated": "2026-09-16",
+        "url": "https://arxiv.org/abs/2609.18333",
+        "pdf_url": "https://arxiv.org/pdf/2609.18333",
+        "code_url": null,
+        "code_source": null,
+        "code_checked_at": "2026-09-17T09:28:10+00:00"
+      },
+      "2609.18194": {
+        "title": "T-SANDHI: Tone Sandhi-aware Adaptive Network with Decoupled Hybrid Injection for Low-resource Taiwanese Hokkien Speech Recognition",
+        "authors": [
+          "Hung-Yang Sung",
+          "Chien-Chun Wang",
+          "Tien-Hong Lo",
+          "Yu-Sheng Tsao",
+          "Yung-Chang Hsu",
+          "Berlin Chen"
+        ],
+        "published": "2026-09-16",
+        "updated": "2026-09-16",
+        "url": "https://arxiv.org/abs/2609.18194",
+        "pdf_url": "https://arxiv.org/pdf/2609.18194",
+        "code_url": "https://github.com/Tavish9/awesome-daily-AI-arxiv",
+        "code_source": "github_search",
+        "code_checked_at": "2026-09-17T09:28:13+00:00"
+      },
+      "2609.17981": {
+        "title": "Encoder Awakening via Adapters: Effective Domain-Adaptive Fine-tuning of Speech-LLMs",
+        "authors": [
+          "Mohan Shi",
+          "Zilai Wang",
+          "Natarajan Balaji Shankar",
+          "Kaiyuan Zhang",
+          "Eray Eren",
+          "Abeer Alwan"
+        ],
+        "published": "2026-09-16",
+        "updated": "2026-09-16",
+        "url": "https://arxiv.org/abs/2609.17981",
+        "pdf_url": "https://arxiv.org/pdf/2609.17981",
+        "code_url": "https://github.com/InsomaniacElf/sg-tamil-tts-resources",
+        "code_source": "github_search",
+        "code_checked_at": "2026-09-17T09:28:15+00:00"
+      },
+      "2609.16855": {
+        "title": "Differentiable and Severity-invariant Discrete Tokens for Dysarthric Speech Recognition",
+        "authors": [
+          "Huimeng Wang",
+          "Xurong Xie",
+          "Mengzhe Geng",
+          "Haoning Xu",
+          "Jiajun Deng",
+          "Youjun Chen",
+          "Chengxi Deng",
+          "Xunying Liu"
+        ],
+        "published": "2026-09-15",
+        "updated": "2026-09-15",
+        "url": "https://arxiv.org/abs/2609.16855",
+        "pdf_url": "https://arxiv.org/pdf/2609.16855",
+        "code_url": null,
+        "code_source": null,
+        "code_checked_at": "2026-09-17T09:28:17+00:00"
+      },
+      "2609.16614": {
+        "title": "RoleBreak: Benchmarking Long-Horizon Role-Playing Robustness in Spoken Dialogue",
+        "authors": [
+          "Yuqi Wang",
+          "Fengyuan Liu",
+          "Haochen Luo",
+          "Zhiqi Yu",
+          "Qi Liu"
+        ],
+        "published": "2026-09-15",
+        "updated": "2026-09-15",
+        "url": "https://arxiv.org/abs/2609.16614",
+        "pdf_url": "https://arxiv.org/pdf/2609.16614",
+        "code_url": "https://github.com/iszhanjiawei/TTS_arxiv_daily",
+        "code_source": "github_search",
+        "code_checked_at": "2026-09-17T09:28:19+00:00"
+      },
+      "2609.15759": {
+        "title": "Enabling Streaming User Transcription in Full-Duplex Speech-to-Speech Models",
+        "authors": [
+          "Ke Hu",
+          "Nourchene Ferchichi",
+          "Edresson Casanova",
+          "Ankita Pasad",
+          "Elena Rastorgueva",
+          "Chen Chen",
+          "Nithin Rao Koluguri",
+          "Piotr Zelasko",
+          "Yifan Peng",
+          "Hainan Xu",
+          "Zhehuai Chen",
+          "Boris Ginsburg"
+        ],
+        "published": "2026-09-14",
+        "updated": "2026-09-14",
+        "url": "https://arxiv.org/abs/2609.15759",
+        "pdf_url": "https://arxiv.org/pdf/2609.15759",
+        "code_url": null,
+        "code_source": null
+      },
+      "2609.15758": {
+        "title": "Sequential Adapter Stacking for Cross-Lingual Low-Resource ASR",
+        "authors": [
+          "Thai Thi Thanh Thao Dang",
+          "Mengjie Qian",
+          "Kate Knill"
+        ],
+        "published": "2026-09-14",
+        "updated": "2026-09-14",
+        "url": "https://arxiv.org/abs/2609.15758",
+        "pdf_url": "https://arxiv.org/pdf/2609.15758",
+        "code_url": null,
+        "code_source": null
+      },
+      "2609.15743": {
+        "title": "Merging the Knowledge of LLMs for Automatic Speech Recognition",
+        "authors": [
+          "Hayato Futami",
+          "Tatsuya Kawahara"
+        ],
+        "published": "2026-09-14",
+        "updated": "2026-09-14",
+        "url": "https://arxiv.org/abs/2609.15743",
+        "pdf_url": "https://arxiv.org/pdf/2609.15743",
+        "code_url": null,
+        "code_source": null
+      },
+      "2609.15313": {
+        "title": "Reducing the Output-Mode Gap in Speech Language Models via Joint-Output On-Policy Distillation",
+        "authors": [
+          "Daxin Tan",
+          "Dehua Tao",
+          "Chengxi Deng",
+          "Hanlin Zhang",
+          "Xiao Chen"
+        ],
+        "published": "2026-09-14",
+        "updated": "2026-09-14",
+        "url": "https://arxiv.org/abs/2609.15313",
+        "pdf_url": "https://arxiv.org/pdf/2609.15313",
+        "code_url": null,
+        "code_source": null
+      },
+      "2609.15218": {
+        "title": "Word Timestamps and Speaker Attribution with a Non-Autoregressive LLM",
+        "authors": [
+          "Zvi Kons",
+          "Avihu Dekel",
+          "Hagai Aronowitz",
+          "Vishal Sunder",
+          "Ron Hoory"
+        ],
+        "published": "2026-09-14",
+        "updated": "2026-09-14",
+        "url": "https://arxiv.org/abs/2609.15218",
+        "pdf_url": "https://arxiv.org/pdf/2609.15218",
+        "code_url": null,
+        "code_source": null
+      },
+      "2609.14991": {
+        "title": "Typhoon ASR Streaming: Steerable Low-Latency Thai Speech Recognition with Real-Time Shallow Fusion",
+        "authors": [
+          "Warit Sirichotedumrong",
+          "Tanawin Samutsin",
+          "Shah Faisal Wani",
+          "Sittipong Sripaisarnmongkol",
+          "Kunat Pipatanakul"
+        ],
+        "published": "2026-09-14",
+        "updated": "2026-09-14",
+        "url": "https://arxiv.org/abs/2609.14991",
+        "pdf_url": "https://arxiv.org/pdf/2609.14991",
+        "code_url": null,
+        "code_source": null
+      },
+      "2609.14967": {
+        "title": "A Corpus-Aligned Uthmani-to-Standard Quranic Word Mapping and a Deterministic Recitation Validator",
+        "authors": [
+          "Yahya Mohamed Elnawasany"
+        ],
+        "published": "2026-09-14",
+        "updated": "2026-09-14",
+        "url": "https://arxiv.org/abs/2609.14967",
+        "pdf_url": "https://arxiv.org/pdf/2609.14967",
+        "code_url": "https://github.com/NightPrinceY/muslim-quran-validator",
+        "code_source": "paper"
+      },
+      "2609.14817": {
+        "title": "Tone on a Budget: A Reference-Free Metric for Lexical Tone in Massively Multilingual Text-to-Speech",
+        "authors": [
+          "Moses Daudu",
+          "Adeola Enitan Bamidele",
+          "Honor-Jesus Bezaleel"
+        ],
+        "published": "2026-09-13",
+        "updated": "2026-09-13",
+        "url": "https://arxiv.org/abs/2609.14817",
+        "pdf_url": "https://arxiv.org/pdf/2609.14817",
+        "code_url": null,
+        "code_source": null
+      },
+      "2609.14743": {
+        "title": "Quantifying the Generation Modality Gap in Speech-Text Language Models",
+        "authors": [
+          "Ju-Chieh Chou",
+          "Jiawei Zhou",
+          "Karen Livescu"
+        ],
+        "published": "2026-09-13",
+        "updated": "2026-09-13",
+        "url": "https://arxiv.org/abs/2609.14743",
+        "pdf_url": "https://arxiv.org/pdf/2609.14743",
+        "code_url": null,
+        "code_source": null
+      },
+      "2609.14740": {
+        "title": "Bridging Data, Reasoning, and Alignment: A Unified Framework for Context-Aware Instruction-Following TTS",
+        "authors": [
+          "Jingbin Hu",
+          "Luyu Wang",
+          "Wenjie Tian",
+          "Kangxiang Xia",
+          "Qirui Zhan",
+          "Haoyu Zhang",
+          "Yunxiang Chen",
+          "Houdun Liu",
+          "Lei Xie",
+          "Liumeng Xue"
+        ],
+        "published": "2026-09-13",
+        "updated": "2026-09-13",
+        "url": "https://arxiv.org/abs/2609.14740",
+        "pdf_url": "https://arxiv.org/pdf/2609.14740",
+        "code_url": null,
+        "code_source": null
+      },
+      "2609.14542": {
+        "title": "Neyshekar: An Open Persian Read-Speech Corpus for Automatic Speech Recognition",
+        "authors": [
+          "Ahmad Amirivojdan",
+          "Farzad Nadiri",
+          "Abolfazl Alizadeh",
+          "Shaghayegh Yaraghi"
+        ],
+        "published": "2026-09-13",
+        "updated": "2026-09-13",
+        "url": "https://arxiv.org/abs/2609.14542",
+        "pdf_url": "https://arxiv.org/pdf/2609.14542",
+        "code_url": "https://github.com/amirivojdan/neyshekar",
+        "code_source": "paper"
+      },
+      "2609.14467": {
+        "title": "Bridging the Modality Gap in Long-Form Clinical Audio: A Comparative Study of Lightweight and Heavyweight End-to-End SOAP Generation",
+        "authors": [
+          "Ziyu Zhang",
+          "Mingchen Shao",
+          "Wenjie Tian",
+          "Tianlun Zuo",
+          "Longhao Li",
+          "Lei Xie"
+        ],
+        "published": "2026-09-13",
+        "updated": "2026-09-13",
+        "url": "https://arxiv.org/abs/2609.14467",
+        "pdf_url": "https://arxiv.org/pdf/2609.14467",
+        "code_url": null,
+        "code_source": null
+      },
+      "2609.14455": {
+        "title": "Grounded in Sound: Reinforcement Learning with a Frozen Acoustic Judge to Curb ASR Insertion Hallucinations",
+        "authors": [
+          "Tingzhen Xiong",
+          "Rilin Chen",
+          "Weiwei Li",
+          "Wentao Zhang",
+          "Qicong Xie"
+        ],
+        "published": "2026-09-13",
+        "updated": "2026-09-13",
+        "url": "https://arxiv.org/abs/2609.14455",
+        "pdf_url": "https://arxiv.org/pdf/2609.14455",
+        "code_url": null,
+        "code_source": null
+      },
+      "2609.14145": {
+        "title": "A New Transformer-Based Approach for Audio-Based Kinship Verification and a New Uncontrolled Mandarin Kinship Speech Dataset",
+        "authors": [
+          "Qiyang Sun",
+          "Langqing Zhang",
+          "Yupei Li",
+          "Björn Schuller"
+        ],
+        "published": "2026-09-12",
+        "updated": "2026-09-12",
+        "url": "https://arxiv.org/abs/2609.14145",
+        "pdf_url": "https://arxiv.org/pdf/2609.14145",
+        "code_url": null,
+        "code_source": null
+      },
+      "2609.13911": {
+        "title": "DualSpecSE: A Dual-Path Speech Enhancement Network Integrating Mel and Complex Spectrograms",
+        "authors": [
+          "Xingchen Li",
+          "Ziqian Wang",
+          "Zikai Liu",
+          "Yike Zhu",
+          "Zihan Zhang",
+          "Longshuai Xiao",
+          "Lei Xie"
+        ],
+        "published": "2026-09-12",
+        "updated": "2026-09-12",
+        "url": "https://arxiv.org/abs/2609.13911",
+        "pdf_url": "https://arxiv.org/pdf/2609.13911",
+        "code_url": null,
+        "code_source": null
+      },
+      "2609.13498": {
+        "title": "Building a Production Greek-English Speech Recognizer",
+        "authors": [
+          "Christos Petrocheilos",
+          "Cleopatra Papadopoulou",
+          "Chris Porikis",
+          "Ioakeim Perros",
+          "Ayoub Kirouane",
+          "Themistoklis Nikolis"
+        ],
+        "published": "2026-09-11",
+        "updated": "2026-09-11",
+        "url": "https://arxiv.org/abs/2609.13498",
+        "pdf_url": "https://arxiv.org/pdf/2609.13498",
+        "code_url": null,
+        "code_source": null
+      },
+      "2609.13046": {
+        "title": "Objective Intelligibility Prediction Using Distance Metrics on Speech Foundation Model Representations",
+        "authors": [
+          "Lyonel Behringer",
+          "Andreas Brendel"
+        ],
+        "published": "2026-09-11",
+        "updated": "2026-09-11",
+        "url": "https://arxiv.org/abs/2609.13046",
+        "pdf_url": "https://arxiv.org/pdf/2609.13046",
+        "code_url": null,
+        "code_source": null
+      },
+      "2609.12469": {
+        "title": "Not All Speech Is Intent: Adaptive Self-Correcting Inference Layer for Post-ASR False Wake-Up",
+        "authors": [
+          "Preeti Saraswat",
+          "Divya Neelagiri",
+          "Anil Yadav"
+        ],
+        "published": "2026-09-11",
+        "updated": "2026-09-11",
+        "url": "https://arxiv.org/abs/2609.12469",
+        "pdf_url": "https://arxiv.org/pdf/2609.12469",
+        "code_url": null,
+        "code_source": null
+      },
+      "2609.12341": {
+        "title": "I Am No One: Style-Aware Paraphrasing for Text Anonymization",
+        "authors": [
+          "Ahmed Sohair Khan",
+          "Estrid He",
+          "Monica Wachowicz",
+          "Elham Naghizade"
+        ],
+        "published": "2026-09-11",
+        "updated": "2026-09-11",
+        "url": "https://arxiv.org/abs/2609.12341",
+        "pdf_url": "https://arxiv.org/pdf/2609.12341",
+        "code_url": null,
+        "code_source": null
+      },
+      "2609.12122": {
+        "title": "Quantifying Consonant Contributions to Word Intelligibility via Acoustic Masking",
+        "authors": [
+          "Eunjung Yeo",
+          "Kwanghee Choi",
+          "Krupaben Kothadia",
+          "Visar Berisha",
+          "Julie M. Liss",
+          "David R. Mortensen",
+          "David Harwath"
+        ],
+        "published": "2026-09-10",
+        "updated": "2026-09-10",
+        "url": "https://arxiv.org/abs/2609.12122",
+        "pdf_url": "https://arxiv.org/pdf/2609.12122",
+        "code_url": null,
+        "code_source": null
+      },
+      "2609.12085": {
+        "title": "What Counts as a Mistake? Annotating Recitation Events in Quran Memorization Transcripts",
+        "authors": [
+          "Mohamad Al Mdfaa",
+          "Nursultan Askarbekuly",
+          "Ahmed Helaly",
+          "Ubai Sandouk",
+          "Manuel Mazzara"
+        ],
+        "published": "2026-09-10",
+        "updated": "2026-09-10",
+        "url": "https://arxiv.org/abs/2609.12085",
+        "pdf_url": "https://arxiv.org/pdf/2609.12085",
+        "code_url": null,
+        "code_source": null
+      },
+      "2609.11864": {
+        "title": "RetroThinker: Enabling Retrospective Thinking in Speech LLMs",
+        "authors": [
+          "Yi-Jen Shih",
+          "Puyuan Peng",
+          "Abdelrahman Mohamed",
+          "David Harwath"
+        ],
+        "published": "2026-09-10",
+        "updated": "2026-09-10",
+        "url": "https://arxiv.org/abs/2609.11864",
+        "pdf_url": "https://arxiv.org/pdf/2609.11864",
+        "code_url": null,
+        "code_source": null
+      },
+      "2609.11786": {
+        "title": "Beyond Word Error Rate: A Switch Aware Evaluation of ASR and Audio Language Models on English Yoruba Code-Switched Speech",
+        "authors": [
+          "Chibuzor Okocha",
+          "Christan Earl Grant"
+        ],
+        "published": "2026-09-10",
+        "updated": "2026-09-10",
+        "url": "https://arxiv.org/abs/2609.11786",
+        "pdf_url": "https://arxiv.org/pdf/2609.11786",
+        "code_url": null,
+        "code_source": null
+      },
+      "2609.11772": {
+        "title": "Whisper-Based Speech Transcription from Videos Across Multiple Languages for Cross-Cultural Understanding",
+        "authors": [
+          "Michael Picheny"
+        ],
+        "published": "2026-09-10",
+        "updated": "2026-09-10",
+        "url": "https://arxiv.org/abs/2609.11772",
+        "pdf_url": "https://arxiv.org/pdf/2609.11772",
+        "code_url": null,
+        "code_source": null
+      },
+      "2609.11724": {
+        "title": "The Eloquence submission for Task 2 of the Interspeech 2026 MLC-SLM challenge",
+        "authors": [
+          "Jordi Luque",
+          "Lorenzo Concina",
+          "Marco Matassoni",
+          "Alessio Brutti",
+          "Filippo Vella"
+        ],
+        "published": "2026-09-10",
+        "updated": "2026-09-10",
+        "url": "https://arxiv.org/abs/2609.11724",
+        "pdf_url": "https://arxiv.org/pdf/2609.11724",
+        "code_url": null,
+        "code_source": null
+      },
+      "2609.11412": {
+        "title": "X-AuT: Progressive Audio-Encoder Compression for Speech LLMs with Cross-Scale Distillation",
+        "authors": [
+          "Haojun Zhang",
+          "Yi Zou",
+          "Min Chen",
+          "Qize Yu",
+          "Lianrui Fan",
+          "Xini Ding",
+          "Hao Li",
+          "Shuchang Zhou",
+          "Xianming Liu",
+          "Shiyu Huang"
+        ],
+        "published": "2026-09-10",
+        "updated": "2026-09-10",
+        "url": "https://arxiv.org/abs/2609.11412",
+        "pdf_url": "https://arxiv.org/pdf/2609.11412",
+        "code_url": null,
+        "code_source": null
+      },
+      "2609.11355": {
+        "title": "SEAR: Segment-Evidence-Aware Routing for Weak-to-Strong Multilingual Speech MCQ",
+        "authors": [
+          "Huy Hoang Le",
+          "Long-Bao Nguyen",
+          "Minh Tri Dao"
+        ],
+        "published": "2026-09-10",
+        "updated": "2026-09-10",
+        "url": "https://arxiv.org/abs/2609.11355",
+        "pdf_url": "https://arxiv.org/pdf/2609.11355",
+        "code_url": null,
+        "code_source": null
+      },
+      "2609.11302": {
+        "title": "Automatic Lyric Transcription for Greek Songs: Scaling and Task Composition Effects in Whisper Adaptation",
+        "authors": [
+          "Maria Frangiadaki",
+          "Dimitrios Damianos",
+          "Kosmas Kritsis",
+          "Vassilis Katsouros"
+        ],
+        "published": "2026-09-10",
+        "updated": "2026-09-10",
+        "url": "https://arxiv.org/abs/2609.11302",
+        "pdf_url": "https://arxiv.org/pdf/2609.11302",
+        "code_url": null,
+        "code_source": null
+      },
+      "2609.11274": {
+        "title": "Xiaomi-CocktailASR-1 Technical Report",
+        "authors": [
+          "Yiru Zhang",
+          "Hang Su",
+          "Lichun Fan",
+          "Ying Zeng",
+          "Chang Liu",
+          "Yifeng Wang",
+          "Yuquan Liang",
+          "Tao Li",
+          "Lian Li",
+          "Wenhao Yang",
+          "Jian Luan",
+          "Cong Zou",
+          "Heng Qu"
+        ],
+        "published": "2026-09-10",
+        "updated": "2026-09-10",
+        "url": "https://arxiv.org/abs/2609.11274",
+        "pdf_url": "https://arxiv.org/pdf/2609.11274",
+        "code_url": null,
+        "code_source": null
+      },
+      "2609.11092": {
+        "title": "Downstream-Task-Aware Unified Source Separation",
+        "authors": [
+          "Yoshiki Mitsui",
+          "Ryo Aihara",
+          "Tatsuhiko Saito",
+          "Yoshiki Masuyama",
+          "Christoph Boeddeker",
+          "Julius Richter",
+          "Gordon Wichern",
+          "Jonathan Le Roux"
+        ],
+        "published": "2026-09-10",
+        "updated": "2026-09-10",
+        "url": "https://arxiv.org/abs/2609.11092",
+        "pdf_url": "https://arxiv.org/pdf/2609.11092",
+        "code_url": null,
+        "code_source": null
+      },
+      "2609.10434": {
+        "title": "Do speech foundation models really learn words?",
+        "authors": [
+          "Robin Huo",
+          "Ewan Dunbar"
+        ],
+        "published": "2026-09-09",
+        "updated": "2026-09-09",
+        "url": "https://arxiv.org/abs/2609.10434",
+        "pdf_url": "https://arxiv.org/pdf/2609.10434",
+        "code_url": null,
+        "code_source": null
+      },
+      "2609.10394": {
+        "title": "Candor-LR: A Dyadic Conversational Dataset for Audio-Visual Speech Recognition",
+        "authors": [
+          "Rishabh Jain",
+          "Aristeidis Papadopoulos",
+          "Zhaofeng Lin",
+          "Naomi Harte"
+        ],
+        "published": "2026-09-09",
+        "updated": "2026-09-09",
+        "url": "https://arxiv.org/abs/2609.10394",
+        "pdf_url": "https://arxiv.org/pdf/2609.10394",
+        "code_url": null,
+        "code_source": null
+      },
+      "2609.10265": {
+        "title": "Pushing the Boundaries of Streaming Multi-Speaker ASR: A Systematic Study of Architectural Trade-offs",
+        "authors": [
+          "Taejin Park",
+          "Ivan Medennikov",
+          "Kunal Dhawan",
+          "Weiqing Wang",
+          "Jagadeesh Balam",
+          "Boris Ginsburg"
+        ],
+        "published": "2026-09-09",
+        "updated": "2026-09-09",
+        "url": "https://arxiv.org/abs/2609.10265",
+        "pdf_url": "https://arxiv.org/pdf/2609.10265",
+        "code_url": null,
+        "code_source": null
+      },
+      "2609.10058": {
+        "title": "NOPE-HYPE: A Structured Simulation Workflow for Robust Speech-to-Text Across Diverse Acoustic Environments",
+        "authors": [
+          "Niramay M. Patel",
+          "Bibek Behera",
+          "Raksha Sharma"
+        ],
+        "published": "2026-09-09",
+        "updated": "2026-09-09",
+        "url": "https://arxiv.org/abs/2609.10058",
+        "pdf_url": "https://arxiv.org/pdf/2609.10058",
+        "code_url": null,
+        "code_source": null
+      },
+      "2609.10022": {
+        "title": "Deterministic Prompting for Speaker-Stable Low-Resource Greek TTS",
+        "authors": [
+          "Georgios Syllas",
+          "Efthymios Georgiou",
+          "Kosmas Kritsis",
+          "Alexandros Potamianos"
+        ],
+        "published": "2026-09-09",
+        "updated": "2026-09-09",
+        "url": "https://arxiv.org/abs/2609.10022",
+        "pdf_url": "https://arxiv.org/pdf/2609.10022",
+        "code_url": null,
+        "code_source": null
+      },
+      "2609.09965": {
+        "title": "Over-Tightening-Aware Pseudo-Labeling for Tight-Boundary Speaker Diarization",
+        "authors": [
+          "Shota Horiguchi",
+          "Takanori Ashihara",
+          "Marc Delcroix",
+          "Naohiro Tawara",
+          "Alexis Plaquet"
+        ],
+        "published": "2026-09-09",
+        "updated": "2026-09-09",
+        "url": "https://arxiv.org/abs/2609.09965",
+        "pdf_url": "https://arxiv.org/pdf/2609.09965",
+        "code_url": null,
+        "code_source": null
+      },
+      "2609.09929": {
+        "title": "Source-Adaptive Data Curation for Bilingual NVV-Aware ASR",
+        "authors": [
+          "Yuang Cao",
+          "Qirui Zhan",
+          "Jingbin Hu",
+          "Ziyu Zhang",
+          "Yunxiang Chen",
+          "Houdun Liu",
+          "Shuo Feng",
+          "Bengu Wu",
+          "Lei Xie",
+          "Liumeng Xue"
+        ],
+        "published": "2026-09-09",
+        "updated": "2026-09-09",
+        "url": "https://arxiv.org/abs/2609.09929",
+        "pdf_url": "https://arxiv.org/pdf/2609.09929",
+        "code_url": null,
+        "code_source": null
+      },
+      "2609.09889": {
+        "title": "Leveraging Fine-grained Error Correction in Korean Speech Recognition for Consultation Services",
+        "authors": [
+          "Yonghyun Jun",
+          "Jimin Lee",
+          "Hwan Chang",
+          "Dongho Shin",
+          "Seolah Kim",
+          "Hwanhee Lee"
+        ],
+        "published": "2026-09-09",
+        "updated": "2026-09-09",
+        "url": "https://arxiv.org/abs/2609.09889",
+        "pdf_url": "https://arxiv.org/pdf/2609.09889",
+        "code_url": null,
+        "code_source": null
+      },
+      "2609.09852": {
+        "title": "$S^3$-Bench: Evaluating Speech Interaction Models as Scientific Voice Assistants",
+        "authors": [
+          "Heyang Liu",
+          "Jiayi Huang",
+          "Wenyang Xiao",
+          "Ziyang Cheng",
+          "Lixin Zhang",
+          "Zhen Liu",
+          "Miao He",
+          "Ronghua Wu",
+          "Qunshan Gu",
+          "Yanfeng Wang",
+          "Yu Wang"
+        ],
+        "published": "2026-09-09",
+        "updated": "2026-09-09",
+        "url": "https://arxiv.org/abs/2609.09852",
+        "pdf_url": "https://arxiv.org/pdf/2609.09852",
+        "code_url": null,
+        "code_source": null
+      },
+      "2609.09719": {
+        "title": "StreamAlign: Streaming Text-Aligned Speech Tokenization",
+        "authors": [
+          "Kang-wook Kim",
+          "Jinyoung Park",
+          "Jinsoo Kim",
+          "Sehun Lee",
+          "Sang Hoon Woo",
+          "Gunhee Kim"
+        ],
+        "published": "2026-09-09",
+        "updated": "2026-09-09",
+        "url": "https://arxiv.org/abs/2609.09719",
+        "pdf_url": "https://arxiv.org/pdf/2609.09719",
+        "code_url": null,
+        "code_source": null
+      }
+    }
   }
 }
