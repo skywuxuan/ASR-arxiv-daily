@@ -1,5 +1,5 @@
 {
-  "last_fetched": "2026-09-17T09:28:00+00:00",
+  "last_fetched": "2026-09-17T16:34:44+00:00",
   "topics": {
     "ASR": {
       "2609.18748": {
@@ -100,9 +100,9 @@
         "updated": "2026-09-16",
         "url": "https://arxiv.org/abs/2609.18333",
         "pdf_url": "https://arxiv.org/pdf/2609.18333",
-        "code_url": null,
-        "code_source": null,
-        "code_checked_at": "2026-09-17T09:28:10+00:00"
+        "code_url": "https://github.com/arxivsub/arXivSub_daily_arxiv",
+        "code_source": "github_search",
+        "code_checked_at": "2026-09-17T16:34:44+00:00"
       },
       "2609.18194": {
         "title": "T-SANDHI: Tone Sandhi-aware Adaptive Network with Decoupled Hybrid Injection for Low-resource Taiwanese Hokkien Speech Recognition",
@@ -156,9 +156,9 @@
         "updated": "2026-09-15",
         "url": "https://arxiv.org/abs/2609.16855",
         "pdf_url": "https://arxiv.org/pdf/2609.16855",
-        "code_url": null,
-        "code_source": null,
-        "code_checked_at": "2026-09-17T09:28:17+00:00"
+        "code_url": "https://github.com/skywuxuan/ASR-arxiv-daily",
+        "code_source": "github_search",
+        "code_checked_at": "2026-09-17T16:34:46+00:00"
       },
       "2609.16614": {
         "title": "RoleBreak: Benchmarking Long-Horizon Role-Playing Robustness in Spoken Dialogue",
@@ -197,8 +197,9 @@
         "updated": "2026-09-14",
         "url": "https://arxiv.org/abs/2609.15759",
         "pdf_url": "https://arxiv.org/pdf/2609.15759",
-        "code_url": null,
-        "code_source": null
+        "code_url": "https://github.com/InsomaniacElf/sg-tamil-tts-resources",
+        "code_source": "github_search",
+        "code_checked_at": "2026-09-17T16:34:48+00:00"
       },
       "2609.15758": {
         "title": "Sequential Adapter Stacking for Cross-Lingual Low-Resource ASR",
@@ -211,8 +212,9 @@
         "updated": "2026-09-14",
         "url": "https://arxiv.org/abs/2609.15758",
         "pdf_url": "https://arxiv.org/pdf/2609.15758",
-        "code_url": null,
-        "code_source": null
+        "code_url": "https://github.com/InsomaniacElf/sg-tamil-tts-resources",
+        "code_source": "github_search",
+        "code_checked_at": "2026-09-17T16:34:51+00:00"
       },
       "2609.15743": {
         "title": "Merging the Knowledge of LLMs for Automatic Speech Recognition",
@@ -224,8 +226,9 @@
         "updated": "2026-09-14",
         "url": "https://arxiv.org/abs/2609.15743",
         "pdf_url": "https://arxiv.org/pdf/2609.15743",
-        "code_url": null,
-        "code_source": null
+        "code_url": "https://github.com/skywuxuan/ASR-arxiv-daily",
+        "code_source": "github_search",
+        "code_checked_at": "2026-09-17T16:34:53+00:00"
       },
       "2609.15313": {
         "title": "Reducing the Output-Mode Gap in Speech Language Models via Joint-Output On-Policy Distillation",
@@ -240,8 +243,9 @@
         "updated": "2026-09-14",
         "url": "https://arxiv.org/abs/2609.15313",
         "pdf_url": "https://arxiv.org/pdf/2609.15313",
-        "code_url": null,
-        "code_source": null
+        "code_url": "https://github.com/liutaocode/TTS-arxiv-daily",
+        "code_source": "github_search",
+        "code_checked_at": "2026-09-17T16:34:55+00:00"
       },
       "2609.15218": {
         "title": "Word Timestamps and Speaker Attribution with a Non-Autoregressive LLM",
@@ -256,8 +260,9 @@
         "updated": "2026-09-14",
         "url": "https://arxiv.org/abs/2609.15218",
         "pdf_url": "https://arxiv.org/pdf/2609.15218",
-        "code_url": null,
-        "code_source": null
+        "code_url": "https://github.com/skywuxuan/ASR-arxiv-daily",
+        "code_source": "github_search",
+        "code_checked_at": "2026-09-17T16:34:57+00:00"
       },
       "2609.14991": {
         "title": "Typhoon ASR Streaming: Steerable Low-Latency Thai Speech Recognition with Real-Time Shallow Fusion",
@@ -272,8 +277,9 @@
         "updated": "2026-09-14",
         "url": "https://arxiv.org/abs/2609.14991",
         "pdf_url": "https://arxiv.org/pdf/2609.14991",
-        "code_url": null,
-        "code_source": null
+        "code_url": "https://github.com/skywuxuan/ASR-arxiv-daily",
+        "code_source": "github_search",
+        "code_checked_at": "2026-09-17T16:34:59+00:00"
       },
       "2609.14967": {
         "title": "A Corpus-Aligned Uthmani-to-Standard Quranic Word Mapping and a Deterministic Recitation Validator",
@@ -298,8 +304,9 @@
         "updated": "2026-09-13",
         "url": "https://arxiv.org/abs/2609.14817",
         "pdf_url": "https://arxiv.org/pdf/2609.14817",
-        "code_url": null,
-        "code_source": null
+        "code_url": "https://github.com/liutaocode/TTS-arxiv-daily",
+        "code_source": "github_search",
+        "code_checked_at": "2026-09-17T16:35:01+00:00"
       },
       "2609.14743": {
         "title": "Quantifying the Generation Modality Gap in Speech-Text Language Models",
@@ -312,8 +319,9 @@
         "updated": "2026-09-13",
         "url": "https://arxiv.org/abs/2609.14743",
         "pdf_url": "https://arxiv.org/pdf/2609.14743",
-        "code_url": null,
-        "code_source": null
+        "code_url": "https://github.com/liutaocode/TTS-arxiv-daily",
+        "code_source": "github_search",
+        "code_checked_at": "2026-09-17T16:35:03+00:00"
       },
       "2609.14740": {
         "title": "Bridging Data, Reasoning, and Alignment: A Unified Framework for Context-Aware Instruction-Following TTS",
