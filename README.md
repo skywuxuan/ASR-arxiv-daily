@@ -4,7 +4,7 @@
 
 [使用与部署说明](./docs/README.md#usage)
 
-> 最近成功抓取：2026-09-17T16:34:44+00:00（UTC）
+> 最近成功抓取：2026-09-18T03:57:04+00:00（UTC）
 
 每 12 小时检索一次，按首次提交日期倒序排列，历史论文会持续保留。
 
@@ -14,7 +14,17 @@
 
 | 首次提交 | 更新日期 | 标题 | 作者 | arXiv | PDF | 代码 |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-09-16 | 2026-09-16 | TeleAntiFraud 2.0: A Refreshable, Profile-Grounded, and Audio-Based Benchmark for Telecom Fraud Detection | Huiyuan Liu et al. | [2609.18748](https://arxiv.org/abs/2609.18748) | [PDF](https://arxiv.org/pdf/2609.18748) | [候选仓库](https://github.com/InsomaniacElf/sg-tamil-tts-resources) |
+| 2026-09-17 | 2026-09-17 | Model-Agnostic and Language-Agnostic Voice Pipeline Improvement for the Agriculture Domain | Aakash Singh et al. | [2609.20504](https://arxiv.org/abs/2609.20504) | [PDF](https://arxiv.org/pdf/2609.20504) | [候选仓库](https://github.com/getquoteonline/Buy-Best-Online-Products-NSN-Aviation-Electronics-Parts-Distributor-USA) |
+| 2026-09-17 | 2026-09-17 | Alignment-Path Distillation from Non-streaming ASR-LLMs for Streaming Speech Recognition | Yan Jia et al. | [2609.20121](https://arxiv.org/abs/2609.20121) | [PDF](https://arxiv.org/pdf/2609.20121) | — |
+| 2026-09-17 | 2026-09-17 | Design of the IBM Granite 5.0 TurboCTC ASR Model | Brian Kingsbury et al. | [2609.20104](https://arxiv.org/abs/2609.20104) | [PDF](https://arxiv.org/pdf/2609.20104) | — |
+| 2026-09-17 | 2026-09-17 | Reading Emotions in the Token Space: Discriminative Adaptation of SpeechLLMs for Emotion Recognition | Hasindri Watawana et al. | [2609.20081](https://arxiv.org/abs/2609.20081) | [PDF](https://arxiv.org/pdf/2609.20081) | — |
+| 2026-09-17 | 2026-09-17 | VākQA: A Benchmark and Evaluation Study for Telugu Spoken Factoid Question Answering | Bhavana Akkiraju et al. | [2609.19879](https://arxiv.org/abs/2609.19879) | [PDF](https://arxiv.org/pdf/2609.19879) | — |
+| 2026-09-17 | 2026-09-17 | Dictionary-Constrained Grapheme-to-Phoneme for Unsegmented Languages from LLM-Annotated Data | Rui Hu et al. | [2609.19805](https://arxiv.org/abs/2609.19805) | [PDF](https://arxiv.org/pdf/2609.19805) | [候选仓库](https://github.com/liutaocode/TTS-arxiv-daily) |
+| 2026-09-17 | 2026-09-17 | Multimodal Conversational Context for LLM-Based ASR: Data Construction, Training, and Benchmark | Longhao Li et al. | [2609.19765](https://arxiv.org/abs/2609.19765) | [PDF](https://arxiv.org/pdf/2609.19765) | [论文链接](https://github.com/llh666521/MM-ContextASR) |
+| 2026-09-16 | 2026-09-16 | A frontend-backend architecture for tool calls in full-duplex speech models | Ke Hu et al. | [2609.19334](https://arxiv.org/abs/2609.19334) | [PDF](https://arxiv.org/pdf/2609.19334) | — |
+| 2026-09-16 | 2026-09-16 | PersianVox: A Prosody-Aware Approach for Speech Dataset Generation from In-the-Wild Data | Saeedreza Zouashkiani et al. | [2609.19324](https://arxiv.org/abs/2609.19324) | [PDF](https://arxiv.org/pdf/2609.19324) | [候选仓库](https://github.com/liutaocode/TTS-arxiv-daily) |
+| 2026-09-16 | 2026-09-16 | Decaf: A privacy preserving speech codec using speaker disentanglement and canonical voice conversion | Md Shakhrul Iman Siam et al. | [2609.19304](https://arxiv.org/abs/2609.19304) | [PDF](https://arxiv.org/pdf/2609.19304) | — |
+| 2026-09-16 | 2026-09-17 | TeleAntiFraud 2.0: A Refreshable, Profile-Grounded, and Audio-Based Benchmark for Telecom Fraud Detection | Huiyuan Liu et al. | [2609.18748](https://arxiv.org/abs/2609.18748) | [PDF](https://arxiv.org/pdf/2609.18748) | [候选仓库](https://github.com/InsomaniacElf/sg-tamil-tts-resources) |
 | 2026-09-16 | 2026-09-16 | Multi-Teacher Distillation for Cross-Domain Streaming Electrolaryngeal Speech Encoding | Benedikt Mayrhofer et al. | [2609.18686](https://arxiv.org/abs/2609.18686) | [PDF](https://arxiv.org/pdf/2609.18686) | [候选仓库](https://github.com/InsomaniacElf/sg-tamil-tts-resources) |
 | 2026-09-16 | 2026-09-16 | HearInContext: A Benchmark for Implicit Context in Speech Recognition | Yifan Gao et al. | [2609.18680](https://arxiv.org/abs/2609.18680) | [PDF](https://arxiv.org/pdf/2609.18680) | [候选仓库](https://github.com/InsomaniacElf/sg-tamil-tts-resources) |
 | 2026-09-16 | 2026-09-16 | A Probe Shift Is Not a Fairness Fix: The Limits of Representation Steering in Speech Models | Nicolas Bourrel et al. | [2609.18533](https://arxiv.org/abs/2609.18533) | [PDF](https://arxiv.org/pdf/2609.18533) | [候选仓库](https://github.com/Tavish9/awesome-daily-AI-arxiv) |
@@ -33,7 +43,7 @@
 | 2026-09-14 | 2026-09-14 | A Corpus-Aligned Uthmani-to-Standard Quranic Word Mapping and a Deterministic Recitation Validator | Yahya Mohamed Elnawasany | [2609.14967](https://arxiv.org/abs/2609.14967) | [PDF](https://arxiv.org/pdf/2609.14967) | [论文链接](https://github.com/NightPrinceY/muslim-quran-validator) |
 | 2026-09-13 | 2026-09-13 | Tone on a Budget: A Reference-Free Metric for Lexical Tone in Massively Multilingual Text-to-Speech | Moses Daudu et al. | [2609.14817](https://arxiv.org/abs/2609.14817) | [PDF](https://arxiv.org/pdf/2609.14817) | [候选仓库](https://github.com/liutaocode/TTS-arxiv-daily) |
 | 2026-09-13 | 2026-09-13 | Quantifying the Generation Modality Gap in Speech-Text Language Models | Ju-Chieh Chou et al. | [2609.14743](https://arxiv.org/abs/2609.14743) | [PDF](https://arxiv.org/pdf/2609.14743) | [候选仓库](https://github.com/liutaocode/TTS-arxiv-daily) |
-| 2026-09-13 | 2026-09-13 | Bridging Data, Reasoning, and Alignment: A Unified Framework for Context-Aware Instruction-Following TTS | Jingbin Hu et al. | [2609.14740](https://arxiv.org/abs/2609.14740) | [PDF](https://arxiv.org/pdf/2609.14740) | — |
+| 2026-09-13 | 2026-09-13 | Bridging Data, Reasoning, and Alignment: A Unified Framework for Context-Aware Instruction-Following TTS | Jingbin Hu et al. | [2609.14740](https://arxiv.org/abs/2609.14740) | [PDF](https://arxiv.org/pdf/2609.14740) | [候选仓库](https://github.com/iszhanjiawei/TTS_arxiv_daily) |
 | 2026-09-13 | 2026-09-13 | Neyshekar: An Open Persian Read-Speech Corpus for Automatic Speech Recognition | Ahmad Amirivojdan et al. | [2609.14542](https://arxiv.org/abs/2609.14542) | [PDF](https://arxiv.org/pdf/2609.14542) | [论文链接](https://github.com/amirivojdan/neyshekar) |
 | 2026-09-13 | 2026-09-13 | Bridging the Modality Gap in Long-Form Clinical Audio: A Comparative Study of Lightweight and Heavyweight End-to-End SOAP Generation | Ziyu Zhang et al. | [2609.14467](https://arxiv.org/abs/2609.14467) | [PDF](https://arxiv.org/pdf/2609.14467) | — |
 | 2026-09-13 | 2026-09-13 | Grounded in Sound: Reinforcement Learning with a Frozen Acoustic Judge to Curb ASR Insertion Hallucinations | Tingzhen Xiong et al. | [2609.14455](https://arxiv.org/abs/2609.14455) | [PDF](https://arxiv.org/pdf/2609.14455) | — |

@@ -1,5 +1,5 @@
 {
-  "last_fetched": "2026-09-17T16:34:44+00:00",
+  "last_fetched": "2026-09-18T03:57:04+00:00",
   "topics": {
     "ASR": {
       "2609.18748": {
@@ -21,7 +21,7 @@
           "Peng Chen"
         ],
         "published": "2026-09-16",
-        "updated": "2026-09-16",
+        "updated": "2026-09-17",
         "url": "https://arxiv.org/abs/2609.18748",
         "pdf_url": "https://arxiv.org/pdf/2609.18748",
         "code_url": "https://github.com/InsomaniacElf/sg-tamil-tts-resources",
@@ -341,8 +341,9 @@
         "updated": "2026-09-13",
         "url": "https://arxiv.org/abs/2609.14740",
         "pdf_url": "https://arxiv.org/pdf/2609.14740",
-        "code_url": null,
-        "code_source": null
+        "code_url": "https://github.com/iszhanjiawei/TTS_arxiv_daily",
+        "code_source": "github_search",
+        "code_checked_at": "2026-09-18T03:57:23+00:00"
       },
       "2609.14542": {
         "title": "Neyshekar: An Open Persian Read-Speech Corpus for Automatic Speech Recognition",
@@ -833,6 +834,190 @@
         "pdf_url": "https://arxiv.org/pdf/2609.09719",
         "code_url": null,
         "code_source": null
+      },
+      "2609.20504": {
+        "title": "Model-Agnostic and Language-Agnostic Voice Pipeline Improvement for the Agriculture Domain",
+        "authors": [
+          "Aakash Singh",
+          "Lakshmi Pedapudi",
+          "Chandrashekar M S",
+          "Sanyam Singh",
+          "Naga Ganesh",
+          "Vineet Singh"
+        ],
+        "published": "2026-09-17",
+        "updated": "2026-09-17",
+        "url": "https://arxiv.org/abs/2609.20504",
+        "pdf_url": "https://arxiv.org/pdf/2609.20504",
+        "code_url": "https://github.com/getquoteonline/Buy-Best-Online-Products-NSN-Aviation-Electronics-Parts-Distributor-USA",
+        "code_source": "github_search",
+        "code_checked_at": "2026-09-18T03:57:04+00:00"
+      },
+      "2609.20121": {
+        "title": "Alignment-Path Distillation from Non-streaming ASR-LLMs for Streaming Speech Recognition",
+        "authors": [
+          "Yan Jia",
+          "Kai Huang",
+          "Junjie Chen",
+          "Feng-Long Xie",
+          "Xu Tang",
+          "Yao Hu"
+        ],
+        "published": "2026-09-17",
+        "updated": "2026-09-17",
+        "url": "https://arxiv.org/abs/2609.20121",
+        "pdf_url": "https://arxiv.org/pdf/2609.20121",
+        "code_url": null,
+        "code_source": null,
+        "code_checked_at": "2026-09-18T03:57:06+00:00"
+      },
+      "2609.20104": {
+        "title": "Design of the IBM Granite 5.0 TurboCTC ASR Model",
+        "authors": [
+          "Brian Kingsbury",
+          "George Saon",
+          "Masayuki Suzuki",
+          "Hong-Kwang J. Kuo",
+          "Takashi Fukuda",
+          "Samuel Thomas",
+          "Vishal Sunder",
+          "Avihu Dekel"
+        ],
+        "published": "2026-09-17",
+        "updated": "2026-09-17",
+        "url": "https://arxiv.org/abs/2609.20104",
+        "pdf_url": "https://arxiv.org/pdf/2609.20104",
+        "code_url": null,
+        "code_source": null,
+        "code_checked_at": "2026-09-18T03:57:08+00:00"
+      },
+      "2609.20081": {
+        "title": "Reading Emotions in the Token Space: Discriminative Adaptation of SpeechLLMs for Emotion Recognition",
+        "authors": [
+          "Hasindri Watawana",
+          "Sergio Burdisso",
+          "Esaú Villatoro-Tello",
+          "Manjunath K E",
+          "Kadri Hacioglu",
+          "Petr Motlicek",
+          "Andreas Stolcke"
+        ],
+        "published": "2026-09-17",
+        "updated": "2026-09-17",
+        "url": "https://arxiv.org/abs/2609.20081",
+        "pdf_url": "https://arxiv.org/pdf/2609.20081",
+        "code_url": null,
+        "code_source": null,
+        "code_checked_at": "2026-09-18T03:57:10+00:00"
+      },
+      "2609.19879": {
+        "title": "VākQA: A Benchmark and Evaluation Study for Telugu Spoken Factoid Question Answering",
+        "authors": [
+          "Bhavana Akkiraju",
+          "Ravi Sastry Kolluru",
+          "Sri Charan D",
+          "Srihari Bandarupalli",
+          "Santosh Kesiraju",
+          "Anil Vuppala"
+        ],
+        "published": "2026-09-17",
+        "updated": "2026-09-17",
+        "url": "https://arxiv.org/abs/2609.19879",
+        "pdf_url": "https://arxiv.org/pdf/2609.19879",
+        "code_url": null,
+        "code_source": null,
+        "code_checked_at": "2026-09-18T03:57:12+00:00"
+      },
+      "2609.19805": {
+        "title": "Dictionary-Constrained Grapheme-to-Phoneme for Unsegmented Languages from LLM-Annotated Data",
+        "authors": [
+          "Rui Hu",
+          "Zhenpeng Zhan",
+          "Xiaolong Lin"
+        ],
+        "published": "2026-09-17",
+        "updated": "2026-09-17",
+        "url": "https://arxiv.org/abs/2609.19805",
+        "pdf_url": "https://arxiv.org/pdf/2609.19805",
+        "code_url": "https://github.com/liutaocode/TTS-arxiv-daily",
+        "code_source": "github_search",
+        "code_checked_at": "2026-09-18T03:57:14+00:00"
+      },
+      "2609.19765": {
+        "title": "Multimodal Conversational Context for LLM-Based ASR: Data Construction, Training, and Benchmark",
+        "authors": [
+          "Longhao Li",
+          "Jian Tang",
+          "Yuxiang Kong",
+          "Jie Chen",
+          "Binbin Zhang",
+          "Lei Xie",
+          "Xiangang Li"
+        ],
+        "published": "2026-09-17",
+        "updated": "2026-09-17",
+        "url": "https://arxiv.org/abs/2609.19765",
+        "pdf_url": "https://arxiv.org/pdf/2609.19765",
+        "code_url": "https://github.com/llh666521/MM-ContextASR",
+        "code_source": "paper"
+      },
+      "2609.19334": {
+        "title": "A frontend-backend architecture for tool calls in full-duplex speech models",
+        "authors": [
+          "Ke Hu",
+          "Slyne Deng",
+          "Chen Chen",
+          "Elena Rastorgueva",
+          "Edresson Casanova",
+          "Punit Kumar",
+          "Dharmendra Choudhary",
+          "Nikhil Srihari",
+          "Ameya Sunil Mahabaleshwarkar",
+          "Viet Anh Trinh",
+          "Slim Essid",
+          "Oluwatobi Olabiyi",
+          "Zhehuai Chen"
+        ],
+        "published": "2026-09-16",
+        "updated": "2026-09-16",
+        "url": "https://arxiv.org/abs/2609.19334",
+        "pdf_url": "https://arxiv.org/pdf/2609.19334",
+        "code_url": null,
+        "code_source": null,
+        "code_checked_at": "2026-09-18T03:57:16+00:00"
+      },
+      "2609.19324": {
+        "title": "PersianVox: A Prosody-Aware Approach for Speech Dataset Generation from In-the-Wild Data",
+        "authors": [
+          "Saeedreza Zouashkiani",
+          "Soheil Khalesi",
+          "Saman Soleimani Roudi",
+          "Sajjad Amini",
+          "Shahrokh Ghaemmaghami"
+        ],
+        "published": "2026-09-16",
+        "updated": "2026-09-16",
+        "url": "https://arxiv.org/abs/2609.19324",
+        "pdf_url": "https://arxiv.org/pdf/2609.19324",
+        "code_url": "https://github.com/liutaocode/TTS-arxiv-daily",
+        "code_source": "github_search",
+        "code_checked_at": "2026-09-18T03:57:19+00:00"
+      },
+      "2609.19304": {
+        "title": "Decaf: A privacy preserving speech codec using speaker disentanglement and canonical voice conversion",
+        "authors": [
+          "Md Shakhrul Iman Siam",
+          "Dushyant Sharma",
+          "Stanislav Yu. Kruchinin",
+          "Peter Skala"
+        ],
+        "published": "2026-09-16",
+        "updated": "2026-09-16",
+        "url": "https://arxiv.org/abs/2609.19304",
+        "pdf_url": "https://arxiv.org/pdf/2609.19304",
+        "code_url": null,
+        "code_source": null,
+        "code_checked_at": "2026-09-18T03:57:21+00:00"
       }
     }
   }
