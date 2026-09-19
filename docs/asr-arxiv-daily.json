@@ -1,5 +1,5 @@
 {
-  "last_fetched": "2026-09-19T03:54:04+00:00",
+  "last_fetched": "2026-09-19T15:38:44+00:00",
   "topics": {
     "ASR": {
       "2609.18748": {
@@ -607,8 +607,9 @@
         "updated": "2026-09-10",
         "url": "https://arxiv.org/abs/2609.11412",
         "pdf_url": "https://arxiv.org/pdf/2609.11412",
-        "code_url": null,
-        "code_source": null
+        "code_url": "https://github.com/XPENG-AI/X-AuT",
+        "code_source": "github_search",
+        "code_checked_at": "2026-09-19T15:38:45+00:00"
       },
       "2609.11355": {
         "title": "SEAR: Segment-Evidence-Aware Routing for Weak-to-Strong Multilingual Speech MCQ",
@@ -621,8 +622,9 @@
         "updated": "2026-09-10",
         "url": "https://arxiv.org/abs/2609.11355",
         "pdf_url": "https://arxiv.org/pdf/2609.11355",
-        "code_url": null,
-        "code_source": null
+        "code_url": "https://github.com/exopoiesis/arxiv-radar-chemistry",
+        "code_source": "github_search",
+        "code_checked_at": "2026-09-19T15:38:47+00:00"
       },
       "2609.11302": {
         "title": "Automatic Lyric Transcription for Greek Songs: Scaling and Task Composition Effects in Whisper Adaptation",
@@ -636,8 +638,9 @@
         "updated": "2026-09-10",
         "url": "https://arxiv.org/abs/2609.11302",
         "pdf_url": "https://arxiv.org/pdf/2609.11302",
-        "code_url": null,
-        "code_source": null
+        "code_url": "https://github.com/skywuxuan/ASR-arxiv-daily",
+        "code_source": "github_search",
+        "code_checked_at": "2026-09-19T15:38:49+00:00"
       },
       "2609.11274": {
         "title": "Xiaomi-CocktailASR-1 Technical Report",
@@ -660,8 +663,9 @@
         "updated": "2026-09-10",
         "url": "https://arxiv.org/abs/2609.11274",
         "pdf_url": "https://arxiv.org/pdf/2609.11274",
-        "code_url": null,
-        "code_source": null
+        "code_url": "https://github.com/xiaomi-research/xiaomi-cocktailasr-1",
+        "code_source": "github_search",
+        "code_checked_at": "2026-09-19T15:38:51+00:00"
       },
       "2609.11092": {
         "title": "Downstream-Task-Aware Unified Source Separation",
@@ -679,8 +683,9 @@
         "updated": "2026-09-10",
         "url": "https://arxiv.org/abs/2609.11092",
         "pdf_url": "https://arxiv.org/pdf/2609.11092",
-        "code_url": null,
-        "code_source": null
+        "code_url": "https://github.com/skywuxuan/ASR-arxiv-daily",
+        "code_source": "github_search",
+        "code_checked_at": "2026-09-19T15:38:53+00:00"
       },
       "2609.10434": {
         "title": "Do speech foundation models really learn words?",
@@ -692,8 +697,9 @@
         "updated": "2026-09-09",
         "url": "https://arxiv.org/abs/2609.10434",
         "pdf_url": "https://arxiv.org/pdf/2609.10434",
-        "code_url": null,
-        "code_source": null
+        "code_url": "https://github.com/InsomaniacElf/sg-tamil-tts-resources",
+        "code_source": "github_search",
+        "code_checked_at": "2026-09-19T15:38:55+00:00"
       },
       "2609.10394": {
         "title": "Candor-LR: A Dyadic Conversational Dataset for Audio-Visual Speech Recognition",
@@ -707,8 +713,9 @@
         "updated": "2026-09-09",
         "url": "https://arxiv.org/abs/2609.10394",
         "pdf_url": "https://arxiv.org/pdf/2609.10394",
-        "code_url": null,
-        "code_source": null
+        "code_url": "https://github.com/InsomaniacElf/sg-tamil-tts-resources",
+        "code_source": "github_search",
+        "code_checked_at": "2026-09-19T15:38:57+00:00"
       },
       "2609.10265": {
         "title": "Pushing the Boundaries of Streaming Multi-Speaker ASR: A Systematic Study of Architectural Trade-offs",
@@ -724,8 +731,9 @@
         "updated": "2026-09-09",
         "url": "https://arxiv.org/abs/2609.10265",
         "pdf_url": "https://arxiv.org/pdf/2609.10265",
-        "code_url": null,
-        "code_source": null
+        "code_url": "https://github.com/skywuxuan/ASR-arxiv-daily",
+        "code_source": "github_search",
+        "code_checked_at": "2026-09-19T15:38:59+00:00"
       },
       "2609.10058": {
         "title": "NOPE-HYPE: A Structured Simulation Workflow for Robust Speech-to-Text Across Diverse Acoustic Environments",
@@ -738,8 +746,9 @@
         "updated": "2026-09-09",
         "url": "https://arxiv.org/abs/2609.10058",
         "pdf_url": "https://arxiv.org/pdf/2609.10058",
-        "code_url": null,
-        "code_source": null
+        "code_url": "https://github.com/skywuxuan/ASR-arxiv-daily",
+        "code_source": "github_search",
+        "code_checked_at": "2026-09-19T15:39:01+00:00"
       },
       "2609.10022": {
         "title": "Deterministic Prompting for Speaker-Stable Low-Resource Greek TTS",
@@ -753,8 +762,9 @@
         "updated": "2026-09-09",
         "url": "https://arxiv.org/abs/2609.10022",
         "pdf_url": "https://arxiv.org/pdf/2609.10022",
-        "code_url": null,
-        "code_source": null
+        "code_url": "https://github.com/imxtx/awesome-controllable-speech-synthesis",
+        "code_source": "github_search",
+        "code_checked_at": "2026-09-19T15:39:04+00:00"
       },
       "2609.09965": {
         "title": "Over-Tightening-Aware Pseudo-Labeling for Tight-Boundary Speaker Diarization",

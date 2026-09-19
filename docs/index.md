@@ -8,7 +8,7 @@ layout: default
 
 [使用与部署说明](./README.html#usage)
 
-> 最近成功抓取：2026-09-19T03:54:04+00:00（UTC）
+> 最近成功抓取：2026-09-19T15:38:44+00:00（UTC）
 
 每 12 小时检索一次，按首次提交日期倒序排列，历史论文会持续保留。
 
@@ -63,16 +63,16 @@ layout: default
 | 2026-09-10 | 2026-09-10 | Beyond Word Error Rate: A Switch Aware Evaluation of ASR and Audio Language Models on English Yoruba Code-Switched Speech | Chibuzor Okocha et al. | [2609.11786](https://arxiv.org/abs/2609.11786) | [PDF](https://arxiv.org/pdf/2609.11786) | [候选仓库](https://github.com/InsomaniacElf/sg-tamil-tts-resources) |
 | 2026-09-10 | 2026-09-10 | Whisper-Based Speech Transcription from Videos Across Multiple Languages for Cross-Cultural Understanding | Michael Picheny | [2609.11772](https://arxiv.org/abs/2609.11772) | [PDF](https://arxiv.org/pdf/2609.11772) | [候选仓库](https://github.com/InsomaniacElf/sg-tamil-tts-resources) |
 | 2026-09-10 | 2026-09-10 | The Eloquence submission for Task 2 of the Interspeech 2026 MLC-SLM challenge | Jordi Luque et al. | [2609.11724](https://arxiv.org/abs/2609.11724) | [PDF](https://arxiv.org/pdf/2609.11724) | [候选仓库](https://github.com/InsomaniacElf/sg-tamil-tts-resources) |
-| 2026-09-10 | 2026-09-10 | X-AuT: Progressive Audio-Encoder Compression for Speech LLMs with Cross-Scale Distillation | Haojun Zhang et al. | [2609.11412](https://arxiv.org/abs/2609.11412) | [PDF](https://arxiv.org/pdf/2609.11412) | — |
-| 2026-09-10 | 2026-09-10 | SEAR: Segment-Evidence-Aware Routing for Weak-to-Strong Multilingual Speech MCQ | Huy Hoang Le et al. | [2609.11355](https://arxiv.org/abs/2609.11355) | [PDF](https://arxiv.org/pdf/2609.11355) | — |
-| 2026-09-10 | 2026-09-10 | Automatic Lyric Transcription for Greek Songs: Scaling and Task Composition Effects in Whisper Adaptation | Maria Frangiadaki et al. | [2609.11302](https://arxiv.org/abs/2609.11302) | [PDF](https://arxiv.org/pdf/2609.11302) | — |
-| 2026-09-10 | 2026-09-10 | Xiaomi-CocktailASR-1 Technical Report | Yiru Zhang et al. | [2609.11274](https://arxiv.org/abs/2609.11274) | [PDF](https://arxiv.org/pdf/2609.11274) | — |
-| 2026-09-10 | 2026-09-10 | Downstream-Task-Aware Unified Source Separation | Yoshiki Mitsui et al. | [2609.11092](https://arxiv.org/abs/2609.11092) | [PDF](https://arxiv.org/pdf/2609.11092) | — |
-| 2026-09-09 | 2026-09-09 | Do speech foundation models really learn words? | Robin Huo et al. | [2609.10434](https://arxiv.org/abs/2609.10434) | [PDF](https://arxiv.org/pdf/2609.10434) | — |
-| 2026-09-09 | 2026-09-09 | Candor-LR: A Dyadic Conversational Dataset for Audio-Visual Speech Recognition | Rishabh Jain et al. | [2609.10394](https://arxiv.org/abs/2609.10394) | [PDF](https://arxiv.org/pdf/2609.10394) | — |
-| 2026-09-09 | 2026-09-09 | Pushing the Boundaries of Streaming Multi-Speaker ASR: A Systematic Study of Architectural Trade-offs | Taejin Park et al. | [2609.10265](https://arxiv.org/abs/2609.10265) | [PDF](https://arxiv.org/pdf/2609.10265) | — |
-| 2026-09-09 | 2026-09-09 | NOPE-HYPE: A Structured Simulation Workflow for Robust Speech-to-Text Across Diverse Acoustic Environments | Niramay M. Patel et al. | [2609.10058](https://arxiv.org/abs/2609.10058) | [PDF](https://arxiv.org/pdf/2609.10058) | — |
-| 2026-09-09 | 2026-09-09 | Deterministic Prompting for Speaker-Stable Low-Resource Greek TTS | Georgios Syllas et al. | [2609.10022](https://arxiv.org/abs/2609.10022) | [PDF](https://arxiv.org/pdf/2609.10022) | — |
+| 2026-09-10 | 2026-09-10 | X-AuT: Progressive Audio-Encoder Compression for Speech LLMs with Cross-Scale Distillation | Haojun Zhang et al. | [2609.11412](https://arxiv.org/abs/2609.11412) | [PDF](https://arxiv.org/pdf/2609.11412) | [候选仓库](https://github.com/XPENG-AI/X-AuT) |
+| 2026-09-10 | 2026-09-10 | SEAR: Segment-Evidence-Aware Routing for Weak-to-Strong Multilingual Speech MCQ | Huy Hoang Le et al. | [2609.11355](https://arxiv.org/abs/2609.11355) | [PDF](https://arxiv.org/pdf/2609.11355) | [候选仓库](https://github.com/exopoiesis/arxiv-radar-chemistry) |
+| 2026-09-10 | 2026-09-10 | Automatic Lyric Transcription for Greek Songs: Scaling and Task Composition Effects in Whisper Adaptation | Maria Frangiadaki et al. | [2609.11302](https://arxiv.org/abs/2609.11302) | [PDF](https://arxiv.org/pdf/2609.11302) | [候选仓库](https://github.com/skywuxuan/ASR-arxiv-daily) |
+| 2026-09-10 | 2026-09-10 | Xiaomi-CocktailASR-1 Technical Report | Yiru Zhang et al. | [2609.11274](https://arxiv.org/abs/2609.11274) | [PDF](https://arxiv.org/pdf/2609.11274) | [候选仓库](https://github.com/xiaomi-research/xiaomi-cocktailasr-1) |
+| 2026-09-10 | 2026-09-10 | Downstream-Task-Aware Unified Source Separation | Yoshiki Mitsui et al. | [2609.11092](https://arxiv.org/abs/2609.11092) | [PDF](https://arxiv.org/pdf/2609.11092) | [候选仓库](https://github.com/skywuxuan/ASR-arxiv-daily) |
+| 2026-09-09 | 2026-09-09 | Do speech foundation models really learn words? | Robin Huo et al. | [2609.10434](https://arxiv.org/abs/2609.10434) | [PDF](https://arxiv.org/pdf/2609.10434) | [候选仓库](https://github.com/InsomaniacElf/sg-tamil-tts-resources) |
+| 2026-09-09 | 2026-09-09 | Candor-LR: A Dyadic Conversational Dataset for Audio-Visual Speech Recognition | Rishabh Jain et al. | [2609.10394](https://arxiv.org/abs/2609.10394) | [PDF](https://arxiv.org/pdf/2609.10394) | [候选仓库](https://github.com/InsomaniacElf/sg-tamil-tts-resources) |
+| 2026-09-09 | 2026-09-09 | Pushing the Boundaries of Streaming Multi-Speaker ASR: A Systematic Study of Architectural Trade-offs | Taejin Park et al. | [2609.10265](https://arxiv.org/abs/2609.10265) | [PDF](https://arxiv.org/pdf/2609.10265) | [候选仓库](https://github.com/skywuxuan/ASR-arxiv-daily) |
+| 2026-09-09 | 2026-09-09 | NOPE-HYPE: A Structured Simulation Workflow for Robust Speech-to-Text Across Diverse Acoustic Environments | Niramay M. Patel et al. | [2609.10058](https://arxiv.org/abs/2609.10058) | [PDF](https://arxiv.org/pdf/2609.10058) | [候选仓库](https://github.com/skywuxuan/ASR-arxiv-daily) |
+| 2026-09-09 | 2026-09-09 | Deterministic Prompting for Speaker-Stable Low-Resource Greek TTS | Georgios Syllas et al. | [2609.10022](https://arxiv.org/abs/2609.10022) | [PDF](https://arxiv.org/pdf/2609.10022) | [候选仓库](https://github.com/imxtx/awesome-controllable-speech-synthesis) |
 | 2026-09-09 | 2026-09-09 | Over-Tightening-Aware Pseudo-Labeling for Tight-Boundary Speaker Diarization | Shota Horiguchi et al. | [2609.09965](https://arxiv.org/abs/2609.09965) | [PDF](https://arxiv.org/pdf/2609.09965) | — |
 | 2026-09-09 | 2026-09-09 | Source-Adaptive Data Curation for Bilingual NVV-Aware ASR | Yuang Cao et al. | [2609.09929](https://arxiv.org/abs/2609.09929) | [PDF](https://arxiv.org/pdf/2609.09929) | — |
 | 2026-09-09 | 2026-09-09 | Leveraging Fine-grained Error Correction in Korean Speech Recognition for Consultation Services | Yonghyun Jun et al. | [2609.09889](https://arxiv.org/abs/2609.09889) | [PDF](https://arxiv.org/pdf/2609.09889) | — |
