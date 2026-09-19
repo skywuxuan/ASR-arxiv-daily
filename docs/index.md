@@ -8,7 +8,7 @@ layout: default
 
 [使用与部署说明](./README.html#usage)
 
-> 最近成功抓取：2026-09-18T16:06:15+00:00（UTC）
+> 最近成功抓取：2026-09-19T03:54:04+00:00（UTC）
 
 每 12 小时检索一次，按首次提交日期倒序排列，历史论文会持续保留。
 
@@ -53,16 +53,16 @@ layout: default
 | 2026-09-13 | 2026-09-13 | Grounded in Sound: Reinforcement Learning with a Frozen Acoustic Judge to Curb ASR Insertion Hallucinations | Tingzhen Xiong et al. | [2609.14455](https://arxiv.org/abs/2609.14455) | [PDF](https://arxiv.org/pdf/2609.14455) | [候选仓库](https://github.com/skywuxuan/ASR-arxiv-daily) |
 | 2026-09-12 | 2026-09-12 | A New Transformer-Based Approach for Audio-Based Kinship Verification and a New Uncontrolled Mandarin Kinship Speech Dataset | Qiyang Sun et al. | [2609.14145](https://arxiv.org/abs/2609.14145) | [PDF](https://arxiv.org/pdf/2609.14145) | [候选仓库](https://github.com/skywuxuan/ASR-arxiv-daily) |
 | 2026-09-12 | 2026-09-12 | DualSpecSE: A Dual-Path Speech Enhancement Network Integrating Mel and Complex Spectrograms | Xingchen Li et al. | [2609.13911](https://arxiv.org/abs/2609.13911) | [PDF](https://arxiv.org/pdf/2609.13911) | [候选仓库](https://github.com/skywuxuan/ASR-arxiv-daily) |
-| 2026-09-11 | 2026-09-11 | Building a Production Greek-English Speech Recognizer | Christos Petrocheilos et al. | [2609.13498](https://arxiv.org/abs/2609.13498) | [PDF](https://arxiv.org/pdf/2609.13498) | — |
-| 2026-09-11 | 2026-09-11 | Objective Intelligibility Prediction Using Distance Metrics on Speech Foundation Model Representations | Lyonel Behringer et al. | [2609.13046](https://arxiv.org/abs/2609.13046) | [PDF](https://arxiv.org/pdf/2609.13046) | — |
-| 2026-09-11 | 2026-09-11 | Not All Speech Is Intent: Adaptive Self-Correcting Inference Layer for Post-ASR False Wake-Up | Preeti Saraswat et al. | [2609.12469](https://arxiv.org/abs/2609.12469) | [PDF](https://arxiv.org/pdf/2609.12469) | — |
-| 2026-09-11 | 2026-09-11 | I Am No One: Style-Aware Paraphrasing for Text Anonymization | Ahmed Sohair Khan et al. | [2609.12341](https://arxiv.org/abs/2609.12341) | [PDF](https://arxiv.org/pdf/2609.12341) | — |
-| 2026-09-10 | 2026-09-10 | Quantifying Consonant Contributions to Word Intelligibility via Acoustic Masking | Eunjung Yeo et al. | [2609.12122](https://arxiv.org/abs/2609.12122) | [PDF](https://arxiv.org/pdf/2609.12122) | — |
-| 2026-09-10 | 2026-09-10 | What Counts as a Mistake? Annotating Recitation Events in Quran Memorization Transcripts | Mohamad Al Mdfaa et al. | [2609.12085](https://arxiv.org/abs/2609.12085) | [PDF](https://arxiv.org/pdf/2609.12085) | — |
-| 2026-09-10 | 2026-09-10 | RetroThinker: Enabling Retrospective Thinking in Speech LLMs | Yi-Jen Shih et al. | [2609.11864](https://arxiv.org/abs/2609.11864) | [PDF](https://arxiv.org/pdf/2609.11864) | — |
-| 2026-09-10 | 2026-09-10 | Beyond Word Error Rate: A Switch Aware Evaluation of ASR and Audio Language Models on English Yoruba Code-Switched Speech | Chibuzor Okocha et al. | [2609.11786](https://arxiv.org/abs/2609.11786) | [PDF](https://arxiv.org/pdf/2609.11786) | — |
-| 2026-09-10 | 2026-09-10 | Whisper-Based Speech Transcription from Videos Across Multiple Languages for Cross-Cultural Understanding | Michael Picheny | [2609.11772](https://arxiv.org/abs/2609.11772) | [PDF](https://arxiv.org/pdf/2609.11772) | — |
-| 2026-09-10 | 2026-09-10 | The Eloquence submission for Task 2 of the Interspeech 2026 MLC-SLM challenge | Jordi Luque et al. | [2609.11724](https://arxiv.org/abs/2609.11724) | [PDF](https://arxiv.org/pdf/2609.11724) | — |
+| 2026-09-11 | 2026-09-11 | Building a Production Greek-English Speech Recognizer | Christos Petrocheilos et al. | [2609.13498](https://arxiv.org/abs/2609.13498) | [PDF](https://arxiv.org/pdf/2609.13498) | [候选仓库](https://github.com/skywuxuan/ASR-arxiv-daily) |
+| 2026-09-11 | 2026-09-11 | Objective Intelligibility Prediction Using Distance Metrics on Speech Foundation Model Representations | Lyonel Behringer et al. | [2609.13046](https://arxiv.org/abs/2609.13046) | [PDF](https://arxiv.org/pdf/2609.13046) | [候选仓库](https://github.com/InsomaniacElf/sg-tamil-tts-resources) |
+| 2026-09-11 | 2026-09-11 | Not All Speech Is Intent: Adaptive Self-Correcting Inference Layer for Post-ASR False Wake-Up | Preeti Saraswat et al. | [2609.12469](https://arxiv.org/abs/2609.12469) | [PDF](https://arxiv.org/pdf/2609.12469) | [候选仓库](https://github.com/skywuxuan/ASR-arxiv-daily) |
+| 2026-09-11 | 2026-09-11 | I Am No One: Style-Aware Paraphrasing for Text Anonymization | Ahmed Sohair Khan et al. | [2609.12341](https://arxiv.org/abs/2609.12341) | [PDF](https://arxiv.org/pdf/2609.12341) | [候选仓库](https://github.com/skywuxuan/ASR-arxiv-daily) |
+| 2026-09-10 | 2026-09-10 | Quantifying Consonant Contributions to Word Intelligibility via Acoustic Masking | Eunjung Yeo et al. | [2609.12122](https://arxiv.org/abs/2609.12122) | [PDF](https://arxiv.org/pdf/2609.12122) | [候选仓库](https://github.com/skywuxuan/ASR-arxiv-daily) |
+| 2026-09-10 | 2026-09-10 | What Counts as a Mistake? Annotating Recitation Events in Quran Memorization Transcripts | Mohamad Al Mdfaa et al. | [2609.12085](https://arxiv.org/abs/2609.12085) | [PDF](https://arxiv.org/pdf/2609.12085) | [候选仓库](https://github.com/skywuxuan/ASR-arxiv-daily) |
+| 2026-09-10 | 2026-09-10 | RetroThinker: Enabling Retrospective Thinking in Speech LLMs | Yi-Jen Shih et al. | [2609.11864](https://arxiv.org/abs/2609.11864) | [PDF](https://arxiv.org/pdf/2609.11864) | [候选仓库](https://github.com/InsomaniacElf/sg-tamil-tts-resources) |
+| 2026-09-10 | 2026-09-10 | Beyond Word Error Rate: A Switch Aware Evaluation of ASR and Audio Language Models on English Yoruba Code-Switched Speech | Chibuzor Okocha et al. | [2609.11786](https://arxiv.org/abs/2609.11786) | [PDF](https://arxiv.org/pdf/2609.11786) | [候选仓库](https://github.com/InsomaniacElf/sg-tamil-tts-resources) |
+| 2026-09-10 | 2026-09-10 | Whisper-Based Speech Transcription from Videos Across Multiple Languages for Cross-Cultural Understanding | Michael Picheny | [2609.11772](https://arxiv.org/abs/2609.11772) | [PDF](https://arxiv.org/pdf/2609.11772) | [候选仓库](https://github.com/InsomaniacElf/sg-tamil-tts-resources) |
+| 2026-09-10 | 2026-09-10 | The Eloquence submission for Task 2 of the Interspeech 2026 MLC-SLM challenge | Jordi Luque et al. | [2609.11724](https://arxiv.org/abs/2609.11724) | [PDF](https://arxiv.org/pdf/2609.11724) | [候选仓库](https://github.com/InsomaniacElf/sg-tamil-tts-resources) |
 | 2026-09-10 | 2026-09-10 | X-AuT: Progressive Audio-Encoder Compression for Speech LLMs with Cross-Scale Distillation | Haojun Zhang et al. | [2609.11412](https://arxiv.org/abs/2609.11412) | [PDF](https://arxiv.org/pdf/2609.11412) | — |
 | 2026-09-10 | 2026-09-10 | SEAR: Segment-Evidence-Aware Routing for Weak-to-Strong Multilingual Speech MCQ | Huy Hoang Le et al. | [2609.11355](https://arxiv.org/abs/2609.11355) | [PDF](https://arxiv.org/pdf/2609.11355) | — |
 | 2026-09-10 | 2026-09-10 | Automatic Lyric Transcription for Greek Songs: Scaling and Task Composition Effects in Whisper Adaptation | Maria Frangiadaki et al. | [2609.11302](https://arxiv.org/abs/2609.11302) | [PDF](https://arxiv.org/pdf/2609.11302) | — |

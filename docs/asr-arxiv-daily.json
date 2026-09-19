@@ -1,5 +1,5 @@
 {
-  "last_fetched": "2026-09-18T16:06:15+00:00",
+  "last_fetched": "2026-09-19T03:54:04+00:00",
   "topics": {
     "ASR": {
       "2609.18748": {
@@ -444,8 +444,9 @@
         "updated": "2026-09-11",
         "url": "https://arxiv.org/abs/2609.13498",
         "pdf_url": "https://arxiv.org/pdf/2609.13498",
-        "code_url": null,
-        "code_source": null
+        "code_url": "https://github.com/skywuxuan/ASR-arxiv-daily",
+        "code_source": "github_search",
+        "code_checked_at": "2026-09-19T03:54:05+00:00"
       },
       "2609.13046": {
         "title": "Objective Intelligibility Prediction Using Distance Metrics on Speech Foundation Model Representations",
@@ -457,8 +458,9 @@
         "updated": "2026-09-11",
         "url": "https://arxiv.org/abs/2609.13046",
         "pdf_url": "https://arxiv.org/pdf/2609.13046",
-        "code_url": null,
-        "code_source": null
+        "code_url": "https://github.com/InsomaniacElf/sg-tamil-tts-resources",
+        "code_source": "github_search",
+        "code_checked_at": "2026-09-19T03:54:07+00:00"
       },
       "2609.12469": {
         "title": "Not All Speech Is Intent: Adaptive Self-Correcting Inference Layer for Post-ASR False Wake-Up",
@@ -471,8 +473,9 @@
         "updated": "2026-09-11",
         "url": "https://arxiv.org/abs/2609.12469",
         "pdf_url": "https://arxiv.org/pdf/2609.12469",
-        "code_url": null,
-        "code_source": null
+        "code_url": "https://github.com/skywuxuan/ASR-arxiv-daily",
+        "code_source": "github_search",
+        "code_checked_at": "2026-09-19T03:54:09+00:00"
       },
       "2609.12341": {
         "title": "I Am No One: Style-Aware Paraphrasing for Text Anonymization",
@@ -486,8 +489,9 @@
         "updated": "2026-09-11",
         "url": "https://arxiv.org/abs/2609.12341",
         "pdf_url": "https://arxiv.org/pdf/2609.12341",
-        "code_url": null,
-        "code_source": null
+        "code_url": "https://github.com/skywuxuan/ASR-arxiv-daily",
+        "code_source": "github_search",
+        "code_checked_at": "2026-09-19T03:54:11+00:00"
       },
       "2609.12122": {
         "title": "Quantifying Consonant Contributions to Word Intelligibility via Acoustic Masking",
@@ -504,8 +508,9 @@
         "updated": "2026-09-10",
         "url": "https://arxiv.org/abs/2609.12122",
         "pdf_url": "https://arxiv.org/pdf/2609.12122",
-        "code_url": null,
-        "code_source": null
+        "code_url": "https://github.com/skywuxuan/ASR-arxiv-daily",
+        "code_source": "github_search",
+        "code_checked_at": "2026-09-19T03:54:13+00:00"
       },
       "2609.12085": {
         "title": "What Counts as a Mistake? Annotating Recitation Events in Quran Memorization Transcripts",
@@ -520,8 +525,9 @@
         "updated": "2026-09-10",
         "url": "https://arxiv.org/abs/2609.12085",
         "pdf_url": "https://arxiv.org/pdf/2609.12085",
-        "code_url": null,
-        "code_source": null
+        "code_url": "https://github.com/skywuxuan/ASR-arxiv-daily",
+        "code_source": "github_search",
+        "code_checked_at": "2026-09-19T03:54:15+00:00"
       },
       "2609.11864": {
         "title": "RetroThinker: Enabling Retrospective Thinking in Speech LLMs",
@@ -535,8 +541,9 @@
         "updated": "2026-09-10",
         "url": "https://arxiv.org/abs/2609.11864",
         "pdf_url": "https://arxiv.org/pdf/2609.11864",
-        "code_url": null,
-        "code_source": null
+        "code_url": "https://github.com/InsomaniacElf/sg-tamil-tts-resources",
+        "code_source": "github_search",
+        "code_checked_at": "2026-09-19T03:54:17+00:00"
       },
       "2609.11786": {
         "title": "Beyond Word Error Rate: A Switch Aware Evaluation of ASR and Audio Language Models on English Yoruba Code-Switched Speech",
@@ -548,8 +555,9 @@
         "updated": "2026-09-10",
         "url": "https://arxiv.org/abs/2609.11786",
         "pdf_url": "https://arxiv.org/pdf/2609.11786",
-        "code_url": null,
-        "code_source": null
+        "code_url": "https://github.com/InsomaniacElf/sg-tamil-tts-resources",
+        "code_source": "github_search",
+        "code_checked_at": "2026-09-19T03:54:19+00:00"
       },
       "2609.11772": {
         "title": "Whisper-Based Speech Transcription from Videos Across Multiple Languages for Cross-Cultural Understanding",
@@ -560,8 +568,9 @@
         "updated": "2026-09-10",
         "url": "https://arxiv.org/abs/2609.11772",
         "pdf_url": "https://arxiv.org/pdf/2609.11772",
-        "code_url": null,
-        "code_source": null
+        "code_url": "https://github.com/InsomaniacElf/sg-tamil-tts-resources",
+        "code_source": "github_search",
+        "code_checked_at": "2026-09-19T03:54:21+00:00"
       },
       "2609.11724": {
         "title": "The Eloquence submission for Task 2 of the Interspeech 2026 MLC-SLM challenge",
@@ -576,8 +585,9 @@
         "updated": "2026-09-10",
         "url": "https://arxiv.org/abs/2609.11724",
         "pdf_url": "https://arxiv.org/pdf/2609.11724",
-        "code_url": null,
-        "code_source": null
+        "code_url": "https://github.com/InsomaniacElf/sg-tamil-tts-resources",
+        "code_source": "github_search",
+        "code_checked_at": "2026-09-19T03:54:24+00:00"
       },
       "2609.11412": {
         "title": "X-AuT: Progressive Audio-Encoder Compression for Speech LLMs with Cross-Scale Distillation",
