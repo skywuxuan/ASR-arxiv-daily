@@ -4,7 +4,7 @@
 
 [使用与部署说明](./docs/README.md#usage)
 
-> 最近成功抓取：2026-09-19T15:38:44+00:00（UTC）
+> 最近成功抓取：2026-09-20T04:11:21+00:00（UTC）
 
 每 12 小时检索一次，按首次提交日期倒序排列，历史论文会持续保留。
 
@@ -69,10 +69,10 @@
 | 2026-09-09 | 2026-09-09 | Pushing the Boundaries of Streaming Multi-Speaker ASR: A Systematic Study of Architectural Trade-offs | Taejin Park et al. | [2609.10265](https://arxiv.org/abs/2609.10265) | [PDF](https://arxiv.org/pdf/2609.10265) | [候选仓库](https://github.com/skywuxuan/ASR-arxiv-daily) |
 | 2026-09-09 | 2026-09-09 | NOPE-HYPE: A Structured Simulation Workflow for Robust Speech-to-Text Across Diverse Acoustic Environments | Niramay M. Patel et al. | [2609.10058](https://arxiv.org/abs/2609.10058) | [PDF](https://arxiv.org/pdf/2609.10058) | [候选仓库](https://github.com/skywuxuan/ASR-arxiv-daily) |
 | 2026-09-09 | 2026-09-09 | Deterministic Prompting for Speaker-Stable Low-Resource Greek TTS | Georgios Syllas et al. | [2609.10022](https://arxiv.org/abs/2609.10022) | [PDF](https://arxiv.org/pdf/2609.10022) | [候选仓库](https://github.com/imxtx/awesome-controllable-speech-synthesis) |
-| 2026-09-09 | 2026-09-09 | Over-Tightening-Aware Pseudo-Labeling for Tight-Boundary Speaker Diarization | Shota Horiguchi et al. | [2609.09965](https://arxiv.org/abs/2609.09965) | [PDF](https://arxiv.org/pdf/2609.09965) | — |
-| 2026-09-09 | 2026-09-09 | Source-Adaptive Data Curation for Bilingual NVV-Aware ASR | Yuang Cao et al. | [2609.09929](https://arxiv.org/abs/2609.09929) | [PDF](https://arxiv.org/pdf/2609.09929) | — |
-| 2026-09-09 | 2026-09-09 | Leveraging Fine-grained Error Correction in Korean Speech Recognition for Consultation Services | Yonghyun Jun et al. | [2609.09889](https://arxiv.org/abs/2609.09889) | [PDF](https://arxiv.org/pdf/2609.09889) | — |
-| 2026-09-09 | 2026-09-09 | $S^3$-Bench: Evaluating Speech Interaction Models as Scientific Voice Assistants | Heyang Liu et al. | [2609.09852](https://arxiv.org/abs/2609.09852) | [PDF](https://arxiv.org/pdf/2609.09852) | — |
-| 2026-09-09 | 2026-09-09 | StreamAlign: Streaming Text-Aligned Speech Tokenization | Kang-wook Kim et al. | [2609.09719](https://arxiv.org/abs/2609.09719) | [PDF](https://arxiv.org/pdf/2609.09719) | — |
+| 2026-09-09 | 2026-09-09 | Over-Tightening-Aware Pseudo-Labeling for Tight-Boundary Speaker Diarization | Shota Horiguchi et al. | [2609.09965](https://arxiv.org/abs/2609.09965) | [PDF](https://arxiv.org/pdf/2609.09965) | [候选仓库](https://github.com/skywuxuan/ASR-arxiv-daily) |
+| 2026-09-09 | 2026-09-09 | Source-Adaptive Data Curation for Bilingual NVV-Aware ASR | Yuang Cao et al. | [2609.09929](https://arxiv.org/abs/2609.09929) | [PDF](https://arxiv.org/pdf/2609.09929) | [候选仓库](https://github.com/InsomaniacElf/sg-tamil-tts-resources) |
+| 2026-09-09 | 2026-09-09 | Leveraging Fine-grained Error Correction in Korean Speech Recognition for Consultation Services | Yonghyun Jun et al. | [2609.09889](https://arxiv.org/abs/2609.09889) | [PDF](https://arxiv.org/pdf/2609.09889) | [候选仓库](https://github.com/skywuxuan/ASR-arxiv-daily) |
+| 2026-09-09 | 2026-09-09 | $S^3$-Bench: Evaluating Speech Interaction Models as Scientific Voice Assistants | Heyang Liu et al. | [2609.09852](https://arxiv.org/abs/2609.09852) | [PDF](https://arxiv.org/pdf/2609.09852) | [候选仓库](https://github.com/skywuxuan/ASR-arxiv-daily) |
+| 2026-09-09 | 2026-09-09 | StreamAlign: Streaming Text-Aligned Speech Tokenization | Kang-wook Kim et al. | [2609.09719](https://arxiv.org/abs/2609.09719) | [PDF](https://arxiv.org/pdf/2609.09719) | [候选仓库](https://github.com/liutaocode/TTS-arxiv-daily) |
 
 参考 [TTS-arxiv-daily](https://github.com/liutaocode/TTS-arxiv-daily) 与 [cv-arxiv-daily](https://github.com/Vincentqyw/cv-arxiv-daily)，按 Apache-2.0 许可发布。

@@ -1,5 +1,5 @@
 {
-  "last_fetched": "2026-09-19T15:38:44+00:00",
+  "last_fetched": "2026-09-20T04:11:21+00:00",
   "topics": {
     "ASR": {
       "2609.18748": {
@@ -779,8 +779,9 @@
         "updated": "2026-09-09",
         "url": "https://arxiv.org/abs/2609.09965",
         "pdf_url": "https://arxiv.org/pdf/2609.09965",
-        "code_url": null,
-        "code_source": null
+        "code_url": "https://github.com/skywuxuan/ASR-arxiv-daily",
+        "code_source": "github_search",
+        "code_checked_at": "2026-09-20T04:11:21+00:00"
       },
       "2609.09929": {
         "title": "Source-Adaptive Data Curation for Bilingual NVV-Aware ASR",
@@ -800,8 +801,9 @@
         "updated": "2026-09-09",
         "url": "https://arxiv.org/abs/2609.09929",
         "pdf_url": "https://arxiv.org/pdf/2609.09929",
-        "code_url": null,
-        "code_source": null
+        "code_url": "https://github.com/InsomaniacElf/sg-tamil-tts-resources",
+        "code_source": "github_search",
+        "code_checked_at": "2026-09-20T04:11:23+00:00"
       },
       "2609.09889": {
         "title": "Leveraging Fine-grained Error Correction in Korean Speech Recognition for Consultation Services",
@@ -817,8 +819,9 @@
         "updated": "2026-09-09",
         "url": "https://arxiv.org/abs/2609.09889",
         "pdf_url": "https://arxiv.org/pdf/2609.09889",
-        "code_url": null,
-        "code_source": null
+        "code_url": "https://github.com/skywuxuan/ASR-arxiv-daily",
+        "code_source": "github_search",
+        "code_checked_at": "2026-09-20T04:11:25+00:00"
       },
       "2609.09852": {
         "title": "$S^3$-Bench: Evaluating Speech Interaction Models as Scientific Voice Assistants",
@@ -839,8 +842,9 @@
         "updated": "2026-09-09",
         "url": "https://arxiv.org/abs/2609.09852",
         "pdf_url": "https://arxiv.org/pdf/2609.09852",
-        "code_url": null,
-        "code_source": null
+        "code_url": "https://github.com/skywuxuan/ASR-arxiv-daily",
+        "code_source": "github_search",
+        "code_checked_at": "2026-09-20T04:11:27+00:00"
       },
       "2609.09719": {
         "title": "StreamAlign: Streaming Text-Aligned Speech Tokenization",
@@ -856,8 +860,9 @@
         "updated": "2026-09-09",
         "url": "https://arxiv.org/abs/2609.09719",
         "pdf_url": "https://arxiv.org/pdf/2609.09719",
-        "code_url": null,
-        "code_source": null
+        "code_url": "https://github.com/liutaocode/TTS-arxiv-daily",
+        "code_source": "github_search",
+        "code_checked_at": "2026-09-20T04:11:30+00:00"
       },
       "2609.20504": {
         "title": "Model-Agnostic and Language-Agnostic Voice Pipeline Improvement for the Agriculture Domain",
