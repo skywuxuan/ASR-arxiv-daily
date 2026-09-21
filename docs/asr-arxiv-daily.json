@@ -1,5 +1,5 @@
 {
-  "last_fetched": "2026-09-20T15:43:53+00:00",
+  "last_fetched": "2026-09-21T04:08:49+00:00",
   "topics": {
     "ASR": {
       "2609.18748": {
@@ -1047,6 +1047,224 @@
         "code_url": "https://github.com/skywuxuan/ASR-arxiv-daily",
         "code_source": "github_search",
         "code_checked_at": "2026-09-18T16:06:26+00:00"
+      },
+      "2609.21967": {
+        "title": "NemotronLabs VoiceChat: An Open Full-duplex Speech-to-Speech Model with Tool Calling Capabilities",
+        "authors": [
+          "Jagadeesh Balam",
+          "Travis Bartley",
+          "Edresson Casanova",
+          "Sanjay Chauhan",
+          "Chen Chen",
+          "Zhehuai Chen",
+          "Zijia Chen",
+          "Francesco Ciannella",
+          "Slyne Deng",
+          "Mikyas Desta",
+          "Harishchandra Dubey",
+          "Slim Essid",
+          "Nourchene Ferchichi",
+          "Boris Ginsburg",
+          "Mariana Graterol Fuenmayor",
+          "Negar Habibi",
+          "Kevin Hu",
+          "Anand Joseph",
+          "Viraj Karandikar",
+          "Myungjong Kim",
+          "Viacheslav Klimkov",
+          "Seelan Lakshmi Narasimhan",
+          "Lily Lee",
+          "Jason Li",
+          "Eileen Long",
+          "Ameya Mahabaleshwarkar",
+          "Aditya Malte",
+          "Adi Margolin",
+          "Sasha Meister",
+          "Valentin Mendelev",
+          "Oluwatobi Olabiyi",
+          "Ankita Pasad",
+          "Yifan Peng",
+          "Elena Rastorgueva",
+          "Jayda Ritchie",
+          "Jason Roche",
+          "Nikhil Srihari",
+          "Yuanhang Su",
+          "Yoshi Suhara",
+          "Viet Anh Trinh",
+          "Jinhan Wang",
+          "Piotr Zelasko",
+          "Hui Wang",
+          "Puhui Meng",
+          "Chaosen Zhang",
+          "Yunsheng Liu",
+          "Shawn Wang",
+          "Wenjing Li",
+          "Zhonglei He"
+        ],
+        "published": "2026-09-18",
+        "updated": "2026-09-18",
+        "url": "https://arxiv.org/abs/2609.21967",
+        "pdf_url": "https://arxiv.org/pdf/2609.21967",
+        "code_url": null,
+        "code_source": null,
+        "code_checked_at": "2026-09-21T04:08:50+00:00"
+      },
+      "2609.21844": {
+        "title": "Reusing Latent Speech Representations for Query-Conditioned Topic Localization in Transcripts",
+        "authors": [
+          "Steffen Freisinger",
+          "Philipp Seeberger",
+          "Thomas Ranzenberger",
+          "Tobias Bocklet",
+          "Korbinian Riedhammer"
+        ],
+        "published": "2026-09-18",
+        "updated": "2026-09-18",
+        "url": "https://arxiv.org/abs/2609.21844",
+        "pdf_url": "https://arxiv.org/pdf/2609.21844",
+        "code_url": null,
+        "code_source": null,
+        "code_checked_at": "2026-09-21T04:08:52+00:00"
+      },
+      "2609.21676": {
+        "title": "The Spoken Wikipedia Presentation Corpus",
+        "authors": [
+          "Thomas Ranzenberger",
+          "Steffen Freisinger",
+          "Tobias Bocklet",
+          "Korbinian Riedhammer"
+        ],
+        "published": "2026-09-18",
+        "updated": "2026-09-18",
+        "url": "https://arxiv.org/abs/2609.21676",
+        "pdf_url": "https://arxiv.org/pdf/2609.21676",
+        "code_url": null,
+        "code_source": null,
+        "code_checked_at": "2026-09-21T04:08:54+00:00"
+      },
+      "2609.21663": {
+        "title": "Rethinking Human-Aligned Evaluation: An Analysis of Semantic Metrics Beyond WER",
+        "authors": [
+          "Hritika Sharma",
+          "Thibault Bañeras-Roux",
+          "Alessandra Pinto",
+          "Petr Motlicek",
+          "Hyunggu Jung",
+          "Esaú Villatoro-Tello",
+          "Somang Nam"
+        ],
+        "published": "2026-09-18",
+        "updated": "2026-09-18",
+        "url": "https://arxiv.org/abs/2609.21663",
+        "pdf_url": "https://arxiv.org/pdf/2609.21663",
+        "code_url": null,
+        "code_source": null,
+        "code_checked_at": "2026-09-21T04:08:56+00:00"
+      },
+      "2609.21465": {
+        "title": "OmniVChat: Synthesizing, Benchmarking, and Training for Native Audio-Visual Dialogue",
+        "authors": [
+          "Haolin He",
+          "Yunfei Chu",
+          "Qi Chen",
+          "Wen Huang",
+          "Yuan Feng",
+          "Muzhi Zhu",
+          "Zheqi Dai",
+          "Haoning Xu",
+          "Dongchao Yang",
+          "Chunyat Wu",
+          "Zining Liang",
+          "Zhengxi Liu",
+          "Xiquan Li",
+          "Xie Chen",
+          "Xize Cheng",
+          "Qize Yang",
+          "Jin Xu",
+          "Qiuqiang Kong"
+        ],
+        "published": "2026-09-18",
+        "updated": "2026-09-18",
+        "url": "https://arxiv.org/abs/2609.21465",
+        "pdf_url": "https://arxiv.org/pdf/2609.21465",
+        "code_url": null,
+        "code_source": null,
+        "code_checked_at": "2026-09-21T04:08:58+00:00"
+      },
+      "2609.21336": {
+        "title": "CGaLore: Curvature-Guided GaLore for Memory-Efficient Continual Adaptation of ASR Foundation Models",
+        "authors": [
+          "Steven Vander Eeckt",
+          "Hugo Van hamme"
+        ],
+        "published": "2026-09-18",
+        "updated": "2026-09-18",
+        "url": "https://arxiv.org/abs/2609.21336",
+        "pdf_url": "https://arxiv.org/pdf/2609.21336",
+        "code_url": null,
+        "code_source": null,
+        "code_checked_at": "2026-09-21T04:09:00+00:00"
+      },
+      "2609.21180": {
+        "title": "Online Algorithms for Independent Low-Rank Matrix Analysis and Rank-Constrained Spatial Covariance Matrix Estimation Based on Maximum Weighted Likelihood Estimation",
+        "authors": [
+          "Yuto Ishikawa",
+          "Norihiro Takamune",
+          "Tomohiko Nakamura",
+          "Daichi Kitamura",
+          "Hiroshi Saruwatari",
+          "Yu Takahashi",
+          "Kazunobu Kondo"
+        ],
+        "published": "2026-09-18",
+        "updated": "2026-09-18",
+        "url": "https://arxiv.org/abs/2609.21180",
+        "pdf_url": "https://arxiv.org/pdf/2609.21180",
+        "code_url": null,
+        "code_source": null,
+        "code_checked_at": "2026-09-21T04:09:02+00:00"
+      },
+      "2609.21145": {
+        "title": "Scaling Forced Alignment to End-User Devices",
+        "authors": [
+          "Lawry Sorenson",
+          "Michael Crandall",
+          "Eric K. Ringger",
+          "Stephen D. Richardson"
+        ],
+        "published": "2026-09-17",
+        "updated": "2026-09-17",
+        "url": "https://arxiv.org/abs/2609.21145",
+        "pdf_url": "https://arxiv.org/pdf/2609.21145",
+        "code_url": null,
+        "code_source": null,
+        "code_checked_at": "2026-09-21T04:09:04+00:00"
+      },
+      "2609.21084": {
+        "title": "The Hidden Cost of Digits: Number Normalization and WER in ASR Systems",
+        "authors": [
+          "Stanisław Kacprzak",
+          "Mieszko Fraś"
+        ],
+        "published": "2026-09-17",
+        "updated": "2026-09-17",
+        "url": "https://arxiv.org/abs/2609.21084",
+        "pdf_url": "https://arxiv.org/pdf/2609.21084",
+        "code_url": null,
+        "code_source": null,
+        "code_checked_at": "2026-09-21T04:09:06+00:00"
+      },
+      "2609.20995": {
+        "title": "Voice-Light: A Full-Duplex Cascaded Voice Agent with Causal Turn-Taking and Speculative Generation",
+        "authors": [
+          "Bertil Braun"
+        ],
+        "published": "2026-09-17",
+        "updated": "2026-09-17",
+        "url": "https://arxiv.org/abs/2609.20995",
+        "pdf_url": "https://arxiv.org/pdf/2609.20995",
+        "code_url": "https://github.com/BertilBraun/Voice-Light",
+        "code_source": "paper"
       }
     }
   }

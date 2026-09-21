@@ -4,7 +4,7 @@
 
 [使用与部署说明](./docs/README.md#usage)
 
-> 最近成功抓取：2026-09-20T15:43:53+00:00（UTC）
+> 最近成功抓取：2026-09-21T04:08:49+00:00（UTC）
 
 每 12 小时检索一次，按首次提交日期倒序排列，历史论文会持续保留。
 
@@ -14,6 +14,16 @@
 
 | 首次提交 | 更新日期 | 标题 | 作者 | arXiv | PDF | 代码 |
 | --- | --- | --- | --- | --- | --- | --- |
+| 2026-09-18 | 2026-09-18 | NemotronLabs VoiceChat: An Open Full-duplex Speech-to-Speech Model with Tool Calling Capabilities | Jagadeesh Balam et al. | [2609.21967](https://arxiv.org/abs/2609.21967) | [PDF](https://arxiv.org/pdf/2609.21967) | — |
+| 2026-09-18 | 2026-09-18 | Reusing Latent Speech Representations for Query-Conditioned Topic Localization in Transcripts | Steffen Freisinger et al. | [2609.21844](https://arxiv.org/abs/2609.21844) | [PDF](https://arxiv.org/pdf/2609.21844) | — |
+| 2026-09-18 | 2026-09-18 | The Spoken Wikipedia Presentation Corpus | Thomas Ranzenberger et al. | [2609.21676](https://arxiv.org/abs/2609.21676) | [PDF](https://arxiv.org/pdf/2609.21676) | — |
+| 2026-09-18 | 2026-09-18 | Rethinking Human-Aligned Evaluation: An Analysis of Semantic Metrics Beyond WER | Hritika Sharma et al. | [2609.21663](https://arxiv.org/abs/2609.21663) | [PDF](https://arxiv.org/pdf/2609.21663) | — |
+| 2026-09-18 | 2026-09-18 | OmniVChat: Synthesizing, Benchmarking, and Training for Native Audio-Visual Dialogue | Haolin He et al. | [2609.21465](https://arxiv.org/abs/2609.21465) | [PDF](https://arxiv.org/pdf/2609.21465) | — |
+| 2026-09-18 | 2026-09-18 | CGaLore: Curvature-Guided GaLore for Memory-Efficient Continual Adaptation of ASR Foundation Models | Steven Vander Eeckt et al. | [2609.21336](https://arxiv.org/abs/2609.21336) | [PDF](https://arxiv.org/pdf/2609.21336) | — |
+| 2026-09-18 | 2026-09-18 | Online Algorithms for Independent Low-Rank Matrix Analysis and Rank-Constrained Spatial Covariance Matrix Estimation Based on Maximum Weighted Likelihood Estimation | Yuto Ishikawa et al. | [2609.21180](https://arxiv.org/abs/2609.21180) | [PDF](https://arxiv.org/pdf/2609.21180) | — |
+| 2026-09-17 | 2026-09-17 | Scaling Forced Alignment to End-User Devices | Lawry Sorenson et al. | [2609.21145](https://arxiv.org/abs/2609.21145) | [PDF](https://arxiv.org/pdf/2609.21145) | — |
+| 2026-09-17 | 2026-09-17 | The Hidden Cost of Digits: Number Normalization and WER in ASR Systems | Stanisław Kacprzak et al. | [2609.21084](https://arxiv.org/abs/2609.21084) | [PDF](https://arxiv.org/pdf/2609.21084) | — |
+| 2026-09-17 | 2026-09-17 | Voice-Light: A Full-Duplex Cascaded Voice Agent with Causal Turn-Taking and Speculative Generation | Bertil Braun | [2609.20995](https://arxiv.org/abs/2609.20995) | [PDF](https://arxiv.org/pdf/2609.20995) | [论文链接](https://github.com/BertilBraun/Voice-Light) |
 | 2026-09-17 | 2026-09-17 | Model-Agnostic and Language-Agnostic Voice Pipeline Improvement for the Agriculture Domain | Aakash Singh et al. | [2609.20504](https://arxiv.org/abs/2609.20504) | [PDF](https://arxiv.org/pdf/2609.20504) | [候选仓库](https://github.com/getquoteonline/Buy-Best-Online-Products-NSN-Aviation-Electronics-Parts-Distributor-USA) |
 | 2026-09-17 | 2026-09-17 | Alignment-Path Distillation from Non-streaming ASR-LLMs for Streaming Speech Recognition | Yan Jia et al. | [2609.20121](https://arxiv.org/abs/2609.20121) | [PDF](https://arxiv.org/pdf/2609.20121) | [候选仓库](https://github.com/skywuxuan/ASR-arxiv-daily) |
 | 2026-09-17 | 2026-09-17 | Design of the IBM Granite 5.0 TurboCTC ASR Model | Brian Kingsbury et al. | [2609.20104](https://arxiv.org/abs/2609.20104) | [PDF](https://arxiv.org/pdf/2609.20104) | [候选仓库](https://github.com/Tavish9/awesome-daily-AI-arxiv) |
