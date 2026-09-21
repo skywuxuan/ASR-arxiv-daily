@@ -48,8 +48,8 @@ jobs:
           fi
       - name: Commit generated files
         run: |
-          git config user.name 'github-actions[bot]'
-          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git config user.name 'skywuxuan'
+          git config user.email '1053299807@qq.com'
           git add README.md docs/
           if ! git diff --cached --quiet; then
             git commit -m "Update ASR arXiv papers"
