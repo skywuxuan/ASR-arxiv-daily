@@ -1105,9 +1105,9 @@
         "updated": "2026-09-18",
         "url": "https://arxiv.org/abs/2609.21967",
         "pdf_url": "https://arxiv.org/pdf/2609.21967",
-        "code_url": null,
-        "code_source": null,
-        "code_checked_at": "2026-09-21T04:08:50+00:00"
+        "code_url": "https://github.com/Tavish9/awesome-daily-AI-arxiv",
+        "code_source": "github_search",
+        "code_checked_at": "2026-09-21T14:54:01+00:00"
       },
       "2609.21844": {
         "title": "Reusing Latent Speech Representations for Query-Conditioned Topic Localization in Transcripts",
@@ -1122,9 +1122,9 @@
         "updated": "2026-09-18",
         "url": "https://arxiv.org/abs/2609.21844",
         "pdf_url": "https://arxiv.org/pdf/2609.21844",
-        "code_url": null,
-        "code_source": null,
-        "code_checked_at": "2026-09-21T04:08:52+00:00"
+        "code_url": "https://github.com/InsomaniacElf/sg-tamil-tts-resources",
+        "code_source": "github_search",
+        "code_checked_at": "2026-09-21T14:54:03+00:00"
       },
       "2609.21676": {
         "title": "The Spoken Wikipedia Presentation Corpus",
@@ -1138,9 +1138,9 @@
         "updated": "2026-09-18",
         "url": "https://arxiv.org/abs/2609.21676",
         "pdf_url": "https://arxiv.org/pdf/2609.21676",
-        "code_url": null,
-        "code_source": null,
-        "code_checked_at": "2026-09-21T04:08:54+00:00"
+        "code_url": "https://github.com/InsomaniacElf/sg-tamil-tts-resources",
+        "code_source": "github_search",
+        "code_checked_at": "2026-09-21T14:54:06+00:00"
       },
       "2609.21663": {
         "title": "Rethinking Human-Aligned Evaluation: An Analysis of Semantic Metrics Beyond WER",
@@ -1157,9 +1157,9 @@
         "updated": "2026-09-18",
         "url": "https://arxiv.org/abs/2609.21663",
         "pdf_url": "https://arxiv.org/pdf/2609.21663",
-        "code_url": null,
-        "code_source": null,
-        "code_checked_at": "2026-09-21T04:08:56+00:00"
+        "code_url": "https://github.com/Tavish9/awesome-daily-AI-arxiv",
+        "code_source": "github_search",
+        "code_checked_at": "2026-09-21T14:54:08+00:00"
       },
       "2609.21465": {
         "title": "OmniVChat: Synthesizing, Benchmarking, and Training for Native Audio-Visual Dialogue",
@@ -1187,9 +1187,9 @@
         "updated": "2026-09-18",
         "url": "https://arxiv.org/abs/2609.21465",
         "pdf_url": "https://arxiv.org/pdf/2609.21465",
-        "code_url": null,
-        "code_source": null,
-        "code_checked_at": "2026-09-21T04:08:58+00:00"
+        "code_url": "https://github.com/HarlandZZC/OmniVChat",
+        "code_source": "github_search",
+        "code_checked_at": "2026-09-21T14:54:10+00:00"
       },
       "2609.21336": {
         "title": "CGaLore: Curvature-Guided GaLore for Memory-Efficient Continual Adaptation of ASR Foundation Models",
@@ -1201,9 +1201,9 @@
         "updated": "2026-09-18",
         "url": "https://arxiv.org/abs/2609.21336",
         "pdf_url": "https://arxiv.org/pdf/2609.21336",
-        "code_url": null,
-        "code_source": null,
-        "code_checked_at": "2026-09-21T04:09:00+00:00"
+        "code_url": "https://github.com/skywuxuan/ASR-arxiv-daily",
+        "code_source": "github_search",
+        "code_checked_at": "2026-09-21T14:54:12+00:00"
       },
       "2609.21180": {
         "title": "Online Algorithms for Independent Low-Rank Matrix Analysis and Rank-Constrained Spatial Covariance Matrix Estimation Based on Maximum Weighted Likelihood Estimation",
@@ -1220,9 +1220,9 @@
         "updated": "2026-09-18",
         "url": "https://arxiv.org/abs/2609.21180",
         "pdf_url": "https://arxiv.org/pdf/2609.21180",
-        "code_url": null,
-        "code_source": null,
-        "code_checked_at": "2026-09-21T04:09:02+00:00"
+        "code_url": "https://github.com/skywuxuan/ASR-arxiv-daily",
+        "code_source": "github_search",
+        "code_checked_at": "2026-09-21T14:54:14+00:00"
       },
       "2609.21145": {
         "title": "Scaling Forced Alignment to End-User Devices",
@@ -1236,9 +1236,9 @@
         "updated": "2026-09-17",
         "url": "https://arxiv.org/abs/2609.21145",
         "pdf_url": "https://arxiv.org/pdf/2609.21145",
-        "code_url": null,
-        "code_source": null,
-        "code_checked_at": "2026-09-21T04:09:04+00:00"
+        "code_url": "https://github.com/skywuxuan/ASR-arxiv-daily",
+        "code_source": "github_search",
+        "code_checked_at": "2026-09-21T14:54:16+00:00"
       },
       "2609.21084": {
         "title": "The Hidden Cost of Digits: Number Normalization and WER in ASR Systems",
@@ -1250,9 +1250,9 @@
         "updated": "2026-09-17",
         "url": "https://arxiv.org/abs/2609.21084",
         "pdf_url": "https://arxiv.org/pdf/2609.21084",
-        "code_url": null,
-        "code_source": null,
-        "code_checked_at": "2026-09-21T04:09:06+00:00"
+        "code_url": "https://github.com/InsomaniacElf/sg-tamil-tts-resources",
+        "code_source": "github_search",
+        "code_checked_at": "2026-09-21T14:54:18+00:00"
       },
       "2609.20995": {
         "title": "Voice-Light: A Full-Duplex Cascaded Voice Agent with Causal Turn-Taking and Speculative Generation",
