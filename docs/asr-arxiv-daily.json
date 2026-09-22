@@ -1,5 +1,5 @@
 {
-  "last_fetched": "2026-09-21T18:02:48+00:00",
+  "last_fetched": "2026-09-22T16:36:20+00:00",
   "topics": {
     "ASR": {
       "2609.18748": {
@@ -53,11 +53,11 @@
           "Hongbin Suo"
         ],
         "published": "2026-09-16",
-        "updated": "2026-09-16",
+        "updated": "2026-09-21",
         "url": "https://arxiv.org/abs/2609.18680",
         "pdf_url": "https://arxiv.org/pdf/2609.18680",
-        "code_url": "https://github.com/InsomaniacElf/sg-tamil-tts-resources",
-        "code_source": "github_search",
+        "code_url": "https://github.com/OPPO-Mente-Lab/HearInContext",
+        "code_source": "paper",
         "code_checked_at": "2026-09-17T09:28:04+00:00"
       },
       "2609.18533": {
@@ -965,7 +965,7 @@
           "Xiaolong Lin"
         ],
         "published": "2026-09-17",
-        "updated": "2026-09-17",
+        "updated": "2026-09-21",
         "url": "https://arxiv.org/abs/2609.19805",
         "pdf_url": "https://arxiv.org/pdf/2609.19805",
         "code_url": "https://github.com/liutaocode/TTS-arxiv-daily",
@@ -1008,7 +1008,7 @@
           "Zhehuai Chen"
         ],
         "published": "2026-09-16",
-        "updated": "2026-09-16",
+        "updated": "2026-09-18",
         "url": "https://arxiv.org/abs/2609.19334",
         "pdf_url": "https://arxiv.org/pdf/2609.19334",
         "code_url": "https://github.com/Tavish9/awesome-daily-AI-arxiv",
@@ -1265,6 +1265,178 @@
         "pdf_url": "https://arxiv.org/pdf/2609.20995",
         "code_url": "https://github.com/BertilBraun/Voice-Light",
         "code_source": "paper"
+      },
+      "2609.24410": {
+        "title": "End-to-end Jordanian dialect speech-to-text self-supervised learning framework",
+        "authors": [
+          "Ali A. Safieh",
+          "Ibrahim Abu Alhaol",
+          "Rawan Ghnemat"
+        ],
+        "published": "2026-09-21",
+        "updated": "2026-09-21",
+        "url": "https://arxiv.org/abs/2609.24410",
+        "pdf_url": "https://arxiv.org/pdf/2609.24410",
+        "code_url": "https://github.com/BaiShuanghao/my_arXiv_daily",
+        "code_source": "github_search",
+        "code_checked_at": "2026-09-22T16:36:20+00:00"
+      },
+      "2609.24199": {
+        "title": "Vimarsha: Faithful ASR Evaluation for Indian Languages with Demographic Diversity, In-the-Wild Audio and Spelling Variations",
+        "authors": [
+          "Kaushal Santosh Bhogale",
+          "Srija Anand",
+          "Sadakopa Ramakrishnan Thothathiri",
+          "Tahir Javed",
+          "Sshubam Verma",
+          "Mitesh M. Khapra"
+        ],
+        "published": "2026-09-21",
+        "updated": "2026-09-21",
+        "url": "https://arxiv.org/abs/2609.24199",
+        "pdf_url": "https://arxiv.org/pdf/2609.24199",
+        "code_url": "https://github.com/Tavish9/awesome-daily-AI-arxiv",
+        "code_source": "github_search",
+        "code_checked_at": "2026-09-22T16:36:22+00:00"
+      },
+      "2609.23979": {
+        "title": "AURA: Uncertainty-Routed Activation Editing for Acoustic Grounding in Speech Foundation Models",
+        "authors": [
+          "Natarajan Balaji Shankar",
+          "Zilai Wang",
+          "Zihan Wang",
+          "Mohan Shi",
+          "Kaiyuan Zhang",
+          "Abeer Alwan"
+        ],
+        "published": "2026-09-21",
+        "updated": "2026-09-21",
+        "url": "https://arxiv.org/abs/2609.23979",
+        "pdf_url": "https://arxiv.org/pdf/2609.23979",
+        "code_url": null,
+        "code_source": null,
+        "code_checked_at": "2026-09-22T16:36:24+00:00"
+      },
+      "2609.23951": {
+        "title": "HaikuS2S: A Cascaded System For Responding In Verse",
+        "authors": [
+          "Devangi Sharma",
+          "Sophia Judicke",
+          "Glenda Tan",
+          "Conrad Schaumburg",
+          "Shinji Watanabe"
+        ],
+        "published": "2026-09-20",
+        "updated": "2026-09-20",
+        "url": "https://arxiv.org/abs/2609.23951",
+        "pdf_url": "https://arxiv.org/pdf/2609.23951",
+        "code_url": "https://github.com/liutaocode/TTS-arxiv-daily",
+        "code_source": "github_search",
+        "code_checked_at": "2026-09-22T16:36:26+00:00"
+      },
+      "2609.23825": {
+        "title": "Federated Multilingual Speech-LLMs: Architecture and Aggregation Strategy Benchmarking",
+        "authors": [
+          "Jordi Luque",
+          "Aleix Sant",
+          "Fernando López"
+        ],
+        "published": "2026-09-20",
+        "updated": "2026-09-20",
+        "url": "https://arxiv.org/abs/2609.23825",
+        "pdf_url": "https://arxiv.org/pdf/2609.23825",
+        "code_url": "https://github.com/Tavish9/awesome-daily-AI-arxiv",
+        "code_source": "github_search",
+        "code_checked_at": "2026-09-22T16:36:28+00:00"
+      },
+      "2609.23525": {
+        "title": "Beyond Encoder Fusion: Multi-View Discrete Token Augmentation for LLM-Based ASR",
+        "authors": [
+          "Paul Moïse Gangbadja",
+          "Mickael Rouvier",
+          "Fabrice Lefèvre"
+        ],
+        "published": "2026-09-20",
+        "updated": "2026-09-20",
+        "url": "https://arxiv.org/abs/2609.23525",
+        "pdf_url": "https://arxiv.org/pdf/2609.23525",
+        "code_url": null,
+        "code_source": null,
+        "code_checked_at": "2026-09-22T16:36:30+00:00"
+      },
+      "2609.23462": {
+        "title": "Long-Tail Rebalancing for Non-Verbal Vocalization-Aware ASR: A Track~1 System for the NVVSpeech Challenge",
+        "authors": [
+          "Shangyue Jia",
+          "Jingru Ma",
+          "Yangzhuo Li",
+          "Daoping Luo",
+          "Bowen Tian",
+          "Hanchen Lu",
+          "Wenze Ren",
+          "Yunxiang Chen",
+          "Houdun Liu",
+          "Shuo Feng",
+          "Lei Xie",
+          "Liumeng Xue"
+        ],
+        "published": "2026-09-20",
+        "updated": "2026-09-20",
+        "url": "https://arxiv.org/abs/2609.23462",
+        "pdf_url": "https://arxiv.org/pdf/2609.23462",
+        "code_url": null,
+        "code_source": null,
+        "code_checked_at": "2026-09-22T16:36:32+00:00"
+      },
+      "2609.23191": {
+        "title": "Low resource cross-modal alignment using HGNN to enhance speech representation",
+        "authors": [
+          "Yannick Yomie Nzeuhang",
+          "Marie Tahon",
+          "Paulin Melatagia Yonta"
+        ],
+        "published": "2026-09-19",
+        "updated": "2026-09-19",
+        "url": "https://arxiv.org/abs/2609.23191",
+        "pdf_url": "https://arxiv.org/pdf/2609.23191",
+        "code_url": "https://github.com/Tavish9/awesome-daily-AI-arxiv",
+        "code_source": "github_search",
+        "code_checked_at": "2026-09-22T16:36:35+00:00"
+      },
+      "2609.23114": {
+        "title": "Speech Language Models for Full-Meeting Speaker Diarization: Capabilities and Limitations",
+        "authors": [
+          "Jialu Li",
+          "Jinchuan Tian",
+          "Shinji Watanabe"
+        ],
+        "published": "2026-09-19",
+        "updated": "2026-09-19",
+        "url": "https://arxiv.org/abs/2609.23114",
+        "pdf_url": "https://arxiv.org/pdf/2609.23114",
+        "code_url": null,
+        "code_source": null,
+        "code_checked_at": "2026-09-22T16:36:37+00:00"
+      },
+      "2609.22771": {
+        "title": "ParA-LLM: A Unified Approach to Paralinguistic and Acoustic Speech Understanding",
+        "authors": [
+          "Nishit Anand",
+          "Jiaqi Su",
+          "Ke Chen",
+          "Yunyun Wang",
+          "Dinesh Manocha",
+          "Ramani Duraiswami",
+          "Rithesh Kumar",
+          "Zeyu Jin"
+        ],
+        "published": "2026-09-19",
+        "updated": "2026-09-19",
+        "url": "https://arxiv.org/abs/2609.22771",
+        "pdf_url": "https://arxiv.org/pdf/2609.22771",
+        "code_url": null,
+        "code_source": null,
+        "code_checked_at": "2026-09-22T16:36:39+00:00"
       }
     }
   }
