@@ -4,7 +4,7 @@
 
 [使用与部署说明](./docs/README.md#usage)
 
-> 最近成功抓取：2026-09-23T04:01:51+00:00（UTC）
+> 最近成功抓取：2026-09-23T16:27:53+00:00（UTC）
 
 每 12 小时检索一次，按首次提交日期倒序排列，历史论文会持续保留。
 
@@ -16,7 +16,7 @@
 | --- | --- | --- | --- | --- | --- | --- |
 | 2026-09-22 | 2026-09-22 | Persistent Delivery Optimization for Streaming Speech-to-Text Translation with Revisions | Zixiang Wan et al. | [2609.26427](https://arxiv.org/abs/2609.26427) | [PDF](https://arxiv.org/pdf/2609.26427) | [论文链接](https://github.com/ggiggit/PDO_S2TT) |
 | 2026-09-22 | 2026-09-22 | From Reliable Text to Real Voices: Trust-Aware Progressive Adaptation for Low-Resource TTS | Jiayi Lu et al. | [2609.25951](https://arxiv.org/abs/2609.25951) | [PDF](https://arxiv.org/pdf/2609.25951) | [候选仓库](https://github.com/liutaocode/TTS-arxiv-daily) |
-| 2026-09-21 | 2026-09-21 | Qwen-Audio-3.1-Realtime: Towards Reliable Agentic Voice Interaction | Lujia Bao et al. | [2609.25176](https://arxiv.org/abs/2609.25176) | [PDF](https://arxiv.org/pdf/2609.25176) | — |
+| 2026-09-21 | 2026-09-21 | Qwen-Audio-3.1-Realtime: Towards Reliable Agentic Voice Interaction | Lujia Bao et al. | [2609.25176](https://arxiv.org/abs/2609.25176) | [PDF](https://arxiv.org/pdf/2609.25176) | [候选仓库](https://github.com/Aaron617/agent-arXiv-daily) |
 | 2026-09-21 | 2026-09-21 | End-to-end Jordanian dialect speech-to-text self-supervised learning framework | Ali A. Safieh et al. | [2609.24410](https://arxiv.org/abs/2609.24410) | [PDF](https://arxiv.org/pdf/2609.24410) | [候选仓库](https://github.com/BaiShuanghao/my_arXiv_daily) |
 | 2026-09-21 | 2026-09-21 | Vimarsha: Faithful ASR Evaluation for Indian Languages with Demographic Diversity, In-the-Wild Audio and Spelling Variations | Kaushal Santosh Bhogale et al. | [2609.24199](https://arxiv.org/abs/2609.24199) | [PDF](https://arxiv.org/pdf/2609.24199) | [候选仓库](https://github.com/Tavish9/awesome-daily-AI-arxiv) |
 | 2026-09-21 | 2026-09-21 | AURA: Uncertainty-Routed Activation Editing for Acoustic Grounding in Speech Foundation Models | Natarajan Balaji Shankar et al. | [2609.23979](https://arxiv.org/abs/2609.23979) | [PDF](https://arxiv.org/pdf/2609.23979) | [候选仓库](https://github.com/skywuxuan/ASR-arxiv-daily) |
