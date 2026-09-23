@@ -8,7 +8,7 @@ layout: default
 
 [使用与部署说明](./README.html#usage)
 
-> 最近成功抓取：2026-09-22T16:36:20+00:00（UTC）
+> 最近成功抓取：2026-09-23T04:01:51+00:00（UTC）
 
 每 12 小时检索一次，按首次提交日期倒序排列，历史论文会持续保留。
 
@@ -18,16 +18,19 @@ layout: default
 
 | 首次提交 | 更新日期 | 标题 | 作者 | arXiv | PDF | 代码 |
 | --- | --- | --- | --- | --- | --- | --- |
+| 2026-09-22 | 2026-09-22 | Persistent Delivery Optimization for Streaming Speech-to-Text Translation with Revisions | Zixiang Wan et al. | [2609.26427](https://arxiv.org/abs/2609.26427) | [PDF](https://arxiv.org/pdf/2609.26427) | [论文链接](https://github.com/ggiggit/PDO_S2TT) |
+| 2026-09-22 | 2026-09-22 | From Reliable Text to Real Voices: Trust-Aware Progressive Adaptation for Low-Resource TTS | Jiayi Lu et al. | [2609.25951](https://arxiv.org/abs/2609.25951) | [PDF](https://arxiv.org/pdf/2609.25951) | [候选仓库](https://github.com/liutaocode/TTS-arxiv-daily) |
+| 2026-09-21 | 2026-09-21 | Qwen-Audio-3.1-Realtime: Towards Reliable Agentic Voice Interaction | Lujia Bao et al. | [2609.25176](https://arxiv.org/abs/2609.25176) | [PDF](https://arxiv.org/pdf/2609.25176) | — |
 | 2026-09-21 | 2026-09-21 | End-to-end Jordanian dialect speech-to-text self-supervised learning framework | Ali A. Safieh et al. | [2609.24410](https://arxiv.org/abs/2609.24410) | [PDF](https://arxiv.org/pdf/2609.24410) | [候选仓库](https://github.com/BaiShuanghao/my_arXiv_daily) |
 | 2026-09-21 | 2026-09-21 | Vimarsha: Faithful ASR Evaluation for Indian Languages with Demographic Diversity, In-the-Wild Audio and Spelling Variations | Kaushal Santosh Bhogale et al. | [2609.24199](https://arxiv.org/abs/2609.24199) | [PDF](https://arxiv.org/pdf/2609.24199) | [候选仓库](https://github.com/Tavish9/awesome-daily-AI-arxiv) |
-| 2026-09-21 | 2026-09-21 | AURA: Uncertainty-Routed Activation Editing for Acoustic Grounding in Speech Foundation Models | Natarajan Balaji Shankar et al. | [2609.23979](https://arxiv.org/abs/2609.23979) | [PDF](https://arxiv.org/pdf/2609.23979) | — |
+| 2026-09-21 | 2026-09-21 | AURA: Uncertainty-Routed Activation Editing for Acoustic Grounding in Speech Foundation Models | Natarajan Balaji Shankar et al. | [2609.23979](https://arxiv.org/abs/2609.23979) | [PDF](https://arxiv.org/pdf/2609.23979) | [候选仓库](https://github.com/skywuxuan/ASR-arxiv-daily) |
 | 2026-09-20 | 2026-09-20 | HaikuS2S: A Cascaded System For Responding In Verse | Devangi Sharma et al. | [2609.23951](https://arxiv.org/abs/2609.23951) | [PDF](https://arxiv.org/pdf/2609.23951) | [候选仓库](https://github.com/liutaocode/TTS-arxiv-daily) |
 | 2026-09-20 | 2026-09-20 | Federated Multilingual Speech-LLMs: Architecture and Aggregation Strategy Benchmarking | Jordi Luque et al. | [2609.23825](https://arxiv.org/abs/2609.23825) | [PDF](https://arxiv.org/pdf/2609.23825) | [候选仓库](https://github.com/Tavish9/awesome-daily-AI-arxiv) |
-| 2026-09-20 | 2026-09-20 | Beyond Encoder Fusion: Multi-View Discrete Token Augmentation for LLM-Based ASR | Paul Moïse Gangbadja et al. | [2609.23525](https://arxiv.org/abs/2609.23525) | [PDF](https://arxiv.org/pdf/2609.23525) | — |
-| 2026-09-20 | 2026-09-20 | Long-Tail Rebalancing for Non-Verbal Vocalization-Aware ASR: A Track~1 System for the NVVSpeech Challenge | Shangyue Jia et al. | [2609.23462](https://arxiv.org/abs/2609.23462) | [PDF](https://arxiv.org/pdf/2609.23462) | — |
+| 2026-09-20 | 2026-09-20 | Beyond Encoder Fusion: Multi-View Discrete Token Augmentation for LLM-Based ASR | Paul Moïse Gangbadja et al. | [2609.23525](https://arxiv.org/abs/2609.23525) | [PDF](https://arxiv.org/pdf/2609.23525) | [候选仓库](https://github.com/skywuxuan/ASR-arxiv-daily) |
+| 2026-09-20 | 2026-09-20 | Long-Tail Rebalancing for Non-Verbal Vocalization-Aware ASR: A Track~1 System for the NVVSpeech Challenge | Shangyue Jia et al. | [2609.23462](https://arxiv.org/abs/2609.23462) | [PDF](https://arxiv.org/pdf/2609.23462) | [候选仓库](https://github.com/skywuxuan/ASR-arxiv-daily) |
 | 2026-09-19 | 2026-09-19 | Low resource cross-modal alignment using HGNN to enhance speech representation | Yannick Yomie Nzeuhang et al. | [2609.23191](https://arxiv.org/abs/2609.23191) | [PDF](https://arxiv.org/pdf/2609.23191) | [候选仓库](https://github.com/Tavish9/awesome-daily-AI-arxiv) |
-| 2026-09-19 | 2026-09-19 | Speech Language Models for Full-Meeting Speaker Diarization: Capabilities and Limitations | Jialu Li et al. | [2609.23114](https://arxiv.org/abs/2609.23114) | [PDF](https://arxiv.org/pdf/2609.23114) | — |
-| 2026-09-19 | 2026-09-19 | ParA-LLM: A Unified Approach to Paralinguistic and Acoustic Speech Understanding | Nishit Anand et al. | [2609.22771](https://arxiv.org/abs/2609.22771) | [PDF](https://arxiv.org/pdf/2609.22771) | — |
+| 2026-09-19 | 2026-09-19 | Speech Language Models for Full-Meeting Speaker Diarization: Capabilities and Limitations | Jialu Li et al. | [2609.23114](https://arxiv.org/abs/2609.23114) | [PDF](https://arxiv.org/pdf/2609.23114) | [候选仓库](https://github.com/skywuxuan/ASR-arxiv-daily) |
+| 2026-09-19 | 2026-09-19 | ParA-LLM: A Unified Approach to Paralinguistic and Acoustic Speech Understanding | Nishit Anand et al. | [2609.22771](https://arxiv.org/abs/2609.22771) | [PDF](https://arxiv.org/pdf/2609.22771) | [候选仓库](https://github.com/skywuxuan/ASR-arxiv-daily) |
 | 2026-09-18 | 2026-09-18 | NemotronLabs VoiceChat: An Open Full-duplex Speech-to-Speech Model with Tool Calling Capabilities | Jagadeesh Balam et al. | [2609.21967](https://arxiv.org/abs/2609.21967) | [PDF](https://arxiv.org/pdf/2609.21967) | [候选仓库](https://github.com/Tavish9/awesome-daily-AI-arxiv) |
 | 2026-09-18 | 2026-09-18 | Reusing Latent Speech Representations for Query-Conditioned Topic Localization in Transcripts | Steffen Freisinger et al. | [2609.21844](https://arxiv.org/abs/2609.21844) | [PDF](https://arxiv.org/pdf/2609.21844) | [候选仓库](https://github.com/InsomaniacElf/sg-tamil-tts-resources) |
 | 2026-09-18 | 2026-09-18 | The Spoken Wikipedia Presentation Corpus | Thomas Ranzenberger et al. | [2609.21676](https://arxiv.org/abs/2609.21676) | [PDF](https://arxiv.org/pdf/2609.21676) | [候选仓库](https://github.com/InsomaniacElf/sg-tamil-tts-resources) |

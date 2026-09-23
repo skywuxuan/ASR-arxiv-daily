@@ -1,5 +1,5 @@
 {
-  "last_fetched": "2026-09-22T16:36:20+00:00",
+  "last_fetched": "2026-09-23T04:01:51+00:00",
   "topics": {
     "ASR": {
       "2609.18748": {
@@ -1313,9 +1313,9 @@
         "updated": "2026-09-21",
         "url": "https://arxiv.org/abs/2609.23979",
         "pdf_url": "https://arxiv.org/pdf/2609.23979",
-        "code_url": null,
-        "code_source": null,
-        "code_checked_at": "2026-09-22T16:36:24+00:00"
+        "code_url": "https://github.com/skywuxuan/ASR-arxiv-daily",
+        "code_source": "github_search",
+        "code_checked_at": "2026-09-23T04:01:56+00:00"
       },
       "2609.23951": {
         "title": "HaikuS2S: A Cascaded System For Responding In Verse",
@@ -1360,9 +1360,9 @@
         "updated": "2026-09-20",
         "url": "https://arxiv.org/abs/2609.23525",
         "pdf_url": "https://arxiv.org/pdf/2609.23525",
-        "code_url": null,
-        "code_source": null,
-        "code_checked_at": "2026-09-22T16:36:30+00:00"
+        "code_url": "https://github.com/skywuxuan/ASR-arxiv-daily",
+        "code_source": "github_search",
+        "code_checked_at": "2026-09-23T04:01:58+00:00"
       },
       "2609.23462": {
         "title": "Long-Tail Rebalancing for Non-Verbal Vocalization-Aware ASR: A Track~1 System for the NVVSpeech Challenge",
@@ -1384,9 +1384,9 @@
         "updated": "2026-09-20",
         "url": "https://arxiv.org/abs/2609.23462",
         "pdf_url": "https://arxiv.org/pdf/2609.23462",
-        "code_url": null,
-        "code_source": null,
-        "code_checked_at": "2026-09-22T16:36:32+00:00"
+        "code_url": "https://github.com/skywuxuan/ASR-arxiv-daily",
+        "code_source": "github_search",
+        "code_checked_at": "2026-09-23T04:02:00+00:00"
       },
       "2609.23191": {
         "title": "Low resource cross-modal alignment using HGNN to enhance speech representation",
@@ -1414,9 +1414,9 @@
         "updated": "2026-09-19",
         "url": "https://arxiv.org/abs/2609.23114",
         "pdf_url": "https://arxiv.org/pdf/2609.23114",
-        "code_url": null,
-        "code_source": null,
-        "code_checked_at": "2026-09-22T16:36:37+00:00"
+        "code_url": "https://github.com/skywuxuan/ASR-arxiv-daily",
+        "code_source": "github_search",
+        "code_checked_at": "2026-09-23T04:02:02+00:00"
       },
       "2609.22771": {
         "title": "ParA-LLM: A Unified Approach to Paralinguistic and Acoustic Speech Understanding",
@@ -1434,9 +1434,74 @@
         "updated": "2026-09-19",
         "url": "https://arxiv.org/abs/2609.22771",
         "pdf_url": "https://arxiv.org/pdf/2609.22771",
+        "code_url": "https://github.com/skywuxuan/ASR-arxiv-daily",
+        "code_source": "github_search",
+        "code_checked_at": "2026-09-23T04:02:04+00:00"
+      },
+      "2609.26427": {
+        "title": "Persistent Delivery Optimization for Streaming Speech-to-Text Translation with Revisions",
+        "authors": [
+          "Zixiang Wan",
+          "Delin Chen",
+          "Wei Shi",
+          "Haihua Xu",
+          "Youxi Xie",
+          "Yuexian Zou"
+        ],
+        "published": "2026-09-22",
+        "updated": "2026-09-22",
+        "url": "https://arxiv.org/abs/2609.26427",
+        "pdf_url": "https://arxiv.org/pdf/2609.26427",
+        "code_url": "https://github.com/ggiggit/PDO_S2TT",
+        "code_source": "paper"
+      },
+      "2609.25951": {
+        "title": "From Reliable Text to Real Voices: Trust-Aware Progressive Adaptation for Low-Resource TTS",
+        "authors": [
+          "Jiayi Lu",
+          "Yizhong Geng",
+          "Jinghan Yang",
+          "Tianhan Jiang",
+          "Boxun An",
+          "Yingming Gao",
+          "Ya Li"
+        ],
+        "published": "2026-09-22",
+        "updated": "2026-09-22",
+        "url": "https://arxiv.org/abs/2609.25951",
+        "pdf_url": "https://arxiv.org/pdf/2609.25951",
+        "code_url": "https://github.com/liutaocode/TTS-arxiv-daily",
+        "code_source": "github_search",
+        "code_checked_at": "2026-09-23T04:01:52+00:00"
+      },
+      "2609.25176": {
+        "title": "Qwen-Audio-3.1-Realtime: Towards Reliable Agentic Voice Interaction",
+        "authors": [
+          "Lujia Bao",
+          "Qian Chen",
+          "Luyao Cheng",
+          "Chong Deng",
+          "Yuxiang Kong",
+          "Xiangang Li",
+          "Xu Li",
+          "Jiaqing Liu",
+          "Chao-Hong Tan",
+          "Haoyu Wang",
+          "Wen Wang",
+          "Xilou Wang",
+          "Junhao Xu",
+          "Liang Yi",
+          "Binbin Zhang",
+          "Qinglin Zhang",
+          "Qiquan Zhang"
+        ],
+        "published": "2026-09-21",
+        "updated": "2026-09-21",
+        "url": "https://arxiv.org/abs/2609.25176",
+        "pdf_url": "https://arxiv.org/pdf/2609.25176",
         "code_url": null,
         "code_source": null,
-        "code_checked_at": "2026-09-22T16:36:39+00:00"
+        "code_checked_at": "2026-09-23T04:01:53+00:00"
       }
     }
   }
