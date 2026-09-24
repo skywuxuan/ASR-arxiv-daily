@@ -1,5 +1,5 @@
 {
-  "last_fetched": "2026-09-24T03:57:12+00:00",
+  "last_fetched": "2026-09-24T16:48:25+00:00",
   "topics": {
     "ASR": {
       "2609.18748": {
@@ -1534,9 +1534,9 @@
         "updated": "2026-09-23",
         "url": "https://arxiv.org/abs/2609.27514",
         "pdf_url": "https://arxiv.org/pdf/2609.27514",
-        "code_url": null,
-        "code_source": null,
-        "code_checked_at": "2026-09-24T03:57:13+00:00"
+        "code_url": "https://github.com/InsomaniacElf/sg-tamil-tts-resources",
+        "code_source": "github_search",
+        "code_checked_at": "2026-09-24T16:48:25+00:00"
       },
       "2609.27289": {
         "title": "Ruby-ASR: Evidence-Preserving Supervision for Joint Orthographic and Lexical-Reading Recognition",
@@ -1569,9 +1569,9 @@
         "updated": "2026-09-23",
         "url": "https://arxiv.org/abs/2609.27195",
         "pdf_url": "https://arxiv.org/pdf/2609.27195",
-        "code_url": null,
-        "code_source": null,
-        "code_checked_at": "2026-09-24T03:57:17+00:00"
+        "code_url": "https://github.com/skywuxuan/ASR-arxiv-daily",
+        "code_source": "github_search",
+        "code_checked_at": "2026-09-24T16:48:27+00:00"
       },
       "2609.27086": {
         "title": "NADI 2026: The Second Multidialectal Arabic Speech Processing Shared Task",
@@ -1610,9 +1610,9 @@
         "updated": "2026-09-22",
         "url": "https://arxiv.org/abs/2609.26937",
         "pdf_url": "https://arxiv.org/pdf/2609.26937",
-        "code_url": null,
-        "code_source": null,
-        "code_checked_at": "2026-09-24T03:57:21+00:00"
+        "code_url": "https://github.com/skywuxuan/ASR-arxiv-daily",
+        "code_source": "github_search",
+        "code_checked_at": "2026-09-24T16:48:29+00:00"
       }
     }
   }
