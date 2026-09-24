@@ -8,7 +8,7 @@ layout: default
 
 [使用与部署说明](./README.html#usage)
 
-> 最近成功抓取：2026-09-23T16:27:53+00:00（UTC）
+> 最近成功抓取：2026-09-24T03:57:12+00:00（UTC）
 
 每 12 小时检索一次，按首次提交日期倒序排列，历史论文会持续保留。
 
@@ -18,6 +18,12 @@ layout: default
 
 | 首次提交 | 更新日期 | 标题 | 作者 | arXiv | PDF | 代码 |
 | --- | --- | --- | --- | --- | --- | --- |
+| 2026-09-23 | 2026-09-23 | Six Layers Less: Encoder Pruning for Whisper with Label-Free Recovery | Rasmus Aagaard et al. | [2609.27980](https://arxiv.org/abs/2609.27980) | [PDF](https://arxiv.org/pdf/2609.27980) | [论文链接](https://github.com/rasgaard/whisper-encoder-layer-prune) |
+| 2026-09-23 | 2026-09-23 | The Second MLC-SLM Challenge: Multilingual Conversational Speech Diarization, Recognition, and Understanding | Bingshen Mu et al. | [2609.27514](https://arxiv.org/abs/2609.27514) | [PDF](https://arxiv.org/pdf/2609.27514) | — |
+| 2026-09-23 | 2026-09-23 | Ruby-ASR: Evidence-Preserving Supervision for Joint Orthographic and Lexical-Reading Recognition | Hao Shi et al. | [2609.27289](https://arxiv.org/abs/2609.27289) | [PDF](https://arxiv.org/pdf/2609.27289) | [候选仓库](https://github.com/hshi-speech/Ruby-ASR-1.7B) |
+| 2026-09-23 | 2026-09-23 | Quieter Than the Room: Representation Drift and Task Robustness in Speech Encoders | Vsevolod Kovalev et al. | [2609.27195](https://arxiv.org/abs/2609.27195) | [PDF](https://arxiv.org/pdf/2609.27195) | — |
+| 2026-09-22 | 2026-09-22 | NADI 2026: The Second Multidialectal Arabic Speech Processing Shared Task | Peter Sullivan et al. | [2609.27086](https://arxiv.org/abs/2609.27086) | [PDF](https://arxiv.org/pdf/2609.27086) | [候选仓库](https://github.com/liutaocode/TTS-arxiv-daily) |
+| 2026-09-22 | 2026-09-22 | A Temporal-Envelope Frontend with Learnable Per-Channel Energy Normalization for Whisper-Based Children's ASR | Edem Ahadzi et al. | [2609.26937](https://arxiv.org/abs/2609.26937) | [PDF](https://arxiv.org/pdf/2609.26937) | — |
 | 2026-09-22 | 2026-09-22 | Persistent Delivery Optimization for Streaming Speech-to-Text Translation with Revisions | Zixiang Wan et al. | [2609.26427](https://arxiv.org/abs/2609.26427) | [PDF](https://arxiv.org/pdf/2609.26427) | [论文链接](https://github.com/ggiggit/PDO_S2TT) |
 | 2026-09-22 | 2026-09-22 | From Reliable Text to Real Voices: Trust-Aware Progressive Adaptation for Low-Resource TTS | Jiayi Lu et al. | [2609.25951](https://arxiv.org/abs/2609.25951) | [PDF](https://arxiv.org/pdf/2609.25951) | [候选仓库](https://github.com/liutaocode/TTS-arxiv-daily) |
 | 2026-09-21 | 2026-09-21 | Qwen-Audio-3.1-Realtime: Towards Reliable Agentic Voice Interaction | Lujia Bao et al. | [2609.25176](https://arxiv.org/abs/2609.25176) | [PDF](https://arxiv.org/pdf/2609.25176) | [候选仓库](https://github.com/Aaron617/agent-arXiv-daily) |
@@ -27,7 +33,7 @@ layout: default
 | 2026-09-20 | 2026-09-20 | HaikuS2S: A Cascaded System For Responding In Verse | Devangi Sharma et al. | [2609.23951](https://arxiv.org/abs/2609.23951) | [PDF](https://arxiv.org/pdf/2609.23951) | [候选仓库](https://github.com/liutaocode/TTS-arxiv-daily) |
 | 2026-09-20 | 2026-09-20 | Federated Multilingual Speech-LLMs: Architecture and Aggregation Strategy Benchmarking | Jordi Luque et al. | [2609.23825](https://arxiv.org/abs/2609.23825) | [PDF](https://arxiv.org/pdf/2609.23825) | [候选仓库](https://github.com/Tavish9/awesome-daily-AI-arxiv) |
 | 2026-09-20 | 2026-09-20 | Beyond Encoder Fusion: Multi-View Discrete Token Augmentation for LLM-Based ASR | Paul Moïse Gangbadja et al. | [2609.23525](https://arxiv.org/abs/2609.23525) | [PDF](https://arxiv.org/pdf/2609.23525) | [候选仓库](https://github.com/skywuxuan/ASR-arxiv-daily) |
-| 2026-09-20 | 2026-09-20 | Long-Tail Rebalancing for Non-Verbal Vocalization-Aware ASR: A Track~1 System for the NVVSpeech Challenge | Shangyue Jia et al. | [2609.23462](https://arxiv.org/abs/2609.23462) | [PDF](https://arxiv.org/pdf/2609.23462) | [候选仓库](https://github.com/skywuxuan/ASR-arxiv-daily) |
+| 2026-09-20 | 2026-09-23 | Long-Tail Rebalancing for Non-Verbal Vocalization-Aware ASR: A Track 1 System for the NVVSpeech Challenge | Shangyue Jia et al. | [2609.23462](https://arxiv.org/abs/2609.23462) | [PDF](https://arxiv.org/pdf/2609.23462) | [候选仓库](https://github.com/skywuxuan/ASR-arxiv-daily) |
 | 2026-09-19 | 2026-09-19 | Low resource cross-modal alignment using HGNN to enhance speech representation | Yannick Yomie Nzeuhang et al. | [2609.23191](https://arxiv.org/abs/2609.23191) | [PDF](https://arxiv.org/pdf/2609.23191) | [候选仓库](https://github.com/Tavish9/awesome-daily-AI-arxiv) |
 | 2026-09-19 | 2026-09-19 | Speech Language Models for Full-Meeting Speaker Diarization: Capabilities and Limitations | Jialu Li et al. | [2609.23114](https://arxiv.org/abs/2609.23114) | [PDF](https://arxiv.org/pdf/2609.23114) | [候选仓库](https://github.com/skywuxuan/ASR-arxiv-daily) |
 | 2026-09-19 | 2026-09-19 | ParA-LLM: A Unified Approach to Paralinguistic and Acoustic Speech Understanding | Nishit Anand et al. | [2609.22771](https://arxiv.org/abs/2609.22771) | [PDF](https://arxiv.org/pdf/2609.22771) | [候选仓库](https://github.com/skywuxuan/ASR-arxiv-daily) |

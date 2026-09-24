@@ -1,5 +1,5 @@
 {
-  "last_fetched": "2026-09-23T16:27:53+00:00",
+  "last_fetched": "2026-09-24T03:57:12+00:00",
   "topics": {
     "ASR": {
       "2609.18748": {
@@ -1365,7 +1365,7 @@
         "code_checked_at": "2026-09-23T04:01:58+00:00"
       },
       "2609.23462": {
-        "title": "Long-Tail Rebalancing for Non-Verbal Vocalization-Aware ASR: A Track~1 System for the NVVSpeech Challenge",
+        "title": "Long-Tail Rebalancing for Non-Verbal Vocalization-Aware ASR: A Track 1 System for the NVVSpeech Challenge",
         "authors": [
           "Shangyue Jia",
           "Jingru Ma",
@@ -1376,12 +1376,12 @@
           "Wenze Ren",
           "Yunxiang Chen",
           "Houdun Liu",
-          "Shuo Feng",
+          "Su Feng",
           "Lei Xie",
           "Liumeng Xue"
         ],
         "published": "2026-09-20",
-        "updated": "2026-09-20",
+        "updated": "2026-09-23",
         "url": "https://arxiv.org/abs/2609.23462",
         "pdf_url": "https://arxiv.org/pdf/2609.23462",
         "code_url": "https://github.com/skywuxuan/ASR-arxiv-daily",
@@ -1502,6 +1502,117 @@
         "code_url": "https://github.com/Aaron617/agent-arXiv-daily",
         "code_source": "github_search",
         "code_checked_at": "2026-09-23T16:27:53+00:00"
+      },
+      "2609.27980": {
+        "title": "Six Layers Less: Encoder Pruning for Whisper with Label-Free Recovery",
+        "authors": [
+          "Rasmus Aagaard",
+          "Nicki Skafte Detlefsen"
+        ],
+        "published": "2026-09-23",
+        "updated": "2026-09-23",
+        "url": "https://arxiv.org/abs/2609.27980",
+        "pdf_url": "https://arxiv.org/pdf/2609.27980",
+        "code_url": "https://github.com/rasgaard/whisper-encoder-layer-prune",
+        "code_source": "paper"
+      },
+      "2609.27514": {
+        "title": "The Second MLC-SLM Challenge: Multilingual Conversational Speech Diarization, Recognition, and Understanding",
+        "authors": [
+          "Bingshen Mu",
+          "Mingchen Shao",
+          "Zhennan Lin",
+          "Liumeng Xue",
+          "Hexin Liu",
+          "Lei Xie",
+          "Eng Siong Chng",
+          "Longshuai Xiao",
+          "Qiangze Feng",
+          "Daliang Wang"
+        ],
+        "published": "2026-09-23",
+        "updated": "2026-09-23",
+        "url": "https://arxiv.org/abs/2609.27514",
+        "pdf_url": "https://arxiv.org/pdf/2609.27514",
+        "code_url": null,
+        "code_source": null,
+        "code_checked_at": "2026-09-24T03:57:13+00:00"
+      },
+      "2609.27289": {
+        "title": "Ruby-ASR: Evidence-Preserving Supervision for Joint Orthographic and Lexical-Reading Recognition",
+        "authors": [
+          "Hao Shi",
+          "Yun Liu",
+          "Xuehao Yang",
+          "Jun Liu",
+          "Chuanbo Hua",
+          "Xuanjun Chen",
+          "Lianbo Liu",
+          "Shiao Zhu",
+          "Zixiong Su"
+        ],
+        "published": "2026-09-23",
+        "updated": "2026-09-23",
+        "url": "https://arxiv.org/abs/2609.27289",
+        "pdf_url": "https://arxiv.org/pdf/2609.27289",
+        "code_url": "https://github.com/hshi-speech/Ruby-ASR-1.7B",
+        "code_source": "github_search",
+        "code_checked_at": "2026-09-24T03:57:15+00:00"
+      },
+      "2609.27195": {
+        "title": "Quieter Than the Room: Representation Drift and Task Robustness in Speech Encoders",
+        "authors": [
+          "Vsevolod Kovalev",
+          "Pranay Manocha"
+        ],
+        "published": "2026-09-23",
+        "updated": "2026-09-23",
+        "url": "https://arxiv.org/abs/2609.27195",
+        "pdf_url": "https://arxiv.org/pdf/2609.27195",
+        "code_url": null,
+        "code_source": null,
+        "code_checked_at": "2026-09-24T03:57:17+00:00"
+      },
+      "2609.27086": {
+        "title": "NADI 2026: The Second Multidialectal Arabic Speech Processing Shared Task",
+        "authors": [
+          "Peter Sullivan",
+          "Bashar Talafha",
+          "Ahmed Ashraf",
+          "Fethi Bougares",
+          "Haroun Elleuch",
+          "Chiyu Zhang",
+          "AbdelRahim Elmadany",
+          "Youssef Mohamed",
+          "Salima Mdhaffar",
+          "Yannick Estève",
+          "Mohamed Elhoseiny",
+          "Hamzah Luqman",
+          "Nizar Habash",
+          "Muhammad Abdul-Mageed"
+        ],
+        "published": "2026-09-22",
+        "updated": "2026-09-22",
+        "url": "https://arxiv.org/abs/2609.27086",
+        "pdf_url": "https://arxiv.org/pdf/2609.27086",
+        "code_url": "https://github.com/liutaocode/TTS-arxiv-daily",
+        "code_source": "github_search",
+        "code_checked_at": "2026-09-24T03:57:19+00:00"
+      },
+      "2609.26937": {
+        "title": "A Temporal-Envelope Frontend with Learnable Per-Channel Energy Normalization for Whisper-Based Children's ASR",
+        "authors": [
+          "Edem Ahadzi",
+          "Ruchi Pandey",
+          "Tomi H. Kinnunen"
+        ],
+        "published": "2026-09-22",
+        "updated": "2026-09-22",
+        "url": "https://arxiv.org/abs/2609.26937",
+        "pdf_url": "https://arxiv.org/pdf/2609.26937",
+        "code_url": null,
+        "code_source": null,
+        "code_checked_at": "2026-09-24T03:57:21+00:00"
       }
     }
   }
