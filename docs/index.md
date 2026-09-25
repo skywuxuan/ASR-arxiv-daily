@@ -8,7 +8,7 @@ layout: default
 
 [使用与部署说明](./README.html#usage)
 
-> 最近成功抓取：2026-09-24T16:48:25+00:00（UTC）
+> 最近成功抓取：2026-09-25T04:11:37+00:00（UTC）
 
 每 12 小时检索一次，按首次提交日期倒序排列，历史论文会持续保留。
 
@@ -18,6 +18,23 @@ layout: default
 
 | 首次提交 | 更新日期 | 标题 | 作者 | arXiv | PDF | 代码 |
 | --- | --- | --- | --- | --- | --- | --- |
+| 2026-09-24 | 2026-09-24 | Do Audio Language Models Hear and Read Distinctive Features Alike? | Yuanhao Chen et al. | [2609.30167](https://arxiv.org/abs/2609.30167) | [PDF](https://arxiv.org/pdf/2609.30167) | — |
+| 2026-09-24 | 2026-09-24 | A Training Criterion with Token-Level Tolerance to Transcription Ambiguity for Automatic Speech Recognition | Saurabh Kumar et al. | [2609.30160](https://arxiv.org/abs/2609.30160) | [PDF](https://arxiv.org/pdf/2609.30160) | — |
+| 2026-09-24 | 2026-09-24 | VietPrism: A large-scale Vietnamese speech and deepfake corpus with diverse dialects and code-switching | Minh Hoang et al. | [2609.30005](https://arxiv.org/abs/2609.30005) | [PDF](https://arxiv.org/pdf/2609.30005) | — |
+| 2026-09-24 | 2026-09-24 | STAM-ASR: Speaker-Temporal Anchoring with Memory for Multi-Speaker ASR | Victor Tolulope Olufemi et al. | [2609.29805](https://arxiv.org/abs/2609.29805) | [PDF](https://arxiv.org/pdf/2609.29805) | — |
+| 2026-09-24 | 2026-09-24 | Adaptive Fisher-Whitened Cross-Covariance for Low-Resource Speech Recognition | Asmee Mishra et al. | [2609.29800](https://arxiv.org/abs/2609.29800) | [PDF](https://arxiv.org/pdf/2609.29800) | — |
+| 2026-09-24 | 2026-09-24 | Benchmarking and Domain Adaptation of Automatic Speech Recognition (ASR) for Adolescent Health Communication in Ghanaian Languages | Stephen E. Moore et al. | [2609.29798](https://arxiv.org/abs/2609.29798) | [PDF](https://arxiv.org/pdf/2609.29798) | — |
+| 2026-09-24 | 2026-09-24 | Joint Analysis of Latent Dimensionality and Frame Rate in Continuous Audio Encoders | Kyudan Jung et al. | [2609.29780](https://arxiv.org/abs/2609.29780) | [PDF](https://arxiv.org/pdf/2609.29780) | — |
+| 2026-09-24 | 2026-09-24 | TS-OPD: Reconciling ASR and QA in Speech Language Models via Task-Specific On-Policy Distillation | Yujie Guo et al. | [2609.29464](https://arxiv.org/abs/2609.29464) | [PDF](https://arxiv.org/pdf/2609.29464) | — |
+| 2026-09-24 | 2026-09-24 | YODAS v3: Over 1 Million Hours of High-Bandwidth, Stereophonic, Multilingual Speech | William Chen et al. | [2609.29448](https://arxiv.org/abs/2609.29448) | [PDF](https://arxiv.org/pdf/2609.29448) | — |
+| 2026-09-24 | 2026-09-24 | agentic-ger: terminology recovery in long-form speech using global context | Yanqiao Zhu et al. | [2609.29428](https://arxiv.org/abs/2609.29428) | [PDF](https://arxiv.org/pdf/2609.29428) | — |
+| 2026-09-24 | 2026-09-24 | BanglaKontho: Closing the Long-Form Gap in Bangla Text-to-Speech | Mizbaul Haque Maruf | [2609.29146](https://arxiv.org/abs/2609.29146) | [PDF](https://arxiv.org/pdf/2609.29146) | — |
+| 2026-09-24 | 2026-09-24 | Personalized Korean Lipreading as Visual Speech Recognition: Transfer, Census and Adaptation on OLKAVS | Se Un Park et al. | [2609.28988](https://arxiv.org/abs/2609.28988) | [PDF](https://arxiv.org/pdf/2609.28988) | — |
+| 2026-09-24 | 2026-09-24 | AnomaSense: Anomaly-based Sensor Activation for Fine-Grained Human Activity Recognition | Xue Wang et al. | [2609.28936](https://arxiv.org/abs/2609.28936) | [PDF](https://arxiv.org/pdf/2609.28936) | — |
+| 2026-09-24 | 2026-09-24 | Learning New Words from Unlabeled Test Data in Automatic Speech Recognition | Mengqi Wang et al. | [2609.28877](https://arxiv.org/abs/2609.28877) | [PDF](https://arxiv.org/pdf/2609.28877) | — |
+| 2026-09-23 | 2026-09-23 | Temporal Taxation Compounds Under Post-Training Compression of Whisper Models | Srishti Ginjala et al. | [2609.28739](https://arxiv.org/abs/2609.28739) | [PDF](https://arxiv.org/pdf/2609.28739) | — |
+| 2026-09-23 | 2026-09-23 | PTC-Bias: Phoneme-Level Temporal Competition for Bias Retrieval and Post-Decoding Correction in Speech LLMs | Zhiqi Ai et al. | [2609.28727](https://arxiv.org/abs/2609.28727) | [PDF](https://arxiv.org/pdf/2609.28727) | — |
+| 2026-09-23 | 2026-09-23 | ASR ensembling for phoneme intelligibility evaluation of speech anonymizers | Victor Ménestrel et al. | [2609.28577](https://arxiv.org/abs/2609.28577) | [PDF](https://arxiv.org/pdf/2609.28577) | — |
 | 2026-09-23 | 2026-09-23 | Six Layers Less: Encoder Pruning for Whisper with Label-Free Recovery | Rasmus Aagaard et al. | [2609.27980](https://arxiv.org/abs/2609.27980) | [PDF](https://arxiv.org/pdf/2609.27980) | [论文链接](https://github.com/rasgaard/whisper-encoder-layer-prune) |
 | 2026-09-23 | 2026-09-23 | The Second MLC-SLM Challenge: Multilingual Conversational Speech Diarization, Recognition, and Understanding | Bingshen Mu et al. | [2609.27514](https://arxiv.org/abs/2609.27514) | [PDF](https://arxiv.org/pdf/2609.27514) | [候选仓库](https://github.com/InsomaniacElf/sg-tamil-tts-resources) |
 | 2026-09-23 | 2026-09-23 | Ruby-ASR: Evidence-Preserving Supervision for Joint Orthographic and Lexical-Reading Recognition | Hao Shi et al. | [2609.27289](https://arxiv.org/abs/2609.27289) | [PDF](https://arxiv.org/pdf/2609.27289) | [候选仓库](https://github.com/hshi-speech/Ruby-ASR-1.7B) |
@@ -26,7 +43,7 @@ layout: default
 | 2026-09-22 | 2026-09-22 | A Temporal-Envelope Frontend with Learnable Per-Channel Energy Normalization for Whisper-Based Children's ASR | Edem Ahadzi et al. | [2609.26937](https://arxiv.org/abs/2609.26937) | [PDF](https://arxiv.org/pdf/2609.26937) | [候选仓库](https://github.com/skywuxuan/ASR-arxiv-daily) |
 | 2026-09-22 | 2026-09-22 | Persistent Delivery Optimization for Streaming Speech-to-Text Translation with Revisions | Zixiang Wan et al. | [2609.26427](https://arxiv.org/abs/2609.26427) | [PDF](https://arxiv.org/pdf/2609.26427) | [论文链接](https://github.com/ggiggit/PDO_S2TT) |
 | 2026-09-22 | 2026-09-22 | From Reliable Text to Real Voices: Trust-Aware Progressive Adaptation for Low-Resource TTS | Jiayi Lu et al. | [2609.25951](https://arxiv.org/abs/2609.25951) | [PDF](https://arxiv.org/pdf/2609.25951) | [候选仓库](https://github.com/liutaocode/TTS-arxiv-daily) |
-| 2026-09-21 | 2026-09-21 | Qwen-Audio-3.1-Realtime: Towards Reliable Agentic Voice Interaction | Lujia Bao et al. | [2609.25176](https://arxiv.org/abs/2609.25176) | [PDF](https://arxiv.org/pdf/2609.25176) | [候选仓库](https://github.com/Aaron617/agent-arXiv-daily) |
+| 2026-09-21 | 2026-09-24 | Qwen-Audio-3.1-Realtime: Towards Reliable Agentic Voice Interaction | Lujia Bao et al. | [2609.25176](https://arxiv.org/abs/2609.25176) | [PDF](https://arxiv.org/pdf/2609.25176) | [候选仓库](https://github.com/Aaron617/agent-arXiv-daily) |
 | 2026-09-21 | 2026-09-21 | End-to-end Jordanian dialect speech-to-text self-supervised learning framework | Ali A. Safieh et al. | [2609.24410](https://arxiv.org/abs/2609.24410) | [PDF](https://arxiv.org/pdf/2609.24410) | [候选仓库](https://github.com/BaiShuanghao/my_arXiv_daily) |
 | 2026-09-21 | 2026-09-21 | Vimarsha: Faithful ASR Evaluation for Indian Languages with Demographic Diversity, In-the-Wild Audio and Spelling Variations | Kaushal Santosh Bhogale et al. | [2609.24199](https://arxiv.org/abs/2609.24199) | [PDF](https://arxiv.org/pdf/2609.24199) | [候选仓库](https://github.com/Tavish9/awesome-daily-AI-arxiv) |
 | 2026-09-21 | 2026-09-21 | AURA: Uncertainty-Routed Activation Editing for Acoustic Grounding in Speech Foundation Models | Natarajan Balaji Shankar et al. | [2609.23979](https://arxiv.org/abs/2609.23979) | [PDF](https://arxiv.org/pdf/2609.23979) | [候选仓库](https://github.com/skywuxuan/ASR-arxiv-daily) |

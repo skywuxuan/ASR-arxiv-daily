@@ -1,5 +1,5 @@
 {
-  "last_fetched": "2026-09-24T16:48:25+00:00",
+  "last_fetched": "2026-09-25T04:11:37+00:00",
   "topics": {
     "ASR": {
       "2609.18748": {
@@ -1489,6 +1489,7 @@
           "Haoyu Wang",
           "Wen Wang",
           "Xilou Wang",
+          "Haoxiang Xu",
           "Junhao Xu",
           "Liang Yi",
           "Binbin Zhang",
@@ -1496,7 +1497,7 @@
           "Qiquan Zhang"
         ],
         "published": "2026-09-21",
-        "updated": "2026-09-21",
+        "updated": "2026-09-24",
         "url": "https://arxiv.org/abs/2609.25176",
         "pdf_url": "https://arxiv.org/pdf/2609.25176",
         "code_url": "https://github.com/Aaron617/agent-arXiv-daily",
@@ -1613,6 +1614,269 @@
         "code_url": "https://github.com/skywuxuan/ASR-arxiv-daily",
         "code_source": "github_search",
         "code_checked_at": "2026-09-24T16:48:29+00:00"
+      },
+      "2609.30167": {
+        "title": "Do Audio Language Models Hear and Read Distinctive Features Alike?",
+        "authors": [
+          "Yuanhao Chen",
+          "Peter Chin"
+        ],
+        "published": "2026-09-24",
+        "updated": "2026-09-24",
+        "url": "https://arxiv.org/abs/2609.30167",
+        "pdf_url": "https://arxiv.org/pdf/2609.30167",
+        "code_url": null,
+        "code_source": null,
+        "code_checked_at": "2026-09-25T04:11:38+00:00"
+      },
+      "2609.30160": {
+        "title": "A Training Criterion with Token-Level Tolerance to Transcription Ambiguity for Automatic Speech Recognition",
+        "authors": [
+          "Saurabh Kumar",
+          "Diptiman Mohanta",
+          "Prasanta Kumar Ghosh"
+        ],
+        "published": "2026-09-24",
+        "updated": "2026-09-24",
+        "url": "https://arxiv.org/abs/2609.30160",
+        "pdf_url": "https://arxiv.org/pdf/2609.30160",
+        "code_url": null,
+        "code_source": null,
+        "code_checked_at": "2026-09-25T04:11:40+00:00"
+      },
+      "2609.30005": {
+        "title": "VietPrism: A large-scale Vietnamese speech and deepfake corpus with diverse dialects and code-switching",
+        "authors": [
+          "Minh Hoang",
+          "Thai Le"
+        ],
+        "published": "2026-09-24",
+        "updated": "2026-09-24",
+        "url": "https://arxiv.org/abs/2609.30005",
+        "pdf_url": "https://arxiv.org/pdf/2609.30005",
+        "code_url": null,
+        "code_source": null,
+        "code_checked_at": "2026-09-25T04:11:42+00:00"
+      },
+      "2609.29805": {
+        "title": "STAM-ASR: Speaker-Temporal Anchoring with Memory for Multi-Speaker ASR",
+        "authors": [
+          "Victor Tolulope Olufemi",
+          "Syeda Faiza Ahmed Sara",
+          "Shammur Absar Chowdhury"
+        ],
+        "published": "2026-09-24",
+        "updated": "2026-09-24",
+        "url": "https://arxiv.org/abs/2609.29805",
+        "pdf_url": "https://arxiv.org/pdf/2609.29805",
+        "code_url": null,
+        "code_source": null,
+        "code_checked_at": "2026-09-25T04:11:44+00:00"
+      },
+      "2609.29800": {
+        "title": "Adaptive Fisher-Whitened Cross-Covariance for Low-Resource Speech Recognition",
+        "authors": [
+          "Asmee Mishra",
+          "Mengjie Qian",
+          "Brechtje Post",
+          "Kate Knill"
+        ],
+        "published": "2026-09-24",
+        "updated": "2026-09-24",
+        "url": "https://arxiv.org/abs/2609.29800",
+        "pdf_url": "https://arxiv.org/pdf/2609.29800",
+        "code_url": null,
+        "code_source": null,
+        "code_checked_at": "2026-09-25T04:11:46+00:00"
+      },
+      "2609.29798": {
+        "title": "Benchmarking and Domain Adaptation of Automatic Speech Recognition (ASR) for Adolescent Health Communication in Ghanaian Languages",
+        "authors": [
+          "Stephen E. Moore",
+          "Akwasi Asare",
+          "Mich-Seth Owusu",
+          "Paul Azunre",
+          "Joel Budu",
+          "Lawrence A. Adu-Gyamfi"
+        ],
+        "published": "2026-09-24",
+        "updated": "2026-09-24",
+        "url": "https://arxiv.org/abs/2609.29798",
+        "pdf_url": "https://arxiv.org/pdf/2609.29798",
+        "code_url": null,
+        "code_source": null,
+        "code_checked_at": "2026-09-25T04:11:48+00:00"
+      },
+      "2609.29780": {
+        "title": "Joint Analysis of Latent Dimensionality and Frame Rate in Continuous Audio Encoders",
+        "authors": [
+          "Kyudan Jung",
+          "Sehyun Lee",
+          "Son-ha Jo",
+          "Jaegul Choo",
+          "Sanghyuk Shoi"
+        ],
+        "published": "2026-09-24",
+        "updated": "2026-09-24",
+        "url": "https://arxiv.org/abs/2609.29780",
+        "pdf_url": "https://arxiv.org/pdf/2609.29780",
+        "code_url": null,
+        "code_source": null,
+        "code_checked_at": "2026-09-25T04:11:50+00:00"
+      },
+      "2609.29464": {
+        "title": "TS-OPD: Reconciling ASR and QA in Speech Language Models via Task-Specific On-Policy Distillation",
+        "authors": [
+          "Yujie Guo",
+          "Hongjie Chen",
+          "Jian Kang",
+          "Jie Li",
+          "Yongxiang Li",
+          "Yong Qin"
+        ],
+        "published": "2026-09-24",
+        "updated": "2026-09-24",
+        "url": "https://arxiv.org/abs/2609.29464",
+        "pdf_url": "https://arxiv.org/pdf/2609.29464",
+        "code_url": null,
+        "code_source": null,
+        "code_checked_at": "2026-09-25T04:11:52+00:00"
+      },
+      "2609.29448": {
+        "title": "YODAS v3: Over 1 Million Hours of High-Bandwidth, Stereophonic, Multilingual Speech",
+        "authors": [
+          "William Chen",
+          "Shinnosuke Takamichi",
+          "Sayaka Shiota",
+          "Satoru Fukayama",
+          "Samuele Cornell",
+          "Shinji Watanabe"
+        ],
+        "published": "2026-09-24",
+        "updated": "2026-09-24",
+        "url": "https://arxiv.org/abs/2609.29448",
+        "pdf_url": "https://arxiv.org/pdf/2609.29448",
+        "code_url": null,
+        "code_source": null,
+        "code_checked_at": "2026-09-25T04:11:54+00:00"
+      },
+      "2609.29428": {
+        "title": "agentic-ger: terminology recovery in long-form speech using global context",
+        "authors": [
+          "Yanqiao Zhu",
+          "Wupeng Wang",
+          "Zhifu Gao",
+          "Xiangang Li",
+          "Xie Chen"
+        ],
+        "published": "2026-09-24",
+        "updated": "2026-09-24",
+        "url": "https://arxiv.org/abs/2609.29428",
+        "pdf_url": "https://arxiv.org/pdf/2609.29428",
+        "code_url": null,
+        "code_source": null,
+        "code_checked_at": "2026-09-25T04:11:57+00:00"
+      },
+      "2609.29146": {
+        "title": "BanglaKontho: Closing the Long-Form Gap in Bangla Text-to-Speech",
+        "authors": [
+          "Mizbaul Haque Maruf"
+        ],
+        "published": "2026-09-24",
+        "updated": "2026-09-24",
+        "url": "https://arxiv.org/abs/2609.29146",
+        "pdf_url": "https://arxiv.org/pdf/2609.29146",
+        "code_url": null,
+        "code_source": null
+      },
+      "2609.28988": {
+        "title": "Personalized Korean Lipreading as Visual Speech Recognition: Transfer, Census and Adaptation on OLKAVS",
+        "authors": [
+          "Se Un Park",
+          "Hakjun Kim",
+          "Taehoon Roh",
+          "Junyoung Park"
+        ],
+        "published": "2026-09-24",
+        "updated": "2026-09-24",
+        "url": "https://arxiv.org/abs/2609.28988",
+        "pdf_url": "https://arxiv.org/pdf/2609.28988",
+        "code_url": null,
+        "code_source": null
+      },
+      "2609.28936": {
+        "title": "AnomaSense: Anomaly-based Sensor Activation for Fine-Grained Human Activity Recognition",
+        "authors": [
+          "Xue Wang",
+          "Yang Zhang"
+        ],
+        "published": "2026-09-24",
+        "updated": "2026-09-24",
+        "url": "https://arxiv.org/abs/2609.28936",
+        "pdf_url": "https://arxiv.org/pdf/2609.28936",
+        "code_url": null,
+        "code_source": null
+      },
+      "2609.28877": {
+        "title": "Learning New Words from Unlabeled Test Data in Automatic Speech Recognition",
+        "authors": [
+          "Mengqi Wang",
+          "Mark A. Hasegawa-Johnson",
+          "Haolong Zheng",
+          "Chang D. Yoo"
+        ],
+        "published": "2026-09-24",
+        "updated": "2026-09-24",
+        "url": "https://arxiv.org/abs/2609.28877",
+        "pdf_url": "https://arxiv.org/pdf/2609.28877",
+        "code_url": null,
+        "code_source": null
+      },
+      "2609.28739": {
+        "title": "Temporal Taxation Compounds Under Post-Training Compression of Whisper Models",
+        "authors": [
+          "Srishti Ginjala",
+          "Eric Fosler-Lussier",
+          "Christopher W. Myers",
+          "Srinivasan Parthasarathy"
+        ],
+        "published": "2026-09-23",
+        "updated": "2026-09-23",
+        "url": "https://arxiv.org/abs/2609.28739",
+        "pdf_url": "https://arxiv.org/pdf/2609.28739",
+        "code_url": null,
+        "code_source": null
+      },
+      "2609.28727": {
+        "title": "PTC-Bias: Phoneme-Level Temporal Competition for Bias Retrieval and Post-Decoding Correction in Speech LLMs",
+        "authors": [
+          "Zhiqi Ai",
+          "Han Cheng",
+          "Shiyi Mu",
+          "Yongjin Zhou",
+          "Shugong Xu"
+        ],
+        "published": "2026-09-23",
+        "updated": "2026-09-23",
+        "url": "https://arxiv.org/abs/2609.28727",
+        "pdf_url": "https://arxiv.org/pdf/2609.28727",
+        "code_url": null,
+        "code_source": null
+      },
+      "2609.28577": {
+        "title": "ASR ensembling for phoneme intelligibility evaluation of speech anonymizers",
+        "authors": [
+          "Victor Ménestrel",
+          "Sebastian Möller",
+          "Slim Ouni",
+          "Dorothea Kolossa"
+        ],
+        "published": "2026-09-23",
+        "updated": "2026-09-23",
+        "url": "https://arxiv.org/abs/2609.28577",
+        "pdf_url": "https://arxiv.org/pdf/2609.28577",
+        "code_url": null,
+        "code_source": null
       }
     }
   }
