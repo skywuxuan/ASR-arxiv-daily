@@ -1,5 +1,5 @@
 {
-  "last_fetched": "2026-09-25T04:11:37+00:00",
+  "last_fetched": "2026-09-25T16:53:17+00:00",
   "topics": {
     "ASR": {
       "2609.18748": {
@@ -1625,9 +1625,9 @@
         "updated": "2026-09-24",
         "url": "https://arxiv.org/abs/2609.30167",
         "pdf_url": "https://arxiv.org/pdf/2609.30167",
-        "code_url": null,
-        "code_source": null,
-        "code_checked_at": "2026-09-25T04:11:38+00:00"
+        "code_url": "https://github.com/InsomaniacElf/sg-tamil-tts-resources",
+        "code_source": "github_search",
+        "code_checked_at": "2026-09-25T16:53:17+00:00"
       },
       "2609.30160": {
         "title": "A Training Criterion with Token-Level Tolerance to Transcription Ambiguity for Automatic Speech Recognition",
@@ -1640,9 +1640,9 @@
         "updated": "2026-09-24",
         "url": "https://arxiv.org/abs/2609.30160",
         "pdf_url": "https://arxiv.org/pdf/2609.30160",
-        "code_url": null,
-        "code_source": null,
-        "code_checked_at": "2026-09-25T04:11:40+00:00"
+        "code_url": "https://github.com/InsomaniacElf/sg-tamil-tts-resources",
+        "code_source": "github_search",
+        "code_checked_at": "2026-09-25T16:53:19+00:00"
       },
       "2609.30005": {
         "title": "VietPrism: A large-scale Vietnamese speech and deepfake corpus with diverse dialects and code-switching",
@@ -1654,9 +1654,9 @@
         "updated": "2026-09-24",
         "url": "https://arxiv.org/abs/2609.30005",
         "pdf_url": "https://arxiv.org/pdf/2609.30005",
-        "code_url": null,
-        "code_source": null,
-        "code_checked_at": "2026-09-25T04:11:42+00:00"
+        "code_url": "https://github.com/InsomaniacElf/sg-tamil-tts-resources",
+        "code_source": "github_search",
+        "code_checked_at": "2026-09-25T16:53:22+00:00"
       },
       "2609.29805": {
         "title": "STAM-ASR: Speaker-Temporal Anchoring with Memory for Multi-Speaker ASR",
@@ -1669,9 +1669,9 @@
         "updated": "2026-09-24",
         "url": "https://arxiv.org/abs/2609.29805",
         "pdf_url": "https://arxiv.org/pdf/2609.29805",
-        "code_url": null,
-        "code_source": null,
-        "code_checked_at": "2026-09-25T04:11:44+00:00"
+        "code_url": "https://github.com/skywuxuan/ASR-arxiv-daily",
+        "code_source": "github_search",
+        "code_checked_at": "2026-09-25T16:53:24+00:00"
       },
       "2609.29800": {
         "title": "Adaptive Fisher-Whitened Cross-Covariance for Low-Resource Speech Recognition",
@@ -1685,9 +1685,9 @@
         "updated": "2026-09-24",
         "url": "https://arxiv.org/abs/2609.29800",
         "pdf_url": "https://arxiv.org/pdf/2609.29800",
-        "code_url": null,
-        "code_source": null,
-        "code_checked_at": "2026-09-25T04:11:46+00:00"
+        "code_url": "https://github.com/Tavish9/awesome-daily-AI-arxiv",
+        "code_source": "github_search",
+        "code_checked_at": "2026-09-25T16:53:26+00:00"
       },
       "2609.29798": {
         "title": "Benchmarking and Domain Adaptation of Automatic Speech Recognition (ASR) for Adolescent Health Communication in Ghanaian Languages",
@@ -1703,9 +1703,9 @@
         "updated": "2026-09-24",
         "url": "https://arxiv.org/abs/2609.29798",
         "pdf_url": "https://arxiv.org/pdf/2609.29798",
-        "code_url": null,
-        "code_source": null,
-        "code_checked_at": "2026-09-25T04:11:48+00:00"
+        "code_url": "https://github.com/Tavish9/awesome-daily-AI-arxiv",
+        "code_source": "github_search",
+        "code_checked_at": "2026-09-25T16:53:28+00:00"
       },
       "2609.29780": {
         "title": "Joint Analysis of Latent Dimensionality and Frame Rate in Continuous Audio Encoders",
@@ -1720,9 +1720,9 @@
         "updated": "2026-09-24",
         "url": "https://arxiv.org/abs/2609.29780",
         "pdf_url": "https://arxiv.org/pdf/2609.29780",
-        "code_url": null,
-        "code_source": null,
-        "code_checked_at": "2026-09-25T04:11:50+00:00"
+        "code_url": "https://github.com/skywuxuan/ASR-arxiv-daily",
+        "code_source": "github_search",
+        "code_checked_at": "2026-09-25T16:53:30+00:00"
       },
       "2609.29464": {
         "title": "TS-OPD: Reconciling ASR and QA in Speech Language Models via Task-Specific On-Policy Distillation",
@@ -1738,9 +1738,9 @@
         "updated": "2026-09-24",
         "url": "https://arxiv.org/abs/2609.29464",
         "pdf_url": "https://arxiv.org/pdf/2609.29464",
-        "code_url": null,
-        "code_source": null,
-        "code_checked_at": "2026-09-25T04:11:52+00:00"
+        "code_url": "https://github.com/skywuxuan/ASR-arxiv-daily",
+        "code_source": "github_search",
+        "code_checked_at": "2026-09-25T16:53:32+00:00"
       },
       "2609.29448": {
         "title": "YODAS v3: Over 1 Million Hours of High-Bandwidth, Stereophonic, Multilingual Speech",
@@ -1756,9 +1756,9 @@
         "updated": "2026-09-24",
         "url": "https://arxiv.org/abs/2609.29448",
         "pdf_url": "https://arxiv.org/pdf/2609.29448",
-        "code_url": null,
-        "code_source": null,
-        "code_checked_at": "2026-09-25T04:11:54+00:00"
+        "code_url": "https://github.com/Tavish9/awesome-daily-AI-arxiv",
+        "code_source": "github_search",
+        "code_checked_at": "2026-09-25T16:53:34+00:00"
       },
       "2609.29428": {
         "title": "agentic-ger: terminology recovery in long-form speech using global context",
@@ -1773,9 +1773,9 @@
         "updated": "2026-09-24",
         "url": "https://arxiv.org/abs/2609.29428",
         "pdf_url": "https://arxiv.org/pdf/2609.29428",
-        "code_url": null,
-        "code_source": null,
-        "code_checked_at": "2026-09-25T04:11:57+00:00"
+        "code_url": "https://github.com/Tavish9/awesome-daily-AI-arxiv",
+        "code_source": "github_search",
+        "code_checked_at": "2026-09-25T16:53:36+00:00"
       },
       "2609.29146": {
         "title": "BanglaKontho: Closing the Long-Form Gap in Bangla Text-to-Speech",

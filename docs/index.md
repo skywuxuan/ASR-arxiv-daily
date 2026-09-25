@@ -8,7 +8,7 @@ layout: default
 
 [使用与部署说明](./README.html#usage)
 
-> 最近成功抓取：2026-09-25T04:11:37+00:00（UTC）
+> 最近成功抓取：2026-09-25T16:53:17+00:00（UTC）
 
 每 12 小时检索一次，按首次提交日期倒序排列，历史论文会持续保留。
 
@@ -18,16 +18,16 @@ layout: default
 
 | 首次提交 | 更新日期 | 标题 | 作者 | arXiv | PDF | 代码 |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-09-24 | 2026-09-24 | Do Audio Language Models Hear and Read Distinctive Features Alike? | Yuanhao Chen et al. | [2609.30167](https://arxiv.org/abs/2609.30167) | [PDF](https://arxiv.org/pdf/2609.30167) | — |
-| 2026-09-24 | 2026-09-24 | A Training Criterion with Token-Level Tolerance to Transcription Ambiguity for Automatic Speech Recognition | Saurabh Kumar et al. | [2609.30160](https://arxiv.org/abs/2609.30160) | [PDF](https://arxiv.org/pdf/2609.30160) | — |
-| 2026-09-24 | 2026-09-24 | VietPrism: A large-scale Vietnamese speech and deepfake corpus with diverse dialects and code-switching | Minh Hoang et al. | [2609.30005](https://arxiv.org/abs/2609.30005) | [PDF](https://arxiv.org/pdf/2609.30005) | — |
-| 2026-09-24 | 2026-09-24 | STAM-ASR: Speaker-Temporal Anchoring with Memory for Multi-Speaker ASR | Victor Tolulope Olufemi et al. | [2609.29805](https://arxiv.org/abs/2609.29805) | [PDF](https://arxiv.org/pdf/2609.29805) | — |
-| 2026-09-24 | 2026-09-24 | Adaptive Fisher-Whitened Cross-Covariance for Low-Resource Speech Recognition | Asmee Mishra et al. | [2609.29800](https://arxiv.org/abs/2609.29800) | [PDF](https://arxiv.org/pdf/2609.29800) | — |
-| 2026-09-24 | 2026-09-24 | Benchmarking and Domain Adaptation of Automatic Speech Recognition (ASR) for Adolescent Health Communication in Ghanaian Languages | Stephen E. Moore et al. | [2609.29798](https://arxiv.org/abs/2609.29798) | [PDF](https://arxiv.org/pdf/2609.29798) | — |
-| 2026-09-24 | 2026-09-24 | Joint Analysis of Latent Dimensionality and Frame Rate in Continuous Audio Encoders | Kyudan Jung et al. | [2609.29780](https://arxiv.org/abs/2609.29780) | [PDF](https://arxiv.org/pdf/2609.29780) | — |
-| 2026-09-24 | 2026-09-24 | TS-OPD: Reconciling ASR and QA in Speech Language Models via Task-Specific On-Policy Distillation | Yujie Guo et al. | [2609.29464](https://arxiv.org/abs/2609.29464) | [PDF](https://arxiv.org/pdf/2609.29464) | — |
-| 2026-09-24 | 2026-09-24 | YODAS v3: Over 1 Million Hours of High-Bandwidth, Stereophonic, Multilingual Speech | William Chen et al. | [2609.29448](https://arxiv.org/abs/2609.29448) | [PDF](https://arxiv.org/pdf/2609.29448) | — |
-| 2026-09-24 | 2026-09-24 | agentic-ger: terminology recovery in long-form speech using global context | Yanqiao Zhu et al. | [2609.29428](https://arxiv.org/abs/2609.29428) | [PDF](https://arxiv.org/pdf/2609.29428) | — |
+| 2026-09-24 | 2026-09-24 | Do Audio Language Models Hear and Read Distinctive Features Alike? | Yuanhao Chen et al. | [2609.30167](https://arxiv.org/abs/2609.30167) | [PDF](https://arxiv.org/pdf/2609.30167) | [候选仓库](https://github.com/InsomaniacElf/sg-tamil-tts-resources) |
+| 2026-09-24 | 2026-09-24 | A Training Criterion with Token-Level Tolerance to Transcription Ambiguity for Automatic Speech Recognition | Saurabh Kumar et al. | [2609.30160](https://arxiv.org/abs/2609.30160) | [PDF](https://arxiv.org/pdf/2609.30160) | [候选仓库](https://github.com/InsomaniacElf/sg-tamil-tts-resources) |
+| 2026-09-24 | 2026-09-24 | VietPrism: A large-scale Vietnamese speech and deepfake corpus with diverse dialects and code-switching | Minh Hoang et al. | [2609.30005](https://arxiv.org/abs/2609.30005) | [PDF](https://arxiv.org/pdf/2609.30005) | [候选仓库](https://github.com/InsomaniacElf/sg-tamil-tts-resources) |
+| 2026-09-24 | 2026-09-24 | STAM-ASR: Speaker-Temporal Anchoring with Memory for Multi-Speaker ASR | Victor Tolulope Olufemi et al. | [2609.29805](https://arxiv.org/abs/2609.29805) | [PDF](https://arxiv.org/pdf/2609.29805) | [候选仓库](https://github.com/skywuxuan/ASR-arxiv-daily) |
+| 2026-09-24 | 2026-09-24 | Adaptive Fisher-Whitened Cross-Covariance for Low-Resource Speech Recognition | Asmee Mishra et al. | [2609.29800](https://arxiv.org/abs/2609.29800) | [PDF](https://arxiv.org/pdf/2609.29800) | [候选仓库](https://github.com/Tavish9/awesome-daily-AI-arxiv) |
+| 2026-09-24 | 2026-09-24 | Benchmarking and Domain Adaptation of Automatic Speech Recognition (ASR) for Adolescent Health Communication in Ghanaian Languages | Stephen E. Moore et al. | [2609.29798](https://arxiv.org/abs/2609.29798) | [PDF](https://arxiv.org/pdf/2609.29798) | [候选仓库](https://github.com/Tavish9/awesome-daily-AI-arxiv) |
+| 2026-09-24 | 2026-09-24 | Joint Analysis of Latent Dimensionality and Frame Rate in Continuous Audio Encoders | Kyudan Jung et al. | [2609.29780](https://arxiv.org/abs/2609.29780) | [PDF](https://arxiv.org/pdf/2609.29780) | [候选仓库](https://github.com/skywuxuan/ASR-arxiv-daily) |
+| 2026-09-24 | 2026-09-24 | TS-OPD: Reconciling ASR and QA in Speech Language Models via Task-Specific On-Policy Distillation | Yujie Guo et al. | [2609.29464](https://arxiv.org/abs/2609.29464) | [PDF](https://arxiv.org/pdf/2609.29464) | [候选仓库](https://github.com/skywuxuan/ASR-arxiv-daily) |
+| 2026-09-24 | 2026-09-24 | YODAS v3: Over 1 Million Hours of High-Bandwidth, Stereophonic, Multilingual Speech | William Chen et al. | [2609.29448](https://arxiv.org/abs/2609.29448) | [PDF](https://arxiv.org/pdf/2609.29448) | [候选仓库](https://github.com/Tavish9/awesome-daily-AI-arxiv) |
+| 2026-09-24 | 2026-09-24 | agentic-ger: terminology recovery in long-form speech using global context | Yanqiao Zhu et al. | [2609.29428](https://arxiv.org/abs/2609.29428) | [PDF](https://arxiv.org/pdf/2609.29428) | [候选仓库](https://github.com/Tavish9/awesome-daily-AI-arxiv) |
 | 2026-09-24 | 2026-09-24 | BanglaKontho: Closing the Long-Form Gap in Bangla Text-to-Speech | Mizbaul Haque Maruf | [2609.29146](https://arxiv.org/abs/2609.29146) | [PDF](https://arxiv.org/pdf/2609.29146) | — |
 | 2026-09-24 | 2026-09-24 | Personalized Korean Lipreading as Visual Speech Recognition: Transfer, Census and Adaptation on OLKAVS | Se Un Park et al. | [2609.28988](https://arxiv.org/abs/2609.28988) | [PDF](https://arxiv.org/pdf/2609.28988) | — |
 | 2026-09-24 | 2026-09-24 | AnomaSense: Anomaly-based Sensor Activation for Fine-Grained Human Activity Recognition | Xue Wang et al. | [2609.28936](https://arxiv.org/abs/2609.28936) | [PDF](https://arxiv.org/pdf/2609.28936) | — |
