@@ -8,7 +8,7 @@ layout: default
 
 [使用与部署说明](./README.html#usage)
 
-> 最近成功抓取：2026-09-25T16:53:17+00:00（UTC）
+> 最近成功抓取：2026-09-26T04:16:10+00:00（UTC）
 
 每 12 小时检索一次，按首次提交日期倒序排列，历史论文会持续保留。
 
@@ -28,13 +28,13 @@ layout: default
 | 2026-09-24 | 2026-09-24 | TS-OPD: Reconciling ASR and QA in Speech Language Models via Task-Specific On-Policy Distillation | Yujie Guo et al. | [2609.29464](https://arxiv.org/abs/2609.29464) | [PDF](https://arxiv.org/pdf/2609.29464) | [候选仓库](https://github.com/skywuxuan/ASR-arxiv-daily) |
 | 2026-09-24 | 2026-09-24 | YODAS v3: Over 1 Million Hours of High-Bandwidth, Stereophonic, Multilingual Speech | William Chen et al. | [2609.29448](https://arxiv.org/abs/2609.29448) | [PDF](https://arxiv.org/pdf/2609.29448) | [候选仓库](https://github.com/Tavish9/awesome-daily-AI-arxiv) |
 | 2026-09-24 | 2026-09-24 | agentic-ger: terminology recovery in long-form speech using global context | Yanqiao Zhu et al. | [2609.29428](https://arxiv.org/abs/2609.29428) | [PDF](https://arxiv.org/pdf/2609.29428) | [候选仓库](https://github.com/Tavish9/awesome-daily-AI-arxiv) |
-| 2026-09-24 | 2026-09-24 | BanglaKontho: Closing the Long-Form Gap in Bangla Text-to-Speech | Mizbaul Haque Maruf | [2609.29146](https://arxiv.org/abs/2609.29146) | [PDF](https://arxiv.org/pdf/2609.29146) | — |
-| 2026-09-24 | 2026-09-24 | Personalized Korean Lipreading as Visual Speech Recognition: Transfer, Census and Adaptation on OLKAVS | Se Un Park et al. | [2609.28988](https://arxiv.org/abs/2609.28988) | [PDF](https://arxiv.org/pdf/2609.28988) | — |
-| 2026-09-24 | 2026-09-24 | AnomaSense: Anomaly-based Sensor Activation for Fine-Grained Human Activity Recognition | Xue Wang et al. | [2609.28936](https://arxiv.org/abs/2609.28936) | [PDF](https://arxiv.org/pdf/2609.28936) | — |
-| 2026-09-24 | 2026-09-24 | Learning New Words from Unlabeled Test Data in Automatic Speech Recognition | Mengqi Wang et al. | [2609.28877](https://arxiv.org/abs/2609.28877) | [PDF](https://arxiv.org/pdf/2609.28877) | — |
-| 2026-09-23 | 2026-09-23 | Temporal Taxation Compounds Under Post-Training Compression of Whisper Models | Srishti Ginjala et al. | [2609.28739](https://arxiv.org/abs/2609.28739) | [PDF](https://arxiv.org/pdf/2609.28739) | — |
-| 2026-09-23 | 2026-09-23 | PTC-Bias: Phoneme-Level Temporal Competition for Bias Retrieval and Post-Decoding Correction in Speech LLMs | Zhiqi Ai et al. | [2609.28727](https://arxiv.org/abs/2609.28727) | [PDF](https://arxiv.org/pdf/2609.28727) | — |
-| 2026-09-23 | 2026-09-23 | ASR ensembling for phoneme intelligibility evaluation of speech anonymizers | Victor Ménestrel et al. | [2609.28577](https://arxiv.org/abs/2609.28577) | [PDF](https://arxiv.org/pdf/2609.28577) | — |
+| 2026-09-24 | 2026-09-24 | BanglaKontho: Closing the Long-Form Gap in Bangla Text-to-Speech | Mizbaul Haque Maruf | [2609.29146](https://arxiv.org/abs/2609.29146) | [PDF](https://arxiv.org/pdf/2609.29146) | [候选仓库](https://github.com/liutaocode/TTS-arxiv-daily) |
+| 2026-09-24 | 2026-09-24 | Personalized Korean Lipreading as Visual Speech Recognition: Transfer, Census and Adaptation on OLKAVS | Se Un Park et al. | [2609.28988](https://arxiv.org/abs/2609.28988) | [PDF](https://arxiv.org/pdf/2609.28988) | [候选仓库](https://github.com/skywuxuan/ASR-arxiv-daily) |
+| 2026-09-24 | 2026-09-24 | AnomaSense: Anomaly-based Sensor Activation for Fine-Grained Human Activity Recognition | Xue Wang et al. | [2609.28936](https://arxiv.org/abs/2609.28936) | [PDF](https://arxiv.org/pdf/2609.28936) | [候选仓库](https://github.com/skywuxuan/ASR-arxiv-daily) |
+| 2026-09-24 | 2026-09-24 | Learning New Words from Unlabeled Test Data in Automatic Speech Recognition | Mengqi Wang et al. | [2609.28877](https://arxiv.org/abs/2609.28877) | [PDF](https://arxiv.org/pdf/2609.28877) | [候选仓库](https://github.com/skywuxuan/ASR-arxiv-daily) |
+| 2026-09-23 | 2026-09-23 | Temporal Taxation Compounds Under Post-Training Compression of Whisper Models | Srishti Ginjala et al. | [2609.28739](https://arxiv.org/abs/2609.28739) | [PDF](https://arxiv.org/pdf/2609.28739) | [候选仓库](https://github.com/arxivsub/arXivSub_daily_arxiv) |
+| 2026-09-23 | 2026-09-23 | PTC-Bias: Phoneme-Level Temporal Competition for Bias Retrieval and Post-Decoding Correction in Speech LLMs | Zhiqi Ai et al. | [2609.28727](https://arxiv.org/abs/2609.28727) | [PDF](https://arxiv.org/pdf/2609.28727) | [候选仓库](https://github.com/arxivsub/arXivSub_daily_arxiv) |
+| 2026-09-23 | 2026-09-23 | ASR ensembling for phoneme intelligibility evaluation of speech anonymizers | Victor Ménestrel et al. | [2609.28577](https://arxiv.org/abs/2609.28577) | [PDF](https://arxiv.org/pdf/2609.28577) | [候选仓库](https://github.com/skywuxuan/ASR-arxiv-daily) |
 | 2026-09-23 | 2026-09-23 | Six Layers Less: Encoder Pruning for Whisper with Label-Free Recovery | Rasmus Aagaard et al. | [2609.27980](https://arxiv.org/abs/2609.27980) | [PDF](https://arxiv.org/pdf/2609.27980) | [论文链接](https://github.com/rasgaard/whisper-encoder-layer-prune) |
 | 2026-09-23 | 2026-09-23 | The Second MLC-SLM Challenge: Multilingual Conversational Speech Diarization, Recognition, and Understanding | Bingshen Mu et al. | [2609.27514](https://arxiv.org/abs/2609.27514) | [PDF](https://arxiv.org/pdf/2609.27514) | [候选仓库](https://github.com/InsomaniacElf/sg-tamil-tts-resources) |
 | 2026-09-23 | 2026-09-23 | Ruby-ASR: Evidence-Preserving Supervision for Joint Orthographic and Lexical-Reading Recognition | Hao Shi et al. | [2609.27289](https://arxiv.org/abs/2609.27289) | [PDF](https://arxiv.org/pdf/2609.27289) | [候选仓库](https://github.com/hshi-speech/Ruby-ASR-1.7B) |
