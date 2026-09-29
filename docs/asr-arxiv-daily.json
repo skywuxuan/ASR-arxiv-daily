@@ -1,5 +1,5 @@
 {
-  "last_fetched": "2026-09-28T19:26:40+00:00",
+  "last_fetched": "2026-09-29T05:01:56+00:00",
   "topics": {
     "ASR": {
       "2609.18748": {
@@ -2003,6 +2003,407 @@
         "code_url": "https://github.com/skywuxuan/ASR-arxiv-daily",
         "code_source": "github_search",
         "code_checked_at": "2026-09-28T16:31:20+00:00"
+      },
+      "2609.35645": {
+        "title": "CoSE-E: A Benchmark for Code-switched Speech Evaluation in Enterprise Settings",
+        "authors": [
+          "Shama Gupta",
+          "Hoang H Nguyen",
+          "Chelsea Huang",
+          "Lindsay Devon Brin",
+          "Fanny Riols"
+        ],
+        "published": "2026-09-28",
+        "updated": "2026-09-28",
+        "url": "https://arxiv.org/abs/2609.35645",
+        "pdf_url": "https://arxiv.org/pdf/2609.35645",
+        "code_url": null,
+        "code_source": null,
+        "code_checked_at": "2026-09-29T05:01:56+00:00"
+      },
+      "2609.35564": {
+        "title": "Almieyar: A Culturally Grounded Benchmark for Multi-Dialect Arabic Speech Recognition",
+        "authors": [
+          "Omid Ghahroodi",
+          "Anas Madkoor",
+          "Dima Faris Al Saudi",
+          "Fagr Tahir",
+          "Malak Annan",
+          "Talha shahid javad allah rakha",
+          "Omar Al-Busaidi",
+          "Zineb El Kahla",
+          "Iheb Zouari",
+          "Essa Ahmed Abou Jabal",
+          "Ahmed Ezzat",
+          "Hind AL-Merekhi",
+          "Aisha Hamad M A Al-Naimi",
+          "Hadi Wazni",
+          "Bushra Alnajjar",
+          "Omar Amin",
+          "Haya Al-Thani",
+          "Houssam Eddine-Othman Lachemat",
+          "Marwa Elwakedy",
+          "Sundus Abdulmalik Al Nahari",
+          "Elahe Zahiri",
+          "Osamah Sarraj",
+          "Raghad Mousa",
+          "Mckeen Assi",
+          "Ahd Al Jumah",
+          "Heyam Salman",
+          "Alhanouf Abdulraqib",
+          "Sara Benoumhani",
+          "Alia Hamwi",
+          "Ayaat Al-Yasseri",
+          "Rim Ibrahim Ghazal",
+          "Lamia Ben hiba",
+          "Mohamed Eltabakh",
+          "Fatima Al-Raisi",
+          "Yassine El Kheir",
+          "Mohammed Abdulrahman",
+          "Hamdy Mubarak",
+          "Ayah Hashem",
+          "Lefkir Meriem",
+          "Ehsaneddin Asgari"
+        ],
+        "published": "2026-09-28",
+        "updated": "2026-09-28",
+        "url": "https://arxiv.org/abs/2609.35564",
+        "pdf_url": "https://arxiv.org/pdf/2609.35564",
+        "code_url": null,
+        "code_source": null,
+        "code_checked_at": "2026-09-29T05:01:58+00:00"
+      },
+      "2609.34481": {
+        "title": "CARDAMOM: A Micro-Dialectal Arabic Speech Dataset for ASR",
+        "authors": [
+          "Bashar Talafha",
+          "Samar M. Magdy",
+          "Aisha Alansari",
+          "Alaa Alkhawaldeh",
+          "Abdurrahman Juma",
+          "Sharaf Makahleh",
+          "Nour Gamal",
+          "Omar Attia",
+          "Hanaa Kurdi",
+          "Najwa Rizk",
+          "Maysa Anaya",
+          "Hessah Altimyat",
+          "Layal Alhazmi",
+          "Shumukh Alotaibi",
+          "Hajar Alhadaris",
+          "Rayan Alomari",
+          "Rahaf Almalaq",
+          "Malak Alkhorasani",
+          "Sara alghamdi",
+          "Rahaf Alshamrani",
+          "Nsrin Ashraf",
+          "Ibrahim Jaradat",
+          "Nada Qardahji",
+          "Yasmin Zaraket",
+          "Elmoukhtar Brahim",
+          "Sidi Ebeidy",
+          "Oumoulmouminin Mahmoud",
+          "Yahjeb Bouha Khatraty",
+          "Meya Haroune",
+          "Mohammad Ghaddar",
+          "Mohamad Eldirany",
+          "Rashed Alamoush",
+          "Tala Chhaytle",
+          "Nuha Albadi",
+          "Yahya El Hadj",
+          "Hamzah Luqman",
+          "Fadi A. Zaraket",
+          "Mustafa Jarrar",
+          "Muhammad Abdul-Mageed"
+        ],
+        "published": "2026-09-28",
+        "updated": "2026-09-28",
+        "url": "https://arxiv.org/abs/2609.34481",
+        "pdf_url": "https://arxiv.org/pdf/2609.34481",
+        "code_url": null,
+        "code_source": null,
+        "code_checked_at": "2026-09-29T05:02:00+00:00"
+      },
+      "2609.34425": {
+        "title": "Zero-Shot Cue-Grounded Topic Segmentation of Spoken Documents",
+        "authors": [
+          "Suhwan Choi",
+          "Myeongho Jeon",
+          "Myungjoo Kang"
+        ],
+        "published": "2026-09-28",
+        "updated": "2026-09-28",
+        "url": "https://arxiv.org/abs/2609.34425",
+        "pdf_url": "https://arxiv.org/pdf/2609.34425",
+        "code_url": null,
+        "code_source": null,
+        "code_checked_at": "2026-09-29T05:02:02+00:00"
+      },
+      "2609.34217": {
+        "title": "Explainable and Generalisable LLM-based Cognitive Decline Detection with Spontaneous Speech",
+        "authors": [
+          "Ziyun Cui",
+          "Wen Wu",
+          "Chuan Shi",
+          "Shuguang Yang",
+          "Xueying Gui",
+          "Yan Zheng",
+          "Qiong Yang",
+          "Haiyan Zhao",
+          "Wei-Qiang Zhang",
+          "Ji Wu",
+          "Yelei Li",
+          "Nan Li",
+          "Chao Zhang"
+        ],
+        "published": "2026-09-28",
+        "updated": "2026-09-28",
+        "url": "https://arxiv.org/abs/2609.34217",
+        "pdf_url": "https://arxiv.org/pdf/2609.34217",
+        "code_url": null,
+        "code_source": null,
+        "code_checked_at": "2026-09-29T05:02:05+00:00"
+      },
+      "2609.34092": {
+        "title": "Evaluating Machine Unlearning in ASR",
+        "authors": [
+          "Diogo Dinis",
+          "Francisco Teixeira",
+          "Bhiksha Raj",
+          "Alberto Abad",
+          "Isabel Trancoso"
+        ],
+        "published": "2026-09-28",
+        "updated": "2026-09-28",
+        "url": "https://arxiv.org/abs/2609.34092",
+        "pdf_url": "https://arxiv.org/pdf/2609.34092",
+        "code_url": null,
+        "code_source": null,
+        "code_checked_at": "2026-09-29T05:02:07+00:00"
+      },
+      "2609.33865": {
+        "title": "In-Context Adaptation of Encoder-Decoder Models in Speech Recognition",
+        "authors": [
+          "Yen Meng",
+          "Sharon Goldwater",
+          "Hao Tang"
+        ],
+        "published": "2026-09-27",
+        "updated": "2026-09-27",
+        "url": "https://arxiv.org/abs/2609.33865",
+        "pdf_url": "https://arxiv.org/pdf/2609.33865",
+        "code_url": null,
+        "code_source": null,
+        "code_checked_at": "2026-09-29T05:02:09+00:00"
+      },
+      "2609.33853": {
+        "title": "Unified Target-Speaker ASR with Text and Enrollment Speech Cues",
+        "authors": [
+          "Yuxiang Mei",
+          "Yuchen Yan",
+          "Dongxing Xu",
+          "Jiaen Liang",
+          "Yanhua Long"
+        ],
+        "published": "2026-09-27",
+        "updated": "2026-09-27",
+        "url": "https://arxiv.org/abs/2609.33853",
+        "pdf_url": "https://arxiv.org/pdf/2609.33853",
+        "code_url": null,
+        "code_source": null,
+        "code_checked_at": "2026-09-29T05:02:11+00:00"
+      },
+      "2609.33645": {
+        "title": "Pruned CTC for Memory-Efficient Large-Vocabulary ASR Training",
+        "authors": [
+          "Yifan Yang",
+          "Xiaoyu Yang",
+          "Zengrui Jin",
+          "Xian Shi",
+          "Yuxuan Wang",
+          "Yu Xi",
+          "Ziyang Ma",
+          "Qi Chen",
+          "Ruiyang Xu",
+          "Hui Wang",
+          "Dongchao Yang",
+          "Jin Xu",
+          "Xie Chen"
+        ],
+        "published": "2026-09-27",
+        "updated": "2026-09-27",
+        "url": "https://arxiv.org/abs/2609.33645",
+        "pdf_url": "https://arxiv.org/pdf/2609.33645",
+        "code_url": null,
+        "code_source": null,
+        "code_checked_at": "2026-09-29T05:02:13+00:00"
+      },
+      "2609.33245": {
+        "title": "Acoustic Progress Propagation for Long-Horizon Speculative Decoding in ASR",
+        "authors": [
+          "Yuanyuan Jia",
+          "Qianqian Yang"
+        ],
+        "published": "2026-09-27",
+        "updated": "2026-09-27",
+        "url": "https://arxiv.org/abs/2609.33245",
+        "pdf_url": "https://arxiv.org/pdf/2609.33245",
+        "code_url": "https://github.com/yuanyuanjia71-spec/ProgDraft",
+        "code_source": "paper"
+      },
+      "2609.32869": {
+        "title": "Whisper-Flash: Acoustically Conditioned Parallel Drafting for Faster Whisper Decoding",
+        "authors": [
+          "Huapeng Zhou",
+          "Huayu Wang",
+          "Junkai Wu",
+          "Kangqi Wang",
+          "Xinyu Wang"
+        ],
+        "published": "2026-09-26",
+        "updated": "2026-09-26",
+        "url": "https://arxiv.org/abs/2609.32869",
+        "pdf_url": "https://arxiv.org/pdf/2609.32869",
+        "code_url": null,
+        "code_source": null,
+        "code_checked_at": "2026-09-29T05:02:15+00:00"
+      },
+      "2609.32843": {
+        "title": "WhisperVC-AV: Audio-Visual Content Restoration for Noise-Robust Whisper-to-Normal Voice Conversion",
+        "authors": [
+          "Ziyue Yin",
+          "Dong Liu",
+          "Ming Li"
+        ],
+        "published": "2026-09-26",
+        "updated": "2026-09-26",
+        "url": "https://arxiv.org/abs/2609.32843",
+        "pdf_url": "https://arxiv.org/pdf/2609.32843",
+        "code_url": null,
+        "code_source": null
+      },
+      "2609.32408": {
+        "title": "Automatic Speech Recognition for the Basaà Language: A Low-Resource Approach",
+        "authors": [
+          "Sophie Gertrude Ngo Mock",
+          "Charles Moudina Varmantchaonala",
+          "Paul Dayang",
+          "Jean Michel Nlong",
+          "Christopher Gies"
+        ],
+        "published": "2026-09-26",
+        "updated": "2026-09-26",
+        "url": "https://arxiv.org/abs/2609.32408",
+        "pdf_url": "https://arxiv.org/pdf/2609.32408",
+        "code_url": null,
+        "code_source": null
+      },
+      "2609.32396": {
+        "title": "FA-Bench: A Benchmark for Word-Level and Phone-Level Forced-Alignment and ASR Timestamps Under Clean and Noisy Conditions",
+        "authors": [
+          "Wei Chu",
+          "Yuanzhe Dong",
+          "Ke Tan",
+          "Dong Han",
+          "Yichao Zhou",
+          "Ruchao Fan",
+          "Bingshen Mu",
+          "Jingbei Li",
+          "Vishwas Shetty",
+          "Sarthak Bisht",
+          "Ziyue Qiu",
+          "Massa Baali",
+          "Rita Singh",
+          "Bhisha Raj"
+        ],
+        "published": "2026-09-26",
+        "updated": "2026-09-26",
+        "url": "https://arxiv.org/abs/2609.32396",
+        "pdf_url": "https://arxiv.org/pdf/2609.32396",
+        "code_url": "https://github.com/olewave/fa-bench",
+        "code_source": "paper"
+      },
+      "2609.32082": {
+        "title": "mu-bench: A Multilingual Utterance Transcription Benchmark",
+        "authors": [
+          "Andrea Li",
+          "Soham Ray"
+        ],
+        "published": "2026-09-25",
+        "updated": "2026-09-25",
+        "url": "https://arxiv.org/abs/2609.32082",
+        "pdf_url": "https://arxiv.org/pdf/2609.32082",
+        "code_url": "https://github.com/sierra-research/mu-bench",
+        "code_source": "paper"
+      },
+      "2609.31967": {
+        "title": "IndicFDB: Benchmarking Full-Duplex Voice Agents across Indian Languages",
+        "authors": [
+          "Rajarshi Roy",
+          "Shobhit Banga",
+          "Jonathan Raiman",
+          "Supriya Paul",
+          "Bhaskar Singh",
+          "Manmeet Kaur",
+          "Sagar Jain",
+          "Hanuman Sidh",
+          "Pranav Sharma",
+          "Aditya Singh",
+          "Aaditya Pareek",
+          "Manas Dhir",
+          "Adi Margolin",
+          "Niket Agarwal",
+          "Bryan Catanzaro"
+        ],
+        "published": "2026-09-25",
+        "updated": "2026-09-25",
+        "url": "https://arxiv.org/abs/2609.31967",
+        "pdf_url": "https://arxiv.org/pdf/2609.31967",
+        "code_url": null,
+        "code_source": null
+      },
+      "2609.31961": {
+        "title": "Improving Audiovisual Speech Recognition through Synthetic Visual Data Augmentation",
+        "authors": [
+          "Pol Buitrago",
+          "Pol Gàlvez",
+          "Javier Hernando"
+        ],
+        "published": "2026-09-25",
+        "updated": "2026-09-25",
+        "url": "https://arxiv.org/abs/2609.31961",
+        "pdf_url": "https://arxiv.org/pdf/2609.31961",
+        "code_url": null,
+        "code_source": null
+      },
+      "2609.31892": {
+        "title": "NVAlign: Direct-Gradient Optimization for Non-Verbal Control in Continuous Autoregressive Flow Matching Text-to-Speech",
+        "authors": [
+          "Qiaolin Wang",
+          "Pedro Sandoval-Segura",
+          "Anunaya Joshi",
+          "Edvardas Jurkonis",
+          "Jake Downie"
+        ],
+        "published": "2026-09-25",
+        "updated": "2026-09-25",
+        "url": "https://arxiv.org/abs/2609.31892",
+        "pdf_url": "https://arxiv.org/pdf/2609.31892",
+        "code_url": null,
+        "code_source": null
+      },
+      "2609.31787": {
+        "title": "Optimal transport meets speech: a tutorial review",
+        "authors": [
+          "Xugang Lu",
+          "Yu Tsao"
+        ],
+        "published": "2026-09-24",
+        "updated": "2026-09-24",
+        "url": "https://arxiv.org/abs/2609.31787",
+        "pdf_url": "https://arxiv.org/pdf/2609.31787",
+        "code_url": null,
+        "code_source": null
       }
     }
   }
