@@ -8,7 +8,7 @@ layout: default
 
 [使用与部署说明](./README.html#usage)
 
-> 最近成功抓取：2026-09-29T05:01:56+00:00（UTC）
+> 最近成功抓取：2026-09-29T17:53:27+00:00（UTC）
 
 每 12 小时检索一次，按首次提交日期倒序排列，历史论文会持续保留。
 
@@ -18,17 +18,17 @@ layout: default
 
 | 首次提交 | 更新日期 | 标题 | 作者 | arXiv | PDF | 代码 |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-09-28 | 2026-09-28 | CoSE-E: A Benchmark for Code-switched Speech Evaluation in Enterprise Settings | Shama Gupta et al. | [2609.35645](https://arxiv.org/abs/2609.35645) | [PDF](https://arxiv.org/pdf/2609.35645) | — |
-| 2026-09-28 | 2026-09-28 | Almieyar: A Culturally Grounded Benchmark for Multi-Dialect Arabic Speech Recognition | Omid Ghahroodi et al. | [2609.35564](https://arxiv.org/abs/2609.35564) | [PDF](https://arxiv.org/pdf/2609.35564) | — |
-| 2026-09-28 | 2026-09-28 | CARDAMOM: A Micro-Dialectal Arabic Speech Dataset for ASR | Bashar Talafha et al. | [2609.34481](https://arxiv.org/abs/2609.34481) | [PDF](https://arxiv.org/pdf/2609.34481) | — |
-| 2026-09-28 | 2026-09-28 | Zero-Shot Cue-Grounded Topic Segmentation of Spoken Documents | Suhwan Choi et al. | [2609.34425](https://arxiv.org/abs/2609.34425) | [PDF](https://arxiv.org/pdf/2609.34425) | — |
-| 2026-09-28 | 2026-09-28 | Explainable and Generalisable LLM-based Cognitive Decline Detection with Spontaneous Speech | Ziyun Cui et al. | [2609.34217](https://arxiv.org/abs/2609.34217) | [PDF](https://arxiv.org/pdf/2609.34217) | — |
-| 2026-09-28 | 2026-09-28 | Evaluating Machine Unlearning in ASR | Diogo Dinis et al. | [2609.34092](https://arxiv.org/abs/2609.34092) | [PDF](https://arxiv.org/pdf/2609.34092) | — |
-| 2026-09-27 | 2026-09-27 | In-Context Adaptation of Encoder-Decoder Models in Speech Recognition | Yen Meng et al. | [2609.33865](https://arxiv.org/abs/2609.33865) | [PDF](https://arxiv.org/pdf/2609.33865) | — |
-| 2026-09-27 | 2026-09-27 | Unified Target-Speaker ASR with Text and Enrollment Speech Cues | Yuxiang Mei et al. | [2609.33853](https://arxiv.org/abs/2609.33853) | [PDF](https://arxiv.org/pdf/2609.33853) | — |
-| 2026-09-27 | 2026-09-27 | Pruned CTC for Memory-Efficient Large-Vocabulary ASR Training | Yifan Yang et al. | [2609.33645](https://arxiv.org/abs/2609.33645) | [PDF](https://arxiv.org/pdf/2609.33645) | — |
+| 2026-09-28 | 2026-09-28 | CoSE-E: A Benchmark for Code-switched Speech Evaluation in Enterprise Settings | Shama Gupta et al. | [2609.35645](https://arxiv.org/abs/2609.35645) | [PDF](https://arxiv.org/pdf/2609.35645) | [候选仓库](https://github.com/InsomaniacElf/sg-tamil-tts-resources) |
+| 2026-09-28 | 2026-09-28 | Almieyar: A Culturally Grounded Benchmark for Multi-Dialect Arabic Speech Recognition | Omid Ghahroodi et al. | [2609.35564](https://arxiv.org/abs/2609.35564) | [PDF](https://arxiv.org/pdf/2609.35564) | [候选仓库](https://github.com/InsomaniacElf/sg-tamil-tts-resources) |
+| 2026-09-28 | 2026-09-28 | CARDAMOM: A Micro-Dialectal Arabic Speech Dataset for ASR | Bashar Talafha et al. | [2609.34481](https://arxiv.org/abs/2609.34481) | [PDF](https://arxiv.org/pdf/2609.34481) | [候选仓库](https://github.com/InsomaniacElf/sg-tamil-tts-resources) |
+| 2026-09-28 | 2026-09-28 | Zero-Shot Cue-Grounded Topic Segmentation of Spoken Documents | Suhwan Choi et al. | [2609.34425](https://arxiv.org/abs/2609.34425) | [PDF](https://arxiv.org/pdf/2609.34425) | [候选仓库](https://github.com/skywuxuan/ASR-arxiv-daily) |
+| 2026-09-28 | 2026-09-28 | Explainable and Generalisable LLM-based Cognitive Decline Detection with Spontaneous Speech | Ziyun Cui et al. | [2609.34217](https://arxiv.org/abs/2609.34217) | [PDF](https://arxiv.org/pdf/2609.34217) | [候选仓库](https://github.com/InsomaniacElf/sg-tamil-tts-resources) |
+| 2026-09-28 | 2026-09-28 | Evaluating Machine Unlearning in ASR | Diogo Dinis et al. | [2609.34092](https://arxiv.org/abs/2609.34092) | [PDF](https://arxiv.org/pdf/2609.34092) | [候选仓库](https://github.com/skywuxuan/ASR-arxiv-daily) |
+| 2026-09-27 | 2026-09-27 | In-Context Adaptation of Encoder-Decoder Models in Speech Recognition | Yen Meng et al. | [2609.33865](https://arxiv.org/abs/2609.33865) | [PDF](https://arxiv.org/pdf/2609.33865) | [候选仓库](https://github.com/skywuxuan/ASR-arxiv-daily) |
+| 2026-09-27 | 2026-09-27 | Unified Target-Speaker ASR with Text and Enrollment Speech Cues | Yuxiang Mei et al. | [2609.33853](https://arxiv.org/abs/2609.33853) | [PDF](https://arxiv.org/pdf/2609.33853) | [候选仓库](https://github.com/skywuxuan/ASR-arxiv-daily) |
+| 2026-09-27 | 2026-09-27 | Pruned CTC for Memory-Efficient Large-Vocabulary ASR Training | Yifan Yang et al. | [2609.33645](https://arxiv.org/abs/2609.33645) | [PDF](https://arxiv.org/pdf/2609.33645) | [候选仓库](https://github.com/yfyeung/PrunedCTC) |
 | 2026-09-27 | 2026-09-27 | Acoustic Progress Propagation for Long-Horizon Speculative Decoding in ASR | Yuanyuan Jia et al. | [2609.33245](https://arxiv.org/abs/2609.33245) | [PDF](https://arxiv.org/pdf/2609.33245) | [论文链接](https://github.com/yuanyuanjia71-spec/ProgDraft) |
-| 2026-09-26 | 2026-09-26 | Whisper-Flash: Acoustically Conditioned Parallel Drafting for Faster Whisper Decoding | Huapeng Zhou et al. | [2609.32869](https://arxiv.org/abs/2609.32869) | [PDF](https://arxiv.org/pdf/2609.32869) | — |
+| 2026-09-26 | 2026-09-26 | Whisper-Flash: Acoustically Conditioned Parallel Drafting for Faster Whisper Decoding | Huapeng Zhou et al. | [2609.32869](https://arxiv.org/abs/2609.32869) | [PDF](https://arxiv.org/pdf/2609.32869) | [候选仓库](https://github.com/skywuxuan/ASR-arxiv-daily) |
 | 2026-09-26 | 2026-09-26 | WhisperVC-AV: Audio-Visual Content Restoration for Noise-Robust Whisper-to-Normal Voice Conversion | Ziyue Yin et al. | [2609.32843](https://arxiv.org/abs/2609.32843) | [PDF](https://arxiv.org/pdf/2609.32843) | — |
 | 2026-09-26 | 2026-09-26 | Automatic Speech Recognition for the Basaà Language: A Low-Resource Approach | Sophie Gertrude Ngo Mock et al. | [2609.32408](https://arxiv.org/abs/2609.32408) | [PDF](https://arxiv.org/pdf/2609.32408) | — |
 | 2026-09-26 | 2026-09-26 | FA-Bench: A Benchmark for Word-Level and Phone-Level Forced-Alignment and ASR Timestamps Under Clean and Noisy Conditions | Wei Chu et al. | [2609.32396](https://arxiv.org/abs/2609.32396) | [PDF](https://arxiv.org/pdf/2609.32396) | [论文链接](https://github.com/olewave/fa-bench) |
