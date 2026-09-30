@@ -1,5 +1,5 @@
 {
-  "last_fetched": "2026-09-29T17:53:27+00:00",
+  "last_fetched": "2026-09-30T04:48:48+00:00",
   "topics": {
     "ASR": {
       "2609.18748": {
@@ -2231,7 +2231,7 @@
           "Xie Chen"
         ],
         "published": "2026-09-27",
-        "updated": "2026-09-27",
+        "updated": "2026-09-29",
         "url": "https://arxiv.org/abs/2609.33645",
         "pdf_url": "https://arxiv.org/pdf/2609.33645",
         "code_url": "https://github.com/yfyeung/PrunedCTC",
@@ -2279,8 +2279,9 @@
         "updated": "2026-09-26",
         "url": "https://arxiv.org/abs/2609.32843",
         "pdf_url": "https://arxiv.org/pdf/2609.32843",
-        "code_url": null,
-        "code_source": null
+        "code_url": "https://github.com/skywuxuan/ASR-arxiv-daily",
+        "code_source": "github_search",
+        "code_checked_at": "2026-09-30T04:49:07+00:00"
       },
       "2609.32408": {
         "title": "Automatic Speech Recognition for the Basaà Language: A Low-Resource Approach",
@@ -2404,6 +2405,183 @@
         "pdf_url": "https://arxiv.org/pdf/2609.31787",
         "code_url": null,
         "code_source": null
+      },
+      "2609.38106": {
+        "title": "Pruning for Efficiency, Paying in Fairness: Demographic Disparities in Pruned Speech-LLMs",
+        "authors": [
+          "Ganesh Pavan Kartikeya Bharadwaj Kolluri",
+          "Michael Kampouridis",
+          "Ravi Shekhar"
+        ],
+        "published": "2026-09-29",
+        "updated": "2026-09-29",
+        "url": "https://arxiv.org/abs/2609.38106",
+        "pdf_url": "https://arxiv.org/pdf/2609.38106",
+        "code_url": null,
+        "code_source": null,
+        "code_checked_at": "2026-09-30T04:48:48+00:00"
+      },
+      "2609.37798": {
+        "title": "GLaS-JEPA: Gaussian-Regularized Speech SSL without Engineered Prediction Targets",
+        "authors": [
+          "Gaspard Botté",
+          "Séverin Baroudi",
+          "Samir Sadok",
+          "Francesco Paissan",
+          "Thomas Hueber",
+          "Xavier Alameda-Pineda",
+          "Ricard Marxer",
+          "Mirco Ravanelli"
+        ],
+        "published": "2026-09-29",
+        "updated": "2026-09-29",
+        "url": "https://arxiv.org/abs/2609.37798",
+        "pdf_url": "https://arxiv.org/pdf/2609.37798",
+        "code_url": null,
+        "code_source": null,
+        "code_checked_at": "2026-09-30T04:48:50+00:00"
+      },
+      "2609.37611": {
+        "title": "Selective Lookahead for Attention-Based Streaming ASR",
+        "authors": [
+          "Yichen Jia",
+          "Bastiaan Tamm",
+          "Hugo Van hamme"
+        ],
+        "published": "2026-09-29",
+        "updated": "2026-09-29",
+        "url": "https://arxiv.org/abs/2609.37611",
+        "pdf_url": "https://arxiv.org/pdf/2609.37611",
+        "code_url": "https://github.com/windskylionheart1023/selective-lookahead-asr",
+        "code_source": "paper"
+      },
+      "2609.36951": {
+        "title": "Interpreting and Evaluating Dynamic-Rate Speech Codec Boundaries",
+        "authors": [
+          "Han Wang",
+          "Jiaqi Li",
+          "Yingda Shen",
+          "Yuxiang Wang",
+          "Zhizheng Wu"
+        ],
+        "published": "2026-09-29",
+        "updated": "2026-09-29",
+        "url": "https://arxiv.org/abs/2609.36951",
+        "pdf_url": "https://arxiv.org/pdf/2609.36951",
+        "code_url": null,
+        "code_source": null,
+        "code_checked_at": "2026-09-30T04:48:52+00:00"
+      },
+      "2609.36921": {
+        "title": "When Capabilities Fail to Compose: Diagnosing the Compositionality Gap in Large Audio-Language Models",
+        "authors": [
+          "Chien-Feng Liu",
+          "Chih-Kai Yang",
+          "Bo-Han Feng",
+          "Yu-Hsuan Li Liang",
+          "Hung-yi Lee",
+          "Cheng-Fu Chou"
+        ],
+        "published": "2026-09-29",
+        "updated": "2026-09-29",
+        "url": "https://arxiv.org/abs/2609.36921",
+        "pdf_url": "https://arxiv.org/pdf/2609.36921",
+        "code_url": null,
+        "code_source": null,
+        "code_checked_at": "2026-09-30T04:48:54+00:00"
+      },
+      "2609.36920": {
+        "title": "Benchmarking Automatic Speech Recognition Tools for Iberian Languages",
+        "authors": [
+          "Fernando López",
+          "Pablo Gómez",
+          "David Solans",
+          "Paulo Villegas",
+          "Jordi Luque"
+        ],
+        "published": "2026-09-29",
+        "updated": "2026-09-29",
+        "url": "https://arxiv.org/abs/2609.36920",
+        "pdf_url": "https://arxiv.org/pdf/2609.36920",
+        "code_url": "https://github.com/BaiShuanghao/my_arXiv_daily",
+        "code_source": "github_search",
+        "code_checked_at": "2026-09-30T04:48:57+00:00"
+      },
+      "2609.36913": {
+        "title": "BaLEEN: Biasing with Latent Encoded Entities for Context-Aware ASR",
+        "authors": [
+          "Chihiro Taguchi",
+          "Yotaro Kubo",
+          "Rujikorn Charakorn"
+        ],
+        "published": "2026-09-29",
+        "updated": "2026-09-29",
+        "url": "https://arxiv.org/abs/2609.36913",
+        "pdf_url": "https://arxiv.org/pdf/2609.36913",
+        "code_url": null,
+        "code_source": null,
+        "code_checked_at": "2026-09-30T04:48:59+00:00"
+      },
+      "2609.36834": {
+        "title": "WenetSpeech-Min: A Large-Scale Minnan Speech Corpus with Dual Transcriptions for Dialectal Speech Processing",
+        "authors": [
+          "Haoyu Zhang",
+          "Chunjiang He",
+          "Hongtao Li",
+          "Zeyu Zhu",
+          "Qituan Shangguan",
+          "Chengyou Wang",
+          "Jingbin Hu",
+          "Ziyu Zhang",
+          "Bingshen Mu",
+          "Yanbo Wang",
+          "Shuai Wang",
+          "Jinhui Ye",
+          "Chengdong Liang",
+          "Binbin Zhang",
+          "Pengcheng Zhu",
+          "Chuang Ding",
+          "Qianze Feng",
+          "Qingyang Hong",
+          "Liumeng Xue",
+          "Lei Xie"
+        ],
+        "published": "2026-09-29",
+        "updated": "2026-09-29",
+        "url": "https://arxiv.org/abs/2609.36834",
+        "pdf_url": "https://arxiv.org/pdf/2609.36834",
+        "code_url": null,
+        "code_source": null,
+        "code_checked_at": "2026-09-30T04:49:01+00:00"
+      },
+      "2609.36754": {
+        "title": "Does a prosody-trained representation help beyond trainable fusion? A parameter-matched study with frozen HuBERT",
+        "authors": [
+          "Ki Woong Moon",
+          "Daniel Brenner"
+        ],
+        "published": "2026-09-29",
+        "updated": "2026-09-29",
+        "url": "https://arxiv.org/abs/2609.36754",
+        "pdf_url": "https://arxiv.org/pdf/2609.36754",
+        "code_url": null,
+        "code_source": null,
+        "code_checked_at": "2026-09-30T04:49:03+00:00"
+      },
+      "2609.35952": {
+        "title": "HEAR: Real Voices, Real Bias: A Large-Scale Human-Recorded, Demographically Diverse Benchmark for Audio Language Models",
+        "authors": [
+          "Shen Yan",
+          "Duc Le",
+          "Irina-Elena Veliche"
+        ],
+        "published": "2026-09-28",
+        "updated": "2026-09-28",
+        "url": "https://arxiv.org/abs/2609.35952",
+        "pdf_url": "https://arxiv.org/pdf/2609.35952",
+        "code_url": null,
+        "code_source": null,
+        "code_checked_at": "2026-09-30T04:49:05+00:00"
       }
     }
   }
