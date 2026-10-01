@@ -1,5 +1,5 @@
 {
-  "last_fetched": "2026-10-01T05:01:20+00:00",
+  "last_fetched": "2026-10-01T18:14:28+00:00",
   "topics": {
     "ASR": {
       "2609.18748": {
@@ -2486,9 +2486,9 @@
         "updated": "2026-09-29",
         "url": "https://arxiv.org/abs/2609.36921",
         "pdf_url": "https://arxiv.org/pdf/2609.36921",
-        "code_url": null,
-        "code_source": null,
-        "code_checked_at": "2026-09-30T04:48:54+00:00"
+        "code_url": "https://github.com/steven-lunar/audio-compositionality-gap",
+        "code_source": "github_search",
+        "code_checked_at": "2026-10-01T18:14:39+00:00"
       },
       "2609.36920": {
         "title": "Benchmarking Automatic Speech Recognition Tools for Iberian Languages",
@@ -2518,9 +2518,9 @@
         "updated": "2026-09-29",
         "url": "https://arxiv.org/abs/2609.36913",
         "pdf_url": "https://arxiv.org/pdf/2609.36913",
-        "code_url": null,
-        "code_source": null,
-        "code_checked_at": "2026-09-30T04:48:59+00:00"
+        "code_url": "https://github.com/skywuxuan/ASR-arxiv-daily",
+        "code_source": "github_search",
+        "code_checked_at": "2026-10-01T18:14:41+00:00"
       },
       "2609.36834": {
         "title": "WenetSpeech-Min: A Large-Scale Minnan Speech Corpus with Dual Transcriptions for Dialectal Speech Processing",
@@ -2550,9 +2550,9 @@
         "updated": "2026-09-29",
         "url": "https://arxiv.org/abs/2609.36834",
         "pdf_url": "https://arxiv.org/pdf/2609.36834",
-        "code_url": null,
-        "code_source": null,
-        "code_checked_at": "2026-09-30T04:49:01+00:00"
+        "code_url": "https://github.com/liutaocode/TTS-arxiv-daily",
+        "code_source": "github_search",
+        "code_checked_at": "2026-10-01T18:14:43+00:00"
       },
       "2609.36754": {
         "title": "Does a prosody-trained representation help beyond trainable fusion? A parameter-matched study with frozen HuBERT",
@@ -2564,9 +2564,9 @@
         "updated": "2026-09-29",
         "url": "https://arxiv.org/abs/2609.36754",
         "pdf_url": "https://arxiv.org/pdf/2609.36754",
-        "code_url": null,
-        "code_source": null,
-        "code_checked_at": "2026-09-30T04:49:03+00:00"
+        "code_url": "https://github.com/skywuxuan/ASR-arxiv-daily",
+        "code_source": "github_search",
+        "code_checked_at": "2026-10-01T18:14:45+00:00"
       },
       "2609.35952": {
         "title": "HEAR: Real Voices, Real Bias: A Large-Scale Human-Recorded, Demographically Diverse Benchmark for Audio Language Models",
@@ -2579,9 +2579,9 @@
         "updated": "2026-09-28",
         "url": "https://arxiv.org/abs/2609.35952",
         "pdf_url": "https://arxiv.org/pdf/2609.35952",
-        "code_url": null,
-        "code_source": null,
-        "code_checked_at": "2026-09-30T04:49:05+00:00"
+        "code_url": "https://github.com/skywuxuan/ASR-arxiv-daily",
+        "code_source": "github_search",
+        "code_checked_at": "2026-10-01T18:14:47+00:00"
       },
       "2609.40181": {
         "title": "Index-Translate: A Multilingual Translation Model Family -- Text, Speech, Controlled Dubbing, and Long-Document Translation",
@@ -2615,9 +2615,9 @@
         "updated": "2026-09-30",
         "url": "https://arxiv.org/abs/2609.39453",
         "pdf_url": "https://arxiv.org/pdf/2609.39453",
-        "code_url": null,
-        "code_source": null,
-        "code_checked_at": "2026-10-01T05:01:20+00:00"
+        "code_url": "https://github.com/skywuxuan/ASR-arxiv-daily",
+        "code_source": "github_search",
+        "code_checked_at": "2026-10-01T18:14:28+00:00"
       },
       "2609.39344": {
         "title": "Who Said What, and Will It Be Remembered? Evaluating Persistent Speaker Attribution Across Meetings",
@@ -2630,9 +2630,9 @@
         "updated": "2026-09-30",
         "url": "https://arxiv.org/abs/2609.39344",
         "pdf_url": "https://arxiv.org/pdf/2609.39344",
-        "code_url": null,
-        "code_source": null,
-        "code_checked_at": "2026-10-01T05:01:22+00:00"
+        "code_url": "https://github.com/skywuxuan/ASR-arxiv-daily",
+        "code_source": "github_search",
+        "code_checked_at": "2026-10-01T18:14:30+00:00"
       },
       "2609.39030": {
         "title": "SURE-EVAL: A Systematic and Unified Agentic Framework for Reproducible Evaluation",
@@ -2681,9 +2681,9 @@
         "updated": "2026-09-30",
         "url": "https://arxiv.org/abs/2609.38976",
         "pdf_url": "https://arxiv.org/pdf/2609.38976",
-        "code_url": null,
-        "code_source": null,
-        "code_checked_at": "2026-10-01T05:01:26+00:00"
+        "code_url": "https://github.com/Tavish9/awesome-daily-AI-arxiv",
+        "code_source": "github_search",
+        "code_checked_at": "2026-10-01T18:14:32+00:00"
       },
       "2609.38897": {
         "title": "FFASR: Benchmarking Far-Field Automatic Speech Recognition using High-Fidelity Simulated RIRs",
@@ -2701,9 +2701,9 @@
         "updated": "2026-09-30",
         "url": "https://arxiv.org/abs/2609.38897",
         "pdf_url": "https://arxiv.org/pdf/2609.38897",
-        "code_url": null,
-        "code_source": null,
-        "code_checked_at": "2026-10-01T05:01:28+00:00"
+        "code_url": "https://github.com/skywuxuan/ASR-arxiv-daily",
+        "code_source": "github_search",
+        "code_checked_at": "2026-10-01T18:14:34+00:00"
       },
       "2609.38867": {
         "title": "Talk2Agent: Benchmarking Voice Interfaces for Text Agents",
@@ -2717,9 +2717,9 @@
         "updated": "2026-09-30",
         "url": "https://arxiv.org/abs/2609.38867",
         "pdf_url": "https://arxiv.org/pdf/2609.38867",
-        "code_url": null,
-        "code_source": null,
-        "code_checked_at": "2026-10-01T05:01:30+00:00"
+        "code_url": "https://github.com/Aaron617/agent-arXiv-daily",
+        "code_source": "github_search",
+        "code_checked_at": "2026-10-01T18:14:37+00:00"
       },
       "2609.38658": {
         "title": "Tacit-TTS: From Autoregressive Decoding to Masked Prediction for Efficient Transcript-Free Voice Cloning",
