@@ -4,7 +4,7 @@
 
 [使用与部署说明](./docs/README.md#usage)
 
-> 最近成功抓取：2026-09-30T04:48:48+00:00（UTC）
+> 最近成功抓取：2026-10-01T05:01:20+00:00（UTC）
 
 每 12 小时检索一次，按首次提交日期倒序排列，历史论文会持续保留。
 
@@ -14,10 +14,18 @@
 
 | 首次提交 | 更新日期 | 标题 | 作者 | arXiv | PDF | 代码 |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-09-29 | 2026-09-29 | Pruning for Efficiency, Paying in Fairness: Demographic Disparities in Pruned Speech-LLMs | Ganesh Pavan Kartikeya Bharadwaj Kolluri et al. | [2609.38106](https://arxiv.org/abs/2609.38106) | [PDF](https://arxiv.org/pdf/2609.38106) | — |
-| 2026-09-29 | 2026-09-29 | GLaS-JEPA: Gaussian-Regularized Speech SSL without Engineered Prediction Targets | Gaspard Botté et al. | [2609.37798](https://arxiv.org/abs/2609.37798) | [PDF](https://arxiv.org/pdf/2609.37798) | — |
+| 2026-09-30 | 2026-09-30 | Index-Translate: A Multilingual Translation Model Family -- Text, Speech, Controlled Dubbing, and Long-Document Translation | Tianjiao Li et al. | [2609.40181](https://arxiv.org/abs/2609.40181) | [PDF](https://arxiv.org/pdf/2609.40181) | [论文链接](https://github.com/bilibili/Index-Translate) |
+| 2026-09-30 | 2026-09-30 | From Speech to Editable Concepts: Probing Emotion Recognition with Concept Bottleneck Models | Hezhao Zhang et al. | [2609.39453](https://arxiv.org/abs/2609.39453) | [PDF](https://arxiv.org/pdf/2609.39453) | — |
+| 2026-09-30 | 2026-09-30 | Who Said What, and Will It Be Remembered? Evaluating Persistent Speaker Attribution Across Meetings | Shantanu Vispute et al. | [2609.39344](https://arxiv.org/abs/2609.39344) | [PDF](https://arxiv.org/pdf/2609.39344) | — |
+| 2026-09-30 | 2026-09-30 | SURE-EVAL: A Systematic and Unified Agentic Framework for Reproducible Evaluation | Jing Peng et al. | [2609.39030](https://arxiv.org/abs/2609.39030) | [PDF](https://arxiv.org/pdf/2609.39030) | [候选仓库](https://github.com/iszhanjiawei/TTS_arxiv_daily) |
+| 2026-09-30 | 2026-09-30 | Fairness Beyond a Single Run: Training-Seed Variability in Speech LLM Adaptation | Srishti Ginjala et al. | [2609.38976](https://arxiv.org/abs/2609.38976) | [PDF](https://arxiv.org/pdf/2609.38976) | — |
+| 2026-09-30 | 2026-09-30 | FFASR: Benchmarking Far-Field Automatic Speech Recognition using High-Fidelity Simulated RIRs | Shivam Saini et al. | [2609.38897](https://arxiv.org/abs/2609.38897) | [PDF](https://arxiv.org/pdf/2609.38897) | — |
+| 2026-09-30 | 2026-09-30 | Talk2Agent: Benchmarking Voice Interfaces for Text Agents | Terumi Chiba et al. | [2609.38867](https://arxiv.org/abs/2609.38867) | [PDF](https://arxiv.org/pdf/2609.38867) | — |
+| 2026-09-29 | 2026-09-29 | Tacit-TTS: From Autoregressive Decoding to Masked Prediction for Efficient Transcript-Free Voice Cloning | Jian Chen et al. | [2609.38658](https://arxiv.org/abs/2609.38658) | [PDF](https://arxiv.org/pdf/2609.38658) | [候选仓库](https://github.com/iszhanjiawei/TTS_arxiv_daily) |
+| 2026-09-29 | 2026-09-29 | Pruning for Efficiency, Paying in Fairness: Demographic Disparities in Pruned Speech-LLMs | Ganesh Pavan Kartikeya Bharadwaj Kolluri et al. | [2609.38106](https://arxiv.org/abs/2609.38106) | [PDF](https://arxiv.org/pdf/2609.38106) | [候选仓库](https://github.com/InsomaniacElf/sg-tamil-tts-resources) |
+| 2026-09-29 | 2026-09-29 | GLaS-JEPA: Gaussian-Regularized Speech SSL without Engineered Prediction Targets | Gaspard Botté et al. | [2609.37798](https://arxiv.org/abs/2609.37798) | [PDF](https://arxiv.org/pdf/2609.37798) | [候选仓库](https://github.com/InsomaniacElf/sg-tamil-tts-resources) |
 | 2026-09-29 | 2026-09-29 | Selective Lookahead for Attention-Based Streaming ASR | Yichen Jia et al. | [2609.37611](https://arxiv.org/abs/2609.37611) | [PDF](https://arxiv.org/pdf/2609.37611) | [论文链接](https://github.com/windskylionheart1023/selective-lookahead-asr) |
-| 2026-09-29 | 2026-09-29 | Interpreting and Evaluating Dynamic-Rate Speech Codec Boundaries | Han Wang et al. | [2609.36951](https://arxiv.org/abs/2609.36951) | [PDF](https://arxiv.org/pdf/2609.36951) | — |
+| 2026-09-29 | 2026-09-29 | Interpreting and Evaluating Dynamic-Rate Speech Codec Boundaries | Han Wang et al. | [2609.36951](https://arxiv.org/abs/2609.36951) | [PDF](https://arxiv.org/pdf/2609.36951) | [候选仓库](https://github.com/skywuxuan/ASR-arxiv-daily) |
 | 2026-09-29 | 2026-09-29 | When Capabilities Fail to Compose: Diagnosing the Compositionality Gap in Large Audio-Language Models | Chien-Feng Liu et al. | [2609.36921](https://arxiv.org/abs/2609.36921) | [PDF](https://arxiv.org/pdf/2609.36921) | — |
 | 2026-09-29 | 2026-09-29 | Benchmarking Automatic Speech Recognition Tools for Iberian Languages | Fernando López et al. | [2609.36920](https://arxiv.org/abs/2609.36920) | [PDF](https://arxiv.org/pdf/2609.36920) | [候选仓库](https://github.com/BaiShuanghao/my_arXiv_daily) |
 | 2026-09-29 | 2026-09-29 | BaLEEN: Biasing with Latent Encoded Entities for Context-Aware ASR | Chihiro Taguchi et al. | [2609.36913](https://arxiv.org/abs/2609.36913) | [PDF](https://arxiv.org/pdf/2609.36913) | — |
@@ -30,6 +38,7 @@
 | 2026-09-28 | 2026-09-28 | Zero-Shot Cue-Grounded Topic Segmentation of Spoken Documents | Suhwan Choi et al. | [2609.34425](https://arxiv.org/abs/2609.34425) | [PDF](https://arxiv.org/pdf/2609.34425) | [候选仓库](https://github.com/skywuxuan/ASR-arxiv-daily) |
 | 2026-09-28 | 2026-09-28 | Explainable and Generalisable LLM-based Cognitive Decline Detection with Spontaneous Speech | Ziyun Cui et al. | [2609.34217](https://arxiv.org/abs/2609.34217) | [PDF](https://arxiv.org/pdf/2609.34217) | [候选仓库](https://github.com/InsomaniacElf/sg-tamil-tts-resources) |
 | 2026-09-28 | 2026-09-28 | Evaluating Machine Unlearning in ASR | Diogo Dinis et al. | [2609.34092](https://arxiv.org/abs/2609.34092) | [PDF](https://arxiv.org/pdf/2609.34092) | [候选仓库](https://github.com/skywuxuan/ASR-arxiv-daily) |
+| 2026-09-27 | 2026-09-27 | TutlAit v1: a crowdsourced Moroccan Tamazight speech dataset with Arabic transcriptions and regional accent labels | Mohamed-Amine Chadi et al. | [2609.38219](https://arxiv.org/abs/2609.38219) | [PDF](https://arxiv.org/pdf/2609.38219) | — |
 | 2026-09-27 | 2026-09-27 | In-Context Adaptation of Encoder-Decoder Models in Speech Recognition | Yen Meng et al. | [2609.33865](https://arxiv.org/abs/2609.33865) | [PDF](https://arxiv.org/pdf/2609.33865) | [候选仓库](https://github.com/skywuxuan/ASR-arxiv-daily) |
 | 2026-09-27 | 2026-09-27 | Unified Target-Speaker ASR with Text and Enrollment Speech Cues | Yuxiang Mei et al. | [2609.33853](https://arxiv.org/abs/2609.33853) | [PDF](https://arxiv.org/pdf/2609.33853) | [候选仓库](https://github.com/skywuxuan/ASR-arxiv-daily) |
 | 2026-09-27 | 2026-09-29 | Pruned CTC for Memory-Efficient Large-Vocabulary ASR Training | Yifan Yang et al. | [2609.33645](https://arxiv.org/abs/2609.33645) | [PDF](https://arxiv.org/pdf/2609.33645) | [候选仓库](https://github.com/yfyeung/PrunedCTC) |

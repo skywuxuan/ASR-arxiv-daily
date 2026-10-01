@@ -1,5 +1,5 @@
 {
-  "last_fetched": "2026-09-30T04:48:48+00:00",
+  "last_fetched": "2026-10-01T05:01:20+00:00",
   "topics": {
     "ASR": {
       "2609.18748": {
@@ -2417,9 +2417,9 @@
         "updated": "2026-09-29",
         "url": "https://arxiv.org/abs/2609.38106",
         "pdf_url": "https://arxiv.org/pdf/2609.38106",
-        "code_url": null,
-        "code_source": null,
-        "code_checked_at": "2026-09-30T04:48:48+00:00"
+        "code_url": "https://github.com/InsomaniacElf/sg-tamil-tts-resources",
+        "code_source": "github_search",
+        "code_checked_at": "2026-10-01T05:01:35+00:00"
       },
       "2609.37798": {
         "title": "GLaS-JEPA: Gaussian-Regularized Speech SSL without Engineered Prediction Targets",
@@ -2437,9 +2437,9 @@
         "updated": "2026-09-29",
         "url": "https://arxiv.org/abs/2609.37798",
         "pdf_url": "https://arxiv.org/pdf/2609.37798",
-        "code_url": null,
-        "code_source": null,
-        "code_checked_at": "2026-09-30T04:48:50+00:00"
+        "code_url": "https://github.com/InsomaniacElf/sg-tamil-tts-resources",
+        "code_source": "github_search",
+        "code_checked_at": "2026-10-01T05:01:37+00:00"
       },
       "2609.37611": {
         "title": "Selective Lookahead for Attention-Based Streaming ASR",
@@ -2468,9 +2468,9 @@
         "updated": "2026-09-29",
         "url": "https://arxiv.org/abs/2609.36951",
         "pdf_url": "https://arxiv.org/pdf/2609.36951",
-        "code_url": null,
-        "code_source": null,
-        "code_checked_at": "2026-09-30T04:48:52+00:00"
+        "code_url": "https://github.com/skywuxuan/ASR-arxiv-daily",
+        "code_source": "github_search",
+        "code_checked_at": "2026-10-01T05:01:39+00:00"
       },
       "2609.36921": {
         "title": "When Capabilities Fail to Compose: Diagnosing the Compositionality Gap in Large Audio-Language Models",
@@ -2582,6 +2582,179 @@
         "code_url": null,
         "code_source": null,
         "code_checked_at": "2026-09-30T04:49:05+00:00"
+      },
+      "2609.40181": {
+        "title": "Index-Translate: A Multilingual Translation Model Family -- Text, Speech, Controlled Dubbing, and Long-Document Translation",
+        "authors": [
+          "Tianjiao Li",
+          "Mengran Yu",
+          "Chenyu Shi",
+          "Lusheng Zhang",
+          "Qisi Chen",
+          "Yanshan Zhou",
+          "Ji Qi",
+          "Jingying Liu",
+          "Yuang Feng",
+          "Ziang Cui",
+          "Tianxing Yan"
+        ],
+        "published": "2026-09-30",
+        "updated": "2026-09-30",
+        "url": "https://arxiv.org/abs/2609.40181",
+        "pdf_url": "https://arxiv.org/pdf/2609.40181",
+        "code_url": "https://github.com/bilibili/Index-Translate",
+        "code_source": "paper"
+      },
+      "2609.39453": {
+        "title": "From Speech to Editable Concepts: Probing Emotion Recognition with Concept Bottleneck Models",
+        "authors": [
+          "Hezhao Zhang",
+          "Thomas Hain"
+        ],
+        "published": "2026-09-30",
+        "updated": "2026-09-30",
+        "url": "https://arxiv.org/abs/2609.39453",
+        "pdf_url": "https://arxiv.org/pdf/2609.39453",
+        "code_url": null,
+        "code_source": null,
+        "code_checked_at": "2026-10-01T05:01:20+00:00"
+      },
+      "2609.39344": {
+        "title": "Who Said What, and Will It Be Remembered? Evaluating Persistent Speaker Attribution Across Meetings",
+        "authors": [
+          "Shantanu Vispute",
+          "Aditya Mishra",
+          "Siddhartha Saxena"
+        ],
+        "published": "2026-09-30",
+        "updated": "2026-09-30",
+        "url": "https://arxiv.org/abs/2609.39344",
+        "pdf_url": "https://arxiv.org/pdf/2609.39344",
+        "code_url": null,
+        "code_source": null,
+        "code_checked_at": "2026-10-01T05:01:22+00:00"
+      },
+      "2609.39030": {
+        "title": "SURE-EVAL: A Systematic and Unified Agentic Framework for Reproducible Evaluation",
+        "authors": [
+          "Jing Peng",
+          "Junhao Du",
+          "Yixuan Wang",
+          "Bowen Wang",
+          "Hanqi Li",
+          "Chaolei Liu",
+          "Weihan Chen",
+          "Haohui Xie",
+          "Ruichen Sun",
+          "Chenghao Wang",
+          "Wen Wen",
+          "Guanyu Chen",
+          "Xiaoyu Gu",
+          "Haoyu Li",
+          "Yiwei Guo",
+          "Bohan Li",
+          "Tao Liu",
+          "Yucheng Wang",
+          "Yu Xi",
+          "Yihua Zhou",
+          "Qiang Zhou",
+          "Feng Lu",
+          "Shuai Wang",
+          "Kai Yu"
+        ],
+        "published": "2026-09-30",
+        "updated": "2026-09-30",
+        "url": "https://arxiv.org/abs/2609.39030",
+        "pdf_url": "https://arxiv.org/pdf/2609.39030",
+        "code_url": "https://github.com/iszhanjiawei/TTS_arxiv_daily",
+        "code_source": "github_search",
+        "code_checked_at": "2026-10-01T05:01:24+00:00"
+      },
+      "2609.38976": {
+        "title": "Fairness Beyond a Single Run: Training-Seed Variability in Speech LLM Adaptation",
+        "authors": [
+          "Srishti Ginjala",
+          "Eric Fosler-Lussier",
+          "Srinivasan Parthasarathy"
+        ],
+        "published": "2026-09-30",
+        "updated": "2026-09-30",
+        "url": "https://arxiv.org/abs/2609.38976",
+        "pdf_url": "https://arxiv.org/pdf/2609.38976",
+        "code_url": null,
+        "code_source": null,
+        "code_checked_at": "2026-10-01T05:01:26+00:00"
+      },
+      "2609.38897": {
+        "title": "FFASR: Benchmarking Far-Field Automatic Speech Recognition using High-Fidelity Simulated RIRs",
+        "authors": [
+          "Shivam Saini",
+          "Eric Bezzam",
+          "Georg Götz",
+          "Alessia Milo",
+          "Steinar Guðjónsson",
+          "Konstantinos Gkanos",
+          "Finnur Pind",
+          "Daniel Gert Nielsen"
+        ],
+        "published": "2026-09-30",
+        "updated": "2026-09-30",
+        "url": "https://arxiv.org/abs/2609.38897",
+        "pdf_url": "https://arxiv.org/pdf/2609.38897",
+        "code_url": null,
+        "code_source": null,
+        "code_checked_at": "2026-10-01T05:01:28+00:00"
+      },
+      "2609.38867": {
+        "title": "Talk2Agent: Benchmarking Voice Interfaces for Text Agents",
+        "authors": [
+          "Terumi Chiba",
+          "Guangzhi Sun",
+          "Zheqi Yuan",
+          "Chao Zhang"
+        ],
+        "published": "2026-09-30",
+        "updated": "2026-09-30",
+        "url": "https://arxiv.org/abs/2609.38867",
+        "pdf_url": "https://arxiv.org/pdf/2609.38867",
+        "code_url": null,
+        "code_source": null,
+        "code_checked_at": "2026-10-01T05:01:30+00:00"
+      },
+      "2609.38658": {
+        "title": "Tacit-TTS: From Autoregressive Decoding to Masked Prediction for Efficient Transcript-Free Voice Cloning",
+        "authors": [
+          "Jian Chen",
+          "You Zhang",
+          "Mark Vinton"
+        ],
+        "published": "2026-09-29",
+        "updated": "2026-09-29",
+        "url": "https://arxiv.org/abs/2609.38658",
+        "pdf_url": "https://arxiv.org/pdf/2609.38658",
+        "code_url": "https://github.com/iszhanjiawei/TTS_arxiv_daily",
+        "code_source": "github_search",
+        "code_checked_at": "2026-10-01T05:01:32+00:00"
+      },
+      "2609.38219": {
+        "title": "TutlAit v1: a crowdsourced Moroccan Tamazight speech dataset with Arabic transcriptions and regional accent labels",
+        "authors": [
+          "Mohamed-Amine Chadi",
+          "Ezzahra Ait El Arbi",
+          "Ismail Khayoub",
+          "Aymane Fadili",
+          "Yassine Ennhili",
+          "Jadjigua Bouali",
+          "Hanane Inhid",
+          "Mohammed Ameksa",
+          "Hajar Mousannif"
+        ],
+        "published": "2026-09-27",
+        "updated": "2026-09-27",
+        "url": "https://arxiv.org/abs/2609.38219",
+        "pdf_url": "https://arxiv.org/pdf/2609.38219",
+        "code_url": null,
+        "code_source": null
       }
     }
   }
