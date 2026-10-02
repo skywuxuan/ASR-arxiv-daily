@@ -1,5 +1,5 @@
 {
-  "last_fetched": "2026-10-01T18:14:28+00:00",
+  "last_fetched": "2026-10-02T04:51:20+00:00",
   "topics": {
     "ASR": {
       "2609.18748": {
@@ -2296,8 +2296,9 @@
         "updated": "2026-09-26",
         "url": "https://arxiv.org/abs/2609.32408",
         "pdf_url": "https://arxiv.org/pdf/2609.32408",
-        "code_url": null,
-        "code_source": null
+        "code_url": "https://github.com/skywuxuan/ASR-arxiv-daily",
+        "code_source": "github_search",
+        "code_checked_at": "2026-10-02T04:51:31+00:00"
       },
       "2609.32396": {
         "title": "FA-Bench: A Benchmark for Word-Level and Phone-Level Forced-Alignment and ASR Timestamps Under Clean and Noisy Conditions",
@@ -2360,8 +2361,9 @@
         "updated": "2026-09-25",
         "url": "https://arxiv.org/abs/2609.31967",
         "pdf_url": "https://arxiv.org/pdf/2609.31967",
-        "code_url": null,
-        "code_source": null
+        "code_url": "https://github.com/skywuxuan/ASR-arxiv-daily",
+        "code_source": "github_search",
+        "code_checked_at": "2026-10-02T04:51:33+00:00"
       },
       "2609.31961": {
         "title": "Improving Audiovisual Speech Recognition through Synthetic Visual Data Augmentation",
@@ -2374,8 +2376,9 @@
         "updated": "2026-09-25",
         "url": "https://arxiv.org/abs/2609.31961",
         "pdf_url": "https://arxiv.org/pdf/2609.31961",
-        "code_url": null,
-        "code_source": null
+        "code_url": "https://github.com/skywuxuan/ASR-arxiv-daily",
+        "code_source": "github_search",
+        "code_checked_at": "2026-10-02T04:51:35+00:00"
       },
       "2609.31892": {
         "title": "NVAlign: Direct-Gradient Optimization for Non-Verbal Control in Continuous Autoregressive Flow Matching Text-to-Speech",
@@ -2390,8 +2393,9 @@
         "updated": "2026-09-25",
         "url": "https://arxiv.org/abs/2609.31892",
         "pdf_url": "https://arxiv.org/pdf/2609.31892",
-        "code_url": null,
-        "code_source": null
+        "code_url": "https://github.com/iszhanjiawei/TTS_arxiv_daily",
+        "code_source": "github_search",
+        "code_checked_at": "2026-10-02T04:51:37+00:00"
       },
       "2609.31787": {
         "title": "Optimal transport meets speech: a tutorial review",
@@ -2403,8 +2407,9 @@
         "updated": "2026-09-24",
         "url": "https://arxiv.org/abs/2609.31787",
         "pdf_url": "https://arxiv.org/pdf/2609.31787",
-        "code_url": null,
-        "code_source": null
+        "code_url": "https://github.com/skywuxuan/ASR-arxiv-daily",
+        "code_source": "github_search",
+        "code_checked_at": "2026-10-02T04:51:40+00:00"
       },
       "2609.38106": {
         "title": "Pruning for Efficiency, Paying in Fairness: Demographic Disparities in Pruned Speech-LLMs",
@@ -2753,8 +2758,74 @@
         "updated": "2026-09-27",
         "url": "https://arxiv.org/abs/2609.38219",
         "pdf_url": "https://arxiv.org/pdf/2609.38219",
+        "code_url": "https://github.com/Tavish9/awesome-daily-AI-arxiv",
+        "code_source": "github_search",
+        "code_checked_at": "2026-10-02T04:51:29+00:00"
+      },
+      "2610.01695": {
+        "title": "Teaching LLMs to Hear Who Spoke What: Metadata-Supervised Pretraining for Encoder-Free Speech-LLMs",
+        "authors": [
+          "Mohan Shi",
+          "Ruchao Fan",
+          "Sunit Sivasankaran",
+          "Keqi Deng",
+          "Jinyu Li"
+        ],
+        "published": "2026-10-01",
+        "updated": "2026-10-01",
+        "url": "https://arxiv.org/abs/2610.01695",
+        "pdf_url": "https://arxiv.org/pdf/2610.01695",
         "code_url": null,
-        "code_source": null
+        "code_source": null,
+        "code_checked_at": "2026-10-02T04:51:21+00:00"
+      },
+      "2610.01492": {
+        "title": "Q-SPT: Learnable Query-Based Compression for Low-Frame-Rate Speech Tokenization",
+        "authors": [
+          "Jeeyoung Yun",
+          "Seohwan Yun",
+          "Sungwoong Kim"
+        ],
+        "published": "2026-10-01",
+        "updated": "2026-10-01",
+        "url": "https://arxiv.org/abs/2610.01492",
+        "pdf_url": "https://arxiv.org/pdf/2610.01492",
+        "code_url": "https://github.com/liutaocode/TTS-arxiv-daily",
+        "code_source": "github_search",
+        "code_checked_at": "2026-10-02T04:51:23+00:00"
+      },
+      "2610.01427": {
+        "title": "SHAMS: An Audio-Grounded Pronunciation Benchmark for Levantine Arabic",
+        "authors": [
+          "Ben Sapirstein",
+          "Roy Mattar",
+          "Guy Mor-Lan",
+          "Ahlam Mohamed",
+          "Letizia Cerqueglini",
+          "Morris Alper"
+        ],
+        "published": "2026-10-01",
+        "updated": "2026-10-01",
+        "url": "https://arxiv.org/abs/2610.01427",
+        "pdf_url": "https://arxiv.org/pdf/2610.01427",
+        "code_url": null,
+        "code_source": null,
+        "code_checked_at": "2026-10-02T04:51:25+00:00"
+      },
+      "2610.01182": {
+        "title": "Toward Elastic Speech Inference: Training-Free Wake-Word Detection from Pretrained ASR",
+        "authors": [
+          "Hwayeon Kim",
+          "Youngwon Choi",
+          "Hyeonyu Kim"
+        ],
+        "published": "2026-10-01",
+        "updated": "2026-10-01",
+        "url": "https://arxiv.org/abs/2610.01182",
+        "pdf_url": "https://arxiv.org/pdf/2610.01182",
+        "code_url": null,
+        "code_source": null,
+        "code_checked_at": "2026-10-02T04:51:27+00:00"
       }
     }
   }
