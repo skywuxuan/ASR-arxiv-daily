@@ -8,7 +8,7 @@ layout: default
 
 [使用与部署说明](./README.html#usage)
 
-> 最近成功抓取：2026-10-02T04:51:20+00:00（UTC）
+> 最近成功抓取：2026-10-02T17:40:03+00:00（UTC）
 
 每 12 小时检索一次，按首次提交日期倒序排列，历史论文会持续保留。
 
@@ -18,10 +18,10 @@ layout: default
 
 | 首次提交 | 更新日期 | 标题 | 作者 | arXiv | PDF | 代码 |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-10-01 | 2026-10-01 | Teaching LLMs to Hear Who Spoke What: Metadata-Supervised Pretraining for Encoder-Free Speech-LLMs | Mohan Shi et al. | [2610.01695](https://arxiv.org/abs/2610.01695) | [PDF](https://arxiv.org/pdf/2610.01695) | — |
+| 2026-10-01 | 2026-10-01 | Teaching LLMs to Hear Who Spoke What: Metadata-Supervised Pretraining for Encoder-Free Speech-LLMs | Mohan Shi et al. | [2610.01695](https://arxiv.org/abs/2610.01695) | [PDF](https://arxiv.org/pdf/2610.01695) | [候选仓库](https://github.com/skywuxuan/ASR-arxiv-daily) |
 | 2026-10-01 | 2026-10-01 | Q-SPT: Learnable Query-Based Compression for Low-Frame-Rate Speech Tokenization | Jeeyoung Yun et al. | [2610.01492](https://arxiv.org/abs/2610.01492) | [PDF](https://arxiv.org/pdf/2610.01492) | [候选仓库](https://github.com/liutaocode/TTS-arxiv-daily) |
-| 2026-10-01 | 2026-10-01 | SHAMS: An Audio-Grounded Pronunciation Benchmark for Levantine Arabic | Ben Sapirstein et al. | [2610.01427](https://arxiv.org/abs/2610.01427) | [PDF](https://arxiv.org/pdf/2610.01427) | — |
-| 2026-10-01 | 2026-10-01 | Toward Elastic Speech Inference: Training-Free Wake-Word Detection from Pretrained ASR | Hwayeon Kim et al. | [2610.01182](https://arxiv.org/abs/2610.01182) | [PDF](https://arxiv.org/pdf/2610.01182) | — |
+| 2026-10-01 | 2026-10-01 | SHAMS: An Audio-Grounded Pronunciation Benchmark for Levantine Arabic | Ben Sapirstein et al. | [2610.01427](https://arxiv.org/abs/2610.01427) | [PDF](https://arxiv.org/pdf/2610.01427) | [候选仓库](https://github.com/Tavish9/awesome-daily-AI-arxiv) |
+| 2026-10-01 | 2026-10-01 | Toward Elastic Speech Inference: Training-Free Wake-Word Detection from Pretrained ASR | Hwayeon Kim et al. | [2610.01182](https://arxiv.org/abs/2610.01182) | [PDF](https://arxiv.org/pdf/2610.01182) | [候选仓库](https://github.com/skywuxuan/ASR-arxiv-daily) |
 | 2026-09-30 | 2026-09-30 | Index-Translate: A Multilingual Translation Model Family -- Text, Speech, Controlled Dubbing, and Long-Document Translation | Tianjiao Li et al. | [2609.40181](https://arxiv.org/abs/2609.40181) | [PDF](https://arxiv.org/pdf/2609.40181) | [论文链接](https://github.com/bilibili/Index-Translate) |
 | 2026-09-30 | 2026-09-30 | From Speech to Editable Concepts: Probing Emotion Recognition with Concept Bottleneck Models | Hezhao Zhang et al. | [2609.39453](https://arxiv.org/abs/2609.39453) | [PDF](https://arxiv.org/pdf/2609.39453) | [候选仓库](https://github.com/skywuxuan/ASR-arxiv-daily) |
 | 2026-09-30 | 2026-09-30 | Who Said What, and Will It Be Remembered? Evaluating Persistent Speaker Attribution Across Meetings | Shantanu Vispute et al. | [2609.39344](https://arxiv.org/abs/2609.39344) | [PDF](https://arxiv.org/pdf/2609.39344) | [候选仓库](https://github.com/skywuxuan/ASR-arxiv-daily) |
