@@ -14,8 +14,8 @@
 
 | 首次提交 | 更新日期 | 标题 | 作者 | arXiv | PDF | 代码 |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-10-02 | 2026-10-02 | An automated pipeline for standardised speech-unit annotation in spontaneous dialogue | Hanlu He et al. | [2610.03078](https://arxiv.org/abs/2610.03078) | [PDF](https://arxiv.org/pdf/2610.03078) | — |
-| 2026-10-02 | 2026-10-02 | Personalized Automatic Speech Recognition for a Dysarthric and Tracheostomic Speaker using Artificial Conversations | David Nadrchal et al. | [2610.03017](https://arxiv.org/abs/2610.03017) | [PDF](https://arxiv.org/pdf/2610.03017) | — |
+| 2026-10-02 | 2026-10-02 | An automated pipeline for standardised speech-unit annotation in spontaneous dialogue | Hanlu He et al. | [2610.03078](https://arxiv.org/abs/2610.03078) | [PDF](https://arxiv.org/pdf/2610.03078) | [候选仓库](https://github.com/Tavish9/awesome-daily-AI-arxiv) |
+| 2026-10-02 | 2026-10-02 | Personalized Automatic Speech Recognition for a Dysarthric and Tracheostomic Speaker using Artificial Conversations | David Nadrchal et al. | [2610.03017](https://arxiv.org/abs/2610.03017) | [PDF](https://arxiv.org/pdf/2610.03017) | [候选仓库](https://github.com/skywuxuan/ASR-arxiv-daily) |
 | 2026-10-01 | 2026-10-01 | Teaching LLMs to Hear Who Spoke What: Metadata-Supervised Pretraining for Encoder-Free Speech-LLMs | Mohan Shi et al. | [2610.01695](https://arxiv.org/abs/2610.01695) | [PDF](https://arxiv.org/pdf/2610.01695) | [候选仓库](https://github.com/skywuxuan/ASR-arxiv-daily) |
 | 2026-10-01 | 2026-10-01 | Q-SPT: Learnable Query-Based Compression for Low-Frame-Rate Speech Tokenization | Jeeyoung Yun et al. | [2610.01492](https://arxiv.org/abs/2610.01492) | [PDF](https://arxiv.org/pdf/2610.01492) | [候选仓库](https://github.com/liutaocode/TTS-arxiv-daily) |
 | 2026-10-01 | 2026-10-01 | SHAMS: An Audio-Grounded Pronunciation Benchmark for Levantine Arabic | Ben Sapirstein et al. | [2610.01427](https://arxiv.org/abs/2610.01427) | [PDF](https://arxiv.org/pdf/2610.01427) | [候选仓库](https://github.com/Tavish9/awesome-daily-AI-arxiv) |
