@@ -1,5 +1,5 @@
 {
-  "last_fetched": "2026-10-04T16:39:49+00:00",
+  "last_fetched": "2026-10-05T04:50:54+00:00",
   "topics": {
     "ASR": {
       "2609.18748": {
@@ -2826,6 +2826,39 @@
         "code_url": "https://github.com/skywuxuan/ASR-arxiv-daily",
         "code_source": "github_search",
         "code_checked_at": "2026-10-02T17:40:07+00:00"
+      },
+      "2610.03078": {
+        "title": "An automated pipeline for standardised speech-unit annotation in spontaneous dialogue",
+        "authors": [
+          "Hanlu He",
+          "Harald Vilhelm Skat-Rørdam",
+          "Ingvi Örnólfsson",
+          "Ivana Konvalinka"
+        ],
+        "published": "2026-10-02",
+        "updated": "2026-10-02",
+        "url": "https://arxiv.org/abs/2610.03078",
+        "pdf_url": "https://arxiv.org/pdf/2610.03078",
+        "code_url": null,
+        "code_source": null,
+        "code_checked_at": "2026-10-05T04:50:55+00:00"
+      },
+      "2610.03017": {
+        "title": "Personalized Automatic Speech Recognition for a Dysarthric and Tracheostomic Speaker using Artificial Conversations",
+        "authors": [
+          "David Nadrchal",
+          "Monorama Swain",
+          "Florian Schmid",
+          "Gerhard Widmer",
+          "Paul Primus"
+        ],
+        "published": "2026-10-02",
+        "updated": "2026-10-02",
+        "url": "https://arxiv.org/abs/2610.03017",
+        "pdf_url": "https://arxiv.org/pdf/2610.03017",
+        "code_url": null,
+        "code_source": null,
+        "code_checked_at": "2026-10-05T04:50:57+00:00"
       }
     }
   }
