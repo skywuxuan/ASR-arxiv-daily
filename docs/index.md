@@ -8,7 +8,7 @@ layout: default
 
 [使用与部署说明](./README.html#usage)
 
-> 最近成功抓取：2026-10-08T05:18:57+00:00（UTC）
+> 最近成功抓取：2026-10-08T18:38:58+00:00（UTC）
 
 每 12 小时检索一次，按首次提交日期倒序排列，历史论文会持续保留。
 
@@ -18,9 +18,9 @@ layout: default
 
 | 首次提交 | 更新日期 | 标题 | 作者 | arXiv | PDF | 代码 |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-10-07 | 2026-10-07 | InterView-C: A Synchronized Multimodal Corpus of VR Avatar-Mediated Survey Interviews | Patrick Schrottenbacher et al. | [2610.10145](https://arxiv.org/abs/2610.10145) | [PDF](https://arxiv.org/pdf/2610.10145) | — |
-| 2026-10-07 | 2026-10-07 | Backdooring Acoustic Foundation Models for Physically Realizable Triggers | Zebin Yun et al. | [2610.09819](https://arxiv.org/abs/2610.09819) | [PDF](https://arxiv.org/pdf/2610.09819) | — |
-| 2026-10-06 | 2026-10-06 | Phoneme-Guided Initialization for LLM-based Speech Recognition | Ryo Magoshi et al. | [2610.08994](https://arxiv.org/abs/2610.08994) | [PDF](https://arxiv.org/pdf/2610.08994) | — |
+| 2026-10-07 | 2026-10-07 | InterView-C: A Synchronized Multimodal Corpus of VR Avatar-Mediated Survey Interviews | Patrick Schrottenbacher et al. | [2610.10145](https://arxiv.org/abs/2610.10145) | [PDF](https://arxiv.org/pdf/2610.10145) | [候选仓库](https://github.com/Tavish9/awesome-daily-AI-arxiv) |
+| 2026-10-07 | 2026-10-07 | Backdooring Acoustic Foundation Models for Physically Realizable Triggers | Zebin Yun et al. | [2610.09819](https://arxiv.org/abs/2610.09819) | [PDF](https://arxiv.org/pdf/2610.09819) | [候选仓库](https://github.com/arxivsub/arXivSub_daily_arxiv) |
+| 2026-10-06 | 2026-10-06 | Phoneme-Guided Initialization for LLM-based Speech Recognition | Ryo Magoshi et al. | [2610.08994](https://arxiv.org/abs/2610.08994) | [PDF](https://arxiv.org/pdf/2610.08994) | [候选仓库](https://github.com/skywuxuan/ASR-arxiv-daily) |
 | 2026-10-06 | 2026-10-06 | InterCorrect: Intersection-Aware Correction of Demographic Model Merging for Fair ASR | Ashley E. Bravo-Bravo et al. | [2610.08604](https://arxiv.org/abs/2610.08604) | [PDF](https://arxiv.org/pdf/2610.08604) | [候选仓库](https://github.com/InsomaniacElf/sg-tamil-tts-resources) |
 | 2026-10-06 | 2026-10-06 | DirectSpeech2LLM: A Simple End-to-End Framework to Mitigate Prompt Overfitting in Speech-LLMs | Hemant Yadav et al. | [2610.08085](https://arxiv.org/abs/2610.08085) | [PDF](https://arxiv.org/pdf/2610.08085) | [候选仓库](https://github.com/Tavish9/awesome-daily-AI-arxiv) |
 | 2026-10-06 | 2026-10-06 | HINTT Submission to the 2nd MLC-SLM Challenge: Comparing Cascaded and Unified Approaches to Diarization and ASR | Takanori Ashihara et al. | [2610.08063](https://arxiv.org/abs/2610.08063) | [PDF](https://arxiv.org/pdf/2610.08063) | [候选仓库](https://github.com/InsomaniacElf/sg-tamil-tts-resources) |
@@ -29,13 +29,13 @@ layout: default
 | 2026-10-06 | 2026-10-06 | Quality-Aware Self-Correcting Speech Translation on an Edge Device | Zubair Ajmal Farooq et al. | [2610.07545](https://arxiv.org/abs/2610.07545) | [PDF](https://arxiv.org/pdf/2610.07545) | [论文链接](https://github.com/juebae/speech-translation_edge_device) |
 | 2026-10-05 | 2026-10-05 | Word-Level Text Unmixing via Evidence-Preserving Ownership Routing with Language Models | Jinglin He et al. | [2610.06603](https://arxiv.org/abs/2610.06603) | [PDF](https://arxiv.org/pdf/2610.06603) | [候选仓库](https://github.com/InsomaniacElf/sg-tamil-tts-resources) |
 | 2026-10-05 | 2026-10-05 | Mind the Accent Gap: British Accent Robustness in Speech-Driven Financial Voice Assistants | Aadam Haq et al. | [2610.06587](https://arxiv.org/abs/2610.06587) | [PDF](https://arxiv.org/pdf/2610.06587) | [候选仓库](https://github.com/InsomaniacElf/sg-tamil-tts-resources) |
-| 2026-10-05 | 2026-10-05 | Lyric: Wave-Domain Computing for Efficient Spoken-Digit Recognition | Jeeven Balasubramaniam et al. | [2610.06433](https://arxiv.org/abs/2610.06433) | [PDF](https://arxiv.org/pdf/2610.06433) | — |
-| 2026-10-05 | 2026-10-05 | Automatic Speech Recognition for Low-Resource Sinhala: A Critical Review of Methods, Challenges, and Future Directions | Chanuka Dinuwan et al. | [2610.05681](https://arxiv.org/abs/2610.05681) | [PDF](https://arxiv.org/pdf/2610.05681) | — |
-| 2026-10-04 | 2026-10-04 | UltraM2M: Leveraging Text Transcripts and Mixture Constraints for Weakly-Supervised Speech Enhancement | Liu et al. | [2610.05155](https://arxiv.org/abs/2610.05155) | [PDF](https://arxiv.org/pdf/2610.05155) | — |
-| 2026-10-04 | 2026-10-04 | AraYoungVoices: A Diverse L1/L2 Corpus of Arabic Child and Adolescent Speech | Shammur Absar Chowdhury et al. | [2610.05044](https://arxiv.org/abs/2610.05044) | [PDF](https://arxiv.org/pdf/2610.05044) | — |
-| 2026-10-03 | 2026-10-03 | SepRQ : Self-Supervised Speech Mixture Representation Learning via Mask-Free, Multi-Scale Source Separation | Séverin Baroudi et al. | [2610.04690](https://arxiv.org/abs/2610.04690) | [PDF](https://arxiv.org/pdf/2610.04690) | — |
-| 2026-10-03 | 2026-10-03 | Steering Speech-Language Models: Training-Free Task Specialization via Contrastive Activation Addition | Séverin Baroudi et al. | [2610.04683](https://arxiv.org/abs/2610.04683) | [PDF](https://arxiv.org/pdf/2610.04683) | — |
-| 2026-10-03 | 2026-10-03 | Factorized Delayed Streams Modeling for LLM-based Streaming ASR | Tatsunari Takagi et al. | [2610.04333](https://arxiv.org/abs/2610.04333) | [PDF](https://arxiv.org/pdf/2610.04333) | — |
+| 2026-10-05 | 2026-10-05 | Lyric: Wave-Domain Computing for Efficient Spoken-Digit Recognition | Jeeven Balasubramaniam et al. | [2610.06433](https://arxiv.org/abs/2610.06433) | [PDF](https://arxiv.org/pdf/2610.06433) | [候选仓库](https://github.com/skywuxuan/ASR-arxiv-daily) |
+| 2026-10-05 | 2026-10-05 | Automatic Speech Recognition for Low-Resource Sinhala: A Critical Review of Methods, Challenges, and Future Directions | Chanuka Dinuwan et al. | [2610.05681](https://arxiv.org/abs/2610.05681) | [PDF](https://arxiv.org/pdf/2610.05681) | [候选仓库](https://github.com/InsomaniacElf/sg-tamil-tts-resources) |
+| 2026-10-04 | 2026-10-04 | UltraM2M: Leveraging Text Transcripts and Mixture Constraints for Weakly-Supervised Speech Enhancement | Liu et al. | [2610.05155](https://arxiv.org/abs/2610.05155) | [PDF](https://arxiv.org/pdf/2610.05155) | [候选仓库](https://github.com/skywuxuan/ASR-arxiv-daily) |
+| 2026-10-04 | 2026-10-04 | AraYoungVoices: A Diverse L1/L2 Corpus of Arabic Child and Adolescent Speech | Shammur Absar Chowdhury et al. | [2610.05044](https://arxiv.org/abs/2610.05044) | [PDF](https://arxiv.org/pdf/2610.05044) | [候选仓库](https://github.com/InsomaniacElf/sg-tamil-tts-resources) |
+| 2026-10-03 | 2026-10-03 | SepRQ : Self-Supervised Speech Mixture Representation Learning via Mask-Free, Multi-Scale Source Separation | Séverin Baroudi et al. | [2610.04690](https://arxiv.org/abs/2610.04690) | [PDF](https://arxiv.org/pdf/2610.04690) | [候选仓库](https://github.com/SevKod/SepRQ) |
+| 2026-10-03 | 2026-10-03 | Steering Speech-Language Models: Training-Free Task Specialization via Contrastive Activation Addition | Séverin Baroudi et al. | [2610.04683](https://arxiv.org/abs/2610.04683) | [PDF](https://arxiv.org/pdf/2610.04683) | [候选仓库](https://github.com/skywuxuan/ASR-arxiv-daily) |
+| 2026-10-03 | 2026-10-03 | Factorized Delayed Streams Modeling for LLM-based Streaming ASR | Tatsunari Takagi et al. | [2610.04333](https://arxiv.org/abs/2610.04333) | [PDF](https://arxiv.org/pdf/2610.04333) | [候选仓库](https://github.com/skywuxuan/ASR-arxiv-daily) |
 | 2026-10-02 | 2026-10-02 | An automated pipeline for standardised speech-unit annotation in spontaneous dialogue | Hanlu He et al. | [2610.03078](https://arxiv.org/abs/2610.03078) | [PDF](https://arxiv.org/pdf/2610.03078) | [候选仓库](https://github.com/Tavish9/awesome-daily-AI-arxiv) |
 | 2026-10-02 | 2026-10-02 | Personalized Automatic Speech Recognition for a Dysarthric and Tracheostomic Speaker using Artificial Conversations | David Nadrchal et al. | [2610.03017](https://arxiv.org/abs/2610.03017) | [PDF](https://arxiv.org/pdf/2610.03017) | [候选仓库](https://github.com/skywuxuan/ASR-arxiv-daily) |
 | 2026-10-01 | 2026-10-01 | Timestamped Hindi speech transcription using Whisper | Sanat Kumar Agrawal et al. | [2610.08847](https://arxiv.org/abs/2610.08847) | [PDF](https://arxiv.org/pdf/2610.08847) | — |

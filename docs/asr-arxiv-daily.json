@@ -1,5 +1,5 @@
 {
-  "last_fetched": "2026-10-08T05:18:57+00:00",
+  "last_fetched": "2026-10-08T18:38:58+00:00",
   "topics": {
     "ASR": {
       "2609.18748": {
@@ -2873,9 +2873,9 @@
         "updated": "2026-10-07",
         "url": "https://arxiv.org/abs/2610.10145",
         "pdf_url": "https://arxiv.org/pdf/2610.10145",
-        "code_url": null,
-        "code_source": null,
-        "code_checked_at": "2026-10-08T05:18:57+00:00"
+        "code_url": "https://github.com/Tavish9/awesome-daily-AI-arxiv",
+        "code_source": "github_search",
+        "code_checked_at": "2026-10-08T18:38:59+00:00"
       },
       "2610.09819": {
         "title": "Backdooring Acoustic Foundation Models for Physically Realizable Triggers",
@@ -2888,9 +2888,9 @@
         "updated": "2026-10-07",
         "url": "https://arxiv.org/abs/2610.09819",
         "pdf_url": "https://arxiv.org/pdf/2610.09819",
-        "code_url": null,
-        "code_source": null,
-        "code_checked_at": "2026-10-08T05:18:59+00:00"
+        "code_url": "https://github.com/arxivsub/arXivSub_daily_arxiv",
+        "code_source": "github_search",
+        "code_checked_at": "2026-10-08T18:39:01+00:00"
       },
       "2610.08994": {
         "title": "Phoneme-Guided Initialization for LLM-based Speech Recognition",
@@ -2903,9 +2903,9 @@
         "updated": "2026-10-06",
         "url": "https://arxiv.org/abs/2610.08994",
         "pdf_url": "https://arxiv.org/pdf/2610.08994",
-        "code_url": null,
-        "code_source": null,
-        "code_checked_at": "2026-10-08T05:19:01+00:00"
+        "code_url": "https://github.com/skywuxuan/ASR-arxiv-daily",
+        "code_source": "github_search",
+        "code_checked_at": "2026-10-08T18:39:03+00:00"
       },
       "2610.08604": {
         "title": "InterCorrect: Intersection-Aware Correction of Demographic Model Merging for Fair ASR",
@@ -3052,8 +3052,9 @@
         "updated": "2026-10-05",
         "url": "https://arxiv.org/abs/2610.06433",
         "pdf_url": "https://arxiv.org/pdf/2610.06433",
-        "code_url": null,
-        "code_source": null
+        "code_url": "https://github.com/skywuxuan/ASR-arxiv-daily",
+        "code_source": "github_search",
+        "code_checked_at": "2026-10-08T18:39:05+00:00"
       },
       "2610.05681": {
         "title": "Automatic Speech Recognition for Low-Resource Sinhala: A Critical Review of Methods, Challenges, and Future Directions",
@@ -3066,8 +3067,9 @@
         "updated": "2026-10-05",
         "url": "https://arxiv.org/abs/2610.05681",
         "pdf_url": "https://arxiv.org/pdf/2610.05681",
-        "code_url": null,
-        "code_source": null
+        "code_url": "https://github.com/InsomaniacElf/sg-tamil-tts-resources",
+        "code_source": "github_search",
+        "code_checked_at": "2026-10-08T18:39:07+00:00"
       },
       "2610.05155": {
         "title": "UltraM2M: Leveraging Text Transcripts and Mixture Constraints for Weakly-Supervised Speech Enhancement",
@@ -3083,8 +3085,9 @@
         "updated": "2026-10-04",
         "url": "https://arxiv.org/abs/2610.05155",
         "pdf_url": "https://arxiv.org/pdf/2610.05155",
-        "code_url": null,
-        "code_source": null
+        "code_url": "https://github.com/skywuxuan/ASR-arxiv-daily",
+        "code_source": "github_search",
+        "code_checked_at": "2026-10-08T18:39:09+00:00"
       },
       "2610.05044": {
         "title": "AraYoungVoices: A Diverse L1/L2 Corpus of Arabic Child and Adolescent Speech",
@@ -3098,8 +3101,9 @@
         "updated": "2026-10-04",
         "url": "https://arxiv.org/abs/2610.05044",
         "pdf_url": "https://arxiv.org/pdf/2610.05044",
-        "code_url": null,
-        "code_source": null
+        "code_url": "https://github.com/InsomaniacElf/sg-tamil-tts-resources",
+        "code_source": "github_search",
+        "code_checked_at": "2026-10-08T18:39:11+00:00"
       },
       "2610.04690": {
         "title": "SepRQ : Self-Supervised Speech Mixture Representation Learning via Mask-Free, Multi-Scale Source Separation",
@@ -3112,8 +3116,9 @@
         "updated": "2026-10-03",
         "url": "https://arxiv.org/abs/2610.04690",
         "pdf_url": "https://arxiv.org/pdf/2610.04690",
-        "code_url": null,
-        "code_source": null
+        "code_url": "https://github.com/SevKod/SepRQ",
+        "code_source": "github_search",
+        "code_checked_at": "2026-10-08T18:39:13+00:00"
       },
       "2610.04683": {
         "title": "Steering Speech-Language Models: Training-Free Task Specialization via Contrastive Activation Addition",
@@ -3131,8 +3136,9 @@
         "updated": "2026-10-03",
         "url": "https://arxiv.org/abs/2610.04683",
         "pdf_url": "https://arxiv.org/pdf/2610.04683",
-        "code_url": null,
-        "code_source": null
+        "code_url": "https://github.com/skywuxuan/ASR-arxiv-daily",
+        "code_source": "github_search",
+        "code_checked_at": "2026-10-08T18:39:15+00:00"
       },
       "2610.04333": {
         "title": "Factorized Delayed Streams Modeling for LLM-based Streaming ASR",
@@ -3148,8 +3154,9 @@
         "updated": "2026-10-03",
         "url": "https://arxiv.org/abs/2610.04333",
         "pdf_url": "https://arxiv.org/pdf/2610.04333",
-        "code_url": null,
-        "code_source": null
+        "code_url": "https://github.com/skywuxuan/ASR-arxiv-daily",
+        "code_source": "github_search",
+        "code_checked_at": "2026-10-08T18:39:17+00:00"
       },
       "2610.08847": {
         "title": "Timestamped Hindi speech transcription using Whisper",
