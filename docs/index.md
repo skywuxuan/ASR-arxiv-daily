@@ -8,7 +8,7 @@ layout: default
 
 [使用与部署说明](./README.html#usage)
 
-> 最近成功抓取：2026-10-08T18:38:58+00:00（UTC）
+> 最近成功抓取：2026-10-09T05:22:10+00:00（UTC）
 
 每 12 小时检索一次，按首次提交日期倒序排列，历史论文会持续保留。
 
@@ -18,6 +18,13 @@ layout: default
 
 | 首次提交 | 更新日期 | 标题 | 作者 | arXiv | PDF | 代码 |
 | --- | --- | --- | --- | --- | --- | --- |
+| 2026-10-08 | 2026-10-08 | Phonologically Informed Tokenization for German Speech Recognition: A Cross-Domain Study | Christopher Witzl et al. | [2610.11646](https://arxiv.org/abs/2610.11646) | [PDF](https://arxiv.org/pdf/2610.11646) | — |
+| 2026-10-08 | 2026-10-08 | When Can You Prune Your Network? A Study of Intermediate Neurons in Multilingual Speech Parsing | Minnie Kabra et al. | [2610.11520](https://arxiv.org/abs/2610.11520) | [PDF](https://arxiv.org/pdf/2610.11520) | — |
+| 2026-10-08 | 2026-10-08 | MiniVer-V: Identifying Minimal Sufficient Evidence for Short Video Verification | Leran Chen et al. | [2610.11233](https://arxiv.org/abs/2610.11233) | [PDF](https://arxiv.org/pdf/2610.11233) | — |
+| 2026-10-08 | 2026-10-08 | Selective Listening: Mechanism-Guided Control of Audio Influence in Large Audio-Language Models | Yulin Sun et al. | [2610.11196](https://arxiv.org/abs/2610.11196) | [PDF](https://arxiv.org/pdf/2610.11196) | — |
+| 2026-10-08 | 2026-10-08 | Local Prototype Reconstruction for Text-Compatible Speech-to-LLM Bridge Pretraining | Xinnian Zhao et al. | [2610.11159](https://arxiv.org/abs/2610.11159) | [PDF](https://arxiv.org/pdf/2610.11159) | [候选仓库](https://github.com/liutaocode/TTS-arxiv-daily) |
+| 2026-10-08 | 2026-10-08 | SmoothConv and DuplexConv: Complementary Mandarin Multi-Party Conversational Speech Corpora for Speech Interaction | Chengyou Wang et al. | [2610.11150](https://arxiv.org/abs/2610.11150) | [PDF](https://arxiv.org/pdf/2610.11150) | — |
+| 2026-10-07 | 2026-10-07 | Listen-to-Reason: Listen with Experts, Retrieve over a Graph, Reason with LLMs | Pooneh Mousavi et al. | [2610.10749](https://arxiv.org/abs/2610.10749) | [PDF](https://arxiv.org/pdf/2610.10749) | — |
 | 2026-10-07 | 2026-10-07 | InterView-C: A Synchronized Multimodal Corpus of VR Avatar-Mediated Survey Interviews | Patrick Schrottenbacher et al. | [2610.10145](https://arxiv.org/abs/2610.10145) | [PDF](https://arxiv.org/pdf/2610.10145) | [候选仓库](https://github.com/Tavish9/awesome-daily-AI-arxiv) |
 | 2026-10-07 | 2026-10-07 | Backdooring Acoustic Foundation Models for Physically Realizable Triggers | Zebin Yun et al. | [2610.09819](https://arxiv.org/abs/2610.09819) | [PDF](https://arxiv.org/pdf/2610.09819) | [候选仓库](https://github.com/arxivsub/arXivSub_daily_arxiv) |
 | 2026-10-06 | 2026-10-06 | Phoneme-Guided Initialization for LLM-based Speech Recognition | Ryo Magoshi et al. | [2610.08994](https://arxiv.org/abs/2610.08994) | [PDF](https://arxiv.org/pdf/2610.08994) | [候选仓库](https://github.com/skywuxuan/ASR-arxiv-daily) |
@@ -38,7 +45,7 @@ layout: default
 | 2026-10-03 | 2026-10-03 | Factorized Delayed Streams Modeling for LLM-based Streaming ASR | Tatsunari Takagi et al. | [2610.04333](https://arxiv.org/abs/2610.04333) | [PDF](https://arxiv.org/pdf/2610.04333) | [候选仓库](https://github.com/skywuxuan/ASR-arxiv-daily) |
 | 2026-10-02 | 2026-10-02 | An automated pipeline for standardised speech-unit annotation in spontaneous dialogue | Hanlu He et al. | [2610.03078](https://arxiv.org/abs/2610.03078) | [PDF](https://arxiv.org/pdf/2610.03078) | [候选仓库](https://github.com/Tavish9/awesome-daily-AI-arxiv) |
 | 2026-10-02 | 2026-10-02 | Personalized Automatic Speech Recognition for a Dysarthric and Tracheostomic Speaker using Artificial Conversations | David Nadrchal et al. | [2610.03017](https://arxiv.org/abs/2610.03017) | [PDF](https://arxiv.org/pdf/2610.03017) | [候选仓库](https://github.com/skywuxuan/ASR-arxiv-daily) |
-| 2026-10-01 | 2026-10-01 | Timestamped Hindi speech transcription using Whisper | Sanat Kumar Agrawal et al. | [2610.08847](https://arxiv.org/abs/2610.08847) | [PDF](https://arxiv.org/pdf/2610.08847) | — |
+| 2026-10-01 | 2026-10-01 | Timestamped Hindi speech transcription using Whisper | Sanat Kumar Agrawal et al. | [2610.08847](https://arxiv.org/abs/2610.08847) | [PDF](https://arxiv.org/pdf/2610.08847) | [候选仓库](https://github.com/skywuxuan/ASR-arxiv-daily) |
 | 2026-10-01 | 2026-10-01 | Teaching LLMs to Hear Who Spoke What: Metadata-Supervised Pretraining for Encoder-Free Speech-LLMs | Mohan Shi et al. | [2610.01695](https://arxiv.org/abs/2610.01695) | [PDF](https://arxiv.org/pdf/2610.01695) | [候选仓库](https://github.com/skywuxuan/ASR-arxiv-daily) |
 | 2026-10-01 | 2026-10-01 | Q-SPT: Learnable Query-Based Compression for Low-Frame-Rate Speech Tokenization | Jeeyoung Yun et al. | [2610.01492](https://arxiv.org/abs/2610.01492) | [PDF](https://arxiv.org/pdf/2610.01492) | [候选仓库](https://github.com/liutaocode/TTS-arxiv-daily) |
 | 2026-10-01 | 2026-10-01 | SHAMS: An Audio-Grounded Pronunciation Benchmark for Levantine Arabic | Ben Sapirstein et al. | [2610.01427](https://arxiv.org/abs/2610.01427) | [PDF](https://arxiv.org/pdf/2610.01427) | [候选仓库](https://github.com/Tavish9/awesome-daily-AI-arxiv) |

@@ -1,5 +1,5 @@
 {
-  "last_fetched": "2026-10-08T18:38:58+00:00",
+  "last_fetched": "2026-10-09T05:22:10+00:00",
   "topics": {
     "ASR": {
       "2609.18748": {
@@ -3168,8 +3168,123 @@
         "updated": "2026-10-01",
         "url": "https://arxiv.org/abs/2610.08847",
         "pdf_url": "https://arxiv.org/pdf/2610.08847",
+        "code_url": "https://github.com/skywuxuan/ASR-arxiv-daily",
+        "code_source": "github_search",
+        "code_checked_at": "2026-10-09T05:22:25+00:00"
+      },
+      "2610.11646": {
+        "title": "Phonologically Informed Tokenization for German Speech Recognition: A Cross-Domain Study",
+        "authors": [
+          "Christopher Witzl",
+          "Tobias Bocklet",
+          "Korbinian Riedhammer"
+        ],
+        "published": "2026-10-08",
+        "updated": "2026-10-08",
+        "url": "https://arxiv.org/abs/2610.11646",
+        "pdf_url": "https://arxiv.org/pdf/2610.11646",
         "code_url": null,
-        "code_source": null
+        "code_source": null,
+        "code_checked_at": "2026-10-09T05:22:11+00:00"
+      },
+      "2610.11520": {
+        "title": "When Can You Prune Your Network? A Study of Intermediate Neurons in Multilingual Speech Parsing",
+        "authors": [
+          "Minnie Kabra",
+          "Benjamin Lecouteux",
+          "Maximin Coavoux"
+        ],
+        "published": "2026-10-08",
+        "updated": "2026-10-08",
+        "url": "https://arxiv.org/abs/2610.11520",
+        "pdf_url": "https://arxiv.org/pdf/2610.11520",
+        "code_url": null,
+        "code_source": null,
+        "code_checked_at": "2026-10-09T05:22:13+00:00"
+      },
+      "2610.11233": {
+        "title": "MiniVer-V: Identifying Minimal Sufficient Evidence for Short Video Verification",
+        "authors": [
+          "Leran Chen",
+          "Lingnan Kong",
+          "Zile Cai"
+        ],
+        "published": "2026-10-08",
+        "updated": "2026-10-08",
+        "url": "https://arxiv.org/abs/2610.11233",
+        "pdf_url": "https://arxiv.org/pdf/2610.11233",
+        "code_url": null,
+        "code_source": null,
+        "code_checked_at": "2026-10-09T05:22:15+00:00"
+      },
+      "2610.11196": {
+        "title": "Selective Listening: Mechanism-Guided Control of Audio Influence in Large Audio-Language Models",
+        "authors": [
+          "Yulin Sun",
+          "Kele Xu",
+          "Yong Dou"
+        ],
+        "published": "2026-10-08",
+        "updated": "2026-10-08",
+        "url": "https://arxiv.org/abs/2610.11196",
+        "pdf_url": "https://arxiv.org/pdf/2610.11196",
+        "code_url": null,
+        "code_source": null,
+        "code_checked_at": "2026-10-09T05:22:17+00:00"
+      },
+      "2610.11159": {
+        "title": "Local Prototype Reconstruction for Text-Compatible Speech-to-LLM Bridge Pretraining",
+        "authors": [
+          "Xinnian Zhao",
+          "Chia-Hua Wu",
+          "Pu Wang",
+          "Hugo Van Hamme"
+        ],
+        "published": "2026-10-08",
+        "updated": "2026-10-08",
+        "url": "https://arxiv.org/abs/2610.11159",
+        "pdf_url": "https://arxiv.org/pdf/2610.11159",
+        "code_url": "https://github.com/liutaocode/TTS-arxiv-daily",
+        "code_source": "github_search",
+        "code_checked_at": "2026-10-09T05:22:19+00:00"
+      },
+      "2610.11150": {
+        "title": "SmoothConv and DuplexConv: Complementary Mandarin Multi-Party Conversational Speech Corpora for Speech Interaction",
+        "authors": [
+          "Chengyou Wang",
+          "Mingchen Shao",
+          "Chunjiang He",
+          "Zeyu Zhu",
+          "Jierui Guo",
+          "Bingshen Mu",
+          "Zikai Liu",
+          "Hanke Xie",
+          "Yuhang Dai",
+          "Zhou Zhu",
+          "Lei Xie"
+        ],
+        "published": "2026-10-08",
+        "updated": "2026-10-08",
+        "url": "https://arxiv.org/abs/2610.11150",
+        "pdf_url": "https://arxiv.org/pdf/2610.11150",
+        "code_url": null,
+        "code_source": null,
+        "code_checked_at": "2026-10-09T05:22:21+00:00"
+      },
+      "2610.10749": {
+        "title": "Listen-to-Reason: Listen with Experts, Retrieve over a Graph, Reason with LLMs",
+        "authors": [
+          "Pooneh Mousavi",
+          "Mirco Ravanelli",
+          "Cem Subakan"
+        ],
+        "published": "2026-10-07",
+        "updated": "2026-10-07",
+        "url": "https://arxiv.org/abs/2610.10749",
+        "pdf_url": "https://arxiv.org/pdf/2610.10749",
+        "code_url": null,
+        "code_source": null,
+        "code_checked_at": "2026-10-09T05:22:23+00:00"
       }
     }
   }
