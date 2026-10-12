@@ -4,7 +4,7 @@
 
 [使用与部署说明](./docs/README.md#usage)
 
-> 最近成功抓取：2026-10-11T17:32:02+00:00（UTC）
+> 最近成功抓取：2026-10-12T05:10:28+00:00（UTC）
 
 每 12 小时检索一次，按首次提交日期倒序排列，历史论文会持续保留。
 
@@ -14,6 +14,13 @@
 
 | 首次提交 | 更新日期 | 标题 | 作者 | arXiv | PDF | 代码 |
 | --- | --- | --- | --- | --- | --- | --- |
+| 2026-10-09 | 2026-10-09 | Error Rate is Not Enough: Costs of Augmentation in Low-Resource ASR | Katsumi Ibaraki et al. | [2610.13807](https://arxiv.org/abs/2610.13807) | [PDF](https://arxiv.org/pdf/2610.13807) | — |
+| 2026-10-09 | 2026-10-09 | Enhancing Speech Recognition through Text-to-Speech and Voice Conversion Augmentation | Yunus Emre Ozkose et al. | [2610.13662](https://arxiv.org/abs/2610.13662) | [PDF](https://arxiv.org/pdf/2610.13662) | [候选仓库](https://github.com/iszhanjiawei/TTS_arxiv_daily) |
+| 2026-10-09 | 2026-10-09 | Lossless Inference Acceleration for ASR via EAGLE-Style Speculative Decoding | Sen Zhang et al. | [2610.13506](https://arxiv.org/abs/2610.13506) | [PDF](https://arxiv.org/pdf/2610.13506) | — |
+| 2026-10-09 | 2026-10-09 | Oído: Open-Vocabulary Speech Recognition on a $5 Microcontroller without a Neural Accelerator | Daniel Varela Sánchez et al. | [2610.13447](https://arxiv.org/abs/2610.13447) | [PDF](https://arxiv.org/pdf/2610.13447) | [论文链接](https://github.com/lokutor-ai/oido) |
+| 2026-10-09 | 2026-10-09 | Does Financial Speech Need Continual Learning Regularization? A Study of EWC and mini-KFAC on Earnings Call ASR | Thai Quoc On et al. | [2610.13432](https://arxiv.org/abs/2610.13432) | [PDF](https://arxiv.org/pdf/2610.13432) | — |
+| 2026-10-09 | 2026-10-09 | Frontend-Assisted Large Audio-Language Models for SLT2026 SmartGlasses Challenge | Yushi Wang et al. | [2610.13282](https://arxiv.org/abs/2610.13282) | [PDF](https://arxiv.org/pdf/2610.13282) | — |
+| 2026-10-09 | 2026-10-09 | From 2.1M Hours of Raw Broadcast Audio to Finnish Speech SSL: Confidence Filtering and Architectural Analysis at Scale | Yaroslav Getman et al. | [2610.13102](https://arxiv.org/abs/2610.13102) | [PDF](https://arxiv.org/pdf/2610.13102) | — |
 | 2026-10-08 | 2026-10-08 | Phonologically Informed Tokenization for German Speech Recognition: A Cross-Domain Study | Christopher Witzl et al. | [2610.11646](https://arxiv.org/abs/2610.11646) | [PDF](https://arxiv.org/pdf/2610.11646) | [候选仓库](https://github.com/Tavish9/awesome-daily-AI-arxiv) |
 | 2026-10-08 | 2026-10-08 | When Can You Prune Your Network? A Study of Intermediate Neurons in Multilingual Speech Parsing | Minnie Kabra et al. | [2610.11520](https://arxiv.org/abs/2610.11520) | [PDF](https://arxiv.org/pdf/2610.11520) | [候选仓库](https://github.com/Tavish9/awesome-daily-AI-arxiv) |
 | 2026-10-08 | 2026-10-08 | MiniVer-V: Identifying Minimal Sufficient Evidence for Short Video Verification | Leran Chen et al. | [2610.11233](https://arxiv.org/abs/2610.11233) | [PDF](https://arxiv.org/pdf/2610.11233) | [候选仓库](https://github.com/skywuxuan/ASR-arxiv-daily) |

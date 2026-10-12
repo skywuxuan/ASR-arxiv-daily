@@ -1,5 +1,5 @@
 {
-  "last_fetched": "2026-10-11T17:32:02+00:00",
+  "last_fetched": "2026-10-12T05:10:28+00:00",
   "topics": {
     "ASR": {
       "2609.18748": {
@@ -3285,6 +3285,113 @@
         "code_url": "https://github.com/skywuxuan/ASR-arxiv-daily",
         "code_source": "github_search",
         "code_checked_at": "2026-10-10T05:06:27+00:00"
+      },
+      "2610.13807": {
+        "title": "Error Rate is Not Enough: Costs of Augmentation in Low-Resource ASR",
+        "authors": [
+          "Katsumi Ibaraki",
+          "David Chiang"
+        ],
+        "published": "2026-10-09",
+        "updated": "2026-10-09",
+        "url": "https://arxiv.org/abs/2610.13807",
+        "pdf_url": "https://arxiv.org/pdf/2610.13807",
+        "code_url": null,
+        "code_source": null,
+        "code_checked_at": "2026-10-12T05:10:29+00:00"
+      },
+      "2610.13662": {
+        "title": "Enhancing Speech Recognition through Text-to-Speech and Voice Conversion Augmentation",
+        "authors": [
+          "Yunus Emre Ozkose",
+          "Ali Haznedaroglu"
+        ],
+        "published": "2026-10-09",
+        "updated": "2026-10-09",
+        "url": "https://arxiv.org/abs/2610.13662",
+        "pdf_url": "https://arxiv.org/pdf/2610.13662",
+        "code_url": "https://github.com/iszhanjiawei/TTS_arxiv_daily",
+        "code_source": "github_search",
+        "code_checked_at": "2026-10-12T05:10:31+00:00"
+      },
+      "2610.13506": {
+        "title": "Lossless Inference Acceleration for ASR via EAGLE-Style Speculative Decoding",
+        "authors": [
+          "Sen Zhang",
+          "Xianghu Yue",
+          "Yiming Chen",
+          "Wenhuan Lu",
+          "Jianguo Wei",
+          "Haizhou Li"
+        ],
+        "published": "2026-10-09",
+        "updated": "2026-10-09",
+        "url": "https://arxiv.org/abs/2610.13506",
+        "pdf_url": "https://arxiv.org/pdf/2610.13506",
+        "code_url": null,
+        "code_source": null,
+        "code_checked_at": "2026-10-12T05:10:33+00:00"
+      },
+      "2610.13447": {
+        "title": "Oído: Open-Vocabulary Speech Recognition on a $5 Microcontroller without a Neural Accelerator",
+        "authors": [
+          "Daniel Varela Sánchez",
+          "Guillermo Martín-Coello Juárez"
+        ],
+        "published": "2026-10-09",
+        "updated": "2026-10-09",
+        "url": "https://arxiv.org/abs/2610.13447",
+        "pdf_url": "https://arxiv.org/pdf/2610.13447",
+        "code_url": "https://github.com/lokutor-ai/oido",
+        "code_source": "paper"
+      },
+      "2610.13432": {
+        "title": "Does Financial Speech Need Continual Learning Regularization? A Study of EWC and mini-KFAC on Earnings Call ASR",
+        "authors": [
+          "Thai Quoc On",
+          "Homayoon Beigi"
+        ],
+        "published": "2026-10-09",
+        "updated": "2026-10-09",
+        "url": "https://arxiv.org/abs/2610.13432",
+        "pdf_url": "https://arxiv.org/pdf/2610.13432",
+        "code_url": null,
+        "code_source": null,
+        "code_checked_at": "2026-10-12T05:10:35+00:00"
+      },
+      "2610.13282": {
+        "title": "Frontend-Assisted Large Audio-Language Models for SLT2026 SmartGlasses Challenge",
+        "authors": [
+          "Yushi Wang",
+          "Zeyan Song",
+          "Xiaobin Rong",
+          "Chengwei Liu",
+          "Jun Gao",
+          "Jing Lu"
+        ],
+        "published": "2026-10-09",
+        "updated": "2026-10-09",
+        "url": "https://arxiv.org/abs/2610.13282",
+        "pdf_url": "https://arxiv.org/pdf/2610.13282",
+        "code_url": null,
+        "code_source": null,
+        "code_checked_at": "2026-10-12T05:10:37+00:00"
+      },
+      "2610.13102": {
+        "title": "From 2.1M Hours of Raw Broadcast Audio to Finnish Speech SSL: Confidence Filtering and Architectural Analysis at Scale",
+        "authors": [
+          "Yaroslav Getman",
+          "Tamás Grósz",
+          "Tommi Lehtonen",
+          "Mikko Kurimo"
+        ],
+        "published": "2026-10-09",
+        "updated": "2026-10-09",
+        "url": "https://arxiv.org/abs/2610.13102",
+        "pdf_url": "https://arxiv.org/pdf/2610.13102",
+        "code_url": null,
+        "code_source": null,
+        "code_checked_at": "2026-10-12T05:10:39+00:00"
       }
     }
   }
