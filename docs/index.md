@@ -8,7 +8,7 @@ layout: default
 
 [使用与部署说明](./README.html#usage)
 
-> 最近成功抓取：2026-10-14T16:50:43+00:00（UTC）
+> 最近成功抓取：2026-10-15T03:55:11+00:00（UTC）
 
 每 12 小时检索一次，按首次提交日期倒序排列，历史论文会持续保留。
 
@@ -18,16 +18,21 @@ layout: default
 
 | 首次提交 | 更新日期 | 标题 | 作者 | arXiv | PDF | 代码 |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-10-13 | 2026-10-13 | GeoMER: A Joint Euclidean-Hyperbolic Geometry Framework for Multimodal Emotion Recognition | Ting Zhu et al. | [2610.18587](https://arxiv.org/abs/2610.18587) | [PDF](https://arxiv.org/pdf/2610.18587) | — |
-| 2026-10-13 | 2026-10-13 | PhonoVoxtLM: Exploring Single-Codebook Phonological Tokens for Speech Understanding and Generation | Mingrui Liang et al. | [2610.18469](https://arxiv.org/abs/2610.18469) | [PDF](https://arxiv.org/pdf/2610.18469) | — |
-| 2026-10-13 | 2026-10-13 | Collapse, Repair, and Drift: Dissecting Fine Tuning Dynamics in Speech Language Models | Yichi Wang et al. | [2610.18192](https://arxiv.org/abs/2610.18192) | [PDF](https://arxiv.org/pdf/2610.18192) | — |
-| 2026-10-13 | 2026-10-13 | Text-Only vs. Image-Aware VLM Judges for Manga Translation Evaluation | Subaru Kimura et al. | [2610.17908](https://arxiv.org/abs/2610.17908) | [PDF](https://arxiv.org/pdf/2610.17908) | — |
+| 2026-10-14 | 2026-10-14 | Repairing Speech Access After Text Updates with Frozen Affine Fields | Ming-Hao Hsu et al. | [2610.20253](https://arxiv.org/abs/2610.20253) | [PDF](https://arxiv.org/pdf/2610.20253) | — |
+| 2026-10-14 | 2026-10-14 | SEA-HELM Audio: Evaluating Multilingual ASR-LLM Pipeline Performance Across SEA-HELM Subsets | Yixian Tan et al. | [2610.19869](https://arxiv.org/abs/2610.19869) | [PDF](https://arxiv.org/pdf/2610.19869) | — |
+| 2026-10-14 | 2026-10-14 | Towards Efficient Simultaneous Inverse Text Normalization with Pretrained Text-to-Text Language Model and Read-Tag-Write Policy | Kiet Anh Hoang et al. | [2610.19492](https://arxiv.org/abs/2610.19492) | [PDF](https://arxiv.org/pdf/2610.19492) | — |
+| 2026-10-14 | 2026-10-14 | ELARSpeech: A 30K-Hour Dataset Across 675 Underrepresented Languages for Long-Tail Multilingual Speech Technologies | Sangmin Lee et al. | [2610.19388](https://arxiv.org/abs/2610.19388) | [PDF](https://arxiv.org/pdf/2610.19388) | — |
+| 2026-10-13 | 2026-10-13 | CAFE: Confining Feature Distillation to Language-Routed Adapters for Compact Multilingual Automatic Speech Recognition | Tianchi Liu et al. | [2610.19134](https://arxiv.org/abs/2610.19134) | [PDF](https://arxiv.org/pdf/2610.19134) | — |
+| 2026-10-13 | 2026-10-13 | GeoMER: A Joint Euclidean-Hyperbolic Geometry Framework for Multimodal Emotion Recognition | Ting Zhu et al. | [2610.18587](https://arxiv.org/abs/2610.18587) | [PDF](https://arxiv.org/pdf/2610.18587) | [候选仓库](https://github.com/skywuxuan/ASR-arxiv-daily) |
+| 2026-10-13 | 2026-10-13 | PhonoVoxtLM: Exploring Single-Codebook Phonological Tokens for Speech Understanding and Generation | Mingrui Liang et al. | [2610.18469](https://arxiv.org/abs/2610.18469) | [PDF](https://arxiv.org/pdf/2610.18469) | [候选仓库](https://github.com/skywuxuan/ASR-arxiv-daily) |
+| 2026-10-13 | 2026-10-13 | Collapse, Repair, and Drift: Dissecting Fine Tuning Dynamics in Speech Language Models | Yichi Wang et al. | [2610.18192](https://arxiv.org/abs/2610.18192) | [PDF](https://arxiv.org/pdf/2610.18192) | [候选仓库](https://github.com/skywuxuan/ASR-arxiv-daily) |
+| 2026-10-13 | 2026-10-13 | Text-Only vs. Image-Aware VLM Judges for Manga Translation Evaluation | Subaru Kimura et al. | [2610.17908](https://arxiv.org/abs/2610.17908) | [PDF](https://arxiv.org/pdf/2610.17908) | [候选仓库](https://github.com/skywuxuan/ASR-arxiv-daily) |
 | 2026-10-13 | 2026-10-13 | SSEmb: Training a Generalizable Speech Retrieval Model Using Only Automatic Speech Recognition Data | Sangkwon Park et al. | [2610.17813](https://arxiv.org/abs/2610.17813) | [PDF](https://arxiv.org/pdf/2610.17813) | [候选仓库](https://github.com/liutaocode/TTS-arxiv-daily) |
 | 2026-10-13 | 2026-10-13 | Connecting the Dots: Enduring Performance Gaps in ASR Systems Between Standard and Minority English Varieties | Alexander Metzger et al. | [2610.17761](https://arxiv.org/abs/2610.17761) | [PDF](https://arxiv.org/pdf/2610.17761) | [论文链接](https://github.com/smfsamir/longitudinal-asr-eval) |
 | 2026-10-13 | 2026-10-13 | Multimodal Contrastive Representation Learning Based Voice Conversion for Electrolaryngeal Speech Enhancement | Ding Ma et al. | [2610.17716](https://arxiv.org/abs/2610.17716) | [PDF](https://arxiv.org/pdf/2610.17716) | [候选仓库](https://github.com/liutaocode/TTS-arxiv-daily) |
 | 2026-10-13 | 2026-10-13 | When Does an ASR Error Matter? Task-Role Diagnostics for Tool-Using Voice Agents | Xiaolong Wang et al. | [2610.17619](https://arxiv.org/abs/2610.17619) | [PDF](https://arxiv.org/pdf/2610.17619) | [候选仓库](https://github.com/Aaron617/agent-arXiv-daily) |
 | 2026-10-12 | 2026-10-12 | Distilling Text LMs into Speech-to-Speech LMs by Matching Internal Text Predictions | Ju-Chieh Chou et al. | [2610.17461](https://arxiv.org/abs/2610.17461) | [PDF](https://arxiv.org/pdf/2610.17461) | [候选仓库](https://github.com/liutaocode/TTS-arxiv-daily) |
-| 2026-10-12 | 2026-10-12 | Nufo: A Benchmark for Ewe Automatic Speech Recognition | Christ Kekeli Keli et al. | [2610.17278](https://arxiv.org/abs/2610.17278) | [PDF](https://arxiv.org/pdf/2610.17278) | — |
+| 2026-10-12 | 2026-10-12 | Nufo: A Benchmark for Ewe Automatic Speech Recognition | Christ Kekeli Keli et al. | [2610.17278](https://arxiv.org/abs/2610.17278) | [PDF](https://arxiv.org/pdf/2610.17278) | [候选仓库](https://github.com/skywuxuan/ASR-arxiv-daily) |
 | 2026-10-12 | 2026-10-12 | MSVAE: Rethinking Musical Semantics in Continuous Latent Spaces | Guobin Ma et al. | [2610.17187](https://arxiv.org/abs/2610.17187) | [PDF](https://arxiv.org/pdf/2610.17187) | [候选仓库](https://github.com/ASLP-lab/MSVAE) |
 | 2026-10-12 | 2026-10-12 | Understanding Personalization Gains in Whisper | Sergei Katkov et al. | [2610.17019](https://arxiv.org/abs/2610.17019) | [PDF](https://arxiv.org/pdf/2610.17019) | — |
 | 2026-10-12 | 2026-10-12 | LLM-HB: Language-Aware LLM-Guided Hotword Biasing for Code-Switching ASR | Yuxuan He et al. | [2610.16579](https://arxiv.org/abs/2610.16579) | [PDF](https://arxiv.org/pdf/2610.16579) | — |
@@ -60,7 +65,7 @@ layout: default
 | 2026-10-06 | 2026-10-06 | HINTT Submission to the 2nd MLC-SLM Challenge: Comparing Cascaded and Unified Approaches to Diarization and ASR | Takanori Ashihara et al. | [2610.08063](https://arxiv.org/abs/2610.08063) | [PDF](https://arxiv.org/pdf/2610.08063) | [候选仓库](https://github.com/InsomaniacElf/sg-tamil-tts-resources) |
 | 2026-10-06 | 2026-10-06 | Hiding Tool Latency in On-Device Cascaded Voice Agent through Speculative Execution | Kyudan Jung et al. | [2610.07641](https://arxiv.org/abs/2610.07641) | [PDF](https://arxiv.org/pdf/2610.07641) | [候选仓库](https://github.com/Valiant-Cat/hfpaper) |
 | 2026-10-06 | 2026-10-06 | Pronunciation-Oriented Reinforcement Learning for Japanese Text-to-Speech with Kana-Domain ASR Rewards | Shiao Zhu et al. | [2610.07575](https://arxiv.org/abs/2610.07575) | [PDF](https://arxiv.org/pdf/2610.07575) | [候选仓库](https://github.com/liutaocode/TTS-arxiv-daily) |
-| 2026-10-06 | 2026-10-06 | Quality-Aware Self-Correcting Speech Translation on an Edge Device | Zubair Ajmal Farooq et al. | [2610.07545](https://arxiv.org/abs/2610.07545) | [PDF](https://arxiv.org/pdf/2610.07545) | [论文链接](https://github.com/juebae/speech-translation_edge_device) |
+| 2026-10-06 | 2026-10-14 | Quality-Aware Self-Correcting Speech Translation on an Edge Device | Zubair Ajmal Farooq et al. | [2610.07545](https://arxiv.org/abs/2610.07545) | [PDF](https://arxiv.org/pdf/2610.07545) | [论文链接](https://github.com/surrey-nlp/speech-translation_edge_device) |
 | 2026-10-05 | 2026-10-05 | Word-Level Text Unmixing via Evidence-Preserving Ownership Routing with Language Models | Jinglin He et al. | [2610.06603](https://arxiv.org/abs/2610.06603) | [PDF](https://arxiv.org/pdf/2610.06603) | [候选仓库](https://github.com/InsomaniacElf/sg-tamil-tts-resources) |
 | 2026-10-05 | 2026-10-05 | Mind the Accent Gap: British Accent Robustness in Speech-Driven Financial Voice Assistants | Aadam Haq et al. | [2610.06587](https://arxiv.org/abs/2610.06587) | [PDF](https://arxiv.org/pdf/2610.06587) | [候选仓库](https://github.com/InsomaniacElf/sg-tamil-tts-resources) |
 | 2026-10-05 | 2026-10-05 | Lyric: Wave-Domain Computing for Efficient Spoken-Digit Recognition | Jeeven Balasubramaniam et al. | [2610.06433](https://arxiv.org/abs/2610.06433) | [PDF](https://arxiv.org/pdf/2610.06433) | [候选仓库](https://github.com/skywuxuan/ASR-arxiv-daily) |

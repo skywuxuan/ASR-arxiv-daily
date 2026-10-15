@@ -1,5 +1,5 @@
 {
-  "last_fetched": "2026-10-14T16:50:43+00:00",
+  "last_fetched": "2026-10-15T03:55:11+00:00",
   "topics": {
     "ASR": {
       "2609.18748": {
@@ -2999,10 +2999,10 @@
           "Diptesh Kanojia"
         ],
         "published": "2026-10-06",
-        "updated": "2026-10-06",
+        "updated": "2026-10-14",
         "url": "https://arxiv.org/abs/2610.07545",
         "pdf_url": "https://arxiv.org/pdf/2610.07545",
-        "code_url": "https://github.com/juebae/speech-translation_edge_device",
+        "code_url": "https://github.com/surrey-nlp/speech-translation_edge_device",
         "code_source": "paper"
       },
       "2610.06603": {
@@ -3406,9 +3406,9 @@
         "updated": "2026-10-13",
         "url": "https://arxiv.org/abs/2610.18587",
         "pdf_url": "https://arxiv.org/pdf/2610.18587",
-        "code_url": null,
-        "code_source": null,
-        "code_checked_at": "2026-10-14T16:50:44+00:00"
+        "code_url": "https://github.com/skywuxuan/ASR-arxiv-daily",
+        "code_source": "github_search",
+        "code_checked_at": "2026-10-15T03:55:22+00:00"
       },
       "2610.18469": {
         "title": "PhonoVoxtLM: Exploring Single-Codebook Phonological Tokens for Speech Understanding and Generation",
@@ -3421,9 +3421,9 @@
         "updated": "2026-10-13",
         "url": "https://arxiv.org/abs/2610.18469",
         "pdf_url": "https://arxiv.org/pdf/2610.18469",
-        "code_url": null,
-        "code_source": null,
-        "code_checked_at": "2026-10-14T16:50:46+00:00"
+        "code_url": "https://github.com/skywuxuan/ASR-arxiv-daily",
+        "code_source": "github_search",
+        "code_checked_at": "2026-10-15T03:55:24+00:00"
       },
       "2610.18192": {
         "title": "Collapse, Repair, and Drift: Dissecting Fine Tuning Dynamics in Speech Language Models",
@@ -3440,9 +3440,9 @@
         "updated": "2026-10-13",
         "url": "https://arxiv.org/abs/2610.18192",
         "pdf_url": "https://arxiv.org/pdf/2610.18192",
-        "code_url": null,
-        "code_source": null,
-        "code_checked_at": "2026-10-14T16:50:48+00:00"
+        "code_url": "https://github.com/skywuxuan/ASR-arxiv-daily",
+        "code_source": "github_search",
+        "code_checked_at": "2026-10-15T03:55:26+00:00"
       },
       "2610.17908": {
         "title": "Text-Only vs. Image-Aware VLM Judges for Manga Translation Evaluation",
@@ -3454,9 +3454,9 @@
         "updated": "2026-10-13",
         "url": "https://arxiv.org/abs/2610.17908",
         "pdf_url": "https://arxiv.org/pdf/2610.17908",
-        "code_url": null,
-        "code_source": null,
-        "code_checked_at": "2026-10-14T16:50:50+00:00"
+        "code_url": "https://github.com/skywuxuan/ASR-arxiv-daily",
+        "code_source": "github_search",
+        "code_checked_at": "2026-10-15T03:55:28+00:00"
       },
       "2610.17813": {
         "title": "SSEmb: Training a Generalizable Speech Retrieval Model Using Only Automatic Speech Recognition Data",
@@ -3556,9 +3556,9 @@
         "updated": "2026-10-12",
         "url": "https://arxiv.org/abs/2610.17278",
         "pdf_url": "https://arxiv.org/pdf/2610.17278",
-        "code_url": null,
-        "code_source": null,
-        "code_checked_at": "2026-10-14T16:51:00+00:00"
+        "code_url": "https://github.com/skywuxuan/ASR-arxiv-daily",
+        "code_source": "github_search",
+        "code_checked_at": "2026-10-15T03:55:30+00:00"
       },
       "2610.17187": {
         "title": "MSVAE: Rethinking Musical Semantics in Continuous Latent Spaces",
@@ -3859,6 +3859,96 @@
         "pdf_url": "https://arxiv.org/pdf/2610.14232",
         "code_url": "https://github.com/theboringai-work/surround-sound",
         "code_source": "paper"
+      },
+      "2610.20253": {
+        "title": "Repairing Speech Access After Text Updates with Frozen Affine Fields",
+        "authors": [
+          "Ming-Hao Hsu",
+          "Yuxiang Wang",
+          "Yingda Shen",
+          "Zhizheng Wu"
+        ],
+        "published": "2026-10-14",
+        "updated": "2026-10-14",
+        "url": "https://arxiv.org/abs/2610.20253",
+        "pdf_url": "https://arxiv.org/pdf/2610.20253",
+        "code_url": null,
+        "code_source": null,
+        "code_checked_at": "2026-10-15T03:55:11+00:00"
+      },
+      "2610.19869": {
+        "title": "SEA-HELM Audio: Evaluating Multilingual ASR-LLM Pipeline Performance Across SEA-HELM Subsets",
+        "authors": [
+          "Yixian Tan",
+          "Aulia Adila",
+          "Jonathan Heng",
+          "Kunat Pipatanakul",
+          "Donghang Wu",
+          "Anocha Sutaveephamochanon"
+        ],
+        "published": "2026-10-14",
+        "updated": "2026-10-14",
+        "url": "https://arxiv.org/abs/2610.19869",
+        "pdf_url": "https://arxiv.org/pdf/2610.19869",
+        "code_url": null,
+        "code_source": null,
+        "code_checked_at": "2026-10-15T03:55:13+00:00"
+      },
+      "2610.19492": {
+        "title": "Towards Efficient Simultaneous Inverse Text Normalization with Pretrained Text-to-Text Language Model and Read-Tag-Write Policy",
+        "authors": [
+          "Kiet Anh Hoang",
+          "Khanh Le",
+          "Bao Nguyen",
+          "Linh Pham",
+          "Dung Vo",
+          "Thai Tran",
+          "Mai Nguyen",
+          "Tri Nguyen",
+          "Vu Le"
+        ],
+        "published": "2026-10-14",
+        "updated": "2026-10-14",
+        "url": "https://arxiv.org/abs/2610.19492",
+        "pdf_url": "https://arxiv.org/pdf/2610.19492",
+        "code_url": null,
+        "code_source": null,
+        "code_checked_at": "2026-10-15T03:55:15+00:00"
+      },
+      "2610.19388": {
+        "title": "ELARSpeech: A 30K-Hour Dataset Across 675 Underrepresented Languages for Long-Tail Multilingual Speech Technologies",
+        "authors": [
+          "Sangmin Lee",
+          "Yejin Jeon",
+          "David Ifeoluwa Adelani"
+        ],
+        "published": "2026-10-14",
+        "updated": "2026-10-14",
+        "url": "https://arxiv.org/abs/2610.19388",
+        "pdf_url": "https://arxiv.org/pdf/2610.19388",
+        "code_url": null,
+        "code_source": null,
+        "code_checked_at": "2026-10-15T03:55:17+00:00"
+      },
+      "2610.19134": {
+        "title": "CAFE: Confining Feature Distillation to Language-Routed Adapters for Compact Multilingual Automatic Speech Recognition",
+        "authors": [
+          "Tianchi Liu",
+          "Nicholas Moratelli",
+          "Khurram Azeem Hashmi",
+          "Mohammadreza Zolfaghari",
+          "Rishabh Jain",
+          "Louis Lu",
+          "Changdae Park",
+          "Amril Nazir"
+        ],
+        "published": "2026-10-13",
+        "updated": "2026-10-13",
+        "url": "https://arxiv.org/abs/2610.19134",
+        "pdf_url": "https://arxiv.org/pdf/2610.19134",
+        "code_url": null,
+        "code_source": null,
+        "code_checked_at": "2026-10-15T03:55:19+00:00"
       }
     }
   }
