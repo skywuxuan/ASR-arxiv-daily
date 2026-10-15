@@ -8,7 +8,7 @@ layout: default
 
 [使用与部署说明](./README.html#usage)
 
-> 最近成功抓取：2026-10-15T03:55:11+00:00（UTC）
+> 最近成功抓取：2026-10-15T16:36:43+00:00（UTC）
 
 每 12 小时检索一次，按首次提交日期倒序排列，历史论文会持续保留。
 
@@ -18,11 +18,11 @@ layout: default
 
 | 首次提交 | 更新日期 | 标题 | 作者 | arXiv | PDF | 代码 |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-10-14 | 2026-10-14 | Repairing Speech Access After Text Updates with Frozen Affine Fields | Ming-Hao Hsu et al. | [2610.20253](https://arxiv.org/abs/2610.20253) | [PDF](https://arxiv.org/pdf/2610.20253) | — |
-| 2026-10-14 | 2026-10-14 | SEA-HELM Audio: Evaluating Multilingual ASR-LLM Pipeline Performance Across SEA-HELM Subsets | Yixian Tan et al. | [2610.19869](https://arxiv.org/abs/2610.19869) | [PDF](https://arxiv.org/pdf/2610.19869) | — |
-| 2026-10-14 | 2026-10-14 | Towards Efficient Simultaneous Inverse Text Normalization with Pretrained Text-to-Text Language Model and Read-Tag-Write Policy | Kiet Anh Hoang et al. | [2610.19492](https://arxiv.org/abs/2610.19492) | [PDF](https://arxiv.org/pdf/2610.19492) | — |
-| 2026-10-14 | 2026-10-14 | ELARSpeech: A 30K-Hour Dataset Across 675 Underrepresented Languages for Long-Tail Multilingual Speech Technologies | Sangmin Lee et al. | [2610.19388](https://arxiv.org/abs/2610.19388) | [PDF](https://arxiv.org/pdf/2610.19388) | — |
-| 2026-10-13 | 2026-10-13 | CAFE: Confining Feature Distillation to Language-Routed Adapters for Compact Multilingual Automatic Speech Recognition | Tianchi Liu et al. | [2610.19134](https://arxiv.org/abs/2610.19134) | [PDF](https://arxiv.org/pdf/2610.19134) | — |
+| 2026-10-14 | 2026-10-14 | Repairing Speech Access After Text Updates with Frozen Affine Fields | Ming-Hao Hsu et al. | [2610.20253](https://arxiv.org/abs/2610.20253) | [PDF](https://arxiv.org/pdf/2610.20253) | [候选仓库](https://github.com/skywuxuan/ASR-arxiv-daily) |
+| 2026-10-14 | 2026-10-14 | SEA-HELM Audio: Evaluating Multilingual ASR-LLM Pipeline Performance Across SEA-HELM Subsets | Yixian Tan et al. | [2610.19869](https://arxiv.org/abs/2610.19869) | [PDF](https://arxiv.org/pdf/2610.19869) | [候选仓库](https://github.com/liutaocode/TTS-arxiv-daily) |
+| 2026-10-14 | 2026-10-14 | Towards Efficient Simultaneous Inverse Text Normalization with Pretrained Text-to-Text Language Model and Read-Tag-Write Policy | Kiet Anh Hoang et al. | [2610.19492](https://arxiv.org/abs/2610.19492) | [PDF](https://arxiv.org/pdf/2610.19492) | [候选仓库](https://github.com/arxivsub/arXivSub_daily_arxiv) |
+| 2026-10-14 | 2026-10-14 | ELARSpeech: A 30K-Hour Dataset Across 675 Underrepresented Languages for Long-Tail Multilingual Speech Technologies | Sangmin Lee et al. | [2610.19388](https://arxiv.org/abs/2610.19388) | [PDF](https://arxiv.org/pdf/2610.19388) | [候选仓库](https://github.com/arxivsub/arXivSub_daily_arxiv) |
+| 2026-10-13 | 2026-10-13 | CAFE: Confining Feature Distillation to Language-Routed Adapters for Compact Multilingual Automatic Speech Recognition | Tianchi Liu et al. | [2610.19134](https://arxiv.org/abs/2610.19134) | [PDF](https://arxiv.org/pdf/2610.19134) | [候选仓库](https://github.com/arxivsub/arXivSub_daily_arxiv) |
 | 2026-10-13 | 2026-10-13 | GeoMER: A Joint Euclidean-Hyperbolic Geometry Framework for Multimodal Emotion Recognition | Ting Zhu et al. | [2610.18587](https://arxiv.org/abs/2610.18587) | [PDF](https://arxiv.org/pdf/2610.18587) | [候选仓库](https://github.com/skywuxuan/ASR-arxiv-daily) |
 | 2026-10-13 | 2026-10-13 | PhonoVoxtLM: Exploring Single-Codebook Phonological Tokens for Speech Understanding and Generation | Mingrui Liang et al. | [2610.18469](https://arxiv.org/abs/2610.18469) | [PDF](https://arxiv.org/pdf/2610.18469) | [候选仓库](https://github.com/skywuxuan/ASR-arxiv-daily) |
 | 2026-10-13 | 2026-10-13 | Collapse, Repair, and Drift: Dissecting Fine Tuning Dynamics in Speech Language Models | Yichi Wang et al. | [2610.18192](https://arxiv.org/abs/2610.18192) | [PDF](https://arxiv.org/pdf/2610.18192) | [候选仓库](https://github.com/skywuxuan/ASR-arxiv-daily) |
@@ -34,11 +34,11 @@ layout: default
 | 2026-10-12 | 2026-10-12 | Distilling Text LMs into Speech-to-Speech LMs by Matching Internal Text Predictions | Ju-Chieh Chou et al. | [2610.17461](https://arxiv.org/abs/2610.17461) | [PDF](https://arxiv.org/pdf/2610.17461) | [候选仓库](https://github.com/liutaocode/TTS-arxiv-daily) |
 | 2026-10-12 | 2026-10-12 | Nufo: A Benchmark for Ewe Automatic Speech Recognition | Christ Kekeli Keli et al. | [2610.17278](https://arxiv.org/abs/2610.17278) | [PDF](https://arxiv.org/pdf/2610.17278) | [候选仓库](https://github.com/skywuxuan/ASR-arxiv-daily) |
 | 2026-10-12 | 2026-10-12 | MSVAE: Rethinking Musical Semantics in Continuous Latent Spaces | Guobin Ma et al. | [2610.17187](https://arxiv.org/abs/2610.17187) | [PDF](https://arxiv.org/pdf/2610.17187) | [候选仓库](https://github.com/ASLP-lab/MSVAE) |
-| 2026-10-12 | 2026-10-12 | Understanding Personalization Gains in Whisper | Sergei Katkov et al. | [2610.17019](https://arxiv.org/abs/2610.17019) | [PDF](https://arxiv.org/pdf/2610.17019) | — |
-| 2026-10-12 | 2026-10-12 | LLM-HB: Language-Aware LLM-Guided Hotword Biasing for Code-Switching ASR | Yuxuan He et al. | [2610.16579](https://arxiv.org/abs/2610.16579) | [PDF](https://arxiv.org/pdf/2610.16579) | — |
-| 2026-10-12 | 2026-10-12 | Towards Privacy-Preserving ASR: Speaker-Level Machine Unlearning | Seaone Ok et al. | [2610.16196](https://arxiv.org/abs/2610.16196) | [PDF](https://arxiv.org/pdf/2610.16196) | — |
-| 2026-10-11 | 2026-10-11 | Synthesizing Ultrasonic Echo Profiles from Text for Open-Vocabulary Silent Speech Recognition | Jiacheng Liu et al. | [2610.15671](https://arxiv.org/abs/2610.15671) | [PDF](https://arxiv.org/pdf/2610.15671) | — |
-| 2026-10-11 | 2026-10-11 | Apertus 1.5: From Open Text Models to Open Multimodal Reasoners | Project Apertus et al. | [2610.15542](https://arxiv.org/abs/2610.15542) | [PDF](https://arxiv.org/pdf/2610.15542) | — |
+| 2026-10-12 | 2026-10-12 | Understanding Personalization Gains in Whisper | Sergei Katkov et al. | [2610.17019](https://arxiv.org/abs/2610.17019) | [PDF](https://arxiv.org/pdf/2610.17019) | [候选仓库](https://github.com/skywuxuan/ASR-arxiv-daily) |
+| 2026-10-12 | 2026-10-12 | LLM-HB: Language-Aware LLM-Guided Hotword Biasing for Code-Switching ASR | Yuxuan He et al. | [2610.16579](https://arxiv.org/abs/2610.16579) | [PDF](https://arxiv.org/pdf/2610.16579) | [候选仓库](https://github.com/skywuxuan/ASR-arxiv-daily) |
+| 2026-10-12 | 2026-10-12 | Towards Privacy-Preserving ASR: Speaker-Level Machine Unlearning | Seaone Ok et al. | [2610.16196](https://arxiv.org/abs/2610.16196) | [PDF](https://arxiv.org/pdf/2610.16196) | [候选仓库](https://github.com/skywuxuan/ASR-arxiv-daily) |
+| 2026-10-11 | 2026-10-11 | Synthesizing Ultrasonic Echo Profiles from Text for Open-Vocabulary Silent Speech Recognition | Jiacheng Liu et al. | [2610.15671](https://arxiv.org/abs/2610.15671) | [PDF](https://arxiv.org/pdf/2610.15671) | [候选仓库](https://github.com/liutaocode/TTS-arxiv-daily) |
+| 2026-10-11 | 2026-10-11 | Apertus 1.5: From Open Text Models to Open Multimodal Reasoners | Project Apertus et al. | [2610.15542](https://arxiv.org/abs/2610.15542) | [PDF](https://arxiv.org/pdf/2610.15542) | [候选仓库](https://github.com/Valiant-Cat/hfpaper) |
 | 2026-10-10 | 2026-10-10 | Select or Rewrite: Oracle-Guided Fine-Tuning for Generative ASR Post-Editing from N-Best Hypotheses | Shiran Liu et al. | [2610.15056](https://arxiv.org/abs/2610.15056) | [PDF](https://arxiv.org/pdf/2610.15056) | — |
 | 2026-10-09 | 2026-10-09 | Multimodal Co-Generation With Continuous Bitstream Diffusion | Georgios Batzolis et al. | [2610.14349](https://arxiv.org/abs/2610.14349) | [PDF](https://arxiv.org/pdf/2610.14349) | — |
 | 2026-10-09 | 2026-10-09 | ASSET: Adaptive Speech Segmentation via Reinforcement Learning | Cihan Xiao et al. | [2610.14309](https://arxiv.org/abs/2610.14309) | [PDF](https://arxiv.org/pdf/2610.14309) | — |

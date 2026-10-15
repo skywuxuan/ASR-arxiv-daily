@@ -1,5 +1,5 @@
 {
-  "last_fetched": "2026-10-15T03:55:11+00:00",
+  "last_fetched": "2026-10-15T16:36:43+00:00",
   "topics": {
     "ASR": {
       "2609.18748": {
@@ -3600,8 +3600,9 @@
         "updated": "2026-10-12",
         "url": "https://arxiv.org/abs/2610.17019",
         "pdf_url": "https://arxiv.org/pdf/2610.17019",
-        "code_url": null,
-        "code_source": null
+        "code_url": "https://github.com/skywuxuan/ASR-arxiv-daily",
+        "code_source": "github_search",
+        "code_checked_at": "2026-10-15T16:36:54+00:00"
       },
       "2610.16579": {
         "title": "LLM-HB: Language-Aware LLM-Guided Hotword Biasing for Code-Switching ASR",
@@ -3617,8 +3618,9 @@
         "updated": "2026-10-12",
         "url": "https://arxiv.org/abs/2610.16579",
         "pdf_url": "https://arxiv.org/pdf/2610.16579",
-        "code_url": null,
-        "code_source": null
+        "code_url": "https://github.com/skywuxuan/ASR-arxiv-daily",
+        "code_source": "github_search",
+        "code_checked_at": "2026-10-15T16:36:56+00:00"
       },
       "2610.16196": {
         "title": "Towards Privacy-Preserving ASR: Speaker-Level Machine Unlearning",
@@ -3632,8 +3634,9 @@
         "updated": "2026-10-12",
         "url": "https://arxiv.org/abs/2610.16196",
         "pdf_url": "https://arxiv.org/pdf/2610.16196",
-        "code_url": null,
-        "code_source": null
+        "code_url": "https://github.com/skywuxuan/ASR-arxiv-daily",
+        "code_source": "github_search",
+        "code_checked_at": "2026-10-15T16:36:58+00:00"
       },
       "2610.15671": {
         "title": "Synthesizing Ultrasonic Echo Profiles from Text for Open-Vocabulary Silent Speech Recognition",
@@ -3647,8 +3650,9 @@
         "updated": "2026-10-11",
         "url": "https://arxiv.org/abs/2610.15671",
         "pdf_url": "https://arxiv.org/pdf/2610.15671",
-        "code_url": null,
-        "code_source": null
+        "code_url": "https://github.com/liutaocode/TTS-arxiv-daily",
+        "code_source": "github_search",
+        "code_checked_at": "2026-10-15T16:37:00+00:00"
       },
       "2610.15542": {
         "title": "Apertus 1.5: From Open Text Models to Open Multimodal Reasoners",
@@ -3791,8 +3795,9 @@
         "updated": "2026-10-11",
         "url": "https://arxiv.org/abs/2610.15542",
         "pdf_url": "https://arxiv.org/pdf/2610.15542",
-        "code_url": null,
-        "code_source": null
+        "code_url": "https://github.com/Valiant-Cat/hfpaper",
+        "code_source": "github_search",
+        "code_checked_at": "2026-10-15T16:37:02+00:00"
       },
       "2610.15056": {
         "title": "Select or Rewrite: Oracle-Guided Fine-Tuning for Generative ASR Post-Editing from N-Best Hypotheses",
@@ -3872,9 +3877,9 @@
         "updated": "2026-10-14",
         "url": "https://arxiv.org/abs/2610.20253",
         "pdf_url": "https://arxiv.org/pdf/2610.20253",
-        "code_url": null,
-        "code_source": null,
-        "code_checked_at": "2026-10-15T03:55:11+00:00"
+        "code_url": "https://github.com/skywuxuan/ASR-arxiv-daily",
+        "code_source": "github_search",
+        "code_checked_at": "2026-10-15T16:36:43+00:00"
       },
       "2610.19869": {
         "title": "SEA-HELM Audio: Evaluating Multilingual ASR-LLM Pipeline Performance Across SEA-HELM Subsets",
@@ -3890,9 +3895,9 @@
         "updated": "2026-10-14",
         "url": "https://arxiv.org/abs/2610.19869",
         "pdf_url": "https://arxiv.org/pdf/2610.19869",
-        "code_url": null,
-        "code_source": null,
-        "code_checked_at": "2026-10-15T03:55:13+00:00"
+        "code_url": "https://github.com/liutaocode/TTS-arxiv-daily",
+        "code_source": "github_search",
+        "code_checked_at": "2026-10-15T16:36:45+00:00"
       },
       "2610.19492": {
         "title": "Towards Efficient Simultaneous Inverse Text Normalization with Pretrained Text-to-Text Language Model and Read-Tag-Write Policy",
@@ -3911,9 +3916,9 @@
         "updated": "2026-10-14",
         "url": "https://arxiv.org/abs/2610.19492",
         "pdf_url": "https://arxiv.org/pdf/2610.19492",
-        "code_url": null,
-        "code_source": null,
-        "code_checked_at": "2026-10-15T03:55:15+00:00"
+        "code_url": "https://github.com/arxivsub/arXivSub_daily_arxiv",
+        "code_source": "github_search",
+        "code_checked_at": "2026-10-15T16:36:48+00:00"
       },
       "2610.19388": {
         "title": "ELARSpeech: A 30K-Hour Dataset Across 675 Underrepresented Languages for Long-Tail Multilingual Speech Technologies",
@@ -3926,9 +3931,9 @@
         "updated": "2026-10-14",
         "url": "https://arxiv.org/abs/2610.19388",
         "pdf_url": "https://arxiv.org/pdf/2610.19388",
-        "code_url": null,
-        "code_source": null,
-        "code_checked_at": "2026-10-15T03:55:17+00:00"
+        "code_url": "https://github.com/arxivsub/arXivSub_daily_arxiv",
+        "code_source": "github_search",
+        "code_checked_at": "2026-10-15T16:36:50+00:00"
       },
       "2610.19134": {
         "title": "CAFE: Confining Feature Distillation to Language-Routed Adapters for Compact Multilingual Automatic Speech Recognition",
@@ -3946,9 +3951,9 @@
         "updated": "2026-10-13",
         "url": "https://arxiv.org/abs/2610.19134",
         "pdf_url": "https://arxiv.org/pdf/2610.19134",
-        "code_url": null,
-        "code_source": null,
-        "code_checked_at": "2026-10-15T03:55:19+00:00"
+        "code_url": "https://github.com/arxivsub/arXivSub_daily_arxiv",
+        "code_source": "github_search",
+        "code_checked_at": "2026-10-15T16:36:52+00:00"
       }
     }
   }
