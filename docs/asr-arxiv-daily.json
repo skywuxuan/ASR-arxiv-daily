@@ -1,5 +1,5 @@
 {
-  "last_fetched": "2026-10-15T16:36:43+00:00",
+  "last_fetched": "2026-10-16T03:51:15+00:00",
   "topics": {
     "ASR": {
       "2609.18748": {
@@ -3813,8 +3813,9 @@
         "updated": "2026-10-10",
         "url": "https://arxiv.org/abs/2610.15056",
         "pdf_url": "https://arxiv.org/pdf/2610.15056",
-        "code_url": null,
-        "code_source": null
+        "code_url": "https://github.com/skywuxuan/ASR-arxiv-daily",
+        "code_source": "github_search",
+        "code_checked_at": "2026-10-16T03:51:22+00:00"
       },
       "2610.14349": {
         "title": "Multimodal Co-Generation With Continuous Bitstream Diffusion",
@@ -3831,8 +3832,9 @@
         "updated": "2026-10-09",
         "url": "https://arxiv.org/abs/2610.14349",
         "pdf_url": "https://arxiv.org/pdf/2610.14349",
-        "code_url": null,
-        "code_source": null
+        "code_url": "https://github.com/liutaocode/TTS-arxiv-daily",
+        "code_source": "github_search",
+        "code_checked_at": "2026-10-16T03:51:24+00:00"
       },
       "2610.14309": {
         "title": "ASSET: Adaptive Speech Segmentation via Reinforcement Learning",
@@ -3849,8 +3851,9 @@
         "updated": "2026-10-09",
         "url": "https://arxiv.org/abs/2610.14309",
         "pdf_url": "https://arxiv.org/pdf/2610.14309",
-        "code_url": null,
-        "code_source": null
+        "code_url": "https://github.com/skywuxuan/ASR-arxiv-daily",
+        "code_source": "github_search",
+        "code_checked_at": "2026-10-16T03:51:26+00:00"
       },
       "2610.14232": {
         "title": "Speech event detector: Timestamped detection of non-verbal vocalizations and background sounds for rich speech transcription",
@@ -3954,6 +3957,58 @@
         "code_url": "https://github.com/arxivsub/arXivSub_daily_arxiv",
         "code_source": "github_search",
         "code_checked_at": "2026-10-15T16:36:52+00:00"
+      },
+      "2610.21440": {
+        "title": "SITAR: A Situational Distortion Metric for Automatic Speech Recognition Evaluation",
+        "authors": [
+          "Mingzhe Lu",
+          "Jinhao Liu",
+          "Yunpeng Li",
+          "Hang Su",
+          "Lichun Fan",
+          "Jian Luan"
+        ],
+        "published": "2026-10-15",
+        "updated": "2026-10-15",
+        "url": "https://arxiv.org/abs/2610.21440",
+        "pdf_url": "https://arxiv.org/pdf/2610.21440",
+        "code_url": null,
+        "code_source": null,
+        "code_checked_at": "2026-10-16T03:51:16+00:00"
+      },
+      "2610.21164": {
+        "title": "Automatic Sentence Completion Using Bengali Audio Speech with a Transformer-Based Early Speech Recognition System",
+        "authors": [
+          "Md Asif Akram",
+          "Arif Faisal",
+          "Sakir Hossain Faruque",
+          "Sharun Akter Khushbu"
+        ],
+        "published": "2026-10-15",
+        "updated": "2026-10-15",
+        "url": "https://arxiv.org/abs/2610.21164",
+        "pdf_url": "https://arxiv.org/pdf/2610.21164",
+        "code_url": null,
+        "code_source": null,
+        "code_checked_at": "2026-10-16T03:51:18+00:00"
+      },
+      "2610.20844": {
+        "title": "Zero-Shot Spoken Language Understanding with SLAM-ASR: What Do Monolingual ASR-Trained Linear Projectors Enable?",
+        "authors": [
+          "Edwin Arkel Rios",
+          "Sneh Sourabh",
+          "Jocelyn Zaruma",
+          "Girish Ewoorkar",
+          "Julian Mack",
+          "Bo-Cheng Lai"
+        ],
+        "published": "2026-10-14",
+        "updated": "2026-10-14",
+        "url": "https://arxiv.org/abs/2610.20844",
+        "pdf_url": "https://arxiv.org/pdf/2610.20844",
+        "code_url": "https://github.com/Vincentqyw/cv-arxiv-daily",
+        "code_source": "github_search",
+        "code_checked_at": "2026-10-16T03:51:20+00:00"
       }
     }
   }

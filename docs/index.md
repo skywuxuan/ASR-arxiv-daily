@@ -8,7 +8,7 @@ layout: default
 
 [使用与部署说明](./README.html#usage)
 
-> 最近成功抓取：2026-10-15T16:36:43+00:00（UTC）
+> 最近成功抓取：2026-10-16T03:51:15+00:00（UTC）
 
 每 12 小时检索一次，按首次提交日期倒序排列，历史论文会持续保留。
 
@@ -18,6 +18,9 @@ layout: default
 
 | 首次提交 | 更新日期 | 标题 | 作者 | arXiv | PDF | 代码 |
 | --- | --- | --- | --- | --- | --- | --- |
+| 2026-10-15 | 2026-10-15 | SITAR: A Situational Distortion Metric for Automatic Speech Recognition Evaluation | Mingzhe Lu et al. | [2610.21440](https://arxiv.org/abs/2610.21440) | [PDF](https://arxiv.org/pdf/2610.21440) | — |
+| 2026-10-15 | 2026-10-15 | Automatic Sentence Completion Using Bengali Audio Speech with a Transformer-Based Early Speech Recognition System | Md Asif Akram et al. | [2610.21164](https://arxiv.org/abs/2610.21164) | [PDF](https://arxiv.org/pdf/2610.21164) | — |
+| 2026-10-14 | 2026-10-14 | Zero-Shot Spoken Language Understanding with SLAM-ASR: What Do Monolingual ASR-Trained Linear Projectors Enable? | Edwin Arkel Rios et al. | [2610.20844](https://arxiv.org/abs/2610.20844) | [PDF](https://arxiv.org/pdf/2610.20844) | [候选仓库](https://github.com/Vincentqyw/cv-arxiv-daily) |
 | 2026-10-14 | 2026-10-14 | Repairing Speech Access After Text Updates with Frozen Affine Fields | Ming-Hao Hsu et al. | [2610.20253](https://arxiv.org/abs/2610.20253) | [PDF](https://arxiv.org/pdf/2610.20253) | [候选仓库](https://github.com/skywuxuan/ASR-arxiv-daily) |
 | 2026-10-14 | 2026-10-14 | SEA-HELM Audio: Evaluating Multilingual ASR-LLM Pipeline Performance Across SEA-HELM Subsets | Yixian Tan et al. | [2610.19869](https://arxiv.org/abs/2610.19869) | [PDF](https://arxiv.org/pdf/2610.19869) | [候选仓库](https://github.com/liutaocode/TTS-arxiv-daily) |
 | 2026-10-14 | 2026-10-14 | Towards Efficient Simultaneous Inverse Text Normalization with Pretrained Text-to-Text Language Model and Read-Tag-Write Policy | Kiet Anh Hoang et al. | [2610.19492](https://arxiv.org/abs/2610.19492) | [PDF](https://arxiv.org/pdf/2610.19492) | [候选仓库](https://github.com/arxivsub/arXivSub_daily_arxiv) |
@@ -39,9 +42,9 @@ layout: default
 | 2026-10-12 | 2026-10-12 | Towards Privacy-Preserving ASR: Speaker-Level Machine Unlearning | Seaone Ok et al. | [2610.16196](https://arxiv.org/abs/2610.16196) | [PDF](https://arxiv.org/pdf/2610.16196) | [候选仓库](https://github.com/skywuxuan/ASR-arxiv-daily) |
 | 2026-10-11 | 2026-10-11 | Synthesizing Ultrasonic Echo Profiles from Text for Open-Vocabulary Silent Speech Recognition | Jiacheng Liu et al. | [2610.15671](https://arxiv.org/abs/2610.15671) | [PDF](https://arxiv.org/pdf/2610.15671) | [候选仓库](https://github.com/liutaocode/TTS-arxiv-daily) |
 | 2026-10-11 | 2026-10-11 | Apertus 1.5: From Open Text Models to Open Multimodal Reasoners | Project Apertus et al. | [2610.15542](https://arxiv.org/abs/2610.15542) | [PDF](https://arxiv.org/pdf/2610.15542) | [候选仓库](https://github.com/Valiant-Cat/hfpaper) |
-| 2026-10-10 | 2026-10-10 | Select or Rewrite: Oracle-Guided Fine-Tuning for Generative ASR Post-Editing from N-Best Hypotheses | Shiran Liu et al. | [2610.15056](https://arxiv.org/abs/2610.15056) | [PDF](https://arxiv.org/pdf/2610.15056) | — |
-| 2026-10-09 | 2026-10-09 | Multimodal Co-Generation With Continuous Bitstream Diffusion | Georgios Batzolis et al. | [2610.14349](https://arxiv.org/abs/2610.14349) | [PDF](https://arxiv.org/pdf/2610.14349) | — |
-| 2026-10-09 | 2026-10-09 | ASSET: Adaptive Speech Segmentation via Reinforcement Learning | Cihan Xiao et al. | [2610.14309](https://arxiv.org/abs/2610.14309) | [PDF](https://arxiv.org/pdf/2610.14309) | — |
+| 2026-10-10 | 2026-10-10 | Select or Rewrite: Oracle-Guided Fine-Tuning for Generative ASR Post-Editing from N-Best Hypotheses | Shiran Liu et al. | [2610.15056](https://arxiv.org/abs/2610.15056) | [PDF](https://arxiv.org/pdf/2610.15056) | [候选仓库](https://github.com/skywuxuan/ASR-arxiv-daily) |
+| 2026-10-09 | 2026-10-09 | Multimodal Co-Generation With Continuous Bitstream Diffusion | Georgios Batzolis et al. | [2610.14349](https://arxiv.org/abs/2610.14349) | [PDF](https://arxiv.org/pdf/2610.14349) | [候选仓库](https://github.com/liutaocode/TTS-arxiv-daily) |
+| 2026-10-09 | 2026-10-09 | ASSET: Adaptive Speech Segmentation via Reinforcement Learning | Cihan Xiao et al. | [2610.14309](https://arxiv.org/abs/2610.14309) | [PDF](https://arxiv.org/pdf/2610.14309) | [候选仓库](https://github.com/skywuxuan/ASR-arxiv-daily) |
 | 2026-10-09 | 2026-10-09 | Speech event detector: Timestamped detection of non-verbal vocalizations and background sounds for rich speech transcription | Ayush Kumar Bar et al. | [2610.14232](https://arxiv.org/abs/2610.14232) | [PDF](https://arxiv.org/pdf/2610.14232) | [论文链接](https://github.com/theboringai-work/surround-sound) |
 | 2026-10-09 | 2026-10-09 | Error Rate is Not Enough: Costs of Augmentation in Low-Resource ASR | Katsumi Ibaraki et al. | [2610.13807](https://arxiv.org/abs/2610.13807) | [PDF](https://arxiv.org/pdf/2610.13807) | [候选仓库](https://github.com/Tavish9/awesome-daily-AI-arxiv) |
 | 2026-10-09 | 2026-10-09 | Enhancing Speech Recognition through Text-to-Speech and Voice Conversion Augmentation | Yunus Emre Ozkose et al. | [2610.13662](https://arxiv.org/abs/2610.13662) | [PDF](https://arxiv.org/pdf/2610.13662) | [候选仓库](https://github.com/iszhanjiawei/TTS_arxiv_daily) |
