@@ -4,7 +4,7 @@
 
 [使用与部署说明](./docs/README.md#usage)
 
-> 最近成功抓取：2026-10-16T03:51:15+00:00（UTC）
+> 最近成功抓取：2026-10-16T16:20:36+00:00（UTC）
 
 每 12 小时检索一次，按首次提交日期倒序排列，历史论文会持续保留。
 
@@ -14,8 +14,8 @@
 
 | 首次提交 | 更新日期 | 标题 | 作者 | arXiv | PDF | 代码 |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-10-15 | 2026-10-15 | SITAR: A Situational Distortion Metric for Automatic Speech Recognition Evaluation | Mingzhe Lu et al. | [2610.21440](https://arxiv.org/abs/2610.21440) | [PDF](https://arxiv.org/pdf/2610.21440) | — |
-| 2026-10-15 | 2026-10-15 | Automatic Sentence Completion Using Bengali Audio Speech with a Transformer-Based Early Speech Recognition System | Md Asif Akram et al. | [2610.21164](https://arxiv.org/abs/2610.21164) | [PDF](https://arxiv.org/pdf/2610.21164) | — |
+| 2026-10-15 | 2026-10-15 | SITAR: A Situational Distortion Metric for Automatic Speech Recognition Evaluation | Mingzhe Lu et al. | [2610.21440](https://arxiv.org/abs/2610.21440) | [PDF](https://arxiv.org/pdf/2610.21440) | [候选仓库](https://github.com/Tavish9/awesome-daily-AI-arxiv) |
+| 2026-10-15 | 2026-10-15 | Automatic Sentence Completion Using Bengali Audio Speech with a Transformer-Based Early Speech Recognition System | Md Asif Akram et al. | [2610.21164](https://arxiv.org/abs/2610.21164) | [PDF](https://arxiv.org/pdf/2610.21164) | [候选仓库](https://github.com/Tavish9/awesome-daily-AI-arxiv) |
 | 2026-10-14 | 2026-10-14 | Zero-Shot Spoken Language Understanding with SLAM-ASR: What Do Monolingual ASR-Trained Linear Projectors Enable? | Edwin Arkel Rios et al. | [2610.20844](https://arxiv.org/abs/2610.20844) | [PDF](https://arxiv.org/pdf/2610.20844) | [候选仓库](https://github.com/Vincentqyw/cv-arxiv-daily) |
 | 2026-10-14 | 2026-10-14 | Repairing Speech Access After Text Updates with Frozen Affine Fields | Ming-Hao Hsu et al. | [2610.20253](https://arxiv.org/abs/2610.20253) | [PDF](https://arxiv.org/pdf/2610.20253) | [候选仓库](https://github.com/skywuxuan/ASR-arxiv-daily) |
 | 2026-10-14 | 2026-10-14 | SEA-HELM Audio: Evaluating Multilingual ASR-LLM Pipeline Performance Across SEA-HELM Subsets | Yixian Tan et al. | [2610.19869](https://arxiv.org/abs/2610.19869) | [PDF](https://arxiv.org/pdf/2610.19869) | [候选仓库](https://github.com/liutaocode/TTS-arxiv-daily) |
