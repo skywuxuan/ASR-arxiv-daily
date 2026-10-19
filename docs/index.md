@@ -8,7 +8,7 @@ layout: default
 
 [使用与部署说明](./README.html#usage)
 
-> 最近成功抓取：2026-10-18T15:36:39+00:00（UTC）
+> 最近成功抓取：2026-10-19T03:56:55+00:00（UTC）
 
 每 12 小时检索一次，按首次提交日期倒序排列，历史论文会持续保留。
 
@@ -18,11 +18,16 @@ layout: default
 
 | 首次提交 | 更新日期 | 标题 | 作者 | arXiv | PDF | 代码 |
 | --- | --- | --- | --- | --- | --- | --- |
+| 2026-10-16 | 2026-10-16 | Flash RNN-T: Memory-Efficient Joint Network and Transducer Loss Computation | Mahmoud Ashraf | [2610.23409](https://arxiv.org/abs/2610.23409) | [PDF](https://arxiv.org/pdf/2610.23409) | — |
+| 2026-10-16 | 2026-10-16 | Advancing Sentence-Level Dysarthric Audio-Visual Speech Recognition via Test-Time Adaptation | Shiyao Wang et al. | [2610.23117](https://arxiv.org/abs/2610.23117) | [PDF](https://arxiv.org/pdf/2610.23117) | — |
+| 2026-10-16 | 2026-10-16 | ASR-Style Transcript Normalization Removes Useful Pragmatic Signal for Dialogue Act Classification | Lucky Onyekwelu-Udoka et al. | [2610.22934](https://arxiv.org/abs/2610.22934) | [PDF](https://arxiv.org/pdf/2610.22934) | — |
 | 2026-10-15 | 2026-10-15 | SITAR: A Situational Distortion Metric for Automatic Speech Recognition Evaluation | Mingzhe Lu et al. | [2610.21440](https://arxiv.org/abs/2610.21440) | [PDF](https://arxiv.org/pdf/2610.21440) | [候选仓库](https://github.com/Tavish9/awesome-daily-AI-arxiv) |
 | 2026-10-15 | 2026-10-15 | Automatic Sentence Completion Using Bengali Audio Speech with a Transformer-Based Early Speech Recognition System | Md Asif Akram et al. | [2610.21164](https://arxiv.org/abs/2610.21164) | [PDF](https://arxiv.org/pdf/2610.21164) | [候选仓库](https://github.com/Tavish9/awesome-daily-AI-arxiv) |
+| 2026-10-14 | 2026-10-14 | Audio System One Model: Typed Probabilistic Perception of Emotion in Speech | Jaime Bellver-Soler et al. | [2610.22401](https://arxiv.org/abs/2610.22401) | [PDF](https://arxiv.org/pdf/2610.22401) | — |
+| 2026-10-14 | 2026-10-14 | Not All Frames Are Equal:Difference-Aware Quantization for Ultra-Low-Bit ASR | Woori Jeon et al. | [2610.22395](https://arxiv.org/abs/2610.22395) | [PDF](https://arxiv.org/pdf/2610.22395) | [候选仓库](https://github.com/liutaocode/TTS-arxiv-daily) |
 | 2026-10-14 | 2026-10-14 | Zero-Shot Spoken Language Understanding with SLAM-ASR: What Do Monolingual ASR-Trained Linear Projectors Enable? | Edwin Arkel Rios et al. | [2610.20844](https://arxiv.org/abs/2610.20844) | [PDF](https://arxiv.org/pdf/2610.20844) | [候选仓库](https://github.com/Vincentqyw/cv-arxiv-daily) |
 | 2026-10-14 | 2026-10-14 | Repairing Speech Access After Text Updates with Frozen Affine Fields | Ming-Hao Hsu et al. | [2610.20253](https://arxiv.org/abs/2610.20253) | [PDF](https://arxiv.org/pdf/2610.20253) | [候选仓库](https://github.com/skywuxuan/ASR-arxiv-daily) |
-| 2026-10-14 | 2026-10-14 | SEA-HELM Audio: Evaluating Multilingual ASR-LLM Pipeline Performance Across SEA-HELM Subsets | Yixian Tan et al. | [2610.19869](https://arxiv.org/abs/2610.19869) | [PDF](https://arxiv.org/pdf/2610.19869) | [候选仓库](https://github.com/liutaocode/TTS-arxiv-daily) |
+| 2026-10-14 | 2026-10-16 | SEA-HELM Audio: Evaluating Multilingual ASR-LLM Pipeline Performance Across SEA-HELM Subsets | Aulia Adila et al. | [2610.19869](https://arxiv.org/abs/2610.19869) | [PDF](https://arxiv.org/pdf/2610.19869) | [候选仓库](https://github.com/liutaocode/TTS-arxiv-daily) |
 | 2026-10-14 | 2026-10-14 | Towards Efficient Simultaneous Inverse Text Normalization with Pretrained Text-to-Text Language Model and Read-Tag-Write Policy | Kiet Anh Hoang et al. | [2610.19492](https://arxiv.org/abs/2610.19492) | [PDF](https://arxiv.org/pdf/2610.19492) | [候选仓库](https://github.com/arxivsub/arXivSub_daily_arxiv) |
 | 2026-10-14 | 2026-10-14 | ELARSpeech: A 30K-Hour Dataset Across 675 Underrepresented Languages for Long-Tail Multilingual Speech Technologies | Sangmin Lee et al. | [2610.19388](https://arxiv.org/abs/2610.19388) | [PDF](https://arxiv.org/pdf/2610.19388) | [候选仓库](https://github.com/arxivsub/arXivSub_daily_arxiv) |
 | 2026-10-13 | 2026-10-13 | CAFE: Confining Feature Distillation to Language-Routed Adapters for Compact Multilingual Automatic Speech Recognition | Tianchi Liu et al. | [2610.19134](https://arxiv.org/abs/2610.19134) | [PDF](https://arxiv.org/pdf/2610.19134) | [候选仓库](https://github.com/arxivsub/arXivSub_daily_arxiv) |

@@ -1,5 +1,5 @@
 {
-  "last_fetched": "2026-10-18T15:36:39+00:00",
+  "last_fetched": "2026-10-19T03:56:55+00:00",
   "topics": {
     "ASR": {
       "2609.18748": {
@@ -3887,15 +3887,15 @@
       "2610.19869": {
         "title": "SEA-HELM Audio: Evaluating Multilingual ASR-LLM Pipeline Performance Across SEA-HELM Subsets",
         "authors": [
-          "Yixian Tan",
           "Aulia Adila",
+          "Yixian Tan",
           "Jonathan Heng",
           "Kunat Pipatanakul",
           "Donghang Wu",
           "Anocha Sutaveephamochanon"
         ],
         "published": "2026-10-14",
-        "updated": "2026-10-14",
+        "updated": "2026-10-16",
         "url": "https://arxiv.org/abs/2610.19869",
         "pdf_url": "https://arxiv.org/pdf/2610.19869",
         "code_url": "https://github.com/liutaocode/TTS-arxiv-daily",
@@ -4009,6 +4009,80 @@
         "code_url": "https://github.com/Vincentqyw/cv-arxiv-daily",
         "code_source": "github_search",
         "code_checked_at": "2026-10-16T03:51:20+00:00"
+      },
+      "2610.23409": {
+        "title": "Flash RNN-T: Memory-Efficient Joint Network and Transducer Loss Computation",
+        "authors": [
+          "Mahmoud Ashraf"
+        ],
+        "published": "2026-10-16",
+        "updated": "2026-10-16",
+        "url": "https://arxiv.org/abs/2610.23409",
+        "pdf_url": "https://arxiv.org/pdf/2610.23409",
+        "code_url": null,
+        "code_source": null,
+        "code_checked_at": "2026-10-19T03:56:55+00:00"
+      },
+      "2610.23117": {
+        "title": "Advancing Sentence-Level Dysarthric Audio-Visual Speech Recognition via Test-Time Adaptation",
+        "authors": [
+          "Shiyao Wang",
+          "Hui Wang",
+          "Jiaming Zhou",
+          "Shiwan Zhao",
+          "Yong Qin"
+        ],
+        "published": "2026-10-16",
+        "updated": "2026-10-16",
+        "url": "https://arxiv.org/abs/2610.23117",
+        "pdf_url": "https://arxiv.org/pdf/2610.23117",
+        "code_url": null,
+        "code_source": null,
+        "code_checked_at": "2026-10-19T03:56:57+00:00"
+      },
+      "2610.22934": {
+        "title": "ASR-Style Transcript Normalization Removes Useful Pragmatic Signal for Dialogue Act Classification",
+        "authors": [
+          "Lucky Onyekwelu-Udoka",
+          "Md Shafiqul Islam"
+        ],
+        "published": "2026-10-16",
+        "updated": "2026-10-16",
+        "url": "https://arxiv.org/abs/2610.22934",
+        "pdf_url": "https://arxiv.org/pdf/2610.22934",
+        "code_url": null,
+        "code_source": null,
+        "code_checked_at": "2026-10-19T03:56:59+00:00"
+      },
+      "2610.22401": {
+        "title": "Audio System One Model: Typed Probabilistic Perception of Emotion in Speech",
+        "authors": [
+          "Jaime Bellver-Soler",
+          "Iván Martín-Fernández",
+          "Anmol Guragain",
+          "Luis Fernando D'Haro"
+        ],
+        "published": "2026-10-14",
+        "updated": "2026-10-14",
+        "url": "https://arxiv.org/abs/2610.22401",
+        "pdf_url": "https://arxiv.org/pdf/2610.22401",
+        "code_url": null,
+        "code_source": null,
+        "code_checked_at": "2026-10-19T03:57:01+00:00"
+      },
+      "2610.22395": {
+        "title": "Not All Frames Are Equal:Difference-Aware Quantization for Ultra-Low-Bit ASR",
+        "authors": [
+          "Woori Jeon",
+          "Jungmin So"
+        ],
+        "published": "2026-10-14",
+        "updated": "2026-10-14",
+        "url": "https://arxiv.org/abs/2610.22395",
+        "pdf_url": "https://arxiv.org/pdf/2610.22395",
+        "code_url": "https://github.com/liutaocode/TTS-arxiv-daily",
+        "code_source": "github_search",
+        "code_checked_at": "2026-10-19T03:57:04+00:00"
       }
     }
   }
