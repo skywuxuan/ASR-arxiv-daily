@@ -4019,9 +4019,9 @@
         "updated": "2026-10-16",
         "url": "https://arxiv.org/abs/2610.23409",
         "pdf_url": "https://arxiv.org/pdf/2610.23409",
-        "code_url": null,
-        "code_source": null,
-        "code_checked_at": "2026-10-19T03:56:55+00:00"
+        "code_url": "https://github.com/arxivsub/arXivSub_daily_arxiv",
+        "code_source": "github_search",
+        "code_checked_at": "2026-10-19T15:19:29+00:00"
       },
       "2610.23117": {
         "title": "Advancing Sentence-Level Dysarthric Audio-Visual Speech Recognition via Test-Time Adaptation",
@@ -4036,9 +4036,9 @@
         "updated": "2026-10-16",
         "url": "https://arxiv.org/abs/2610.23117",
         "pdf_url": "https://arxiv.org/pdf/2610.23117",
-        "code_url": null,
-        "code_source": null,
-        "code_checked_at": "2026-10-19T03:56:57+00:00"
+        "code_url": "https://github.com/skywuxuan/ASR-arxiv-daily",
+        "code_source": "github_search",
+        "code_checked_at": "2026-10-19T15:19:31+00:00"
       },
       "2610.22934": {
         "title": "ASR-Style Transcript Normalization Removes Useful Pragmatic Signal for Dialogue Act Classification",
@@ -4050,9 +4050,9 @@
         "updated": "2026-10-16",
         "url": "https://arxiv.org/abs/2610.22934",
         "pdf_url": "https://arxiv.org/pdf/2610.22934",
-        "code_url": null,
-        "code_source": null,
-        "code_checked_at": "2026-10-19T03:56:59+00:00"
+        "code_url": "https://github.com/Tavish9/awesome-daily-AI-arxiv",
+        "code_source": "github_search",
+        "code_checked_at": "2026-10-19T15:19:33+00:00"
       },
       "2610.22401": {
         "title": "Audio System One Model: Typed Probabilistic Perception of Emotion in Speech",
@@ -4066,9 +4066,9 @@
         "updated": "2026-10-14",
         "url": "https://arxiv.org/abs/2610.22401",
         "pdf_url": "https://arxiv.org/pdf/2610.22401",
-        "code_url": null,
-        "code_source": null,
-        "code_checked_at": "2026-10-19T03:57:01+00:00"
+        "code_url": "https://github.com/arxivsub/arXivSub_daily_arxiv",
+        "code_source": "github_search",
+        "code_checked_at": "2026-10-19T15:19:36+00:00"
       },
       "2610.22395": {
         "title": "Not All Frames Are Equal:Difference-Aware Quantization for Ultra-Low-Bit ASR",
