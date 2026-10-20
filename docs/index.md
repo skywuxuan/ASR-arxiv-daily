@@ -8,7 +8,7 @@ layout: default
 
 [使用与部署说明](./README.html#usage)
 
-> 最近成功抓取：2026-10-20T04:09:16+00:00（UTC）
+> 最近成功抓取：2026-10-20T16:35:23+00:00（UTC）
 
 每 12 小时检索一次，按首次提交日期倒序排列，历史论文会持续保留。
 
@@ -18,18 +18,18 @@ layout: default
 
 | 首次提交 | 更新日期 | 标题 | 作者 | arXiv | PDF | 代码 |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-10-19 | 2026-10-19 | AfriBED: a Speech Recognition Bias Evaluation Dataset for Low Resource African Languages | Claytone Sikasote et al. | [2610.26821](https://arxiv.org/abs/2610.26821) | [PDF](https://arxiv.org/pdf/2610.26821) | — |
-| 2026-10-19 | 2026-10-19 | Monsoon: Scalable Spontaneous Speech Collection for Low-Resource ASR in 50 Languages | Shobhit Banga et al. | [2610.26776](https://arxiv.org/abs/2610.26776) | [PDF](https://arxiv.org/pdf/2610.26776) | — |
-| 2026-10-19 | 2026-10-19 | Conducting Reliable Keyword Estimation with Unreliable ASR in Police Audio Data | Robert Cole Molloy et al. | [2610.26614](https://arxiv.org/abs/2610.26614) | [PDF](https://arxiv.org/pdf/2610.26614) | — |
-| 2026-10-19 | 2026-10-19 | TeleASR-Amharic: A Benchmark for Robust Amharic ASR in Realistic Telecommunication Conditions | Dagnachew Mekonnen Marilign et al. | [2610.26448](https://arxiv.org/abs/2610.26448) | [PDF](https://arxiv.org/pdf/2610.26448) | — |
-| 2026-10-19 | 2026-10-19 | AudioScorer: Learning Question-Aware Token Relevance for Large Audio Language Models | Marwan Farag et al. | [2610.26258](https://arxiv.org/abs/2610.26258) | [PDF](https://arxiv.org/pdf/2610.26258) | — |
-| 2026-10-19 | 2026-10-19 | Multilingual Voicemail and Answering Machine Detection via Pretrained Audio Embeddings and Gradient Boosting Machines | Kemal Altwlkany et al. | [2610.26100](https://arxiv.org/abs/2610.26100) | [PDF](https://arxiv.org/pdf/2610.26100) | — |
-| 2026-10-19 | 2026-10-19 | MS-Bench: A Condition-Stratified Multi-Speaker ASR Benchmark | Chunjiang He et al. | [2610.25824](https://arxiv.org/abs/2610.25824) | [PDF](https://arxiv.org/pdf/2610.25824) | — |
-| 2026-10-19 | 2026-10-19 | PronCFT: Pronunciation Contextual Fine-Tuning for Contextual Biasing of Out-of-Vocabulary Words in LLM-Based ASR | Yifan Xu et al. | [2610.25766](https://arxiv.org/abs/2610.25766) | [PDF](https://arxiv.org/pdf/2610.25766) | — |
+| 2026-10-19 | 2026-10-19 | AfriBED: a Speech Recognition Bias Evaluation Dataset for Low Resource African Languages | Claytone Sikasote et al. | [2610.26821](https://arxiv.org/abs/2610.26821) | [PDF](https://arxiv.org/pdf/2610.26821) | [候选仓库](https://github.com/Tavish9/awesome-daily-AI-arxiv) |
+| 2026-10-19 | 2026-10-19 | Monsoon: Scalable Spontaneous Speech Collection for Low-Resource ASR in 50 Languages | Shobhit Banga et al. | [2610.26776](https://arxiv.org/abs/2610.26776) | [PDF](https://arxiv.org/pdf/2610.26776) | [候选仓库](https://github.com/Tavish9/awesome-daily-AI-arxiv) |
+| 2026-10-19 | 2026-10-19 | Conducting Reliable Keyword Estimation with Unreliable ASR in Police Audio Data | Robert Cole Molloy et al. | [2610.26614](https://arxiv.org/abs/2610.26614) | [PDF](https://arxiv.org/pdf/2610.26614) | [候选仓库](https://github.com/Tavish9/awesome-daily-AI-arxiv) |
+| 2026-10-19 | 2026-10-19 | TeleASR-Amharic: A Benchmark for Robust Amharic ASR in Realistic Telecommunication Conditions | Dagnachew Mekonnen Marilign et al. | [2610.26448](https://arxiv.org/abs/2610.26448) | [PDF](https://arxiv.org/pdf/2610.26448) | [候选仓库](https://github.com/skywuxuan/ASR-arxiv-daily) |
+| 2026-10-19 | 2026-10-19 | AudioScorer: Learning Question-Aware Token Relevance for Large Audio Language Models | Marwan Farag et al. | [2610.26258](https://arxiv.org/abs/2610.26258) | [PDF](https://arxiv.org/pdf/2610.26258) | [候选仓库](https://github.com/skywuxuan/ASR-arxiv-daily) |
+| 2026-10-19 | 2026-10-19 | Multilingual Voicemail and Answering Machine Detection via Pretrained Audio Embeddings and Gradient Boosting Machines | Kemal Altwlkany et al. | [2610.26100](https://arxiv.org/abs/2610.26100) | [PDF](https://arxiv.org/pdf/2610.26100) | [候选仓库](https://github.com/skywuxuan/ASR-arxiv-daily) |
+| 2026-10-19 | 2026-10-19 | MS-Bench: A Condition-Stratified Multi-Speaker ASR Benchmark | Chunjiang He et al. | [2610.25824](https://arxiv.org/abs/2610.25824) | [PDF](https://arxiv.org/pdf/2610.25824) | [候选仓库](https://github.com/skywuxuan/ASR-arxiv-daily) |
+| 2026-10-19 | 2026-10-19 | PronCFT: Pronunciation Contextual Fine-Tuning for Contextual Biasing of Out-of-Vocabulary Words in LLM-Based ASR | Yifan Xu et al. | [2610.25766](https://arxiv.org/abs/2610.25766) | [PDF](https://arxiv.org/pdf/2610.25766) | [候选仓库](https://github.com/gcsjsdsd/PronCFT) |
 | 2026-10-19 | 2026-10-19 | Text Dominance in Paralinguistic Conflict: Tracing Suppression Through Audio LLM Circuits | Ankur Banerjee et al. | [2610.25599](https://arxiv.org/abs/2610.25599) | [PDF](https://arxiv.org/pdf/2610.25599) | [论文链接](https://github.com/AdvayRoongta/audio-llm-mech-interp) |
-| 2026-10-18 | 2026-10-18 | Probing and Mitigating Hallucinations in Speech-augmented Language Models for Automatic Speech Recognition via Small Language Models | Bi-Cheng Yan et al. | [2610.25351](https://arxiv.org/abs/2610.25351) | [PDF](https://arxiv.org/pdf/2610.25351) | — |
+| 2026-10-18 | 2026-10-18 | Probing and Mitigating Hallucinations in Speech-augmented Language Models for Automatic Speech Recognition via Small Language Models | Bi-Cheng Yan et al. | [2610.25351](https://arxiv.org/abs/2610.25351) | [PDF](https://arxiv.org/pdf/2610.25351) | [候选仓库](https://github.com/skywuxuan/ASR-arxiv-daily) |
 | 2026-10-18 | 2026-10-18 | VoxDub: A Bilingual Lip-Synchronized Audio-Visual Dataset for Automatic Video Dubbing | Kaidi Wang et al. | [2610.25259](https://arxiv.org/abs/2610.25259) | [PDF](https://arxiv.org/pdf/2610.25259) | [候选仓库](https://github.com/iszhanjiawei/dubbing-dubber-arxiv-daily) |
-| 2026-10-18 | 2026-10-18 | Learning Speaker-Activity-Conditioned WavLM Speaker Embeddings with Real Conversational Data | Prachi Singh et al. | [2610.25183](https://arxiv.org/abs/2610.25183) | [PDF](https://arxiv.org/pdf/2610.25183) | — |
+| 2026-10-18 | 2026-10-18 | Learning Speaker-Activity-Conditioned WavLM Speaker Embeddings with Real Conversational Data | Prachi Singh et al. | [2610.25183](https://arxiv.org/abs/2610.25183) | [PDF](https://arxiv.org/pdf/2610.25183) | [候选仓库](https://github.com/skywuxuan/ASR-arxiv-daily) |
 | 2026-10-17 | 2026-10-17 | Dual Task Vector Merging: Leveraging Emotion and ASR Knowledge for Low-Resource Alzheimer's Disease Detection | Yuan-Chao Li et al. | [2610.24870](https://arxiv.org/abs/2610.24870) | [PDF](https://arxiv.org/pdf/2610.24870) | — |
 | 2026-10-17 | 2026-10-17 | Ask, Don't Guess: Targeted Clarification for Speech Recognition Errors | Sankalp Parashar et al. | [2610.24809](https://arxiv.org/abs/2610.24809) | [PDF](https://arxiv.org/pdf/2610.24809) | — |
 | 2026-10-17 | 2026-10-17 | ASR Personalization in Pathological Voice: Accuracy, Efficiency, and Duration Effects | Giuseppe Giaimis et al. | [2610.24572](https://arxiv.org/abs/2610.24572) | [PDF](https://arxiv.org/pdf/2610.24572) | — |
