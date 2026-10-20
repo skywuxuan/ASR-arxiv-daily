@@ -1,5 +1,5 @@
 {
-  "last_fetched": "2026-10-19T18:32:23+00:00",
+  "last_fetched": "2026-10-20T04:09:16+00:00",
   "topics": {
     "ASR": {
       "2609.18748": {
@@ -3591,13 +3591,13 @@
         "code_checked_at": "2026-10-14T16:51:03+00:00"
       },
       "2610.17019": {
-        "title": "Understanding Personalization Gains in Whisper",
+        "title": "Understanding Personalization Gains in Whisper ASR",
         "authors": [
           "Sergei Katkov",
           "Antonio Liotta"
         ],
         "published": "2026-10-12",
-        "updated": "2026-10-12",
+        "updated": "2026-10-17",
         "url": "https://arxiv.org/abs/2610.17019",
         "pdf_url": "https://arxiv.org/pdf/2610.17019",
         "code_url": "https://github.com/skywuxuan/ASR-arxiv-daily",
@@ -4083,6 +4083,279 @@
         "code_url": "https://github.com/liutaocode/TTS-arxiv-daily",
         "code_source": "github_search",
         "code_checked_at": "2026-10-19T03:57:04+00:00"
+      },
+      "2610.26821": {
+        "title": "AfriBED: a Speech Recognition Bias Evaluation Dataset for Low Resource African Languages",
+        "authors": [
+          "Claytone Sikasote",
+          "Hussein Suleman",
+          "Jan Buys"
+        ],
+        "published": "2026-10-19",
+        "updated": "2026-10-19",
+        "url": "https://arxiv.org/abs/2610.26821",
+        "pdf_url": "https://arxiv.org/pdf/2610.26821",
+        "code_url": null,
+        "code_source": null,
+        "code_checked_at": "2026-10-20T04:09:17+00:00"
+      },
+      "2610.26776": {
+        "title": "Monsoon: Scalable Spontaneous Speech Collection for Low-Resource ASR in 50 Languages",
+        "authors": [
+          "Shobhit Banga",
+          "Manas Dhir",
+          "Aaditya Pareek",
+          "Amritansh Walecha",
+          "Bhaskar Singh",
+          "Hanuman Sidh",
+          "Manmeet Kaur",
+          "Sagar Jain",
+          "Supriya Paul",
+          "Vanshika Chhabra",
+          "Utkarsh Singh"
+        ],
+        "published": "2026-10-19",
+        "updated": "2026-10-19",
+        "url": "https://arxiv.org/abs/2610.26776",
+        "pdf_url": "https://arxiv.org/pdf/2610.26776",
+        "code_url": null,
+        "code_source": null,
+        "code_checked_at": "2026-10-20T04:09:19+00:00"
+      },
+      "2610.26614": {
+        "title": "Conducting Reliable Keyword Estimation with Unreliable ASR in Police Audio Data",
+        "authors": [
+          "Robert Cole Molloy",
+          "Rhiannon N. Miller",
+          "Stephen Morgan",
+          "Anjalie Field"
+        ],
+        "published": "2026-10-19",
+        "updated": "2026-10-19",
+        "url": "https://arxiv.org/abs/2610.26614",
+        "pdf_url": "https://arxiv.org/pdf/2610.26614",
+        "code_url": null,
+        "code_source": null,
+        "code_checked_at": "2026-10-20T04:09:21+00:00"
+      },
+      "2610.26448": {
+        "title": "TeleASR-Amharic: A Benchmark for Robust Amharic ASR in Realistic Telecommunication Conditions",
+        "authors": [
+          "Dagnachew Mekonnen Marilign",
+          "Enrique Molero",
+          "Abrham Haile",
+          "Louis Powell",
+          "Israel Abebe Azime"
+        ],
+        "published": "2026-10-19",
+        "updated": "2026-10-19",
+        "url": "https://arxiv.org/abs/2610.26448",
+        "pdf_url": "https://arxiv.org/pdf/2610.26448",
+        "code_url": null,
+        "code_source": null,
+        "code_checked_at": "2026-10-20T04:09:23+00:00"
+      },
+      "2610.26258": {
+        "title": "AudioScorer: Learning Question-Aware Token Relevance for Large Audio Language Models",
+        "authors": [
+          "Marwan Farag",
+          "Bin Yang"
+        ],
+        "published": "2026-10-19",
+        "updated": "2026-10-19",
+        "url": "https://arxiv.org/abs/2610.26258",
+        "pdf_url": "https://arxiv.org/pdf/2610.26258",
+        "code_url": null,
+        "code_source": null,
+        "code_checked_at": "2026-10-20T04:09:25+00:00"
+      },
+      "2610.26100": {
+        "title": "Multilingual Voicemail and Answering Machine Detection via Pretrained Audio Embeddings and Gradient Boosting Machines",
+        "authors": [
+          "Kemal Altwlkany",
+          "Muamer Paric"
+        ],
+        "published": "2026-10-19",
+        "updated": "2026-10-19",
+        "url": "https://arxiv.org/abs/2610.26100",
+        "pdf_url": "https://arxiv.org/pdf/2610.26100",
+        "code_url": null,
+        "code_source": null,
+        "code_checked_at": "2026-10-20T04:09:27+00:00"
+      },
+      "2610.25824": {
+        "title": "MS-Bench: A Condition-Stratified Multi-Speaker ASR Benchmark",
+        "authors": [
+          "Chunjiang He",
+          "Zheng Zi",
+          "Bingshen Mu",
+          "Yurun Li",
+          "Jingyi Wang",
+          "Zhonghua Fu",
+          "Lei Xie"
+        ],
+        "published": "2026-10-19",
+        "updated": "2026-10-19",
+        "url": "https://arxiv.org/abs/2610.25824",
+        "pdf_url": "https://arxiv.org/pdf/2610.25824",
+        "code_url": null,
+        "code_source": null,
+        "code_checked_at": "2026-10-20T04:09:29+00:00"
+      },
+      "2610.25766": {
+        "title": "PronCFT: Pronunciation Contextual Fine-Tuning for Contextual Biasing of Out-of-Vocabulary Words in LLM-Based ASR",
+        "authors": [
+          "Yifan Xu",
+          "Kaixun Huang",
+          "Mengzhe Geng",
+          "Mingyu Cui",
+          "Shen Huang",
+          "Shidong Shang",
+          "Xunying Liu"
+        ],
+        "published": "2026-10-19",
+        "updated": "2026-10-19",
+        "url": "https://arxiv.org/abs/2610.25766",
+        "pdf_url": "https://arxiv.org/pdf/2610.25766",
+        "code_url": null,
+        "code_source": null,
+        "code_checked_at": "2026-10-20T04:09:31+00:00"
+      },
+      "2610.25599": {
+        "title": "Text Dominance in Paralinguistic Conflict: Tracing Suppression Through Audio LLM Circuits",
+        "authors": [
+          "Ankur Banerjee",
+          "Vishnu Guntakala",
+          "Danity Pike",
+          "Advay Roongta",
+          "Kevin Yang",
+          "Ruizhe Li"
+        ],
+        "published": "2026-10-19",
+        "updated": "2026-10-19",
+        "url": "https://arxiv.org/abs/2610.25599",
+        "pdf_url": "https://arxiv.org/pdf/2610.25599",
+        "code_url": "https://github.com/AdvayRoongta/audio-llm-mech-interp",
+        "code_source": "paper"
+      },
+      "2610.25351": {
+        "title": "Probing and Mitigating Hallucinations in Speech-augmented Language Models for Automatic Speech Recognition via Small Language Models",
+        "authors": [
+          "Bi-Cheng Yan",
+          "Jhih-Rong Guo",
+          "Fu-An Chao",
+          "Berlin Chen"
+        ],
+        "published": "2026-10-18",
+        "updated": "2026-10-18",
+        "url": "https://arxiv.org/abs/2610.25351",
+        "pdf_url": "https://arxiv.org/pdf/2610.25351",
+        "code_url": null,
+        "code_source": null,
+        "code_checked_at": "2026-10-20T04:09:33+00:00"
+      },
+      "2610.25259": {
+        "title": "VoxDub: A Bilingual Lip-Synchronized Audio-Visual Dataset for Automatic Video Dubbing",
+        "authors": [
+          "Kaidi Wang",
+          "Wenhao Guan",
+          "Peijie Chen",
+          "Weijie Wu",
+          "Xuetao Lin",
+          "Lin Li",
+          "Qingyang Hong"
+        ],
+        "published": "2026-10-18",
+        "updated": "2026-10-18",
+        "url": "https://arxiv.org/abs/2610.25259",
+        "pdf_url": "https://arxiv.org/pdf/2610.25259",
+        "code_url": "https://github.com/iszhanjiawei/dubbing-dubber-arxiv-daily",
+        "code_source": "github_search",
+        "code_checked_at": "2026-10-20T04:09:35+00:00"
+      },
+      "2610.25183": {
+        "title": "Learning Speaker-Activity-Conditioned WavLM Speaker Embeddings with Real Conversational Data",
+        "authors": [
+          "Prachi Singh",
+          "Nguyen Hai Phong",
+          "Petr Pálka",
+          "Jiangyu Han",
+          "Marc Delcroix",
+          "Shota Horiguchi",
+          "Naohiro Tawara",
+          "Lukáš Burget"
+        ],
+        "published": "2026-10-18",
+        "updated": "2026-10-18",
+        "url": "https://arxiv.org/abs/2610.25183",
+        "pdf_url": "https://arxiv.org/pdf/2610.25183",
+        "code_url": null,
+        "code_source": null
+      },
+      "2610.24870": {
+        "title": "Dual Task Vector Merging: Leveraging Emotion and ASR Knowledge for Low-Resource Alzheimer's Disease Detection",
+        "authors": [
+          "Yuan-Chao Li",
+          "Yin-Long Liu",
+          "Liu He",
+          "Sizhe Liu",
+          "Ji-Xuan Deng",
+          "Yin Zhang",
+          "Zhen-Hua Ling",
+          "Jiahong Yuan"
+        ],
+        "published": "2026-10-17",
+        "updated": "2026-10-17",
+        "url": "https://arxiv.org/abs/2610.24870",
+        "pdf_url": "https://arxiv.org/pdf/2610.24870",
+        "code_url": null,
+        "code_source": null
+      },
+      "2610.24809": {
+        "title": "Ask, Don't Guess: Targeted Clarification for Speech Recognition Errors",
+        "authors": [
+          "Sankalp Parashar",
+          "Preethi Jyothi",
+          "Sunita Sarawagi"
+        ],
+        "published": "2026-10-17",
+        "updated": "2026-10-17",
+        "url": "https://arxiv.org/abs/2610.24809",
+        "pdf_url": "https://arxiv.org/pdf/2610.24809",
+        "code_url": null,
+        "code_source": null
+      },
+      "2610.24572": {
+        "title": "ASR Personalization in Pathological Voice: Accuracy, Efficiency, and Duration Effects",
+        "authors": [
+          "Giuseppe Giaimis",
+          "Sergei Katkov",
+          "Muhammad Azfar Yaqub",
+          "Antonio Liotta"
+        ],
+        "published": "2026-10-17",
+        "updated": "2026-10-17",
+        "url": "https://arxiv.org/abs/2610.24572",
+        "pdf_url": "https://arxiv.org/pdf/2610.24572",
+        "code_url": null,
+        "code_source": null
+      },
+      "2610.24164": {
+        "title": "Pronouncing Hard Words: Phoneme Adaptation of a Pretrained Conversational Text to Speech Model",
+        "authors": [
+          "Yashish M. Siriwardena",
+          "Dinesh K. Gnanasekaran",
+          "Tanmay Laud",
+          "Shinji Watanabe",
+          "Subhabrata Mukherjee",
+          "Shanil Puri"
+        ],
+        "published": "2026-10-16",
+        "updated": "2026-10-16",
+        "url": "https://arxiv.org/abs/2610.24164",
+        "pdf_url": "https://arxiv.org/pdf/2610.24164",
+        "code_url": null,
+        "code_source": null
       }
     }
   }
