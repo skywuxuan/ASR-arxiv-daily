@@ -4,7 +4,7 @@
 
 [使用与部署说明](./docs/README.md#usage)
 
-> 最近成功抓取：2026-10-21T03:57:57+00:00（UTC）
+> 最近成功抓取：2026-10-21T16:53:13+00:00（UTC）
 
 每 12 小时检索一次，按首次提交日期倒序排列，历史论文会持续保留。
 
@@ -14,14 +14,14 @@
 
 | 首次提交 | 更新日期 | 标题 | 作者 | arXiv | PDF | 代码 |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-10-20 | 2026-10-20 | LoCA: Local Credit Assignment for Reinforcement Learning of Autoregressive Flow-Matching TTS | Jie Liu et al. | [2610.28035](https://arxiv.org/abs/2610.28035) | [PDF](https://arxiv.org/pdf/2610.28035) | — |
-| 2026-10-20 | 2026-10-20 | VISH-ASR: Viterbi-Guided Selection of Hotwords for Speech-LLM Contextual ASR | Xiaoyu Gu et al. | [2610.27867](https://arxiv.org/abs/2610.27867) | [PDF](https://arxiv.org/pdf/2610.27867) | — |
+| 2026-10-20 | 2026-10-20 | LoCA: Local Credit Assignment for Reinforcement Learning of Autoregressive Flow-Matching TTS | Jie Liu et al. | [2610.28035](https://arxiv.org/abs/2610.28035) | [PDF](https://arxiv.org/pdf/2610.28035) | [候选仓库](https://github.com/liutaocode/TTS-arxiv-daily) |
+| 2026-10-20 | 2026-10-20 | VISH-ASR: Viterbi-Guided Selection of Hotwords for Speech-LLM Contextual ASR | Xiaoyu Gu et al. | [2610.27867](https://arxiv.org/abs/2610.27867) | [PDF](https://arxiv.org/pdf/2610.27867) | [候选仓库](https://github.com/skywuxuan/ASR-arxiv-daily) |
 | 2026-10-20 | 2026-10-20 | SMART: Semantic Segment Mapping and Assessment of Recognition Transcripts with Contextual Rubrics | Xiaoyu Gu et al. | [2610.27820](https://arxiv.org/abs/2610.27820) | [PDF](https://arxiv.org/pdf/2610.27820) | [候选仓库](https://github.com/ZhuYingJessica/cv-daily) |
-| 2026-10-20 | 2026-10-20 | PhonoBridge: Error-Aware Phoneme-Mediated EMG-to-Text Reconstruction | Wen Qiu et al. | [2610.27678](https://arxiv.org/abs/2610.27678) | [PDF](https://arxiv.org/pdf/2610.27678) | — |
-| 2026-10-19 | 2026-10-19 | Preference-Aware Pareto Steering for Multi-Task Speech LLMs | Liuyuan Jiang et al. | [2610.27200](https://arxiv.org/abs/2610.27200) | [PDF](https://arxiv.org/pdf/2610.27200) | — |
-| 2026-10-19 | 2026-10-19 | Evaluating Tibetan Speech Recognition Across Dialects and Adaptation Regimes: A Multi-Granularity Analysis | Jacob Moore et al. | [2610.27002](https://arxiv.org/abs/2610.27002) | [PDF](https://arxiv.org/pdf/2610.27002) | — |
-| 2026-10-19 | 2026-10-19 | How to get the best and fairest performance out of your ASR system using activation steering | Felix Herron et al. | [2610.26994](https://arxiv.org/abs/2610.26994) | [PDF](https://arxiv.org/pdf/2610.26994) | — |
-| 2026-10-19 | 2026-10-19 | Think Before You Transcribe: Context-Steered Reasoning for Hotword-Aware Speech Recognition | Qihao Wang et al. | [2610.26986](https://arxiv.org/abs/2610.26986) | [PDF](https://arxiv.org/pdf/2610.26986) | — |
+| 2026-10-20 | 2026-10-20 | PhonoBridge: Error-Aware Phoneme-Mediated EMG-to-Text Reconstruction | Wen Qiu et al. | [2610.27678](https://arxiv.org/abs/2610.27678) | [PDF](https://arxiv.org/pdf/2610.27678) | [候选仓库](https://github.com/skywuxuan/ASR-arxiv-daily) |
+| 2026-10-19 | 2026-10-19 | Preference-Aware Pareto Steering for Multi-Task Speech LLMs | Liuyuan Jiang et al. | [2610.27200](https://arxiv.org/abs/2610.27200) | [PDF](https://arxiv.org/pdf/2610.27200) | [候选仓库](https://github.com/skywuxuan/ASR-arxiv-daily) |
+| 2026-10-19 | 2026-10-19 | Evaluating Tibetan Speech Recognition Across Dialects and Adaptation Regimes: A Multi-Granularity Analysis | Jacob Moore et al. | [2610.27002](https://arxiv.org/abs/2610.27002) | [PDF](https://arxiv.org/pdf/2610.27002) | [候选仓库](https://github.com/Tavish9/awesome-daily-AI-arxiv) |
+| 2026-10-19 | 2026-10-19 | How to get the best and fairest performance out of your ASR system using activation steering | Felix Herron et al. | [2610.26994](https://arxiv.org/abs/2610.26994) | [PDF](https://arxiv.org/pdf/2610.26994) | [候选仓库](https://github.com/Tavish9/awesome-daily-AI-arxiv) |
+| 2026-10-19 | 2026-10-19 | Think Before You Transcribe: Context-Steered Reasoning for Hotword-Aware Speech Recognition | Qihao Wang et al. | [2610.26986](https://arxiv.org/abs/2610.26986) | [PDF](https://arxiv.org/pdf/2610.26986) | [候选仓库](https://github.com/Tavish9/awesome-daily-AI-arxiv) |
 | 2026-10-19 | 2026-10-19 | AfriBED: a Speech Recognition Bias Evaluation Dataset for Low Resource African Languages | Claytone Sikasote et al. | [2610.26821](https://arxiv.org/abs/2610.26821) | [PDF](https://arxiv.org/pdf/2610.26821) | [候选仓库](https://github.com/Tavish9/awesome-daily-AI-arxiv) |
 | 2026-10-19 | 2026-10-19 | Monsoon: Scalable Spontaneous Speech Collection for Low-Resource ASR in 50 Languages | Shobhit Banga et al. | [2610.26776](https://arxiv.org/abs/2610.26776) | [PDF](https://arxiv.org/pdf/2610.26776) | [候选仓库](https://github.com/Tavish9/awesome-daily-AI-arxiv) |
 | 2026-10-19 | 2026-10-19 | Conducting Reliable Keyword Estimation with Unreliable ASR in Police Audio Data | Robert Cole Molloy et al. | [2610.26614](https://arxiv.org/abs/2610.26614) | [PDF](https://arxiv.org/pdf/2610.26614) | [候选仓库](https://github.com/Tavish9/awesome-daily-AI-arxiv) |
@@ -34,10 +34,10 @@
 | 2026-10-18 | 2026-10-18 | Probing and Mitigating Hallucinations in Speech-augmented Language Models for Automatic Speech Recognition via Small Language Models | Bi-Cheng Yan et al. | [2610.25351](https://arxiv.org/abs/2610.25351) | [PDF](https://arxiv.org/pdf/2610.25351) | [候选仓库](https://github.com/skywuxuan/ASR-arxiv-daily) |
 | 2026-10-18 | 2026-10-18 | VoxDub: A Bilingual Lip-Synchronized Audio-Visual Dataset for Automatic Video Dubbing | Kaidi Wang et al. | [2610.25259](https://arxiv.org/abs/2610.25259) | [PDF](https://arxiv.org/pdf/2610.25259) | [候选仓库](https://github.com/iszhanjiawei/dubbing-dubber-arxiv-daily) |
 | 2026-10-18 | 2026-10-18 | Learning Speaker-Activity-Conditioned WavLM Speaker Embeddings with Real Conversational Data | Prachi Singh et al. | [2610.25183](https://arxiv.org/abs/2610.25183) | [PDF](https://arxiv.org/pdf/2610.25183) | [候选仓库](https://github.com/skywuxuan/ASR-arxiv-daily) |
-| 2026-10-17 | 2026-10-17 | ShlokaDhara: A Multi-Speaker Sanskrit Speech Corpus for Learning Meter-Aware Prosody in Text-to-Recitation | Harshal Kausadikar et al. | [2610.26929](https://arxiv.org/abs/2610.26929) | [PDF](https://arxiv.org/pdf/2610.26929) | — |
+| 2026-10-17 | 2026-10-17 | ShlokaDhara: A Multi-Speaker Sanskrit Speech Corpus for Learning Meter-Aware Prosody in Text-to-Recitation | Harshal Kausadikar et al. | [2610.26929](https://arxiv.org/abs/2610.26929) | [PDF](https://arxiv.org/pdf/2610.26929) | [候选仓库](https://github.com/iszhanjiawei/TTS_arxiv_daily) |
 | 2026-10-17 | 2026-10-17 | Dual Task Vector Merging: Leveraging Emotion and ASR Knowledge for Low-Resource Alzheimer's Disease Detection | Yuan-Chao Li et al. | [2610.24870](https://arxiv.org/abs/2610.24870) | [PDF](https://arxiv.org/pdf/2610.24870) | [候选仓库](https://github.com/skywuxuan/ASR-arxiv-daily) |
-| 2026-10-17 | 2026-10-20 | Ask, Don't Guess: Targeted Clarification for Speech Recognition Errors | Sankalp Parashar et al. | [2610.24809](https://arxiv.org/abs/2610.24809) | [PDF](https://arxiv.org/pdf/2610.24809) | — |
-| 2026-10-17 | 2026-10-17 | ASR Personalization in Pathological Voice: Accuracy, Efficiency, and Duration Effects | Giuseppe Giaimis et al. | [2610.24572](https://arxiv.org/abs/2610.24572) | [PDF](https://arxiv.org/pdf/2610.24572) | — |
+| 2026-10-17 | 2026-10-20 | Ask, Don't Guess: Targeted Clarification for Speech Recognition Errors | Sankalp Parashar et al. | [2610.24809](https://arxiv.org/abs/2610.24809) | [PDF](https://arxiv.org/pdf/2610.24809) | [候选仓库](https://github.com/Tavish9/awesome-daily-AI-arxiv) |
+| 2026-10-17 | 2026-10-17 | ASR Personalization in Pathological Voice: Accuracy, Efficiency, and Duration Effects | Giuseppe Giaimis et al. | [2610.24572](https://arxiv.org/abs/2610.24572) | [PDF](https://arxiv.org/pdf/2610.24572) | [候选仓库](https://github.com/arxivsub/arXivSub_daily_arxiv) |
 | 2026-10-16 | 2026-10-16 | Pronouncing Hard Words: Phoneme Adaptation of a Pretrained Conversational Text to Speech Model | Yashish M. Siriwardena et al. | [2610.24164](https://arxiv.org/abs/2610.24164) | [PDF](https://arxiv.org/pdf/2610.24164) | — |
 | 2026-10-16 | 2026-10-16 | Flash RNN-T: Memory-Efficient Joint Network and Transducer Loss Computation | Mahmoud Ashraf | [2610.23409](https://arxiv.org/abs/2610.23409) | [PDF](https://arxiv.org/pdf/2610.23409) | [候选仓库](https://github.com/arxivsub/arXivSub_daily_arxiv) |
 | 2026-10-16 | 2026-10-16 | Advancing Sentence-Level Dysarthric Audio-Visual Speech Recognition via Test-Time Adaptation | Shiyao Wang et al. | [2610.23117](https://arxiv.org/abs/2610.23117) | [PDF](https://arxiv.org/pdf/2610.23117) | [候选仓库](https://github.com/skywuxuan/ASR-arxiv-daily) |

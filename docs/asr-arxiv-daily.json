@@ -1,5 +1,5 @@
 {
-  "last_fetched": "2026-10-21T03:57:57+00:00",
+  "last_fetched": "2026-10-21T16:53:13+00:00",
   "topics": {
     "ASR": {
       "2609.18748": {
@@ -4327,8 +4327,9 @@
         "updated": "2026-10-20",
         "url": "https://arxiv.org/abs/2610.24809",
         "pdf_url": "https://arxiv.org/pdf/2610.24809",
-        "code_url": null,
-        "code_source": null
+        "code_url": "https://github.com/Tavish9/awesome-daily-AI-arxiv",
+        "code_source": "github_search",
+        "code_checked_at": "2026-10-21T16:53:30+00:00"
       },
       "2610.24572": {
         "title": "ASR Personalization in Pathological Voice: Accuracy, Efficiency, and Duration Effects",
@@ -4342,8 +4343,9 @@
         "updated": "2026-10-17",
         "url": "https://arxiv.org/abs/2610.24572",
         "pdf_url": "https://arxiv.org/pdf/2610.24572",
-        "code_url": null,
-        "code_source": null
+        "code_url": "https://github.com/arxivsub/arXivSub_daily_arxiv",
+        "code_source": "github_search",
+        "code_checked_at": "2026-10-21T16:53:32+00:00"
       },
       "2610.24164": {
         "title": "Pronouncing Hard Words: Phoneme Adaptation of a Pretrained Conversational Text to Speech Model",
@@ -4378,9 +4380,9 @@
         "updated": "2026-10-20",
         "url": "https://arxiv.org/abs/2610.28035",
         "pdf_url": "https://arxiv.org/pdf/2610.28035",
-        "code_url": null,
-        "code_source": null,
-        "code_checked_at": "2026-10-21T03:57:58+00:00"
+        "code_url": "https://github.com/liutaocode/TTS-arxiv-daily",
+        "code_source": "github_search",
+        "code_checked_at": "2026-10-21T16:53:13+00:00"
       },
       "2610.27867": {
         "title": "VISH-ASR: Viterbi-Guided Selection of Hotwords for Speech-LLM Contextual ASR",
@@ -4397,9 +4399,9 @@
         "updated": "2026-10-20",
         "url": "https://arxiv.org/abs/2610.27867",
         "pdf_url": "https://arxiv.org/pdf/2610.27867",
-        "code_url": null,
-        "code_source": null,
-        "code_checked_at": "2026-10-21T03:57:59+00:00"
+        "code_url": "https://github.com/skywuxuan/ASR-arxiv-daily",
+        "code_source": "github_search",
+        "code_checked_at": "2026-10-21T16:53:15+00:00"
       },
       "2610.27820": {
         "title": "SMART: Semantic Segment Mapping and Assessment of Recognition Transcripts with Contextual Rubrics",
@@ -4433,9 +4435,9 @@
         "updated": "2026-10-20",
         "url": "https://arxiv.org/abs/2610.27678",
         "pdf_url": "https://arxiv.org/pdf/2610.27678",
-        "code_url": null,
-        "code_source": null,
-        "code_checked_at": "2026-10-21T03:58:04+00:00"
+        "code_url": "https://github.com/skywuxuan/ASR-arxiv-daily",
+        "code_source": "github_search",
+        "code_checked_at": "2026-10-21T16:53:17+00:00"
       },
       "2610.27200": {
         "title": "Preference-Aware Pareto Steering for Multi-Task Speech LLMs",
@@ -4452,9 +4454,9 @@
         "updated": "2026-10-19",
         "url": "https://arxiv.org/abs/2610.27200",
         "pdf_url": "https://arxiv.org/pdf/2610.27200",
-        "code_url": null,
-        "code_source": null,
-        "code_checked_at": "2026-10-21T03:58:06+00:00"
+        "code_url": "https://github.com/skywuxuan/ASR-arxiv-daily",
+        "code_source": "github_search",
+        "code_checked_at": "2026-10-21T16:53:19+00:00"
       },
       "2610.27002": {
         "title": "Evaluating Tibetan Speech Recognition Across Dialects and Adaptation Regimes: A Multi-Granularity Analysis",
@@ -4466,9 +4468,9 @@
         "updated": "2026-10-19",
         "url": "https://arxiv.org/abs/2610.27002",
         "pdf_url": "https://arxiv.org/pdf/2610.27002",
-        "code_url": null,
-        "code_source": null,
-        "code_checked_at": "2026-10-21T03:58:08+00:00"
+        "code_url": "https://github.com/Tavish9/awesome-daily-AI-arxiv",
+        "code_source": "github_search",
+        "code_checked_at": "2026-10-21T16:53:21+00:00"
       },
       "2610.26994": {
         "title": "How to get the best and fairest performance out of your ASR system using activation steering",
@@ -4484,9 +4486,9 @@
         "updated": "2026-10-19",
         "url": "https://arxiv.org/abs/2610.26994",
         "pdf_url": "https://arxiv.org/pdf/2610.26994",
-        "code_url": null,
-        "code_source": null,
-        "code_checked_at": "2026-10-21T03:58:10+00:00"
+        "code_url": "https://github.com/Tavish9/awesome-daily-AI-arxiv",
+        "code_source": "github_search",
+        "code_checked_at": "2026-10-21T16:53:23+00:00"
       },
       "2610.26986": {
         "title": "Think Before You Transcribe: Context-Steered Reasoning for Hotword-Aware Speech Recognition",
@@ -4502,9 +4504,9 @@
         "updated": "2026-10-19",
         "url": "https://arxiv.org/abs/2610.26986",
         "pdf_url": "https://arxiv.org/pdf/2610.26986",
-        "code_url": null,
-        "code_source": null,
-        "code_checked_at": "2026-10-21T03:58:12+00:00"
+        "code_url": "https://github.com/Tavish9/awesome-daily-AI-arxiv",
+        "code_source": "github_search",
+        "code_checked_at": "2026-10-21T16:53:25+00:00"
       },
       "2610.26929": {
         "title": "ShlokaDhara: A Multi-Speaker Sanskrit Speech Corpus for Learning Meter-Aware Prosody in Text-to-Recitation",
@@ -4520,9 +4522,9 @@
         "updated": "2026-10-17",
         "url": "https://arxiv.org/abs/2610.26929",
         "pdf_url": "https://arxiv.org/pdf/2610.26929",
-        "code_url": null,
-        "code_source": null,
-        "code_checked_at": "2026-10-21T03:58:14+00:00"
+        "code_url": "https://github.com/iszhanjiawei/TTS_arxiv_daily",
+        "code_source": "github_search",
+        "code_checked_at": "2026-10-21T16:53:28+00:00"
       },
       "2610.26888": {
         "title": "Mixture of Phonetic Experts Based Low-Rank Adaptation of Conformer Models for Accented English Speech Recognition",
