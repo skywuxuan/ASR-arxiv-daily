@@ -1,5 +1,5 @@
 {
-  "last_fetched": "2026-10-20T16:35:23+00:00",
+  "last_fetched": "2026-10-21T03:57:57+00:00",
   "topics": {
     "ASR": {
       "2609.18748": {
@@ -3931,7 +3931,7 @@
           "David Ifeoluwa Adelani"
         ],
         "published": "2026-10-14",
-        "updated": "2026-10-14",
+        "updated": "2026-10-19",
         "url": "https://arxiv.org/abs/2610.19388",
         "pdf_url": "https://arxiv.org/pdf/2610.19388",
         "code_url": "https://github.com/arxivsub/arXivSub_daily_arxiv",
@@ -4192,10 +4192,13 @@
           "Yurun Li",
           "Jingyi Wang",
           "Zhonghua Fu",
+          "Shuai Wang",
+          "Liumeng Xue",
+          "Bengu Wu",
           "Lei Xie"
         ],
         "published": "2026-10-19",
-        "updated": "2026-10-19",
+        "updated": "2026-10-20",
         "url": "https://arxiv.org/abs/2610.25824",
         "pdf_url": "https://arxiv.org/pdf/2610.25824",
         "code_url": "https://github.com/skywuxuan/ASR-arxiv-daily",
@@ -4309,8 +4312,9 @@
         "updated": "2026-10-17",
         "url": "https://arxiv.org/abs/2610.24870",
         "pdf_url": "https://arxiv.org/pdf/2610.24870",
-        "code_url": null,
-        "code_source": null
+        "code_url": "https://github.com/skywuxuan/ASR-arxiv-daily",
+        "code_source": "github_search",
+        "code_checked_at": "2026-10-21T03:58:16+00:00"
       },
       "2610.24809": {
         "title": "Ask, Don't Guess: Targeted Clarification for Speech Recognition Errors",
@@ -4320,7 +4324,7 @@
           "Sunita Sarawagi"
         ],
         "published": "2026-10-17",
-        "updated": "2026-10-17",
+        "updated": "2026-10-20",
         "url": "https://arxiv.org/abs/2610.24809",
         "pdf_url": "https://arxiv.org/pdf/2610.24809",
         "code_url": null,
@@ -4355,6 +4359,184 @@
         "updated": "2026-10-16",
         "url": "https://arxiv.org/abs/2610.24164",
         "pdf_url": "https://arxiv.org/pdf/2610.24164",
+        "code_url": null,
+        "code_source": null
+      },
+      "2610.28035": {
+        "title": "LoCA: Local Credit Assignment for Reinforcement Learning of Autoregressive Flow-Matching TTS",
+        "authors": [
+          "Jie Liu",
+          "Junyu Zhou",
+          "Junhao Zhong",
+          "WeiSen Tang",
+          "Rukai Cai",
+          "Haoyue Zhan",
+          "Ruiqi Xing",
+          "Ling Long"
+        ],
+        "published": "2026-10-20",
+        "updated": "2026-10-20",
+        "url": "https://arxiv.org/abs/2610.28035",
+        "pdf_url": "https://arxiv.org/pdf/2610.28035",
+        "code_url": null,
+        "code_source": null,
+        "code_checked_at": "2026-10-21T03:57:58+00:00"
+      },
+      "2610.27867": {
+        "title": "VISH-ASR: Viterbi-Guided Selection of Hotwords for Speech-LLM Contextual ASR",
+        "authors": [
+          "Xiaoyu Gu",
+          "Yu Xi",
+          "Chencheng Wang",
+          "Zonghan Zhou",
+          "Haoyu Li",
+          "Jing Peng",
+          "Kai Yu"
+        ],
+        "published": "2026-10-20",
+        "updated": "2026-10-20",
+        "url": "https://arxiv.org/abs/2610.27867",
+        "pdf_url": "https://arxiv.org/pdf/2610.27867",
+        "code_url": null,
+        "code_source": null,
+        "code_checked_at": "2026-10-21T03:57:59+00:00"
+      },
+      "2610.27820": {
+        "title": "SMART: Semantic Segment Mapping and Assessment of Recognition Transcripts with Contextual Rubrics",
+        "authors": [
+          "Xiaoyu Gu",
+          "Chencheng Wang",
+          "Fuyang Li",
+          "Yu Xi",
+          "Tao Liu",
+          "Jiaoqi Guo",
+          "Kai Yu"
+        ],
+        "published": "2026-10-20",
+        "updated": "2026-10-20",
+        "url": "https://arxiv.org/abs/2610.27820",
+        "pdf_url": "https://arxiv.org/pdf/2610.27820",
+        "code_url": "https://github.com/ZhuYingJessica/cv-daily",
+        "code_source": "github_search",
+        "code_checked_at": "2026-10-21T03:58:02+00:00"
+      },
+      "2610.27678": {
+        "title": "PhonoBridge: Error-Aware Phoneme-Mediated EMG-to-Text Reconstruction",
+        "authors": [
+          "Wen Qiu",
+          "Jiacheng Zhang",
+          "Xuanda Chen",
+          "Siqi Cai",
+          "Haizhou Li"
+        ],
+        "published": "2026-10-20",
+        "updated": "2026-10-20",
+        "url": "https://arxiv.org/abs/2610.27678",
+        "pdf_url": "https://arxiv.org/pdf/2610.27678",
+        "code_url": null,
+        "code_source": null,
+        "code_checked_at": "2026-10-21T03:58:04+00:00"
+      },
+      "2610.27200": {
+        "title": "Preference-Aware Pareto Steering for Multi-Task Speech LLMs",
+        "authors": [
+          "Liuyuan Jiang",
+          "Vishal Sunder",
+          "Samuel Thomas",
+          "Brian Kingsbury",
+          "Jeff Kuo",
+          "Lisha Chen",
+          "George Saon"
+        ],
+        "published": "2026-10-19",
+        "updated": "2026-10-19",
+        "url": "https://arxiv.org/abs/2610.27200",
+        "pdf_url": "https://arxiv.org/pdf/2610.27200",
+        "code_url": null,
+        "code_source": null,
+        "code_checked_at": "2026-10-21T03:58:06+00:00"
+      },
+      "2610.27002": {
+        "title": "Evaluating Tibetan Speech Recognition Across Dialects and Adaptation Regimes: A Multi-Granularity Analysis",
+        "authors": [
+          "Jacob Moore",
+          "Sheng Li"
+        ],
+        "published": "2026-10-19",
+        "updated": "2026-10-19",
+        "url": "https://arxiv.org/abs/2610.27002",
+        "pdf_url": "https://arxiv.org/pdf/2610.27002",
+        "code_url": null,
+        "code_source": null,
+        "code_checked_at": "2026-10-21T03:58:08+00:00"
+      },
+      "2610.26994": {
+        "title": "How to get the best and fairest performance out of your ASR system using activation steering",
+        "authors": [
+          "Felix Herron",
+          "Alex Colagrande",
+          "Solange Rossato",
+          "François Portet",
+          "Alexandre Allauzen",
+          "Chuyuan Li"
+        ],
+        "published": "2026-10-19",
+        "updated": "2026-10-19",
+        "url": "https://arxiv.org/abs/2610.26994",
+        "pdf_url": "https://arxiv.org/pdf/2610.26994",
+        "code_url": null,
+        "code_source": null,
+        "code_checked_at": "2026-10-21T03:58:10+00:00"
+      },
+      "2610.26986": {
+        "title": "Think Before You Transcribe: Context-Steered Reasoning for Hotword-Aware Speech Recognition",
+        "authors": [
+          "Qihao Wang",
+          "Hang Su",
+          "Fan Cui",
+          "Lichun Fan",
+          "Jian Luan",
+          "Yue Hu"
+        ],
+        "published": "2026-10-19",
+        "updated": "2026-10-19",
+        "url": "https://arxiv.org/abs/2610.26986",
+        "pdf_url": "https://arxiv.org/pdf/2610.26986",
+        "code_url": null,
+        "code_source": null,
+        "code_checked_at": "2026-10-21T03:58:12+00:00"
+      },
+      "2610.26929": {
+        "title": "ShlokaDhara: A Multi-Speaker Sanskrit Speech Corpus for Learning Meter-Aware Prosody in Text-to-Recitation",
+        "authors": [
+          "Harshal Kausadikar",
+          "Onkar Kishor Susladkar",
+          "Prathmesh Santosh Choudhari",
+          "Vedangi Deepak Deshpande",
+          "Ismini Lorentzu",
+          "Sparsh Mittal"
+        ],
+        "published": "2026-10-17",
+        "updated": "2026-10-17",
+        "url": "https://arxiv.org/abs/2610.26929",
+        "pdf_url": "https://arxiv.org/pdf/2610.26929",
+        "code_url": null,
+        "code_source": null,
+        "code_checked_at": "2026-10-21T03:58:14+00:00"
+      },
+      "2610.26888": {
+        "title": "Mixture of Phonetic Experts Based Low-Rank Adaptation of Conformer Models for Accented English Speech Recognition",
+        "authors": [
+          "Santosh Dahal",
+          "Anmol Guragain",
+          "Tianchi Liu",
+          "Luis Fernando D'Haro",
+          "Kiran Chandra Dahal"
+        ],
+        "published": "2026-10-13",
+        "updated": "2026-10-13",
+        "url": "https://arxiv.org/abs/2610.26888",
+        "pdf_url": "https://arxiv.org/pdf/2610.26888",
         "code_url": null,
         "code_source": null
       }
