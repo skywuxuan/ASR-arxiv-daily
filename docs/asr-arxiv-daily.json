@@ -1,5 +1,5 @@
 {
-  "last_fetched": "2026-10-23T04:01:50+00:00",
+  "last_fetched": "2026-10-23T16:44:52+00:00",
   "topics": {
     "ASR": {
       "2609.18748": {
@@ -4361,8 +4361,9 @@
         "updated": "2026-10-16",
         "url": "https://arxiv.org/abs/2610.24164",
         "pdf_url": "https://arxiv.org/pdf/2610.24164",
-        "code_url": null,
-        "code_source": null
+        "code_url": "https://github.com/liutaocode/TTS-arxiv-daily",
+        "code_source": "github_search",
+        "code_checked_at": "2026-10-23T16:45:05+00:00"
       },
       "2610.28035": {
         "title": "LoCA: Local Credit Assignment for Reinforcement Learning of Autoregressive Flow-Matching TTS",
@@ -4539,8 +4540,9 @@
         "updated": "2026-10-13",
         "url": "https://arxiv.org/abs/2610.26888",
         "pdf_url": "https://arxiv.org/pdf/2610.26888",
-        "code_url": null,
-        "code_source": null
+        "code_url": "https://github.com/skywuxuan/ASR-arxiv-daily",
+        "code_source": "github_search",
+        "code_checked_at": "2026-10-23T16:45:07+00:00"
       },
       "2610.31470": {
         "title": "Measuring the Verifier's Floor: How Much Apparent Rare-Word Text-to-Speech Error Is ASR Error?",
@@ -4571,9 +4573,9 @@
         "updated": "2026-10-22",
         "url": "https://arxiv.org/abs/2610.31415",
         "pdf_url": "https://arxiv.org/pdf/2610.31415",
-        "code_url": null,
-        "code_source": null,
-        "code_checked_at": "2026-10-23T04:01:53+00:00"
+        "code_url": "https://github.com/Tavish9/awesome-daily-AI-arxiv",
+        "code_source": "github_search",
+        "code_checked_at": "2026-10-23T16:44:52+00:00"
       },
       "2610.31292": {
         "title": "Spark-Audio 1.0 Technical Report",
@@ -4664,9 +4666,9 @@
         "updated": "2026-10-22",
         "url": "https://arxiv.org/abs/2610.31259",
         "pdf_url": "https://arxiv.org/pdf/2610.31259",
-        "code_url": null,
-        "code_source": null,
-        "code_checked_at": "2026-10-23T04:01:57+00:00"
+        "code_url": "https://github.com/Tavish9/awesome-daily-AI-arxiv",
+        "code_source": "github_search",
+        "code_checked_at": "2026-10-23T16:44:54+00:00"
       },
       "2610.30872": {
         "title": "Lip-Focused Audio-Visual Consistency Detects Speech Content Manipulation beyond Coarse Synchronization",
@@ -4685,9 +4687,9 @@
         "updated": "2026-10-22",
         "url": "https://arxiv.org/abs/2610.30872",
         "pdf_url": "https://arxiv.org/pdf/2610.30872",
-        "code_url": null,
-        "code_source": null,
-        "code_checked_at": "2026-10-23T04:01:59+00:00"
+        "code_url": "https://github.com/skywuxuan/ASR-arxiv-daily",
+        "code_source": "github_search",
+        "code_checked_at": "2026-10-23T16:44:57+00:00"
       },
       "2610.30860": {
         "title": "Synthetic-to-Real Code-Switched ASR: A Spontaneous Nepali-English Podcast Benchmark",
@@ -4713,9 +4715,9 @@
         "updated": "2026-10-22",
         "url": "https://arxiv.org/abs/2610.30663",
         "pdf_url": "https://arxiv.org/pdf/2610.30663",
-        "code_url": null,
-        "code_source": null,
-        "code_checked_at": "2026-10-23T04:02:01+00:00"
+        "code_url": "https://github.com/Tavish9/awesome-daily-AI-arxiv",
+        "code_source": "github_search",
+        "code_checked_at": "2026-10-23T16:44:59+00:00"
       },
       "2610.30385": {
         "title": "Text-Only LLM Correctors Break Correct Transcripts: A Repair-Damage Analysis of Audio Grounding in ASR Error Correction",
@@ -4730,9 +4732,9 @@
         "updated": "2026-10-21",
         "url": "https://arxiv.org/abs/2610.30385",
         "pdf_url": "https://arxiv.org/pdf/2610.30385",
-        "code_url": null,
-        "code_source": null,
-        "code_checked_at": "2026-10-23T04:02:03+00:00"
+        "code_url": "https://github.com/skywuxuan/ASR-arxiv-daily",
+        "code_source": "github_search",
+        "code_checked_at": "2026-10-23T16:45:01+00:00"
       },
       "2610.29720": {
         "title": "Bio-Inspired Auditory Processing: Coupling Parallel Resonate-and-Fire Dynamics with Ternary Recurrent Networks for Speech Recognition",
@@ -4863,8 +4865,9 @@
         "updated": "2026-10-20",
         "url": "https://arxiv.org/abs/2610.28711",
         "pdf_url": "https://arxiv.org/pdf/2610.28711",
-        "code_url": null,
-        "code_source": null
+        "code_url": "https://github.com/arxivsub/arXivSub_daily_arxiv",
+        "code_source": "github_search",
+        "code_checked_at": "2026-10-23T16:45:03+00:00"
       },
       "2610.28673": {
         "title": "How Far Can the Gemma 4 Speech Encoder Go Without Changing Its Weights? Saudi and Gulf Arabic Speech Recognition with a Frozen and an Adapter-Augmented Encoder",
