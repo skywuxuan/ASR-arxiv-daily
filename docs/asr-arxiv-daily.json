@@ -1,5 +1,5 @@
 {
-  "last_fetched": "2026-10-25T15:48:40+00:00",
+  "last_fetched": "2026-10-26T03:59:45+00:00",
   "topics": {
     "ASR": {
       "2609.18748": {
@@ -4745,7 +4745,7 @@
           "Costas A. Anastassiou"
         ],
         "published": "2026-10-21",
-        "updated": "2026-10-21",
+        "updated": "2026-10-22",
         "url": "https://arxiv.org/abs/2610.29720",
         "pdf_url": "https://arxiv.org/pdf/2610.29720",
         "code_url": "https://github.com/doublepoints/cv-arxiv-daily",
@@ -4880,6 +4880,102 @@
         "pdf_url": "https://arxiv.org/pdf/2610.28673",
         "code_url": "https://github.com/AmrKhalil9/frozen-embeddinggemma2-arabic-asr",
         "code_source": "paper"
+      },
+      "2610.32572": {
+        "title": "Pseudo-Labels as Rewards, Not Targets: Group-Relative Policy Optimization for Semi-Supervised ASR",
+        "authors": [
+          "Shashi Kumar",
+          "Yanis Labrak",
+          "Sergio Burdisso",
+          "Esaú Villatoro-Tello",
+          "Petr Motlicek",
+          "Kadri Hacioglu",
+          "Andreas Stolcke"
+        ],
+        "published": "2026-10-23",
+        "updated": "2026-10-23",
+        "url": "https://arxiv.org/abs/2610.32572",
+        "pdf_url": "https://arxiv.org/pdf/2610.32572",
+        "code_url": null,
+        "code_source": null,
+        "code_checked_at": "2026-10-26T03:59:45+00:00"
+      },
+      "2610.32382": {
+        "title": "Acoustic and Lexical Signals for Native Language Identification of Language Learners",
+        "authors": [
+          "Ahmet Yavuz Uluslu",
+          "Mengjie Qian",
+          "Kate Knill",
+          "Mark Gales"
+        ],
+        "published": "2026-10-23",
+        "updated": "2026-10-23",
+        "url": "https://arxiv.org/abs/2610.32382",
+        "pdf_url": "https://arxiv.org/pdf/2610.32382",
+        "code_url": null,
+        "code_source": null,
+        "code_checked_at": "2026-10-26T03:59:47+00:00"
+      },
+      "2610.32198": {
+        "title": "SURE-Tagger: Structured Speech Representations for Compositional Evaluation and Targeted Data Selection",
+        "authors": [
+          "Jing Peng",
+          "Huifei Wang",
+          "Weihan Chen",
+          "Shuo Gao",
+          "Bicheng Zhang",
+          "Junhao Du",
+          "Hanqi Li",
+          "Chaolei Liu",
+          "Wen Wen",
+          "Tao Liu",
+          "Xu Li",
+          "Yu Xi",
+          "Shuai Wang",
+          "Kai Yu"
+        ],
+        "published": "2026-10-23",
+        "updated": "2026-10-23",
+        "url": "https://arxiv.org/abs/2610.32198",
+        "pdf_url": "https://arxiv.org/pdf/2610.32198",
+        "code_url": "https://github.com/PigeonDan1/sure-tagger",
+        "code_source": "paper"
+      },
+      "2610.32187": {
+        "title": "Uni-Stream: A Unified Streaming Speech Language Model for Speech Synthesis and Recognition",
+        "authors": [
+          "Xuan Shi",
+          "Chang Zeng",
+          "Tiantian Feng",
+          "Ye Zhang",
+          "Jun Liu",
+          "Shih-Heng Wang",
+          "Lie Lu",
+          "Shrikanth Narayanan"
+        ],
+        "published": "2026-10-23",
+        "updated": "2026-10-23",
+        "url": "https://arxiv.org/abs/2610.32187",
+        "pdf_url": "https://arxiv.org/pdf/2610.32187",
+        "code_url": "https://github.com/liutaocode/TTS-arxiv-daily",
+        "code_source": "github_search",
+        "code_checked_at": "2026-10-26T03:59:49+00:00"
+      },
+      "2610.32042": {
+        "title": "X-Dubbing: Speech-to-Speech Translation under Temporal and Visual Constraints",
+        "authors": [
+          "Jeongsoo Choi",
+          "Ji-Hoon Kim",
+          "Junseok Ahn",
+          "Joon Son Chung"
+        ],
+        "published": "2026-10-23",
+        "updated": "2026-10-23",
+        "url": "https://arxiv.org/abs/2610.32042",
+        "pdf_url": "https://arxiv.org/pdf/2610.32042",
+        "code_url": "https://github.com/liutaocode/TTS-arxiv-daily",
+        "code_source": "github_search",
+        "code_checked_at": "2026-10-26T03:59:51+00:00"
       }
     }
   }
