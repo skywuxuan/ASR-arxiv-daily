@@ -1,5 +1,5 @@
 {
-  "last_fetched": "2026-10-26T03:59:45+00:00",
+  "last_fetched": "2026-10-27T17:44:13+00:00",
   "topics": {
     "ASR": {
       "2609.18748": {
@@ -4190,15 +4190,23 @@
           "Zheng Zi",
           "Bingshen Mu",
           "Yurun Li",
+          "Chengyou Wang",
           "Jingyi Wang",
           "Zhonghua Fu",
           "Shuai Wang",
           "Liumeng Xue",
           "Bengu Wu",
+          "Hui Bu",
+          "Xin Xu",
+          "Zhou Zhu",
+          "Qiangze Feng",
+          "Daliang Wang",
+          "Lei Luo",
+          "Qingqing Zhang",
           "Lei Xie"
         ],
         "published": "2026-10-19",
-        "updated": "2026-10-20",
+        "updated": "2026-10-26",
         "url": "https://arxiv.org/abs/2610.25824",
         "pdf_url": "https://arxiv.org/pdf/2610.25824",
         "code_url": "https://github.com/skywuxuan/ASR-arxiv-daily",
@@ -4896,9 +4904,9 @@
         "updated": "2026-10-23",
         "url": "https://arxiv.org/abs/2610.32572",
         "pdf_url": "https://arxiv.org/pdf/2610.32572",
-        "code_url": null,
-        "code_source": null,
-        "code_checked_at": "2026-10-26T03:59:45+00:00"
+        "code_url": "https://github.com/skywuxuan/ASR-arxiv-daily",
+        "code_source": "github_search",
+        "code_checked_at": "2026-10-27T17:44:22+00:00"
       },
       "2610.32382": {
         "title": "Acoustic and Lexical Signals for Native Language Identification of Language Learners",
@@ -4912,9 +4920,9 @@
         "updated": "2026-10-23",
         "url": "https://arxiv.org/abs/2610.32382",
         "pdf_url": "https://arxiv.org/pdf/2610.32382",
-        "code_url": null,
-        "code_source": null,
-        "code_checked_at": "2026-10-26T03:59:47+00:00"
+        "code_url": "https://github.com/skywuxuan/ASR-arxiv-daily",
+        "code_source": "github_search",
+        "code_checked_at": "2026-10-27T17:44:24+00:00"
       },
       "2610.32198": {
         "title": "SURE-Tagger: Structured Speech Representations for Compositional Evaluation and Targeted Data Selection",
@@ -4935,7 +4943,7 @@
           "Kai Yu"
         ],
         "published": "2026-10-23",
-        "updated": "2026-10-23",
+        "updated": "2026-10-26",
         "url": "https://arxiv.org/abs/2610.32198",
         "pdf_url": "https://arxiv.org/pdf/2610.32198",
         "code_url": "https://github.com/PigeonDan1/sure-tagger",
@@ -4976,6 +4984,88 @@
         "code_url": "https://github.com/liutaocode/TTS-arxiv-daily",
         "code_source": "github_search",
         "code_checked_at": "2026-10-26T03:59:51+00:00"
+      },
+      "2610.35846": {
+        "title": "Preserve to Expand: Source-Aware Adaptation and Model Merging for Multilingual LLM-Based ASR",
+        "authors": [
+          "Yuchen Zhang",
+          "Haralambos Mouratidis",
+          "Ravi Shekhar"
+        ],
+        "published": "2026-10-26",
+        "updated": "2026-10-26",
+        "url": "https://arxiv.org/abs/2610.35846",
+        "pdf_url": "https://arxiv.org/pdf/2610.35846",
+        "code_url": "https://github.com/Tavish9/awesome-daily-AI-arxiv",
+        "code_source": "github_search",
+        "code_checked_at": "2026-10-27T17:44:14+00:00"
+      },
+      "2610.34623": {
+        "title": "One Mean Log-Mel Vector per Phoneme: Simple and Fast Text Injection for Speech Recognition",
+        "authors": [
+          "Albert Zeyer",
+          "Davyd Naveriani",
+          "Dorian Koch",
+          "Ralf Schlüter",
+          "Hermann Ney"
+        ],
+        "published": "2026-10-25",
+        "updated": "2026-10-25",
+        "url": "https://arxiv.org/abs/2610.34623",
+        "pdf_url": "https://arxiv.org/pdf/2610.34623",
+        "code_url": "https://github.com/liutaocode/TTS-arxiv-daily",
+        "code_source": "github_search",
+        "code_checked_at": "2026-10-27T17:44:16+00:00"
+      },
+      "2610.34156": {
+        "title": "ASR-Protected Fusion and Reference-Anchored Policy Optimization for Joint ASR and Word-Level Speech Anti-Spoofing",
+        "authors": [
+          "Xueping Zhang",
+          "Xiaoxiao Miao",
+          "Tiantian Feng",
+          "Ming Li"
+        ],
+        "published": "2026-10-25",
+        "updated": "2026-10-25",
+        "url": "https://arxiv.org/abs/2610.34156",
+        "pdf_url": "https://arxiv.org/pdf/2610.34156",
+        "code_url": null,
+        "code_source": null,
+        "code_checked_at": "2026-10-27T17:44:18+00:00"
+      },
+      "2610.33765": {
+        "title": "RoleHear: Pseudo-Labeling for Semi-Supervised Role-Attributed Streaming Speech Recognition",
+        "authors": [
+          "Zefang Liu",
+          "Chenyang Zhu",
+          "Sangwoo Cho",
+          "Xujun Peng",
+          "Rongqing Huang",
+          "Shi-Xiong Zhang",
+          "Sambit Sahu"
+        ],
+        "published": "2026-10-24",
+        "updated": "2026-10-24",
+        "url": "https://arxiv.org/abs/2610.33765",
+        "pdf_url": "https://arxiv.org/pdf/2610.33765",
+        "code_url": null,
+        "code_source": null,
+        "code_checked_at": "2026-10-27T17:44:20+00:00"
+      },
+      "2610.33043": {
+        "title": "A Multimodal Framework for Measuring Creator Communication on Short-Form Video",
+        "authors": [
+          "Julie R. Ancis",
+          "Michael Fire",
+          "Omer Tarshish"
+        ],
+        "published": "2026-10-16",
+        "updated": "2026-10-16",
+        "url": "https://arxiv.org/abs/2610.33043",
+        "pdf_url": "https://arxiv.org/pdf/2610.33043",
+        "code_url": "https://github.com/iszhanjiawei/video-to-audio-arxiv-daily",
+        "code_source": "github_search",
+        "code_checked_at": "2026-10-27T17:44:26+00:00"
       }
     }
   }

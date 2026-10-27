@@ -4,7 +4,7 @@
 
 [使用与部署说明](./docs/README.md#usage)
 
-> 最近成功抓取：2026-10-26T03:59:45+00:00（UTC）
+> 最近成功抓取：2026-10-27T17:44:13+00:00（UTC）
 
 每 12 小时检索一次，按首次提交日期倒序排列，历史论文会持续保留。
 
@@ -14,9 +14,13 @@
 
 | 首次提交 | 更新日期 | 标题 | 作者 | arXiv | PDF | 代码 |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-10-23 | 2026-10-23 | Pseudo-Labels as Rewards, Not Targets: Group-Relative Policy Optimization for Semi-Supervised ASR | Shashi Kumar et al. | [2610.32572](https://arxiv.org/abs/2610.32572) | [PDF](https://arxiv.org/pdf/2610.32572) | — |
-| 2026-10-23 | 2026-10-23 | Acoustic and Lexical Signals for Native Language Identification of Language Learners | Ahmet Yavuz Uluslu et al. | [2610.32382](https://arxiv.org/abs/2610.32382) | [PDF](https://arxiv.org/pdf/2610.32382) | — |
-| 2026-10-23 | 2026-10-23 | SURE-Tagger: Structured Speech Representations for Compositional Evaluation and Targeted Data Selection | Jing Peng et al. | [2610.32198](https://arxiv.org/abs/2610.32198) | [PDF](https://arxiv.org/pdf/2610.32198) | [论文链接](https://github.com/PigeonDan1/sure-tagger) |
+| 2026-10-26 | 2026-10-26 | Preserve to Expand: Source-Aware Adaptation and Model Merging for Multilingual LLM-Based ASR | Yuchen Zhang et al. | [2610.35846](https://arxiv.org/abs/2610.35846) | [PDF](https://arxiv.org/pdf/2610.35846) | [候选仓库](https://github.com/Tavish9/awesome-daily-AI-arxiv) |
+| 2026-10-25 | 2026-10-25 | One Mean Log-Mel Vector per Phoneme: Simple and Fast Text Injection for Speech Recognition | Albert Zeyer et al. | [2610.34623](https://arxiv.org/abs/2610.34623) | [PDF](https://arxiv.org/pdf/2610.34623) | [候选仓库](https://github.com/liutaocode/TTS-arxiv-daily) |
+| 2026-10-25 | 2026-10-25 | ASR-Protected Fusion and Reference-Anchored Policy Optimization for Joint ASR and Word-Level Speech Anti-Spoofing | Xueping Zhang et al. | [2610.34156](https://arxiv.org/abs/2610.34156) | [PDF](https://arxiv.org/pdf/2610.34156) | — |
+| 2026-10-24 | 2026-10-24 | RoleHear: Pseudo-Labeling for Semi-Supervised Role-Attributed Streaming Speech Recognition | Zefang Liu et al. | [2610.33765](https://arxiv.org/abs/2610.33765) | [PDF](https://arxiv.org/pdf/2610.33765) | — |
+| 2026-10-23 | 2026-10-23 | Pseudo-Labels as Rewards, Not Targets: Group-Relative Policy Optimization for Semi-Supervised ASR | Shashi Kumar et al. | [2610.32572](https://arxiv.org/abs/2610.32572) | [PDF](https://arxiv.org/pdf/2610.32572) | [候选仓库](https://github.com/skywuxuan/ASR-arxiv-daily) |
+| 2026-10-23 | 2026-10-23 | Acoustic and Lexical Signals for Native Language Identification of Language Learners | Ahmet Yavuz Uluslu et al. | [2610.32382](https://arxiv.org/abs/2610.32382) | [PDF](https://arxiv.org/pdf/2610.32382) | [候选仓库](https://github.com/skywuxuan/ASR-arxiv-daily) |
+| 2026-10-23 | 2026-10-26 | SURE-Tagger: Structured Speech Representations for Compositional Evaluation and Targeted Data Selection | Jing Peng et al. | [2610.32198](https://arxiv.org/abs/2610.32198) | [PDF](https://arxiv.org/pdf/2610.32198) | [论文链接](https://github.com/PigeonDan1/sure-tagger) |
 | 2026-10-23 | 2026-10-23 | Uni-Stream: A Unified Streaming Speech Language Model for Speech Synthesis and Recognition | Xuan Shi et al. | [2610.32187](https://arxiv.org/abs/2610.32187) | [PDF](https://arxiv.org/pdf/2610.32187) | [候选仓库](https://github.com/liutaocode/TTS-arxiv-daily) |
 | 2026-10-23 | 2026-10-23 | X-Dubbing: Speech-to-Speech Translation under Temporal and Visual Constraints | Jeongsoo Choi et al. | [2610.32042](https://arxiv.org/abs/2610.32042) | [PDF](https://arxiv.org/pdf/2610.32042) | [候选仓库](https://github.com/liutaocode/TTS-arxiv-daily) |
 | 2026-10-22 | 2026-10-22 | Measuring the Verifier's Floor: How Much Apparent Rare-Word Text-to-Speech Error Is ASR Error? | Kirill Borodin et al. | [2610.31470](https://arxiv.org/abs/2610.31470) | [PDF](https://arxiv.org/pdf/2610.31470) | [候选仓库](https://github.com/iszhanjiawei/TTS_arxiv_daily) |
@@ -46,7 +50,7 @@
 | 2026-10-19 | 2026-10-19 | TeleASR-Amharic: A Benchmark for Robust Amharic ASR in Realistic Telecommunication Conditions | Dagnachew Mekonnen Marilign et al. | [2610.26448](https://arxiv.org/abs/2610.26448) | [PDF](https://arxiv.org/pdf/2610.26448) | [候选仓库](https://github.com/skywuxuan/ASR-arxiv-daily) |
 | 2026-10-19 | 2026-10-19 | AudioScorer: Learning Question-Aware Token Relevance for Large Audio Language Models | Marwan Farag et al. | [2610.26258](https://arxiv.org/abs/2610.26258) | [PDF](https://arxiv.org/pdf/2610.26258) | [候选仓库](https://github.com/skywuxuan/ASR-arxiv-daily) |
 | 2026-10-19 | 2026-10-19 | Multilingual Voicemail and Answering Machine Detection via Pretrained Audio Embeddings and Gradient Boosting Machines | Kemal Altwlkany et al. | [2610.26100](https://arxiv.org/abs/2610.26100) | [PDF](https://arxiv.org/pdf/2610.26100) | [候选仓库](https://github.com/skywuxuan/ASR-arxiv-daily) |
-| 2026-10-19 | 2026-10-20 | MS-Bench: A Condition-Stratified Multi-Speaker ASR Benchmark | Chunjiang He et al. | [2610.25824](https://arxiv.org/abs/2610.25824) | [PDF](https://arxiv.org/pdf/2610.25824) | [候选仓库](https://github.com/skywuxuan/ASR-arxiv-daily) |
+| 2026-10-19 | 2026-10-26 | MS-Bench: A Condition-Stratified Multi-Speaker ASR Benchmark | Chunjiang He et al. | [2610.25824](https://arxiv.org/abs/2610.25824) | [PDF](https://arxiv.org/pdf/2610.25824) | [候选仓库](https://github.com/skywuxuan/ASR-arxiv-daily) |
 | 2026-10-19 | 2026-10-19 | PronCFT: Pronunciation Contextual Fine-Tuning for Contextual Biasing of Out-of-Vocabulary Words in LLM-Based ASR | Yifan Xu et al. | [2610.25766](https://arxiv.org/abs/2610.25766) | [PDF](https://arxiv.org/pdf/2610.25766) | [候选仓库](https://github.com/gcsjsdsd/PronCFT) |
 | 2026-10-19 | 2026-10-19 | Text Dominance in Paralinguistic Conflict: Tracing Suppression Through Audio LLM Circuits | Ankur Banerjee et al. | [2610.25599](https://arxiv.org/abs/2610.25599) | [PDF](https://arxiv.org/pdf/2610.25599) | [论文链接](https://github.com/AdvayRoongta/audio-llm-mech-interp) |
 | 2026-10-18 | 2026-10-22 | How Far Can the Gemma 4 Speech Encoder Go Without Changing Its Weights? Saudi and Gulf Arabic Speech Recognition with a Frozen and an Adapter-Augmented Encoder | Amr Abdelkhalik | [2610.28673](https://arxiv.org/abs/2610.28673) | [PDF](https://arxiv.org/pdf/2610.28673) | [论文链接](https://github.com/AmrKhalil9/frozen-embeddinggemma2-arabic-asr) |
@@ -57,6 +61,7 @@
 | 2026-10-17 | 2026-10-17 | Dual Task Vector Merging: Leveraging Emotion and ASR Knowledge for Low-Resource Alzheimer's Disease Detection | Yuan-Chao Li et al. | [2610.24870](https://arxiv.org/abs/2610.24870) | [PDF](https://arxiv.org/pdf/2610.24870) | [候选仓库](https://github.com/skywuxuan/ASR-arxiv-daily) |
 | 2026-10-17 | 2026-10-20 | Ask, Don't Guess: Targeted Clarification for Speech Recognition Errors | Sankalp Parashar et al. | [2610.24809](https://arxiv.org/abs/2610.24809) | [PDF](https://arxiv.org/pdf/2610.24809) | [候选仓库](https://github.com/Tavish9/awesome-daily-AI-arxiv) |
 | 2026-10-17 | 2026-10-17 | ASR Personalization in Pathological Voice: Accuracy, Efficiency, and Duration Effects | Giuseppe Giaimis et al. | [2610.24572](https://arxiv.org/abs/2610.24572) | [PDF](https://arxiv.org/pdf/2610.24572) | [候选仓库](https://github.com/arxivsub/arXivSub_daily_arxiv) |
+| 2026-10-16 | 2026-10-16 | A Multimodal Framework for Measuring Creator Communication on Short-Form Video | Julie R. Ancis et al. | [2610.33043](https://arxiv.org/abs/2610.33043) | [PDF](https://arxiv.org/pdf/2610.33043) | [候选仓库](https://github.com/iszhanjiawei/video-to-audio-arxiv-daily) |
 | 2026-10-16 | 2026-10-16 | Pronouncing Hard Words: Phoneme Adaptation of a Pretrained Conversational Text to Speech Model | Yashish M. Siriwardena et al. | [2610.24164](https://arxiv.org/abs/2610.24164) | [PDF](https://arxiv.org/pdf/2610.24164) | [候选仓库](https://github.com/liutaocode/TTS-arxiv-daily) |
 | 2026-10-16 | 2026-10-16 | Flash RNN-T: Memory-Efficient Joint Network and Transducer Loss Computation | Mahmoud Ashraf | [2610.23409](https://arxiv.org/abs/2610.23409) | [PDF](https://arxiv.org/pdf/2610.23409) | [候选仓库](https://github.com/arxivsub/arXivSub_daily_arxiv) |
 | 2026-10-16 | 2026-10-16 | Advancing Sentence-Level Dysarthric Audio-Visual Speech Recognition via Test-Time Adaptation | Shiyao Wang et al. | [2610.23117](https://arxiv.org/abs/2610.23117) | [PDF](https://arxiv.org/pdf/2610.23117) | [候选仓库](https://github.com/skywuxuan/ASR-arxiv-daily) |
