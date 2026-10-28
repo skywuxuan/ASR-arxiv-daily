@@ -8,7 +8,7 @@ layout: default
 
 [使用与部署说明](./README.html#usage)
 
-> 最近成功抓取：2026-10-27T17:44:13+00:00（UTC）
+> 最近成功抓取：2026-10-28T04:51:17+00:00（UTC）
 
 每 12 小时检索一次，按首次提交日期倒序排列，历史论文会持续保留。
 
@@ -18,10 +18,12 @@ layout: default
 
 | 首次提交 | 更新日期 | 标题 | 作者 | arXiv | PDF | 代码 |
 | --- | --- | --- | --- | --- | --- | --- |
+| 2026-10-27 | 2026-10-27 | Agentic Data Sampling Framework for Multilingual ASR via Linguistic-Aware Error-Driven Optimization | Zhiheng Qian et al. | [2610.36538](https://arxiv.org/abs/2610.36538) | [PDF](https://arxiv.org/pdf/2610.36538) | — |
+| 2026-10-26 | 2026-10-26 | Lipi-Ghor: A Large-Scale, Diarized, Multi-Domain Bengali Speech Corpus and a Scalable Pipeline for Building It | Sanjid Hasan et al. | [2610.36184](https://arxiv.org/abs/2610.36184) | [PDF](https://arxiv.org/pdf/2610.36184) | — |
 | 2026-10-26 | 2026-10-26 | Preserve to Expand: Source-Aware Adaptation and Model Merging for Multilingual LLM-Based ASR | Yuchen Zhang et al. | [2610.35846](https://arxiv.org/abs/2610.35846) | [PDF](https://arxiv.org/pdf/2610.35846) | [候选仓库](https://github.com/Tavish9/awesome-daily-AI-arxiv) |
 | 2026-10-25 | 2026-10-25 | One Mean Log-Mel Vector per Phoneme: Simple and Fast Text Injection for Speech Recognition | Albert Zeyer et al. | [2610.34623](https://arxiv.org/abs/2610.34623) | [PDF](https://arxiv.org/pdf/2610.34623) | [候选仓库](https://github.com/liutaocode/TTS-arxiv-daily) |
-| 2026-10-25 | 2026-10-25 | ASR-Protected Fusion and Reference-Anchored Policy Optimization for Joint ASR and Word-Level Speech Anti-Spoofing | Xueping Zhang et al. | [2610.34156](https://arxiv.org/abs/2610.34156) | [PDF](https://arxiv.org/pdf/2610.34156) | — |
-| 2026-10-24 | 2026-10-24 | RoleHear: Pseudo-Labeling for Semi-Supervised Role-Attributed Streaming Speech Recognition | Zefang Liu et al. | [2610.33765](https://arxiv.org/abs/2610.33765) | [PDF](https://arxiv.org/pdf/2610.33765) | — |
+| 2026-10-25 | 2026-10-25 | ASR-Protected Fusion and Reference-Anchored Policy Optimization for Joint ASR and Word-Level Speech Anti-Spoofing | Xueping Zhang et al. | [2610.34156](https://arxiv.org/abs/2610.34156) | [PDF](https://arxiv.org/pdf/2610.34156) | [候选仓库](https://github.com/arxivsub/arXivSub_daily_arxiv) |
+| 2026-10-24 | 2026-10-24 | RoleHear: Pseudo-Labeling for Semi-Supervised Role-Attributed Streaming Speech Recognition | Zefang Liu et al. | [2610.33765](https://arxiv.org/abs/2610.33765) | [PDF](https://arxiv.org/pdf/2610.33765) | [候选仓库](https://github.com/arxivsub/arXivSub_daily_arxiv) |
 | 2026-10-23 | 2026-10-23 | Pseudo-Labels as Rewards, Not Targets: Group-Relative Policy Optimization for Semi-Supervised ASR | Shashi Kumar et al. | [2610.32572](https://arxiv.org/abs/2610.32572) | [PDF](https://arxiv.org/pdf/2610.32572) | [候选仓库](https://github.com/skywuxuan/ASR-arxiv-daily) |
 | 2026-10-23 | 2026-10-23 | Acoustic and Lexical Signals for Native Language Identification of Language Learners | Ahmet Yavuz Uluslu et al. | [2610.32382](https://arxiv.org/abs/2610.32382) | [PDF](https://arxiv.org/pdf/2610.32382) | [候选仓库](https://github.com/skywuxuan/ASR-arxiv-daily) |
 | 2026-10-23 | 2026-10-26 | SURE-Tagger: Structured Speech Representations for Compositional Evaluation and Targeted Data Selection | Jing Peng et al. | [2610.32198](https://arxiv.org/abs/2610.32198) | [PDF](https://arxiv.org/pdf/2610.32198) | [论文链接](https://github.com/PigeonDan1/sure-tagger) |

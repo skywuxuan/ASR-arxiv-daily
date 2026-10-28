@@ -1,5 +1,5 @@
 {
-  "last_fetched": "2026-10-27T17:44:13+00:00",
+  "last_fetched": "2026-10-28T04:51:17+00:00",
   "topics": {
     "ASR": {
       "2609.18748": {
@@ -5029,9 +5029,9 @@
         "updated": "2026-10-25",
         "url": "https://arxiv.org/abs/2610.34156",
         "pdf_url": "https://arxiv.org/pdf/2610.34156",
-        "code_url": null,
-        "code_source": null,
-        "code_checked_at": "2026-10-27T17:44:18+00:00"
+        "code_url": "https://github.com/arxivsub/arXivSub_daily_arxiv",
+        "code_source": "github_search",
+        "code_checked_at": "2026-10-28T04:51:21+00:00"
       },
       "2610.33765": {
         "title": "RoleHear: Pseudo-Labeling for Semi-Supervised Role-Attributed Streaming Speech Recognition",
@@ -5048,9 +5048,9 @@
         "updated": "2026-10-24",
         "url": "https://arxiv.org/abs/2610.33765",
         "pdf_url": "https://arxiv.org/pdf/2610.33765",
-        "code_url": null,
-        "code_source": null,
-        "code_checked_at": "2026-10-27T17:44:20+00:00"
+        "code_url": "https://github.com/arxivsub/arXivSub_daily_arxiv",
+        "code_source": "github_search",
+        "code_checked_at": "2026-10-28T04:51:24+00:00"
       },
       "2610.33043": {
         "title": "A Multimodal Framework for Measuring Creator Communication on Short-Form Video",
@@ -5066,6 +5066,43 @@
         "code_url": "https://github.com/iszhanjiawei/video-to-audio-arxiv-daily",
         "code_source": "github_search",
         "code_checked_at": "2026-10-27T17:44:26+00:00"
+      },
+      "2610.36538": {
+        "title": "Agentic Data Sampling Framework for Multilingual ASR via Linguistic-Aware Error-Driven Optimization",
+        "authors": [
+          "Zhiheng Qian",
+          "Junhao Du",
+          "Jing Peng",
+          "Hanqi Li",
+          "Kunyang Peng",
+          "Feng Xue",
+          "Lu Chen",
+          "Shuai Wang",
+          "Kai Yu"
+        ],
+        "published": "2026-10-27",
+        "updated": "2026-10-27",
+        "url": "https://arxiv.org/abs/2610.36538",
+        "pdf_url": "https://arxiv.org/pdf/2610.36538",
+        "code_url": null,
+        "code_source": null,
+        "code_checked_at": "2026-10-28T04:51:17+00:00"
+      },
+      "2610.36184": {
+        "title": "Lipi-Ghor: A Large-Scale, Diarized, Multi-Domain Bengali Speech Corpus and a Scalable Pipeline for Building It",
+        "authors": [
+          "Sanjid Hasan",
+          "A H M Fuad",
+          "Risalat Labib",
+          "Bayazid Hasan Simon"
+        ],
+        "published": "2026-10-26",
+        "updated": "2026-10-26",
+        "url": "https://arxiv.org/abs/2610.36184",
+        "pdf_url": "https://arxiv.org/pdf/2610.36184",
+        "code_url": null,
+        "code_source": null,
+        "code_checked_at": "2026-10-28T04:51:19+00:00"
       }
     }
   }
