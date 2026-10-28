@@ -8,7 +8,7 @@ layout: default
 
 [使用与部署说明](./README.html#usage)
 
-> 最近成功抓取：2026-10-28T04:51:17+00:00（UTC）
+> 最近成功抓取：2026-10-28T18:07:18+00:00（UTC）
 
 每 12 小时检索一次，按首次提交日期倒序排列，历史论文会持续保留。
 
@@ -18,8 +18,8 @@ layout: default
 
 | 首次提交 | 更新日期 | 标题 | 作者 | arXiv | PDF | 代码 |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-10-27 | 2026-10-27 | Agentic Data Sampling Framework for Multilingual ASR via Linguistic-Aware Error-Driven Optimization | Zhiheng Qian et al. | [2610.36538](https://arxiv.org/abs/2610.36538) | [PDF](https://arxiv.org/pdf/2610.36538) | — |
-| 2026-10-26 | 2026-10-26 | Lipi-Ghor: A Large-Scale, Diarized, Multi-Domain Bengali Speech Corpus and a Scalable Pipeline for Building It | Sanjid Hasan et al. | [2610.36184](https://arxiv.org/abs/2610.36184) | [PDF](https://arxiv.org/pdf/2610.36184) | — |
+| 2026-10-27 | 2026-10-27 | Agentic Data Sampling Framework for Multilingual ASR via Linguistic-Aware Error-Driven Optimization | Zhiheng Qian et al. | [2610.36538](https://arxiv.org/abs/2610.36538) | [PDF](https://arxiv.org/pdf/2610.36538) | [候选仓库](https://github.com/Tavish9/awesome-daily-AI-arxiv) |
+| 2026-10-26 | 2026-10-26 | Lipi-Ghor: A Large-Scale, Diarized, Multi-Domain Bengali Speech Corpus and a Scalable Pipeline for Building It | Sanjid Hasan et al. | [2610.36184](https://arxiv.org/abs/2610.36184) | [PDF](https://arxiv.org/pdf/2610.36184) | [候选仓库](https://github.com/Tavish9/awesome-daily-AI-arxiv) |
 | 2026-10-26 | 2026-10-26 | Preserve to Expand: Source-Aware Adaptation and Model Merging for Multilingual LLM-Based ASR | Yuchen Zhang et al. | [2610.35846](https://arxiv.org/abs/2610.35846) | [PDF](https://arxiv.org/pdf/2610.35846) | [候选仓库](https://github.com/Tavish9/awesome-daily-AI-arxiv) |
 | 2026-10-25 | 2026-10-25 | One Mean Log-Mel Vector per Phoneme: Simple and Fast Text Injection for Speech Recognition | Albert Zeyer et al. | [2610.34623](https://arxiv.org/abs/2610.34623) | [PDF](https://arxiv.org/pdf/2610.34623) | [候选仓库](https://github.com/liutaocode/TTS-arxiv-daily) |
 | 2026-10-25 | 2026-10-25 | ASR-Protected Fusion and Reference-Anchored Policy Optimization for Joint ASR and Word-Level Speech Anti-Spoofing | Xueping Zhang et al. | [2610.34156](https://arxiv.org/abs/2610.34156) | [PDF](https://arxiv.org/pdf/2610.34156) | [候选仓库](https://github.com/arxivsub/arXivSub_daily_arxiv) |
