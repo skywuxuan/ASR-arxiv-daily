@@ -8,7 +8,7 @@ layout: default
 
 [使用与部署说明](./README.html#usage)
 
-> 最近成功抓取：2026-10-30T05:00:19+00:00（UTC）
+> 最近成功抓取：2026-10-30T17:51:44+00:00（UTC）
 
 每 12 小时检索一次，按首次提交日期倒序排列，历史论文会持续保留。
 
@@ -18,12 +18,12 @@ layout: default
 
 | 首次提交 | 更新日期 | 标题 | 作者 | arXiv | PDF | 代码 |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-10-29 | 2026-10-29 | Toward Complete Speaker Anonymization: a Streaming Cascaded System for Voice Privacy and PII Removal | Stanisław Kacprzak et al. | [2610.39754](https://arxiv.org/abs/2610.39754) | [PDF](https://arxiv.org/pdf/2610.39754) | — |
+| 2026-10-29 | 2026-10-29 | Toward Complete Speaker Anonymization: a Streaming Cascaded System for Voice Privacy and PII Removal | Stanisław Kacprzak et al. | [2610.39754](https://arxiv.org/abs/2610.39754) | [PDF](https://arxiv.org/pdf/2610.39754) | [候选仓库](https://github.com/iszhanjiawei/TTS_arxiv_daily) |
 | 2026-10-29 | 2026-10-29 | Reading-Level Verification of Kanji Words in Japanese Financial Speech Synthesis | Cheng Zhang | [2610.39168](https://arxiv.org/abs/2610.39168) | [PDF](https://arxiv.org/pdf/2610.39168) | [候选仓库](https://github.com/liutaocode/TTS-arxiv-daily) |
 | 2026-10-28 | 2026-10-28 | Streaming Speech Recognition on a Microcontroller: a 65.7M-Parameter Transducer in 2 and 4 Bits on the ESP32-P4 | Billal Boumedine | [2610.38739](https://arxiv.org/abs/2610.38739) | [PDF](https://arxiv.org/pdf/2610.38739) | [论文链接](https://github.com/BoumedineBillal/esp32-pie-asr) |
-| 2026-10-28 | 2026-10-28 | Wav2Aug: A Drop-In Speech Augmentation Policy | Gianfranco Dumoulin Bertucci et al. | [2610.38656](https://arxiv.org/abs/2610.38656) | [PDF](https://arxiv.org/pdf/2610.38656) | — |
-| 2026-10-27 | 2026-10-27 | Beyond Aggregate WER: In-domain Adaptation, Learner Speech, Code-Switching, and Speaker Attribution in Online Spanish Learning Classrooms | Olga Kellert et al. | [2610.38016](https://arxiv.org/abs/2610.38016) | [PDF](https://arxiv.org/pdf/2610.38016) | — |
-| 2026-10-27 | 2026-10-27 | "It Would Make a Geordie Feel at Home": Regional Accent Perceptions and Speech Accommodation in Voice AI | Dana Serditova et al. | [2610.38005](https://arxiv.org/abs/2610.38005) | [PDF](https://arxiv.org/pdf/2610.38005) | — |
+| 2026-10-28 | 2026-10-28 | Wav2Aug: A Drop-In Speech Augmentation Policy | Gianfranco Dumoulin Bertucci et al. | [2610.38656](https://arxiv.org/abs/2610.38656) | [PDF](https://arxiv.org/pdf/2610.38656) | [候选仓库](https://github.com/skywuxuan/ASR-arxiv-daily) |
+| 2026-10-27 | 2026-10-27 | Beyond Aggregate WER: In-domain Adaptation, Learner Speech, Code-Switching, and Speaker Attribution in Online Spanish Learning Classrooms | Olga Kellert et al. | [2610.38016](https://arxiv.org/abs/2610.38016) | [PDF](https://arxiv.org/pdf/2610.38016) | [候选仓库](https://github.com/Tavish9/awesome-daily-AI-arxiv) |
+| 2026-10-27 | 2026-10-27 | "It Would Make a Geordie Feel at Home": Regional Accent Perceptions and Speech Accommodation in Voice AI | Dana Serditova et al. | [2610.38005](https://arxiv.org/abs/2610.38005) | [PDF](https://arxiv.org/pdf/2610.38005) | [候选仓库](https://github.com/skywuxuan/ASR-arxiv-daily) |
 | 2026-10-27 | 2026-10-27 | Agentic Data Sampling Framework for Multilingual ASR via Linguistic-Aware Error-Driven Optimization | Zhiheng Qian et al. | [2610.36538](https://arxiv.org/abs/2610.36538) | [PDF](https://arxiv.org/pdf/2610.36538) | [候选仓库](https://github.com/Tavish9/awesome-daily-AI-arxiv) |
 | 2026-10-26 | 2026-10-26 | Lipi-Ghor: A Large-Scale, Diarized, Multi-Domain Bengali Speech Corpus and a Scalable Pipeline for Building It | Sanjid Hasan et al. | [2610.36184](https://arxiv.org/abs/2610.36184) | [PDF](https://arxiv.org/pdf/2610.36184) | [候选仓库](https://github.com/Tavish9/awesome-daily-AI-arxiv) |
 | 2026-10-26 | 2026-10-26 | Preserve to Expand: Source-Aware Adaptation and Model Merging for Multilingual LLM-Based ASR | Yuchen Zhang et al. | [2610.35846](https://arxiv.org/abs/2610.35846) | [PDF](https://arxiv.org/pdf/2610.35846) | [候选仓库](https://github.com/Tavish9/awesome-daily-AI-arxiv) |
