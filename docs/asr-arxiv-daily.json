@@ -1,5 +1,5 @@
 {
-  "last_fetched": "2026-10-29T18:14:45+00:00",
+  "last_fetched": "2026-10-30T05:00:19+00:00",
   "topics": {
     "ASR": {
       "2609.18748": {
@@ -4792,7 +4792,7 @@
           "Xin Tian"
         ],
         "published": "2026-10-21",
-        "updated": "2026-10-21",
+        "updated": "2026-10-28",
         "url": "https://arxiv.org/abs/2610.29123",
         "pdf_url": "https://arxiv.org/pdf/2610.29123",
         "code_url": "https://github.com/liutaocode/TTS-arxiv-daily",
@@ -5103,6 +5103,93 @@
         "code_url": "https://github.com/Tavish9/awesome-daily-AI-arxiv",
         "code_source": "github_search",
         "code_checked_at": "2026-10-28T18:07:21+00:00"
+      },
+      "2610.39754": {
+        "title": "Toward Complete Speaker Anonymization: a Streaming Cascaded System for Voice Privacy and PII Removal",
+        "authors": [
+          "Stanisław Kacprzak",
+          "Thomas Thebaud",
+          "Najim Dehak"
+        ],
+        "published": "2026-10-29",
+        "updated": "2026-10-29",
+        "url": "https://arxiv.org/abs/2610.39754",
+        "pdf_url": "https://arxiv.org/pdf/2610.39754",
+        "code_url": null,
+        "code_source": null,
+        "code_checked_at": "2026-10-30T05:00:20+00:00"
+      },
+      "2610.39168": {
+        "title": "Reading-Level Verification of Kanji Words in Japanese Financial Speech Synthesis",
+        "authors": [
+          "Cheng Zhang"
+        ],
+        "published": "2026-10-29",
+        "updated": "2026-10-29",
+        "url": "https://arxiv.org/abs/2610.39168",
+        "pdf_url": "https://arxiv.org/pdf/2610.39168",
+        "code_url": "https://github.com/liutaocode/TTS-arxiv-daily",
+        "code_source": "github_search",
+        "code_checked_at": "2026-10-30T05:00:22+00:00"
+      },
+      "2610.38739": {
+        "title": "Streaming Speech Recognition on a Microcontroller: a 65.7M-Parameter Transducer in 2 and 4 Bits on the ESP32-P4",
+        "authors": [
+          "Billal Boumedine"
+        ],
+        "published": "2026-10-28",
+        "updated": "2026-10-28",
+        "url": "https://arxiv.org/abs/2610.38739",
+        "pdf_url": "https://arxiv.org/pdf/2610.38739",
+        "code_url": "https://github.com/BoumedineBillal/esp32-pie-asr",
+        "code_source": "paper"
+      },
+      "2610.38656": {
+        "title": "Wav2Aug: A Drop-In Speech Augmentation Policy",
+        "authors": [
+          "Gianfranco Dumoulin Bertucci",
+          "Mirco Ravanelli"
+        ],
+        "published": "2026-10-28",
+        "updated": "2026-10-28",
+        "url": "https://arxiv.org/abs/2610.38656",
+        "pdf_url": "https://arxiv.org/pdf/2610.38656",
+        "code_url": null,
+        "code_source": null,
+        "code_checked_at": "2026-10-30T05:00:24+00:00"
+      },
+      "2610.38016": {
+        "title": "Beyond Aggregate WER: In-domain Adaptation, Learner Speech, Code-Switching, and Speaker Attribution in Online Spanish Learning Classrooms",
+        "authors": [
+          "Olga Kellert",
+          "Samhitha Harish",
+          "Johnatan E Bonilla",
+          "Nemika Tyagi",
+          "Phanos Kareen",
+          "Nelvin Licona-Guevara"
+        ],
+        "published": "2026-10-27",
+        "updated": "2026-10-27",
+        "url": "https://arxiv.org/abs/2610.38016",
+        "pdf_url": "https://arxiv.org/pdf/2610.38016",
+        "code_url": null,
+        "code_source": null,
+        "code_checked_at": "2026-10-30T05:00:26+00:00"
+      },
+      "2610.38005": {
+        "title": "\"It Would Make a Geordie Feel at Home\": Regional Accent Perceptions and Speech Accommodation in Voice AI",
+        "authors": [
+          "Dana Serditova",
+          "Kevin Tang",
+          "Jochen Steffens"
+        ],
+        "published": "2026-10-27",
+        "updated": "2026-10-27",
+        "url": "https://arxiv.org/abs/2610.38005",
+        "pdf_url": "https://arxiv.org/pdf/2610.38005",
+        "code_url": null,
+        "code_source": null,
+        "code_checked_at": "2026-10-30T05:00:28+00:00"
       }
     }
   }
