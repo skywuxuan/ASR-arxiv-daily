@@ -1,5 +1,5 @@
 {
-  "last_fetched": "2026-10-30T17:51:44+00:00",
+  "last_fetched": "2026-11-03T19:16:41+00:00",
   "topics": {
     "ASR": {
       "2609.18748": {
@@ -5190,6 +5190,170 @@
         "code_url": "https://github.com/skywuxuan/ASR-arxiv-daily",
         "code_source": "github_search",
         "code_checked_at": "2026-10-30T17:51:51+00:00"
+      },
+      "2611.03605": {
+        "title": "ufakzeka-kulak: Building and Evaluating a 31.6M-Parameter Turkish Speech Recognizer from Scratch",
+        "authors": [
+          "Sait Furkan Teke"
+        ],
+        "published": "2026-11-02",
+        "updated": "2026-11-02",
+        "url": "https://arxiv.org/abs/2611.03605",
+        "pdf_url": "https://arxiv.org/pdf/2611.03605",
+        "code_url": "https://github.com/ufakai/ufakzeka-kulak",
+        "code_source": "paper"
+      },
+      "2611.03050": {
+        "title": "Zero-Shot Voice Cloning for Synthetic Data Augmentation in Children's ASR",
+        "authors": [
+          "Mohammad Mohsen Goodarzi",
+          "Stefan Wabnik",
+          "Matthias Stennes",
+          "Stephanus Volke",
+          "Alexander Schwarz"
+        ],
+        "published": "2026-11-02",
+        "updated": "2026-11-02",
+        "url": "https://arxiv.org/abs/2611.03050",
+        "pdf_url": "https://arxiv.org/pdf/2611.03050",
+        "code_url": "https://github.com/liutaocode/TTS-arxiv-daily",
+        "code_source": "github_search",
+        "code_checked_at": "2026-11-03T19:16:41+00:00"
+      },
+      "2611.02903": {
+        "title": "Maswao: An automatically collected, prepared, and benchmarked dataset for the South African Sign language",
+        "authors": [
+          "Thapelo Sindane",
+          "Unarine Netshifhefhe",
+          "Vukosi Marivate",
+          "Abiodun Modupe",
+          "Herkulaas Combrink",
+          "Ketro Sithole"
+        ],
+        "published": "2026-11-02",
+        "updated": "2026-11-02",
+        "url": "https://arxiv.org/abs/2611.02903",
+        "pdf_url": "https://arxiv.org/pdf/2611.02903",
+        "code_url": "https://github.com/Tavish9/awesome-daily-AI-arxiv",
+        "code_source": "github_search",
+        "code_checked_at": "2026-11-03T19:16:43+00:00"
+      },
+      "2611.02893": {
+        "title": "Voice-Native LLMs Hear Frustration but Do Not Listen to It",
+        "authors": [
+          "Hanjun Luo",
+          "Yuhan Lu",
+          "Hanan Salam"
+        ],
+        "published": "2026-11-02",
+        "updated": "2026-11-02",
+        "url": "https://arxiv.org/abs/2611.02893",
+        "pdf_url": "https://arxiv.org/pdf/2611.02893",
+        "code_url": "https://github.com/Astarojth/hear-not-listen",
+        "code_source": "paper"
+      },
+      "2611.02476": {
+        "title": "GigaSpeech 3: Scaling Multi-Dialect Arabic Speech Recognition with Weakly Labeled Data",
+        "authors": [
+          "Junzhe Liu",
+          "Yujie Tu",
+          "Yifan Yang",
+          "Peng Wang",
+          "Haoran Wang",
+          "Guodong Lin",
+          "Leyan Liao",
+          "Chengquan Zhang",
+          "Zhifu Gao",
+          "Xiangang Li",
+          "Qinyuan Cheng",
+          "Xipeng Qiu",
+          "Wei-Qiang Zhang",
+          "Guoguo Chen",
+          "Kai Yu",
+          "Xie Chen"
+        ],
+        "published": "2026-11-02",
+        "updated": "2026-11-02",
+        "url": "https://arxiv.org/abs/2611.02476",
+        "pdf_url": "https://arxiv.org/pdf/2611.02476",
+        "code_url": "https://github.com/Tavish9/awesome-daily-AI-arxiv",
+        "code_source": "github_search",
+        "code_checked_at": "2026-11-03T19:16:45+00:00"
+      },
+      "2611.01261": {
+        "title": "MedAstra: ASR-less Speech Retrieval with Diagnostic Grounding for Medical QA",
+        "authors": [
+          "Elahe Khatibi",
+          "Ziyu Wang",
+          "Amir M. Rahmani"
+        ],
+        "published": "2026-10-31",
+        "updated": "2026-10-31",
+        "url": "https://arxiv.org/abs/2611.01261",
+        "pdf_url": "https://arxiv.org/pdf/2611.01261",
+        "code_url": null,
+        "code_source": null,
+        "code_checked_at": "2026-11-03T19:16:47+00:00"
+      },
+      "2611.00692": {
+        "title": "Multilingual TASU: Extending Text-Only Alignment to Multilingual Speech Recognition via Simulated CTC Posteriors",
+        "authors": [
+          "Chenghao Wang",
+          "Yi Yang",
+          "Jing Peng",
+          "Yu Xi",
+          "Shuai Wang",
+          "Kai Yu"
+        ],
+        "published": "2026-10-31",
+        "updated": "2026-10-31",
+        "url": "https://arxiv.org/abs/2611.00692",
+        "pdf_url": "https://arxiv.org/pdf/2611.00692",
+        "code_url": null,
+        "code_source": null,
+        "code_checked_at": "2026-11-03T19:16:49+00:00"
+      },
+      "2611.00333": {
+        "title": "C3: Speech-Guided KV Retrieval for Long-Context SpeechLLM Inference",
+        "authors": [
+          "Dancheng Liu",
+          "Markus Müller",
+          "Rupak Vignesh Swaminathan",
+          "Jing Liu",
+          "Srikanth Ronanki",
+          "Aram Galstyan"
+        ],
+        "published": "2026-10-30",
+        "updated": "2026-10-30",
+        "url": "https://arxiv.org/abs/2611.00333",
+        "pdf_url": "https://arxiv.org/pdf/2611.00333",
+        "code_url": null,
+        "code_source": null,
+        "code_checked_at": "2026-11-03T19:16:52+00:00"
+      },
+      "2610.41292": {
+        "title": "From Transcription to Reformulation: Defining and Benchmarking Grounded Generative Speech Recognition",
+        "authors": [
+          "Qing Wang",
+          "Qihan Hu",
+          "Hang Lv",
+          "Yan Yang",
+          "Boqing Liu",
+          "Xuechao Zhu",
+          "Zehan Li",
+          "Hongjie Chen",
+          "Jian Kang",
+          "Jie Li",
+          "Yongxiang Li",
+          "Lei Xie"
+        ],
+        "published": "2026-10-30",
+        "updated": "2026-10-30",
+        "url": "https://arxiv.org/abs/2610.41292",
+        "pdf_url": "https://arxiv.org/pdf/2610.41292",
+        "code_url": "https://github.com/arxivsub/arXivSub_daily_arxiv",
+        "code_source": "github_search",
+        "code_checked_at": "2026-11-03T19:16:54+00:00"
       }
     }
   }

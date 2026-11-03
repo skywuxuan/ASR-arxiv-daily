@@ -4,7 +4,7 @@
 
 [使用与部署说明](./docs/README.md#usage)
 
-> 最近成功抓取：2026-10-30T17:51:44+00:00（UTC）
+> 最近成功抓取：2026-11-03T19:16:41+00:00（UTC）
 
 每 12 小时检索一次，按首次提交日期倒序排列，历史论文会持续保留。
 
@@ -14,6 +14,15 @@
 
 | 首次提交 | 更新日期 | 标题 | 作者 | arXiv | PDF | 代码 |
 | --- | --- | --- | --- | --- | --- | --- |
+| 2026-11-02 | 2026-11-02 | ufakzeka-kulak: Building and Evaluating a 31.6M-Parameter Turkish Speech Recognizer from Scratch | Sait Furkan Teke | [2611.03605](https://arxiv.org/abs/2611.03605) | [PDF](https://arxiv.org/pdf/2611.03605) | [论文链接](https://github.com/ufakai/ufakzeka-kulak) |
+| 2026-11-02 | 2026-11-02 | Zero-Shot Voice Cloning for Synthetic Data Augmentation in Children's ASR | Mohammad Mohsen Goodarzi et al. | [2611.03050](https://arxiv.org/abs/2611.03050) | [PDF](https://arxiv.org/pdf/2611.03050) | [候选仓库](https://github.com/liutaocode/TTS-arxiv-daily) |
+| 2026-11-02 | 2026-11-02 | Maswao: An automatically collected, prepared, and benchmarked dataset for the South African Sign language | Thapelo Sindane et al. | [2611.02903](https://arxiv.org/abs/2611.02903) | [PDF](https://arxiv.org/pdf/2611.02903) | [候选仓库](https://github.com/Tavish9/awesome-daily-AI-arxiv) |
+| 2026-11-02 | 2026-11-02 | Voice-Native LLMs Hear Frustration but Do Not Listen to It | Hanjun Luo et al. | [2611.02893](https://arxiv.org/abs/2611.02893) | [PDF](https://arxiv.org/pdf/2611.02893) | [论文链接](https://github.com/Astarojth/hear-not-listen) |
+| 2026-11-02 | 2026-11-02 | GigaSpeech 3: Scaling Multi-Dialect Arabic Speech Recognition with Weakly Labeled Data | Junzhe Liu et al. | [2611.02476](https://arxiv.org/abs/2611.02476) | [PDF](https://arxiv.org/pdf/2611.02476) | [候选仓库](https://github.com/Tavish9/awesome-daily-AI-arxiv) |
+| 2026-10-31 | 2026-10-31 | MedAstra: ASR-less Speech Retrieval with Diagnostic Grounding for Medical QA | Elahe Khatibi et al. | [2611.01261](https://arxiv.org/abs/2611.01261) | [PDF](https://arxiv.org/pdf/2611.01261) | — |
+| 2026-10-31 | 2026-10-31 | Multilingual TASU: Extending Text-Only Alignment to Multilingual Speech Recognition via Simulated CTC Posteriors | Chenghao Wang et al. | [2611.00692](https://arxiv.org/abs/2611.00692) | [PDF](https://arxiv.org/pdf/2611.00692) | — |
+| 2026-10-30 | 2026-10-30 | C3: Speech-Guided KV Retrieval for Long-Context SpeechLLM Inference | Dancheng Liu et al. | [2611.00333](https://arxiv.org/abs/2611.00333) | [PDF](https://arxiv.org/pdf/2611.00333) | — |
+| 2026-10-30 | 2026-10-30 | From Transcription to Reformulation: Defining and Benchmarking Grounded Generative Speech Recognition | Qing Wang et al. | [2610.41292](https://arxiv.org/abs/2610.41292) | [PDF](https://arxiv.org/pdf/2610.41292) | [候选仓库](https://github.com/arxivsub/arXivSub_daily_arxiv) |
 | 2026-10-29 | 2026-10-29 | Toward Complete Speaker Anonymization: a Streaming Cascaded System for Voice Privacy and PII Removal | Stanisław Kacprzak et al. | [2610.39754](https://arxiv.org/abs/2610.39754) | [PDF](https://arxiv.org/pdf/2610.39754) | [候选仓库](https://github.com/iszhanjiawei/TTS_arxiv_daily) |
 | 2026-10-29 | 2026-10-29 | Reading-Level Verification of Kanji Words in Japanese Financial Speech Synthesis | Cheng Zhang | [2610.39168](https://arxiv.org/abs/2610.39168) | [PDF](https://arxiv.org/pdf/2610.39168) | [候选仓库](https://github.com/liutaocode/TTS-arxiv-daily) |
 | 2026-10-28 | 2026-10-28 | Streaming Speech Recognition on a Microcontroller: a 65.7M-Parameter Transducer in 2 and 4 Bits on the ESP32-P4 | Billal Boumedine | [2610.38739](https://arxiv.org/abs/2610.38739) | [PDF](https://arxiv.org/pdf/2610.38739) | [论文链接](https://github.com/BoumedineBillal/esp32-pie-asr) |
