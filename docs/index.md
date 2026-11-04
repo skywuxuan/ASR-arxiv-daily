@@ -8,7 +8,7 @@ layout: default
 
 [使用与部署说明](./README.html#usage)
 
-> 最近成功抓取：2026-11-03T19:16:41+00:00（UTC）
+> 最近成功抓取：2026-11-04T05:32:17+00:00（UTC）
 
 每 12 小时检索一次，按首次提交日期倒序排列，历史论文会持续保留。
 
@@ -18,14 +18,16 @@ layout: default
 
 | 首次提交 | 更新日期 | 标题 | 作者 | arXiv | PDF | 代码 |
 | --- | --- | --- | --- | --- | --- | --- |
+| 2026-11-03 | 2026-11-03 | TTSonic: A Unified Framework for Composable and Controllable Speech Generation | Zhedong Zhang et al. | [2611.04282](https://arxiv.org/abs/2611.04282) | [PDF](https://arxiv.org/pdf/2611.04282) | [候选仓库](https://github.com/iszhanjiawei/TTS_arxiv_daily) |
 | 2026-11-02 | 2026-11-02 | ufakzeka-kulak: Building and Evaluating a 31.6M-Parameter Turkish Speech Recognizer from Scratch | Sait Furkan Teke | [2611.03605](https://arxiv.org/abs/2611.03605) | [PDF](https://arxiv.org/pdf/2611.03605) | [论文链接](https://github.com/ufakai/ufakzeka-kulak) |
 | 2026-11-02 | 2026-11-02 | Zero-Shot Voice Cloning for Synthetic Data Augmentation in Children's ASR | Mohammad Mohsen Goodarzi et al. | [2611.03050](https://arxiv.org/abs/2611.03050) | [PDF](https://arxiv.org/pdf/2611.03050) | [候选仓库](https://github.com/liutaocode/TTS-arxiv-daily) |
 | 2026-11-02 | 2026-11-02 | Maswao: An automatically collected, prepared, and benchmarked dataset for the South African Sign language | Thapelo Sindane et al. | [2611.02903](https://arxiv.org/abs/2611.02903) | [PDF](https://arxiv.org/pdf/2611.02903) | [候选仓库](https://github.com/Tavish9/awesome-daily-AI-arxiv) |
 | 2026-11-02 | 2026-11-02 | Voice-Native LLMs Hear Frustration but Do Not Listen to It | Hanjun Luo et al. | [2611.02893](https://arxiv.org/abs/2611.02893) | [PDF](https://arxiv.org/pdf/2611.02893) | [论文链接](https://github.com/Astarojth/hear-not-listen) |
-| 2026-11-02 | 2026-11-02 | GigaSpeech 3: Scaling Multi-Dialect Arabic Speech Recognition with Weakly Labeled Data | Junzhe Liu et al. | [2611.02476](https://arxiv.org/abs/2611.02476) | [PDF](https://arxiv.org/pdf/2611.02476) | [候选仓库](https://github.com/Tavish9/awesome-daily-AI-arxiv) |
-| 2026-10-31 | 2026-10-31 | MedAstra: ASR-less Speech Retrieval with Diagnostic Grounding for Medical QA | Elahe Khatibi et al. | [2611.01261](https://arxiv.org/abs/2611.01261) | [PDF](https://arxiv.org/pdf/2611.01261) | — |
-| 2026-10-31 | 2026-10-31 | Multilingual TASU: Extending Text-Only Alignment to Multilingual Speech Recognition via Simulated CTC Posteriors | Chenghao Wang et al. | [2611.00692](https://arxiv.org/abs/2611.00692) | [PDF](https://arxiv.org/pdf/2611.00692) | — |
-| 2026-10-30 | 2026-10-30 | C3: Speech-Guided KV Retrieval for Long-Context SpeechLLM Inference | Dancheng Liu et al. | [2611.00333](https://arxiv.org/abs/2611.00333) | [PDF](https://arxiv.org/pdf/2611.00333) | — |
+| 2026-11-02 | 2026-11-03 | GigaSpeech 3: Scaling Multi-Dialect Arabic Speech Recognition with Weakly Labeled Data | Junzhe Liu et al. | [2611.02476](https://arxiv.org/abs/2611.02476) | [PDF](https://arxiv.org/pdf/2611.02476) | [候选仓库](https://github.com/Tavish9/awesome-daily-AI-arxiv) |
+| 2026-10-31 | 2026-10-31 | NepTTS-Bench: Native-Speaker Benchmarking and NepaliMOS for Nepali Text-to-Speech | Ashish Thapa et al. | [2611.03718](https://arxiv.org/abs/2611.03718) | [PDF](https://arxiv.org/pdf/2611.03718) | [论文链接](https://github.com/Ampixa/neptts-bench) |
+| 2026-10-31 | 2026-10-31 | MedAstra: ASR-less Speech Retrieval with Diagnostic Grounding for Medical QA | Elahe Khatibi et al. | [2611.01261](https://arxiv.org/abs/2611.01261) | [PDF](https://arxiv.org/pdf/2611.01261) | [候选仓库](https://github.com/skywuxuan/ASR-arxiv-daily) |
+| 2026-10-31 | 2026-10-31 | Multilingual TASU: Extending Text-Only Alignment to Multilingual Speech Recognition via Simulated CTC Posteriors | Chenghao Wang et al. | [2611.00692](https://arxiv.org/abs/2611.00692) | [PDF](https://arxiv.org/pdf/2611.00692) | [候选仓库](https://github.com/skywuxuan/ASR-arxiv-daily) |
+| 2026-10-30 | 2026-10-30 | C3: Speech-Guided KV Retrieval for Long-Context SpeechLLM Inference | Dancheng Liu et al. | [2611.00333](https://arxiv.org/abs/2611.00333) | [PDF](https://arxiv.org/pdf/2611.00333) | [候选仓库](https://github.com/skywuxuan/ASR-arxiv-daily) |
 | 2026-10-30 | 2026-10-30 | From Transcription to Reformulation: Defining and Benchmarking Grounded Generative Speech Recognition | Qing Wang et al. | [2610.41292](https://arxiv.org/abs/2610.41292) | [PDF](https://arxiv.org/pdf/2610.41292) | [候选仓库](https://github.com/arxivsub/arXivSub_daily_arxiv) |
 | 2026-10-29 | 2026-10-29 | Toward Complete Speaker Anonymization: a Streaming Cascaded System for Voice Privacy and PII Removal | Stanisław Kacprzak et al. | [2610.39754](https://arxiv.org/abs/2610.39754) | [PDF](https://arxiv.org/pdf/2610.39754) | [候选仓库](https://github.com/iszhanjiawei/TTS_arxiv_daily) |
 | 2026-10-29 | 2026-10-29 | Reading-Level Verification of Kanji Words in Japanese Financial Speech Synthesis | Cheng Zhang | [2610.39168](https://arxiv.org/abs/2610.39168) | [PDF](https://arxiv.org/pdf/2610.39168) | [候选仓库](https://github.com/liutaocode/TTS-arxiv-daily) |
@@ -53,7 +55,7 @@ layout: default
 | 2026-10-22 | 2026-10-22 | Group Relative Policy Optimisation Improves Multilingual Speech Recognition in Low-Resource Languages | Tim Wenjie Hu et al. | [2610.30663](https://arxiv.org/abs/2610.30663) | [PDF](https://arxiv.org/pdf/2610.30663) | [候选仓库](https://github.com/Tavish9/awesome-daily-AI-arxiv) |
 | 2026-10-21 | 2026-10-21 | Text-Only LLM Correctors Break Correct Transcripts: A Repair-Damage Analysis of Audio Grounding in ASR Error Correction | Vasiliy Kudryavtsev et al. | [2610.30385](https://arxiv.org/abs/2610.30385) | [PDF](https://arxiv.org/pdf/2610.30385) | [候选仓库](https://github.com/skywuxuan/ASR-arxiv-daily) |
 | 2026-10-21 | 2026-10-22 | Bio-Inspired Auditory Processing: Coupling Parallel Resonate-and-Fire Dynamics with Ternary Recurrent Networks for Speech Recognition | Pavlos Poulos et al. | [2610.29720](https://arxiv.org/abs/2610.29720) | [PDF](https://arxiv.org/pdf/2610.29720) | [候选仓库](https://github.com/doublepoints/cv-arxiv-daily) |
-| 2026-10-21 | 2026-10-21 | Omnilingual-MsASR: Benchmarking Multimodal, Multilingual, Long-Form Multi-Speaker ASR of Omni Large Language Models | Yuan Ge et al. | [2610.29455](https://arxiv.org/abs/2610.29455) | [PDF](https://arxiv.org/pdf/2610.29455) | [论文链接](https://github.com/QwenLM/Omnilingua-Bench) |
+| 2026-10-21 | 2026-11-03 | Omnilingual-MsASR: Benchmarking Multimodal, Multilingual, Long-Form Multi-Speaker ASR of Omni Large Language Models | Yuan Ge et al. | [2610.29455](https://arxiv.org/abs/2610.29455) | [PDF](https://arxiv.org/pdf/2610.29455) | [论文链接](https://github.com/QwenLM/Omnilingua-Bench) |
 | 2026-10-21 | 2026-10-28 | Character-Level Prosody Control for Mandarin Speech Synthesis:An Architecture-Preserving Approach | Diankun An et al. | [2610.29123](https://arxiv.org/abs/2610.29123) | [PDF](https://arxiv.org/pdf/2610.29123) | [候选仓库](https://github.com/liutaocode/TTS-arxiv-daily) |
 | 2026-10-20 | 2026-10-20 | KIRA: A Full-Stack Reading Screening System with Dual-Pathway Analysis for Children | Maggie Dong et al. | [2610.28840](https://arxiv.org/abs/2610.28840) | [PDF](https://arxiv.org/pdf/2610.28840) | [候选仓库](https://github.com/Tavish9/awesome-daily-AI-arxiv) |
 | 2026-10-20 | 2026-10-20 | Qwen-Audio-3.1-ASR Technical Report | Chuanmeng Bian et al. | [2610.28711](https://arxiv.org/abs/2610.28711) | [PDF](https://arxiv.org/pdf/2610.28711) | [候选仓库](https://github.com/arxivsub/arXivSub_daily_arxiv) |

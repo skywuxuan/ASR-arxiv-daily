@@ -1,5 +1,5 @@
 {
-  "last_fetched": "2026-11-03T19:16:41+00:00",
+  "last_fetched": "2026-11-04T05:32:17+00:00",
   "topics": {
     "ASR": {
       "2609.18748": {
@@ -4776,7 +4776,7 @@
           "Tong Xiao"
         ],
         "published": "2026-10-21",
-        "updated": "2026-10-21",
+        "updated": "2026-11-03",
         "url": "https://arxiv.org/abs/2610.29455",
         "pdf_url": "https://arxiv.org/pdf/2610.29455",
         "code_url": "https://github.com/QwenLM/Omnilingua-Bench",
@@ -5273,7 +5273,7 @@
           "Xie Chen"
         ],
         "published": "2026-11-02",
-        "updated": "2026-11-02",
+        "updated": "2026-11-03",
         "url": "https://arxiv.org/abs/2611.02476",
         "pdf_url": "https://arxiv.org/pdf/2611.02476",
         "code_url": "https://github.com/Tavish9/awesome-daily-AI-arxiv",
@@ -5291,9 +5291,9 @@
         "updated": "2026-10-31",
         "url": "https://arxiv.org/abs/2611.01261",
         "pdf_url": "https://arxiv.org/pdf/2611.01261",
-        "code_url": null,
-        "code_source": null,
-        "code_checked_at": "2026-11-03T19:16:47+00:00"
+        "code_url": "https://github.com/skywuxuan/ASR-arxiv-daily",
+        "code_source": "github_search",
+        "code_checked_at": "2026-11-04T05:32:20+00:00"
       },
       "2611.00692": {
         "title": "Multilingual TASU: Extending Text-Only Alignment to Multilingual Speech Recognition via Simulated CTC Posteriors",
@@ -5309,9 +5309,9 @@
         "updated": "2026-10-31",
         "url": "https://arxiv.org/abs/2611.00692",
         "pdf_url": "https://arxiv.org/pdf/2611.00692",
-        "code_url": null,
-        "code_source": null,
-        "code_checked_at": "2026-11-03T19:16:49+00:00"
+        "code_url": "https://github.com/skywuxuan/ASR-arxiv-daily",
+        "code_source": "github_search",
+        "code_checked_at": "2026-11-04T05:32:22+00:00"
       },
       "2611.00333": {
         "title": "C3: Speech-Guided KV Retrieval for Long-Context SpeechLLM Inference",
@@ -5327,9 +5327,9 @@
         "updated": "2026-10-30",
         "url": "https://arxiv.org/abs/2611.00333",
         "pdf_url": "https://arxiv.org/pdf/2611.00333",
-        "code_url": null,
-        "code_source": null,
-        "code_checked_at": "2026-11-03T19:16:52+00:00"
+        "code_url": "https://github.com/skywuxuan/ASR-arxiv-daily",
+        "code_source": "github_search",
+        "code_checked_at": "2026-11-04T05:32:24+00:00"
       },
       "2610.41292": {
         "title": "From Transcription to Reformulation: Defining and Benchmarking Grounded Generative Speech Recognition",
@@ -5354,6 +5354,40 @@
         "code_url": "https://github.com/arxivsub/arXivSub_daily_arxiv",
         "code_source": "github_search",
         "code_checked_at": "2026-11-03T19:16:54+00:00"
+      },
+      "2611.04282": {
+        "title": "TTSonic: A Unified Framework for Composable and Controllable Speech Generation",
+        "authors": [
+          "Zhedong Zhang",
+          "Kaiwen Zhou",
+          "Junyan Wu",
+          "Shengqiang Li",
+          "Xuran Chi",
+          "Xingui Zeng",
+          "Rui Yan",
+          "Xu Chen"
+        ],
+        "published": "2026-11-03",
+        "updated": "2026-11-03",
+        "url": "https://arxiv.org/abs/2611.04282",
+        "pdf_url": "https://arxiv.org/pdf/2611.04282",
+        "code_url": "https://github.com/iszhanjiawei/TTS_arxiv_daily",
+        "code_source": "github_search",
+        "code_checked_at": "2026-11-04T05:32:18+00:00"
+      },
+      "2611.03718": {
+        "title": "NepTTS-Bench: Native-Speaker Benchmarking and NepaliMOS for Nepali Text-to-Speech",
+        "authors": [
+          "Ashish Thapa",
+          "Rupak Ghimire",
+          "Lekhnath Sharma Pathak"
+        ],
+        "published": "2026-10-31",
+        "updated": "2026-10-31",
+        "url": "https://arxiv.org/abs/2611.03718",
+        "pdf_url": "https://arxiv.org/pdf/2611.03718",
+        "code_url": "https://github.com/Ampixa/neptts-bench",
+        "code_source": "paper"
       }
     }
   }
