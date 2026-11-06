@@ -1,5 +1,5 @@
 {
-  "last_fetched": "2026-11-04T19:33:13+00:00",
+  "last_fetched": "2026-11-06T19:05:15+00:00",
   "topics": {
     "ASR": {
       "2609.18748": {
@@ -5388,6 +5388,122 @@
         "pdf_url": "https://arxiv.org/pdf/2611.03718",
         "code_url": "https://github.com/Ampixa/neptts-bench",
         "code_source": "paper"
+      },
+      "2611.08092": {
+        "title": "Gabor Gabor: E-Gaborformer, a Strictly Causal Speech Recognizer with Gabor-Dictionary Convolutions and Delta-Rule Memory",
+        "authors": [
+          "Nir Krakowski",
+          "Tamir Cohen",
+          "Ohad Zohar",
+          "Chen Zarfati"
+        ],
+        "published": "2026-11-05",
+        "updated": "2026-11-05",
+        "url": "https://arxiv.org/abs/2611.08092",
+        "pdf_url": "https://arxiv.org/pdf/2611.08092",
+        "code_url": null,
+        "code_source": null,
+        "code_checked_at": "2026-11-06T19:05:15+00:00"
+      },
+      "2611.07755": {
+        "title": "Automated Video-to-QA Pipeline: End-to-End Question Generation and Verification Using Large Language Models",
+        "authors": [
+          "Jaival Chauhan",
+          "Vikram Singh",
+          "Pruthwik Mishra"
+        ],
+        "published": "2026-11-05",
+        "updated": "2026-11-05",
+        "url": "https://arxiv.org/abs/2611.07755",
+        "pdf_url": "https://arxiv.org/pdf/2611.07755",
+        "code_url": "https://github.com/Tavish9/awesome-daily-AI-arxiv",
+        "code_source": "github_search",
+        "code_checked_at": "2026-11-06T19:05:17+00:00"
+      },
+      "2611.07587": {
+        "title": "Fine-Tuning a Transducer for Impaired Speech: Where the Gains Appear and What They Mean for Evaluation",
+        "authors": [
+          "Kien Nguyen",
+          "Tuan Dinh",
+          "Bao Phan"
+        ],
+        "published": "2026-11-05",
+        "updated": "2026-11-05",
+        "url": "https://arxiv.org/abs/2611.07587",
+        "pdf_url": "https://arxiv.org/pdf/2611.07587",
+        "code_url": "https://github.com/Tavish9/awesome-daily-AI-arxiv",
+        "code_source": "github_search",
+        "code_checked_at": "2026-11-06T19:05:20+00:00"
+      },
+      "2611.07485": {
+        "title": "A Unified Multi-Encoder Framework for Music Lyric Intelligibility Assessment: Bridging Invasive and Non-Invasive Paradigms",
+        "authors": [
+          "Jing Yang",
+          "Shenghao Liao",
+          "Shuqing Zhang",
+          "Yongyi Deng",
+          "Pan Li",
+          "Zerui Han",
+          "Gongping Huang"
+        ],
+        "published": "2026-11-05",
+        "updated": "2026-11-05",
+        "url": "https://arxiv.org/abs/2611.07485",
+        "pdf_url": "https://arxiv.org/pdf/2611.07485",
+        "code_url": null,
+        "code_source": null,
+        "code_checked_at": "2026-11-06T19:05:22+00:00"
+      },
+      "2611.06043": {
+        "title": "Confucius4-R2T2: A Stable-Prefix Streaming ASR Model for Real Real-Time Transcription",
+        "authors": [
+          "Daniel Huang",
+          "Qi He",
+          "Shaoxiong Duan",
+          "Yingjie Li",
+          "Qiao Cheng",
+          "Yitao Duan"
+        ],
+        "published": "2026-11-04",
+        "updated": "2026-11-04",
+        "url": "https://arxiv.org/abs/2611.06043",
+        "pdf_url": "https://arxiv.org/pdf/2611.06043",
+        "code_url": "https://github.com/netease-youdao/Confucius4-R2T2",
+        "code_source": "paper"
+      },
+      "2611.05744": {
+        "title": "Text-Only Domain Adaptation for Low-Resource Medical ASR: Shallow Fusion and Density Ratio Rescoring for Hausa",
+        "authors": [
+          "Oche David Ankeli",
+          "Hassan Adelani Luqman",
+          "Theodora Ngozi Egbunike",
+          "Joshua Gottschalk",
+          "Bonaventure F. P. Dossou"
+        ],
+        "published": "2026-11-03",
+        "updated": "2026-11-03",
+        "url": "https://arxiv.org/abs/2611.05744",
+        "pdf_url": "https://arxiv.org/pdf/2611.05744",
+        "code_url": "https://github.com/arxivsub/arXivSub_daily_arxiv",
+        "code_source": "github_search",
+        "code_checked_at": "2026-11-06T19:05:24+00:00"
+      },
+      "2611.05637": {
+        "title": "Contextual Pictograms for Repairing Multilingual ASR Errors",
+        "authors": [
+          "Mariana Hernandez",
+          "Hector Luna",
+          "Carlos Bruno",
+          "Luis Ricardo Santos",
+          "Elena Simoes"
+        ],
+        "published": "2026-11-03",
+        "updated": "2026-11-05",
+        "url": "https://arxiv.org/abs/2611.05637",
+        "pdf_url": "https://arxiv.org/pdf/2611.05637",
+        "code_url": null,
+        "code_source": null,
+        "code_checked_at": "2026-11-06T19:05:26+00:00"
       }
     }
   }

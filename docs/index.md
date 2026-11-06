@@ -8,7 +8,7 @@ layout: default
 
 [使用与部署说明](./README.html#usage)
 
-> 最近成功抓取：2026-11-04T19:33:13+00:00（UTC）
+> 最近成功抓取：2026-11-06T19:05:15+00:00（UTC）
 
 每 12 小时检索一次，按首次提交日期倒序排列，历史论文会持续保留。
 
@@ -18,6 +18,13 @@ layout: default
 
 | 首次提交 | 更新日期 | 标题 | 作者 | arXiv | PDF | 代码 |
 | --- | --- | --- | --- | --- | --- | --- |
+| 2026-11-05 | 2026-11-05 | Gabor Gabor: E-Gaborformer, a Strictly Causal Speech Recognizer with Gabor-Dictionary Convolutions and Delta-Rule Memory | Nir Krakowski et al. | [2611.08092](https://arxiv.org/abs/2611.08092) | [PDF](https://arxiv.org/pdf/2611.08092) | — |
+| 2026-11-05 | 2026-11-05 | Automated Video-to-QA Pipeline: End-to-End Question Generation and Verification Using Large Language Models | Jaival Chauhan et al. | [2611.07755](https://arxiv.org/abs/2611.07755) | [PDF](https://arxiv.org/pdf/2611.07755) | [候选仓库](https://github.com/Tavish9/awesome-daily-AI-arxiv) |
+| 2026-11-05 | 2026-11-05 | Fine-Tuning a Transducer for Impaired Speech: Where the Gains Appear and What They Mean for Evaluation | Kien Nguyen et al. | [2611.07587](https://arxiv.org/abs/2611.07587) | [PDF](https://arxiv.org/pdf/2611.07587) | [候选仓库](https://github.com/Tavish9/awesome-daily-AI-arxiv) |
+| 2026-11-05 | 2026-11-05 | A Unified Multi-Encoder Framework for Music Lyric Intelligibility Assessment: Bridging Invasive and Non-Invasive Paradigms | Jing Yang et al. | [2611.07485](https://arxiv.org/abs/2611.07485) | [PDF](https://arxiv.org/pdf/2611.07485) | — |
+| 2026-11-04 | 2026-11-04 | Confucius4-R2T2: A Stable-Prefix Streaming ASR Model for Real Real-Time Transcription | Daniel Huang et al. | [2611.06043](https://arxiv.org/abs/2611.06043) | [PDF](https://arxiv.org/pdf/2611.06043) | [论文链接](https://github.com/netease-youdao/Confucius4-R2T2) |
+| 2026-11-03 | 2026-11-03 | Text-Only Domain Adaptation for Low-Resource Medical ASR: Shallow Fusion and Density Ratio Rescoring for Hausa | Oche David Ankeli et al. | [2611.05744](https://arxiv.org/abs/2611.05744) | [PDF](https://arxiv.org/pdf/2611.05744) | [候选仓库](https://github.com/arxivsub/arXivSub_daily_arxiv) |
+| 2026-11-03 | 2026-11-05 | Contextual Pictograms for Repairing Multilingual ASR Errors | Mariana Hernandez et al. | [2611.05637](https://arxiv.org/abs/2611.05637) | [PDF](https://arxiv.org/pdf/2611.05637) | — |
 | 2026-11-03 | 2026-11-03 | TTSonic: A Unified Framework for Composable and Controllable Speech Generation | Zhedong Zhang et al. | [2611.04282](https://arxiv.org/abs/2611.04282) | [PDF](https://arxiv.org/pdf/2611.04282) | [候选仓库](https://github.com/iszhanjiawei/TTS_arxiv_daily) |
 | 2026-11-02 | 2026-11-02 | ufakzeka-kulak: Building and Evaluating a 31.6M-Parameter Turkish Speech Recognizer from Scratch | Sait Furkan Teke | [2611.03605](https://arxiv.org/abs/2611.03605) | [PDF](https://arxiv.org/pdf/2611.03605) | [论文链接](https://github.com/ufakai/ufakzeka-kulak) |
 | 2026-11-02 | 2026-11-02 | Zero-Shot Voice Cloning for Synthetic Data Augmentation in Children's ASR | Mohammad Mohsen Goodarzi et al. | [2611.03050](https://arxiv.org/abs/2611.03050) | [PDF](https://arxiv.org/pdf/2611.03050) | [候选仓库](https://github.com/liutaocode/TTS-arxiv-daily) |
