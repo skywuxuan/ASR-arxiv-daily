@@ -8,7 +8,7 @@ layout: default
 
 [使用与部署说明](./README.html#usage)
 
-> 最近成功抓取：2026-11-09T05:28:22+00:00（UTC）
+> 最近成功抓取：2026-11-09T22:06:03+00:00（UTC）
 
 每 12 小时检索一次，按首次提交日期倒序排列，历史论文会持续保留。
 
@@ -18,8 +18,8 @@ layout: default
 
 | 首次提交 | 更新日期 | 标题 | 作者 | arXiv | PDF | 代码 |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-11-06 | 2026-11-06 | Benchmarking Speaker Embedders in the Sub-Second Regime for Real-Time Voice AI Agents | Abhishek Gautam | [2611.09516](https://arxiv.org/abs/2611.09516) | [PDF](https://arxiv.org/pdf/2611.09516) | — |
-| 2026-11-06 | 2026-11-06 | An Effective Spoken Language Understanding Approach Leveraging Query-Adaptive Intent Detection | Bing-Long Kuo et al. | [2611.09491](https://arxiv.org/abs/2611.09491) | [PDF](https://arxiv.org/pdf/2611.09491) | — |
+| 2026-11-06 | 2026-11-06 | Benchmarking Speaker Embedders in the Sub-Second Regime for Real-Time Voice AI Agents | Abhishek Gautam | [2611.09516](https://arxiv.org/abs/2611.09516) | [PDF](https://arxiv.org/pdf/2611.09516) | [候选仓库](https://github.com/Tavish9/awesome-daily-AI-arxiv) |
+| 2026-11-06 | 2026-11-06 | An Effective Spoken Language Understanding Approach Leveraging Query-Adaptive Intent Detection | Bing-Long Kuo et al. | [2611.09491](https://arxiv.org/abs/2611.09491) | [PDF](https://arxiv.org/pdf/2611.09491) | [候选仓库](https://github.com/Tavish9/awesome-daily-AI-arxiv) |
 | 2026-11-06 | 2026-11-06 | Improving Large Audio-Language Model Embedding Baselines for Instruction-Aware Speech Retrieval | Chen-An Li et al. | [2611.09122](https://arxiv.org/abs/2611.09122) | [PDF](https://arxiv.org/pdf/2611.09122) | [论文链接](https://github.com/lca0503/IRIS) |
 | 2026-11-06 | 2026-11-06 | AccentCanvas: Activity-Guided Bidirectional Accent Conversion | Jaehun Kim et al. | [2611.08972](https://arxiv.org/abs/2611.08972) | [PDF](https://arxiv.org/pdf/2611.08972) | [候选仓库](https://github.com/iszhanjiawei/dubbing-dubber-arxiv-daily) |
 | 2026-11-05 | 2026-11-05 | Gabor Gabor: E-Gaborformer, a Strictly Causal Speech Recognizer with Gabor-Dictionary Convolutions and Delta-Rule Memory | Nir Krakowski et al. | [2611.08092](https://arxiv.org/abs/2611.08092) | [PDF](https://arxiv.org/pdf/2611.08092) | [候选仓库](https://github.com/skywuxuan/ASR-arxiv-daily) |
