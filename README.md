@@ -4,7 +4,7 @@
 
 [使用与部署说明](./docs/README.md#usage)
 
-> 最近成功抓取：2026-11-08T17:46:37+00:00（UTC）
+> 最近成功抓取：2026-11-09T05:28:22+00:00（UTC）
 
 每 12 小时检索一次，按首次提交日期倒序排列，历史论文会持续保留。
 
@@ -14,6 +14,10 @@
 
 | 首次提交 | 更新日期 | 标题 | 作者 | arXiv | PDF | 代码 |
 | --- | --- | --- | --- | --- | --- | --- |
+| 2026-11-06 | 2026-11-06 | Benchmarking Speaker Embedders in the Sub-Second Regime for Real-Time Voice AI Agents | Abhishek Gautam | [2611.09516](https://arxiv.org/abs/2611.09516) | [PDF](https://arxiv.org/pdf/2611.09516) | — |
+| 2026-11-06 | 2026-11-06 | An Effective Spoken Language Understanding Approach Leveraging Query-Adaptive Intent Detection | Bing-Long Kuo et al. | [2611.09491](https://arxiv.org/abs/2611.09491) | [PDF](https://arxiv.org/pdf/2611.09491) | — |
+| 2026-11-06 | 2026-11-06 | Improving Large Audio-Language Model Embedding Baselines for Instruction-Aware Speech Retrieval | Chen-An Li et al. | [2611.09122](https://arxiv.org/abs/2611.09122) | [PDF](https://arxiv.org/pdf/2611.09122) | [论文链接](https://github.com/lca0503/IRIS) |
+| 2026-11-06 | 2026-11-06 | AccentCanvas: Activity-Guided Bidirectional Accent Conversion | Jaehun Kim et al. | [2611.08972](https://arxiv.org/abs/2611.08972) | [PDF](https://arxiv.org/pdf/2611.08972) | [候选仓库](https://github.com/iszhanjiawei/dubbing-dubber-arxiv-daily) |
 | 2026-11-05 | 2026-11-05 | Gabor Gabor: E-Gaborformer, a Strictly Causal Speech Recognizer with Gabor-Dictionary Convolutions and Delta-Rule Memory | Nir Krakowski et al. | [2611.08092](https://arxiv.org/abs/2611.08092) | [PDF](https://arxiv.org/pdf/2611.08092) | [候选仓库](https://github.com/skywuxuan/ASR-arxiv-daily) |
 | 2026-11-05 | 2026-11-05 | Automated Video-to-QA Pipeline: End-to-End Question Generation and Verification Using Large Language Models | Jaival Chauhan et al. | [2611.07755](https://arxiv.org/abs/2611.07755) | [PDF](https://arxiv.org/pdf/2611.07755) | [候选仓库](https://github.com/Tavish9/awesome-daily-AI-arxiv) |
 | 2026-11-05 | 2026-11-05 | Fine-Tuning a Transducer for Impaired Speech: Where the Gains Appear and What They Mean for Evaluation | Kien Nguyen et al. | [2611.07587](https://arxiv.org/abs/2611.07587) | [PDF](https://arxiv.org/pdf/2611.07587) | [候选仓库](https://github.com/Tavish9/awesome-daily-AI-arxiv) |
@@ -24,7 +28,7 @@
 | 2026-11-03 | 2026-11-03 | TTSonic: A Unified Framework for Composable and Controllable Speech Generation | Zhedong Zhang et al. | [2611.04282](https://arxiv.org/abs/2611.04282) | [PDF](https://arxiv.org/pdf/2611.04282) | [候选仓库](https://github.com/iszhanjiawei/TTS_arxiv_daily) |
 | 2026-11-02 | 2026-11-02 | ufakzeka-kulak: Building and Evaluating a 31.6M-Parameter Turkish Speech Recognizer from Scratch | Sait Furkan Teke | [2611.03605](https://arxiv.org/abs/2611.03605) | [PDF](https://arxiv.org/pdf/2611.03605) | [论文链接](https://github.com/ufakai/ufakzeka-kulak) |
 | 2026-11-02 | 2026-11-02 | Zero-Shot Voice Cloning for Synthetic Data Augmentation in Children's ASR | Mohammad Mohsen Goodarzi et al. | [2611.03050](https://arxiv.org/abs/2611.03050) | [PDF](https://arxiv.org/pdf/2611.03050) | [候选仓库](https://github.com/liutaocode/TTS-arxiv-daily) |
-| 2026-11-02 | 2026-11-02 | Maswao: An automatically collected, prepared, and benchmarked dataset for the South African Sign language | Thapelo Sindane et al. | [2611.02903](https://arxiv.org/abs/2611.02903) | [PDF](https://arxiv.org/pdf/2611.02903) | [候选仓库](https://github.com/Tavish9/awesome-daily-AI-arxiv) |
+| 2026-11-02 | 2026-11-06 | Maswao: An automatically collected, prepared, and benchmarked dataset for South African Sign Language | Thapelo Sindane et al. | [2611.02903](https://arxiv.org/abs/2611.02903) | [PDF](https://arxiv.org/pdf/2611.02903) | [候选仓库](https://github.com/Tavish9/awesome-daily-AI-arxiv) |
 | 2026-11-02 | 2026-11-02 | Voice-Native LLMs Hear Frustration but Do Not Listen to It | Hanjun Luo et al. | [2611.02893](https://arxiv.org/abs/2611.02893) | [PDF](https://arxiv.org/pdf/2611.02893) | [论文链接](https://github.com/Astarojth/hear-not-listen) |
 | 2026-11-02 | 2026-11-03 | GigaSpeech 3: Scaling Multi-Dialect Arabic Speech Recognition with Weakly Labeled Data | Junzhe Liu et al. | [2611.02476](https://arxiv.org/abs/2611.02476) | [PDF](https://arxiv.org/pdf/2611.02476) | [候选仓库](https://github.com/Tavish9/awesome-daily-AI-arxiv) |
 | 2026-10-31 | 2026-10-31 | NepTTS-Bench: Native-Speaker Benchmarking and NepaliMOS for Nepali Text-to-Speech | Ashish Thapa et al. | [2611.03718](https://arxiv.org/abs/2611.03718) | [PDF](https://arxiv.org/pdf/2611.03718) | [论文链接](https://github.com/Ampixa/neptts-bench) |

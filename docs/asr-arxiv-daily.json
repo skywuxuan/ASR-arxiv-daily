@@ -1,5 +1,5 @@
 {
-  "last_fetched": "2026-11-08T17:46:37+00:00",
+  "last_fetched": "2026-11-09T05:28:22+00:00",
   "topics": {
     "ASR": {
       "2609.18748": {
@@ -5221,7 +5221,7 @@
         "code_checked_at": "2026-11-03T19:16:41+00:00"
       },
       "2611.02903": {
-        "title": "Maswao: An automatically collected, prepared, and benchmarked dataset for the South African Sign language",
+        "title": "Maswao: An automatically collected, prepared, and benchmarked dataset for South African Sign Language",
         "authors": [
           "Thapelo Sindane",
           "Unarine Netshifhefhe",
@@ -5231,7 +5231,7 @@
           "Ketro Sithole"
         ],
         "published": "2026-11-02",
-        "updated": "2026-11-02",
+        "updated": "2026-11-06",
         "url": "https://arxiv.org/abs/2611.02903",
         "pdf_url": "https://arxiv.org/pdf/2611.02903",
         "code_url": "https://github.com/Tavish9/awesome-daily-AI-arxiv",
@@ -5504,6 +5504,67 @@
         "code_url": "https://github.com/skywuxuan/ASR-arxiv-daily",
         "code_source": "github_search",
         "code_checked_at": "2026-11-07T05:19:30+00:00"
+      },
+      "2611.09516": {
+        "title": "Benchmarking Speaker Embedders in the Sub-Second Regime for Real-Time Voice AI Agents",
+        "authors": [
+          "Abhishek Gautam"
+        ],
+        "published": "2026-11-06",
+        "updated": "2026-11-06",
+        "url": "https://arxiv.org/abs/2611.09516",
+        "pdf_url": "https://arxiv.org/pdf/2611.09516",
+        "code_url": null,
+        "code_source": null,
+        "code_checked_at": "2026-11-09T05:28:22+00:00"
+      },
+      "2611.09491": {
+        "title": "An Effective Spoken Language Understanding Approach Leveraging Query-Adaptive Intent Detection",
+        "authors": [
+          "Bing-Long Kuo",
+          "Yu-Hsuan Fang",
+          "Tien-Hong Lo",
+          "Hsueh-Wei Liao",
+          "Berlin Chen"
+        ],
+        "published": "2026-11-06",
+        "updated": "2026-11-06",
+        "url": "https://arxiv.org/abs/2611.09491",
+        "pdf_url": "https://arxiv.org/pdf/2611.09491",
+        "code_url": null,
+        "code_source": null,
+        "code_checked_at": "2026-11-09T05:28:25+00:00"
+      },
+      "2611.09122": {
+        "title": "Improving Large Audio-Language Model Embedding Baselines for Instruction-Aware Speech Retrieval",
+        "authors": [
+          "Chen-An Li",
+          "Cheng-Han Chiang",
+          "Hung-yi Lee"
+        ],
+        "published": "2026-11-06",
+        "updated": "2026-11-06",
+        "url": "https://arxiv.org/abs/2611.09122",
+        "pdf_url": "https://arxiv.org/pdf/2611.09122",
+        "code_url": "https://github.com/lca0503/IRIS",
+        "code_source": "paper"
+      },
+      "2611.08972": {
+        "title": "AccentCanvas: Activity-Guided Bidirectional Accent Conversion",
+        "authors": [
+          "Jaehun Kim",
+          "Kang Zhang",
+          "Sung Woo Kim",
+          "Junmo Kim",
+          "Joon Son Chung"
+        ],
+        "published": "2026-11-06",
+        "updated": "2026-11-06",
+        "url": "https://arxiv.org/abs/2611.08972",
+        "pdf_url": "https://arxiv.org/pdf/2611.08972",
+        "code_url": "https://github.com/iszhanjiawei/dubbing-dubber-arxiv-daily",
+        "code_source": "github_search",
+        "code_checked_at": "2026-11-09T05:28:27+00:00"
       }
     }
   }
