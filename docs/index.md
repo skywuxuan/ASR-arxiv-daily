@@ -8,7 +8,7 @@ layout: default
 
 [使用与部署说明](./README.html#usage)
 
-> 最近成功抓取：2026-11-09T22:06:03+00:00（UTC）
+> 最近成功抓取：2026-11-10T19:28:49+00:00（UTC）
 
 每 12 小时检索一次，按首次提交日期倒序排列，历史论文会持续保留。
 
@@ -18,6 +18,11 @@ layout: default
 
 | 首次提交 | 更新日期 | 标题 | 作者 | arXiv | PDF | 代码 |
 | --- | --- | --- | --- | --- | --- | --- |
+| 2026-11-09 | 2026-11-09 | BARS: Beat-Adaptive Rap Synthesis via Flow Matching | Taemin Cho et al. | [2611.12061](https://arxiv.org/abs/2611.12061) | [PDF](https://arxiv.org/pdf/2611.12061) | [候选仓库](https://github.com/iszhanjiawei/flow_matching_arxiv_daily) |
+| 2026-11-08 | 2026-11-08 | TID System for Speech-COSER Challenge 2026: ASR Track | Fernando López et al. | [2611.11497](https://arxiv.org/abs/2611.11497) | [PDF](https://arxiv.org/pdf/2611.11497) | [候选仓库](https://github.com/arxivsub/arXivSub_daily_arxiv) |
+| 2026-11-08 | 2026-11-08 | DIY Customized Speech Recognition for a Person with Speech Disabilities | Paulo A. Condado et al. | [2611.11327](https://arxiv.org/abs/2611.11327) | [PDF](https://arxiv.org/pdf/2611.11327) | — |
+| 2026-11-07 | 2026-11-07 | KeyASRBench: Measuring Whole-Phrase Keyword Preservation in Real-World ASR | Guanzheng Wei et al. | [2611.10852](https://arxiv.org/abs/2611.10852) | [PDF](https://arxiv.org/pdf/2611.10852) | — |
+| 2026-11-07 | 2026-11-07 | Pandemonium: Longform Target-Speaker Speech Recognition with Cross-Speaker Interactions | Alexander Polok et al. | [2611.10659](https://arxiv.org/abs/2611.10659) | [PDF](https://arxiv.org/pdf/2611.10659) | — |
 | 2026-11-06 | 2026-11-06 | Benchmarking Speaker Embedders in the Sub-Second Regime for Real-Time Voice AI Agents | Abhishek Gautam | [2611.09516](https://arxiv.org/abs/2611.09516) | [PDF](https://arxiv.org/pdf/2611.09516) | [候选仓库](https://github.com/Tavish9/awesome-daily-AI-arxiv) |
 | 2026-11-06 | 2026-11-06 | An Effective Spoken Language Understanding Approach Leveraging Query-Adaptive Intent Detection | Bing-Long Kuo et al. | [2611.09491](https://arxiv.org/abs/2611.09491) | [PDF](https://arxiv.org/pdf/2611.09491) | [候选仓库](https://github.com/Tavish9/awesome-daily-AI-arxiv) |
 | 2026-11-06 | 2026-11-06 | Improving Large Audio-Language Model Embedding Baselines for Instruction-Aware Speech Retrieval | Chen-An Li et al. | [2611.09122](https://arxiv.org/abs/2611.09122) | [PDF](https://arxiv.org/pdf/2611.09122) | [论文链接](https://github.com/lca0503/IRIS) |

@@ -1,5 +1,5 @@
 {
-  "last_fetched": "2026-11-09T22:06:03+00:00",
+  "last_fetched": "2026-11-10T19:28:49+00:00",
   "topics": {
     "ASR": {
       "2609.18748": {
@@ -5565,6 +5565,87 @@
         "code_url": "https://github.com/iszhanjiawei/dubbing-dubber-arxiv-daily",
         "code_source": "github_search",
         "code_checked_at": "2026-11-09T05:28:27+00:00"
+      },
+      "2611.12061": {
+        "title": "BARS: Beat-Adaptive Rap Synthesis via Flow Matching",
+        "authors": [
+          "Taemin Cho",
+          "Hector Martel",
+          "Enyan Koh"
+        ],
+        "published": "2026-11-09",
+        "updated": "2026-11-09",
+        "url": "https://arxiv.org/abs/2611.12061",
+        "pdf_url": "https://arxiv.org/pdf/2611.12061",
+        "code_url": "https://github.com/iszhanjiawei/flow_matching_arxiv_daily",
+        "code_source": "github_search",
+        "code_checked_at": "2026-11-10T19:28:49+00:00"
+      },
+      "2611.11497": {
+        "title": "TID System for Speech-COSER Challenge 2026: ASR Track",
+        "authors": [
+          "Fernando López",
+          "Jordi Luque"
+        ],
+        "published": "2026-11-08",
+        "updated": "2026-11-08",
+        "url": "https://arxiv.org/abs/2611.11497",
+        "pdf_url": "https://arxiv.org/pdf/2611.11497",
+        "code_url": "https://github.com/arxivsub/arXivSub_daily_arxiv",
+        "code_source": "github_search",
+        "code_checked_at": "2026-11-10T19:28:51+00:00"
+      },
+      "2611.11327": {
+        "title": "DIY Customized Speech Recognition for a Person with Speech Disabilities",
+        "authors": [
+          "Paulo A. Condado",
+          "Fernando G. Lobo"
+        ],
+        "published": "2026-11-08",
+        "updated": "2026-11-08",
+        "url": "https://arxiv.org/abs/2611.11327",
+        "pdf_url": "https://arxiv.org/pdf/2611.11327",
+        "code_url": null,
+        "code_source": null,
+        "code_checked_at": "2026-11-10T19:28:53+00:00"
+      },
+      "2611.10852": {
+        "title": "KeyASRBench: Measuring Whole-Phrase Keyword Preservation in Real-World ASR",
+        "authors": [
+          "Guanzheng Wei",
+          "Ziyi Zhao"
+        ],
+        "published": "2026-11-07",
+        "updated": "2026-11-07",
+        "url": "https://arxiv.org/abs/2611.10852",
+        "pdf_url": "https://arxiv.org/pdf/2611.10852",
+        "code_url": null,
+        "code_source": null,
+        "code_checked_at": "2026-11-10T19:28:55+00:00"
+      },
+      "2611.10659": {
+        "title": "Pandemonium: Longform Target-Speaker Speech Recognition with Cross-Speaker Interactions",
+        "authors": [
+          "Alexander Polok",
+          "Dominik Klement",
+          "Ivan Medennikov",
+          "Antoine Laurent",
+          "Petr Pálka",
+          "Samuele Cornell",
+          "Shinji Watanabe",
+          "Sanjeev Khudanpur",
+          "Jagadeesh Balam",
+          "Jan Černocký",
+          "Lukáš Burget",
+          "Matthew Wiesner"
+        ],
+        "published": "2026-11-07",
+        "updated": "2026-11-07",
+        "url": "https://arxiv.org/abs/2611.10659",
+        "pdf_url": "https://arxiv.org/pdf/2611.10659",
+        "code_url": null,
+        "code_source": null,
+        "code_checked_at": "2026-11-10T19:28:58+00:00"
       }
     }
   }
