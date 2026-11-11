@@ -1,5 +1,5 @@
 {
-  "last_fetched": "2026-11-10T19:28:49+00:00",
+  "last_fetched": "2026-11-11T05:26:23+00:00",
   "topics": {
     "ASR": {
       "2609.18748": {
@@ -5605,9 +5605,9 @@
         "updated": "2026-11-08",
         "url": "https://arxiv.org/abs/2611.11327",
         "pdf_url": "https://arxiv.org/pdf/2611.11327",
-        "code_url": null,
-        "code_source": null,
-        "code_checked_at": "2026-11-10T19:28:53+00:00"
+        "code_url": "https://github.com/pacondado/ASR-for-people-with-speech-disabilities",
+        "code_source": "github_search",
+        "code_checked_at": "2026-11-11T05:26:29+00:00"
       },
       "2611.10852": {
         "title": "KeyASRBench: Measuring Whole-Phrase Keyword Preservation in Real-World ASR",
@@ -5619,9 +5619,9 @@
         "updated": "2026-11-07",
         "url": "https://arxiv.org/abs/2611.10852",
         "pdf_url": "https://arxiv.org/pdf/2611.10852",
-        "code_url": null,
-        "code_source": null,
-        "code_checked_at": "2026-11-10T19:28:55+00:00"
+        "code_url": "https://github.com/skywuxuan/ASR-arxiv-daily",
+        "code_source": "github_search",
+        "code_checked_at": "2026-11-11T05:26:31+00:00"
       },
       "2611.10659": {
         "title": "Pandemonium: Longform Target-Speaker Speech Recognition with Cross-Speaker Interactions",
@@ -5643,9 +5643,67 @@
         "updated": "2026-11-07",
         "url": "https://arxiv.org/abs/2611.10659",
         "pdf_url": "https://arxiv.org/pdf/2611.10659",
+        "code_url": "https://github.com/skywuxuan/ASR-arxiv-daily",
+        "code_source": "github_search",
+        "code_checked_at": "2026-11-11T05:26:33+00:00"
+      },
+      "2611.14421": {
+        "title": "Earlybird: Predictive Streaming Speech Recognition in 29M Parameters",
+        "authors": [
+          "Sahil Mahendrakar"
+        ],
+        "published": "2026-11-10",
+        "updated": "2026-11-10",
+        "url": "https://arxiv.org/abs/2611.14421",
+        "pdf_url": "https://arxiv.org/pdf/2611.14421",
         "code_url": null,
         "code_source": null,
-        "code_checked_at": "2026-11-10T19:28:58+00:00"
+        "code_checked_at": "2026-11-11T05:26:23+00:00"
+      },
+      "2611.13845": {
+        "title": "Alania-2: Turkish text-to-speech with instant and fine-tuned voice cloning",
+        "authors": [
+          "Sezgin Saygili",
+          "Emre Kaplaner",
+          "Oncel Ozgul",
+          "Fikri San Koktas"
+        ],
+        "published": "2026-11-10",
+        "updated": "2026-11-10",
+        "url": "https://arxiv.org/abs/2611.13845",
+        "pdf_url": "https://arxiv.org/pdf/2611.13845",
+        "code_url": "https://github.com/liutaocode/TTS-arxiv-daily",
+        "code_source": "github_search",
+        "code_checked_at": "2026-11-11T05:26:25+00:00"
+      },
+      "2611.13814": {
+        "title": "Swanada: Split-Encoder Capability-Routed Conformer CTC and Sub-30 MB On-Device Speech Recognition Across Twelve Scripts",
+        "authors": [
+          "Hemanth HM"
+        ],
+        "published": "2026-11-10",
+        "updated": "2026-11-10",
+        "url": "https://arxiv.org/abs/2611.13814",
+        "pdf_url": "https://arxiv.org/pdf/2611.13814",
+        "code_url": "https://github.com/hemanth/swanada",
+        "code_source": "paper"
+      },
+      "2611.13689": {
+        "title": "Walrus Technical Report",
+        "authors": [
+          "Alkis Koudounas",
+          "Osamu Take",
+          "Hayato Futami",
+          "Quentin Jodelet",
+          "Emiru Tsunoo"
+        ],
+        "published": "2026-11-10",
+        "updated": "2026-11-10",
+        "url": "https://arxiv.org/abs/2611.13689",
+        "pdf_url": "https://arxiv.org/pdf/2611.13689",
+        "code_url": "https://github.com/liutaocode/TTS-arxiv-daily",
+        "code_source": "github_search",
+        "code_checked_at": "2026-11-11T05:26:27+00:00"
       }
     }
   }
