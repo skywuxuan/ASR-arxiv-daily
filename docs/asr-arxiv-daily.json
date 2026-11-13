@@ -1,5 +1,5 @@
 {
-  "last_fetched": "2026-11-12T06:30:53+00:00",
+  "last_fetched": "2026-11-13T05:49:57+00:00",
   "topics": {
     "ASR": {
       "2609.18748": {
@@ -5704,6 +5704,231 @@
         "code_url": "https://github.com/liutaocode/TTS-arxiv-daily",
         "code_source": "github_search",
         "code_checked_at": "2026-11-11T05:26:27+00:00"
+      },
+      "2611.16637": {
+        "title": "The Unseen Threat: How Complementary Combinations of Acoustic Features Compromise Speech Privacy",
+        "authors": [
+          "Jule Pohlhausen",
+          "Jörg Bitzer"
+        ],
+        "published": "2026-11-12",
+        "updated": "2026-11-12",
+        "url": "https://arxiv.org/abs/2611.16637",
+        "pdf_url": "https://arxiv.org/pdf/2611.16637",
+        "code_url": null,
+        "code_source": null,
+        "code_checked_at": "2026-11-13T05:49:58+00:00"
+      },
+      "2611.16371": {
+        "title": "Structured Speaker Conditioning for Diarization-Guided Target-Speaker ASR",
+        "authors": [
+          "Ruoyu Wang",
+          "Shutong Niu",
+          "Jun Du",
+          "Weixin Zhu",
+          "Yannan Wang"
+        ],
+        "published": "2026-11-12",
+        "updated": "2026-11-12",
+        "url": "https://arxiv.org/abs/2611.16371",
+        "pdf_url": "https://arxiv.org/pdf/2611.16371",
+        "code_url": null,
+        "code_source": null,
+        "code_checked_at": "2026-11-13T05:50:00+00:00"
+      },
+      "2611.16260": {
+        "title": "Low Language Transfer Speech-to-Text",
+        "authors": [
+          "Husein Zolkepli"
+        ],
+        "published": "2026-11-12",
+        "updated": "2026-11-12",
+        "url": "https://arxiv.org/abs/2611.16260",
+        "pdf_url": "https://arxiv.org/pdf/2611.16260",
+        "code_url": null,
+        "code_source": null,
+        "code_checked_at": "2026-11-13T05:50:02+00:00"
+      },
+      "2611.15961": {
+        "title": "Is Spoken Hungarian Low-resource?: A Quantitative Survey of Hungarian Speech Data Sets",
+        "authors": [
+          "Péter Mihajlik",
+          "Katalin Mády",
+          "Anna Kohári",
+          "Fruzsina Sára Vargha",
+          "Gábor Kiss",
+          "Tekla Etelka Gráczi",
+          "A. Seza Doğruöz"
+        ],
+        "published": "2026-11-11",
+        "updated": "2026-11-11",
+        "url": "https://arxiv.org/abs/2611.15961",
+        "pdf_url": "https://arxiv.org/pdf/2611.15961",
+        "code_url": null,
+        "code_source": null,
+        "code_checked_at": "2026-11-13T05:50:04+00:00"
+      },
+      "2611.15691": {
+        "title": "Dynamic Block-Online Streaming ASR for Low-Resource Agglutinative Code-Switching Speech with Morphology-Aware Evaluation",
+        "authors": [
+          "Kazi Rafat",
+          "Afifa Imran",
+          "Md. Ismail Hossain",
+          "Md. Romzan Ali",
+          "Fuad Rahman",
+          "Sifat Momen",
+          "Shafin Rahman",
+          "Nabeel Mohammed"
+        ],
+        "published": "2026-11-11",
+        "updated": "2026-11-11",
+        "url": "https://arxiv.org/abs/2611.15691",
+        "pdf_url": "https://arxiv.org/pdf/2611.15691",
+        "code_url": "https://github.com/King-Rafat/Dynamic_Streaming_ASR",
+        "code_source": "paper"
+      },
+      "2611.15362": {
+        "title": "JEV-VAD: Efficient Semantic Endpointing via Task-First Conditioning and Decoder-Prefix Pruning",
+        "authors": [
+          "Jintao Liang",
+          "Nan Li",
+          "Longbiao Wang",
+          "Tubin Huang",
+          "Min Xu"
+        ],
+        "published": "2026-11-11",
+        "updated": "2026-11-11",
+        "url": "https://arxiv.org/abs/2611.15362",
+        "pdf_url": "https://arxiv.org/pdf/2611.15362",
+        "code_url": null,
+        "code_source": null,
+        "code_checked_at": "2026-11-13T05:50:06+00:00"
+      },
+      "2611.15114": {
+        "title": "What Does Each Part of Speech Need? Contexts, Subspaces and Dimensions in Static Word Embeddings",
+        "authors": [
+          "Jintang Xue",
+          "Chengwei Wei",
+          "Yun-Cheng Wang",
+          "C. -C. Jay Kuo"
+        ],
+        "published": "2026-11-11",
+        "updated": "2026-11-11",
+        "url": "https://arxiv.org/abs/2611.15114",
+        "pdf_url": "https://arxiv.org/pdf/2611.15114",
+        "code_url": null,
+        "code_source": null,
+        "code_checked_at": "2026-11-13T05:50:08+00:00"
+      },
+      "2611.15087": {
+        "title": "Scaffolding Self-Transduction with Alignment Attention Mask for Aligner-Encoder ASR",
+        "authors": [
+          "Jaeyoung Lee",
+          "Masato Mimura"
+        ],
+        "published": "2026-11-11",
+        "updated": "2026-11-11",
+        "url": "https://arxiv.org/abs/2611.15087",
+        "pdf_url": "https://arxiv.org/pdf/2611.15087",
+        "code_url": null,
+        "code_source": null,
+        "code_checked_at": "2026-11-13T05:50:10+00:00"
+      },
+      "2611.14929": {
+        "title": "Speech Tokenizers are Vulnerable: Transferable Semantic Attack and Robust Tokenizer",
+        "authors": [
+          "Zhisheng Zhang",
+          "Yifan Mi",
+          "Yixuan Zhou",
+          "Haiyun Li",
+          "Shengbo Cai",
+          "Dongfu Song",
+          "Ziang Xu",
+          "Jie Hao",
+          "Zhiyong Wu"
+        ],
+        "published": "2026-11-11",
+        "updated": "2026-11-11",
+        "url": "https://arxiv.org/abs/2611.14929",
+        "pdf_url": "https://arxiv.org/pdf/2611.14929",
+        "code_url": null,
+        "code_source": null,
+        "code_checked_at": "2026-11-13T05:50:12+00:00"
+      },
+      "2611.14908": {
+        "title": "Hy ASR 3.0 Technical Report",
+        "authors": [
+          "Aoxiong Yin",
+          "Auden Li",
+          "Chao Huang",
+          "Chuanyang Hu",
+          "Eitan Wang",
+          "Ethan Zou",
+          "Fangming Feng",
+          "Guangyu Chen",
+          "Guinan Li",
+          "He Wang",
+          "Jiahong Li",
+          "Meng Yu",
+          "Mingyu Cui",
+          "Peng Wang",
+          "Rongjie Li",
+          "Steve Yves",
+          "Teddy Sun",
+          "Tian Zheng",
+          "Wei Liu",
+          "Yang Zhou",
+          "Yixuan Zhang",
+          "Zhennan Lin",
+          "Zhihang Xu",
+          "Zhuohao Li",
+          "Ziqiang Zhang",
+          "Anji Zhang",
+          "Bang Wang",
+          "Caisheng Ouyang",
+          "Chengqi Zhu",
+          "Chong Li",
+          "Conglian Xie",
+          "Dongdong Wang",
+          "Edward Wang",
+          "Evelynn Liu",
+          "Ferman Yang",
+          "Feng Lu",
+          "Gang Zhang",
+          "Jathon Zhang",
+          "Jaxl Liu",
+          "Jiachen Luo",
+          "Jian Li",
+          "Jingxi Gui",
+          "Kysun Wang",
+          "Liang Dong",
+          "Longsha Zhou",
+          "Na Hu",
+          "Qi Chen",
+          "Rilin Chen",
+          "Rui Yuan",
+          "Shanshan Sang",
+          "Siyu Yan",
+          "Steven Hong",
+          "Taihui Wang",
+          "Weiwei Li",
+          "Xiangyu Zhang",
+          "Xiaotong Yang",
+          "Xue Hu",
+          "Xue Jiang",
+          "Yameng Li",
+          "Yifu Sun",
+          "Yuhuan Zhou",
+          "Zhiang Chen",
+          "Zhibin Wang"
+        ],
+        "published": "2026-11-11",
+        "updated": "2026-11-11",
+        "url": "https://arxiv.org/abs/2611.14908",
+        "pdf_url": "https://arxiv.org/pdf/2611.14908",
+        "code_url": null,
+        "code_source": null,
+        "code_checked_at": "2026-11-13T05:50:14+00:00"
       }
     }
   }
