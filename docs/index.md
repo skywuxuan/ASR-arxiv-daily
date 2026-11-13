@@ -8,7 +8,7 @@ layout: default
 
 [使用与部署说明](./README.html#usage)
 
-> 最近成功抓取：2026-11-13T05:49:57+00:00（UTC）
+> 最近成功抓取：2026-11-13T19:23:53+00:00（UTC）
 
 每 12 小时检索一次，按首次提交日期倒序排列，历史论文会持续保留。
 
@@ -18,16 +18,17 @@ layout: default
 
 | 首次提交 | 更新日期 | 标题 | 作者 | arXiv | PDF | 代码 |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-11-12 | 2026-11-12 | The Unseen Threat: How Complementary Combinations of Acoustic Features Compromise Speech Privacy | Jule Pohlhausen et al. | [2611.16637](https://arxiv.org/abs/2611.16637) | [PDF](https://arxiv.org/pdf/2611.16637) | — |
-| 2026-11-12 | 2026-11-12 | Structured Speaker Conditioning for Diarization-Guided Target-Speaker ASR | Ruoyu Wang et al. | [2611.16371](https://arxiv.org/abs/2611.16371) | [PDF](https://arxiv.org/pdf/2611.16371) | — |
-| 2026-11-12 | 2026-11-12 | Low Language Transfer Speech-to-Text | Husein Zolkepli | [2611.16260](https://arxiv.org/abs/2611.16260) | [PDF](https://arxiv.org/pdf/2611.16260) | — |
-| 2026-11-11 | 2026-11-11 | Is Spoken Hungarian Low-resource?: A Quantitative Survey of Hungarian Speech Data Sets | Péter Mihajlik et al. | [2611.15961](https://arxiv.org/abs/2611.15961) | [PDF](https://arxiv.org/pdf/2611.15961) | — |
+| 2026-11-12 | 2026-11-12 | Beyond Word Error Rate: A Failure Taxonomy of Streaming Dictation ASR | Harras Mansoor et al. | [2611.16919](https://arxiv.org/abs/2611.16919) | [PDF](https://arxiv.org/pdf/2611.16919) | [论文链接](https://github.com/heylemon-ai/streaming-dictation-asr) |
+| 2026-11-12 | 2026-11-12 | The Unseen Threat: How Complementary Combinations of Acoustic Features Compromise Speech Privacy | Jule Pohlhausen et al. | [2611.16637](https://arxiv.org/abs/2611.16637) | [PDF](https://arxiv.org/pdf/2611.16637) | [候选仓库](https://github.com/skywuxuan/ASR-arxiv-daily) |
+| 2026-11-12 | 2026-11-12 | Structured Speaker Conditioning for Diarization-Guided Target-Speaker ASR | Ruoyu Wang et al. | [2611.16371](https://arxiv.org/abs/2611.16371) | [PDF](https://arxiv.org/pdf/2611.16371) | [候选仓库](https://github.com/skywuxuan/ASR-arxiv-daily) |
+| 2026-11-12 | 2026-11-12 | Low Language Transfer Speech-to-Text | Husein Zolkepli | [2611.16260](https://arxiv.org/abs/2611.16260) | [PDF](https://arxiv.org/pdf/2611.16260) | [候选仓库](https://github.com/Tavish9/awesome-daily-AI-arxiv) |
+| 2026-11-11 | 2026-11-11 | Is Spoken Hungarian Low-resource?: A Quantitative Survey of Hungarian Speech Data Sets | Péter Mihajlik et al. | [2611.15961](https://arxiv.org/abs/2611.15961) | [PDF](https://arxiv.org/pdf/2611.15961) | [候选仓库](https://github.com/Tavish9/awesome-daily-AI-arxiv) |
 | 2026-11-11 | 2026-11-11 | Dynamic Block-Online Streaming ASR for Low-Resource Agglutinative Code-Switching Speech with Morphology-Aware Evaluation | Kazi Rafat et al. | [2611.15691](https://arxiv.org/abs/2611.15691) | [PDF](https://arxiv.org/pdf/2611.15691) | [论文链接](https://github.com/King-Rafat/Dynamic_Streaming_ASR) |
-| 2026-11-11 | 2026-11-11 | JEV-VAD: Efficient Semantic Endpointing via Task-First Conditioning and Decoder-Prefix Pruning | Jintao Liang et al. | [2611.15362](https://arxiv.org/abs/2611.15362) | [PDF](https://arxiv.org/pdf/2611.15362) | — |
-| 2026-11-11 | 2026-11-11 | What Does Each Part of Speech Need? Contexts, Subspaces and Dimensions in Static Word Embeddings | Jintang Xue et al. | [2611.15114](https://arxiv.org/abs/2611.15114) | [PDF](https://arxiv.org/pdf/2611.15114) | — |
-| 2026-11-11 | 2026-11-11 | Scaffolding Self-Transduction with Alignment Attention Mask for Aligner-Encoder ASR | Jaeyoung Lee et al. | [2611.15087](https://arxiv.org/abs/2611.15087) | [PDF](https://arxiv.org/pdf/2611.15087) | — |
-| 2026-11-11 | 2026-11-11 | Speech Tokenizers are Vulnerable: Transferable Semantic Attack and Robust Tokenizer | Zhisheng Zhang et al. | [2611.14929](https://arxiv.org/abs/2611.14929) | [PDF](https://arxiv.org/pdf/2611.14929) | — |
-| 2026-11-11 | 2026-11-11 | Hy ASR 3.0 Technical Report | Aoxiong Yin et al. | [2611.14908](https://arxiv.org/abs/2611.14908) | [PDF](https://arxiv.org/pdf/2611.14908) | — |
+| 2026-11-11 | 2026-11-11 | JEV-VAD: Efficient Semantic Endpointing via Task-First Conditioning and Decoder-Prefix Pruning | Jintao Liang et al. | [2611.15362](https://arxiv.org/abs/2611.15362) | [PDF](https://arxiv.org/pdf/2611.15362) | [候选仓库](https://github.com/skywuxuan/ASR-arxiv-daily) |
+| 2026-11-11 | 2026-11-11 | What Does Each Part of Speech Need? Contexts, Subspaces and Dimensions in Static Word Embeddings | Jintang Xue et al. | [2611.15114](https://arxiv.org/abs/2611.15114) | [PDF](https://arxiv.org/pdf/2611.15114) | [候选仓库](https://github.com/Tavish9/awesome-daily-AI-arxiv) |
+| 2026-11-11 | 2026-11-11 | Scaffolding Self-Transduction with Alignment Attention Mask for Aligner-Encoder ASR | Jaeyoung Lee et al. | [2611.15087](https://arxiv.org/abs/2611.15087) | [PDF](https://arxiv.org/pdf/2611.15087) | [候选仓库](https://github.com/skywuxuan/ASR-arxiv-daily) |
+| 2026-11-11 | 2026-11-11 | Speech Tokenizers are Vulnerable: Transferable Semantic Attack and Robust Tokenizer | Zhisheng Zhang et al. | [2611.14929](https://arxiv.org/abs/2611.14929) | [PDF](https://arxiv.org/pdf/2611.14929) | [候选仓库](https://github.com/skywuxuan/ASR-arxiv-daily) |
+| 2026-11-11 | 2026-11-11 | Hy ASR 3.0 Technical Report | Aoxiong Yin et al. | [2611.14908](https://arxiv.org/abs/2611.14908) | [PDF](https://arxiv.org/pdf/2611.14908) | [候选仓库](https://github.com/skywuxuan/ASR-arxiv-daily) |
 | 2026-11-10 | 2026-11-10 | Earlybird: Predictive Streaming Speech Recognition in 29M Parameters | Sahil Mahendrakar | [2611.14421](https://arxiv.org/abs/2611.14421) | [PDF](https://arxiv.org/pdf/2611.14421) | [候选仓库](https://github.com/sahilmahendrakar/earlybird) |
 | 2026-11-10 | 2026-11-10 | Alania-2: Turkish text-to-speech with instant and fine-tuned voice cloning | Sezgin Saygili et al. | [2611.13845](https://arxiv.org/abs/2611.13845) | [PDF](https://arxiv.org/pdf/2611.13845) | [候选仓库](https://github.com/liutaocode/TTS-arxiv-daily) |
 | 2026-11-10 | 2026-11-10 | Swanada: Split-Encoder Capability-Routed Conformer CTC and Sub-30 MB On-Device Speech Recognition Across Twelve Scripts | Hemanth HM | [2611.13814](https://arxiv.org/abs/2611.13814) | [PDF](https://arxiv.org/pdf/2611.13814) | [论文链接](https://github.com/hemanth/swanada) |

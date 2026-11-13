@@ -1,5 +1,5 @@
 {
-  "last_fetched": "2026-11-13T05:49:57+00:00",
+  "last_fetched": "2026-11-13T19:23:53+00:00",
   "topics": {
     "ASR": {
       "2609.18748": {
@@ -5715,9 +5715,9 @@
         "updated": "2026-11-12",
         "url": "https://arxiv.org/abs/2611.16637",
         "pdf_url": "https://arxiv.org/pdf/2611.16637",
-        "code_url": null,
-        "code_source": null,
-        "code_checked_at": "2026-11-13T05:49:58+00:00"
+        "code_url": "https://github.com/skywuxuan/ASR-arxiv-daily",
+        "code_source": "github_search",
+        "code_checked_at": "2026-11-13T19:23:54+00:00"
       },
       "2611.16371": {
         "title": "Structured Speaker Conditioning for Diarization-Guided Target-Speaker ASR",
@@ -5732,9 +5732,9 @@
         "updated": "2026-11-12",
         "url": "https://arxiv.org/abs/2611.16371",
         "pdf_url": "https://arxiv.org/pdf/2611.16371",
-        "code_url": null,
-        "code_source": null,
-        "code_checked_at": "2026-11-13T05:50:00+00:00"
+        "code_url": "https://github.com/skywuxuan/ASR-arxiv-daily",
+        "code_source": "github_search",
+        "code_checked_at": "2026-11-13T19:23:56+00:00"
       },
       "2611.16260": {
         "title": "Low Language Transfer Speech-to-Text",
@@ -5745,9 +5745,9 @@
         "updated": "2026-11-12",
         "url": "https://arxiv.org/abs/2611.16260",
         "pdf_url": "https://arxiv.org/pdf/2611.16260",
-        "code_url": null,
-        "code_source": null,
-        "code_checked_at": "2026-11-13T05:50:02+00:00"
+        "code_url": "https://github.com/Tavish9/awesome-daily-AI-arxiv",
+        "code_source": "github_search",
+        "code_checked_at": "2026-11-13T19:23:58+00:00"
       },
       "2611.15961": {
         "title": "Is Spoken Hungarian Low-resource?: A Quantitative Survey of Hungarian Speech Data Sets",
@@ -5764,9 +5764,9 @@
         "updated": "2026-11-11",
         "url": "https://arxiv.org/abs/2611.15961",
         "pdf_url": "https://arxiv.org/pdf/2611.15961",
-        "code_url": null,
-        "code_source": null,
-        "code_checked_at": "2026-11-13T05:50:04+00:00"
+        "code_url": "https://github.com/Tavish9/awesome-daily-AI-arxiv",
+        "code_source": "github_search",
+        "code_checked_at": "2026-11-13T19:24:00+00:00"
       },
       "2611.15691": {
         "title": "Dynamic Block-Online Streaming ASR for Low-Resource Agglutinative Code-Switching Speech with Morphology-Aware Evaluation",
@@ -5800,9 +5800,9 @@
         "updated": "2026-11-11",
         "url": "https://arxiv.org/abs/2611.15362",
         "pdf_url": "https://arxiv.org/pdf/2611.15362",
-        "code_url": null,
-        "code_source": null,
-        "code_checked_at": "2026-11-13T05:50:06+00:00"
+        "code_url": "https://github.com/skywuxuan/ASR-arxiv-daily",
+        "code_source": "github_search",
+        "code_checked_at": "2026-11-13T19:24:02+00:00"
       },
       "2611.15114": {
         "title": "What Does Each Part of Speech Need? Contexts, Subspaces and Dimensions in Static Word Embeddings",
@@ -5816,9 +5816,9 @@
         "updated": "2026-11-11",
         "url": "https://arxiv.org/abs/2611.15114",
         "pdf_url": "https://arxiv.org/pdf/2611.15114",
-        "code_url": null,
-        "code_source": null,
-        "code_checked_at": "2026-11-13T05:50:08+00:00"
+        "code_url": "https://github.com/Tavish9/awesome-daily-AI-arxiv",
+        "code_source": "github_search",
+        "code_checked_at": "2026-11-13T19:24:04+00:00"
       },
       "2611.15087": {
         "title": "Scaffolding Self-Transduction with Alignment Attention Mask for Aligner-Encoder ASR",
@@ -5830,9 +5830,9 @@
         "updated": "2026-11-11",
         "url": "https://arxiv.org/abs/2611.15087",
         "pdf_url": "https://arxiv.org/pdf/2611.15087",
-        "code_url": null,
-        "code_source": null,
-        "code_checked_at": "2026-11-13T05:50:10+00:00"
+        "code_url": "https://github.com/skywuxuan/ASR-arxiv-daily",
+        "code_source": "github_search",
+        "code_checked_at": "2026-11-13T19:24:06+00:00"
       },
       "2611.14929": {
         "title": "Speech Tokenizers are Vulnerable: Transferable Semantic Attack and Robust Tokenizer",
@@ -5851,9 +5851,9 @@
         "updated": "2026-11-11",
         "url": "https://arxiv.org/abs/2611.14929",
         "pdf_url": "https://arxiv.org/pdf/2611.14929",
-        "code_url": null,
-        "code_source": null,
-        "code_checked_at": "2026-11-13T05:50:12+00:00"
+        "code_url": "https://github.com/skywuxuan/ASR-arxiv-daily",
+        "code_source": "github_search",
+        "code_checked_at": "2026-11-13T19:24:08+00:00"
       },
       "2611.14908": {
         "title": "Hy ASR 3.0 Technical Report",
@@ -5926,9 +5926,24 @@
         "updated": "2026-11-11",
         "url": "https://arxiv.org/abs/2611.14908",
         "pdf_url": "https://arxiv.org/pdf/2611.14908",
-        "code_url": null,
-        "code_source": null,
-        "code_checked_at": "2026-11-13T05:50:14+00:00"
+        "code_url": "https://github.com/skywuxuan/ASR-arxiv-daily",
+        "code_source": "github_search",
+        "code_checked_at": "2026-11-13T19:24:10+00:00"
+      },
+      "2611.16919": {
+        "title": "Beyond Word Error Rate: A Failure Taxonomy of Streaming Dictation ASR",
+        "authors": [
+          "Harras Mansoor",
+          "Muhammad Wisal",
+          "Hassan Bhatti",
+          "Masood Shakir"
+        ],
+        "published": "2026-11-12",
+        "updated": "2026-11-12",
+        "url": "https://arxiv.org/abs/2611.16919",
+        "pdf_url": "https://arxiv.org/pdf/2611.16919",
+        "code_url": "https://github.com/heylemon-ai/streaming-dictation-asr",
+        "code_source": "paper"
       }
     }
   }
