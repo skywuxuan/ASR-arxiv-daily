@@ -1,5 +1,5 @@
 {
-  "last_fetched": "2026-11-15T18:38:39+00:00",
+  "last_fetched": "2026-11-16T05:38:26+00:00",
   "topics": {
     "ASR": {
       "2609.18748": {
@@ -5944,6 +5944,45 @@
         "pdf_url": "https://arxiv.org/pdf/2611.16919",
         "code_url": "https://github.com/heylemon-ai/streaming-dictation-asr",
         "code_source": "paper"
+      },
+      "2611.18330": {
+        "title": "Marimba: A System One Model for Speech",
+        "authors": [
+          "Solano Amadori"
+        ],
+        "published": "2026-11-13",
+        "updated": "2026-11-13",
+        "url": "https://arxiv.org/abs/2611.18330",
+        "pdf_url": "https://arxiv.org/pdf/2611.18330",
+        "code_url": "https://github.com/Charcot-AI/marimba-api",
+        "code_source": "paper"
+      },
+      "2611.17686": {
+        "title": "What Do Multilingual Self-Supervised Speech Encoders Know About Sentence Meaning?",
+        "authors": [
+          "Kevin Krahn",
+          "Eric Fosler-Lussier"
+        ],
+        "published": "2026-11-13",
+        "updated": "2026-11-13",
+        "url": "https://arxiv.org/abs/2611.17686",
+        "pdf_url": "https://arxiv.org/pdf/2611.17686",
+        "code_url": null,
+        "code_source": null,
+        "code_checked_at": "2026-11-16T05:38:26+00:00"
+      },
+      "2611.17573": {
+        "title": "CamSpokenNLI: A Pilot Resource for Cross-Variety Transfer Evaluation in Cameroon Pidgin English and Camfranglais",
+        "authors": [
+          "Tiani Pekins Ebika"
+        ],
+        "published": "2026-11-12",
+        "updated": "2026-11-12",
+        "url": "https://arxiv.org/abs/2611.17573",
+        "pdf_url": "https://arxiv.org/pdf/2611.17573",
+        "code_url": null,
+        "code_source": null,
+        "code_checked_at": "2026-11-16T05:38:29+00:00"
       }
     }
   }

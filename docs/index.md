@@ -8,7 +8,7 @@ layout: default
 
 [使用与部署说明](./README.html#usage)
 
-> 最近成功抓取：2026-11-15T18:38:39+00:00（UTC）
+> 最近成功抓取：2026-11-16T05:38:26+00:00（UTC）
 
 每 12 小时检索一次，按首次提交日期倒序排列，历史论文会持续保留。
 
@@ -18,6 +18,9 @@ layout: default
 
 | 首次提交 | 更新日期 | 标题 | 作者 | arXiv | PDF | 代码 |
 | --- | --- | --- | --- | --- | --- | --- |
+| 2026-11-13 | 2026-11-13 | Marimba: A System One Model for Speech | Solano Amadori | [2611.18330](https://arxiv.org/abs/2611.18330) | [PDF](https://arxiv.org/pdf/2611.18330) | [论文链接](https://github.com/Charcot-AI/marimba-api) |
+| 2026-11-13 | 2026-11-13 | What Do Multilingual Self-Supervised Speech Encoders Know About Sentence Meaning? | Kevin Krahn et al. | [2611.17686](https://arxiv.org/abs/2611.17686) | [PDF](https://arxiv.org/pdf/2611.17686) | — |
+| 2026-11-12 | 2026-11-12 | CamSpokenNLI: A Pilot Resource for Cross-Variety Transfer Evaluation in Cameroon Pidgin English and Camfranglais | Tiani Pekins Ebika | [2611.17573](https://arxiv.org/abs/2611.17573) | [PDF](https://arxiv.org/pdf/2611.17573) | — |
 | 2026-11-12 | 2026-11-12 | Beyond Word Error Rate: A Failure Taxonomy of Streaming Dictation ASR | Harras Mansoor et al. | [2611.16919](https://arxiv.org/abs/2611.16919) | [PDF](https://arxiv.org/pdf/2611.16919) | [论文链接](https://github.com/heylemon-ai/streaming-dictation-asr) |
 | 2026-11-12 | 2026-11-12 | The Unseen Threat: How Complementary Combinations of Acoustic Features Compromise Speech Privacy | Jule Pohlhausen et al. | [2611.16637](https://arxiv.org/abs/2611.16637) | [PDF](https://arxiv.org/pdf/2611.16637) | [候选仓库](https://github.com/skywuxuan/ASR-arxiv-daily) |
 | 2026-11-12 | 2026-11-12 | Structured Speaker Conditioning for Diarization-Guided Target-Speaker ASR | Ruoyu Wang et al. | [2611.16371](https://arxiv.org/abs/2611.16371) | [PDF](https://arxiv.org/pdf/2611.16371) | [候选仓库](https://github.com/skywuxuan/ASR-arxiv-daily) |
