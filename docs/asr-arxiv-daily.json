@@ -5967,9 +5967,9 @@
         "updated": "2026-11-13",
         "url": "https://arxiv.org/abs/2611.17686",
         "pdf_url": "https://arxiv.org/pdf/2611.17686",
-        "code_url": null,
-        "code_source": null,
-        "code_checked_at": "2026-11-16T05:38:26+00:00"
+        "code_url": "https://github.com/Tavish9/awesome-daily-AI-arxiv",
+        "code_source": "github_search",
+        "code_checked_at": "2026-11-16T18:00:03+00:00"
       },
       "2611.17573": {
         "title": "CamSpokenNLI: A Pilot Resource for Cross-Variety Transfer Evaluation in Cameroon Pidgin English and Camfranglais",
@@ -5980,9 +5980,9 @@
         "updated": "2026-11-12",
         "url": "https://arxiv.org/abs/2611.17573",
         "pdf_url": "https://arxiv.org/pdf/2611.17573",
-        "code_url": null,
-        "code_source": null,
-        "code_checked_at": "2026-11-16T05:38:29+00:00"
+        "code_url": "https://github.com/arxivsub/arXivSub_daily_arxiv",
+        "code_source": "github_search",
+        "code_checked_at": "2026-11-16T18:00:05+00:00"
       }
     }
   }
