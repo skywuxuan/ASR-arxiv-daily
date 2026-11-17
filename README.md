@@ -4,7 +4,7 @@
 
 [使用与部署说明](./docs/README.md#usage)
 
-> 最近成功抓取：2026-11-17T07:17:03+00:00（UTC）
+> 最近成功抓取：2026-11-17T20:39:17+00:00（UTC）
 
 每 12 小时检索一次，按首次提交日期倒序排列，历史论文会持续保留。
 
@@ -14,16 +14,16 @@
 
 | 首次提交 | 更新日期 | 标题 | 作者 | arXiv | PDF | 代码 |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-11-16 | 2026-11-16 | Does the Voice Matter? Evaluating Frustration Detection on Deployed Clinical Voice-Agent Calls | Annika Michael et al. | [2611.21001](https://arxiv.org/abs/2611.21001) | [PDF](https://arxiv.org/pdf/2611.21001) | — |
-| 2026-11-16 | 2026-11-16 | Learning from Distribution: Rethinking One-Hot Supervision for ASR and QA in Speech Language Models | Yujie Guo et al. | [2611.20436](https://arxiv.org/abs/2611.20436) | [PDF](https://arxiv.org/pdf/2611.20436) | — |
-| 2026-11-15 | 2026-11-15 | FRAAC: A French Multimodal Large Language Model and Dataset forPictogram-Based Augmentative and Alternative Communication | Alexandre Audibert et al. | [2611.20094](https://arxiv.org/abs/2611.20094) | [PDF](https://arxiv.org/pdf/2611.20094) | — |
+| 2026-11-16 | 2026-11-16 | Does the Voice Matter? Evaluating Frustration Detection on Deployed Clinical Voice-Agent Calls | Annika Michael et al. | [2611.21001](https://arxiv.org/abs/2611.21001) | [PDF](https://arxiv.org/pdf/2611.21001) | [候选仓库](https://github.com/Tavish9/awesome-daily-AI-arxiv) |
+| 2026-11-16 | 2026-11-16 | Learning from Distribution: Rethinking One-Hot Supervision for ASR and QA in Speech Language Models | Yujie Guo et al. | [2611.20436](https://arxiv.org/abs/2611.20436) | [PDF](https://arxiv.org/pdf/2611.20436) | [候选仓库](https://github.com/arxivsub/arXivSub_daily_arxiv) |
+| 2026-11-15 | 2026-11-15 | FRAAC: A French Multimodal Large Language Model and Dataset forPictogram-Based Augmentative and Alternative Communication | Alexandre Audibert et al. | [2611.20094](https://arxiv.org/abs/2611.20094) | [PDF](https://arxiv.org/pdf/2611.20094) | [候选仓库](https://github.com/Tavish9/awesome-daily-AI-arxiv) |
 | 2026-11-15 | 2026-11-15 | The Vocabulary Tax: Safely Trimming Unused Tokens from LLMs for On-Device Use | Sattaya Singkul | [2611.19913](https://arxiv.org/abs/2611.19913) | [PDF](https://arxiv.org/pdf/2611.19913) | [论文链接](https://github.com/JoesSattes/ai-model-explorer) |
-| 2026-11-15 | 2026-11-15 | A Speech-LLM Framework for Enrollment-Free Wake-Word-Guided Target-Speaker Recognition in Complex Noisy Scenarios for Seamless Human-Machine Interaction | Yuxiang Mei et al. | [2611.19844](https://arxiv.org/abs/2611.19844) | [PDF](https://arxiv.org/pdf/2611.19844) | — |
+| 2026-11-15 | 2026-11-15 | A Speech-LLM Framework for Enrollment-Free Wake-Word-Guided Target-Speaker Recognition in Complex Noisy Scenarios for Seamless Human-Machine Interaction | Yuxiang Mei et al. | [2611.19844](https://arxiv.org/abs/2611.19844) | [PDF](https://arxiv.org/pdf/2611.19844) | [候选仓库](https://github.com/liutaocode/TTS-arxiv-daily) |
 | 2026-11-14 | 2026-11-14 | Sada-ASR: A Production Multidialectal Arabic Speech Recognition System | Mahmoud Khaled et al. | [2611.19512](https://arxiv.org/abs/2611.19512) | [PDF](https://arxiv.org/pdf/2611.19512) | [论文链接](https://github.com/echonova-ai-solutions/arabic-asr-benchmark) |
 | 2026-11-14 | 2026-11-14 | Auditory-Feedback-Conditioned Flow TTS for Implicit Lombard Adaptation | Yunya Wang et al. | [2611.19260](https://arxiv.org/abs/2611.19260) | [PDF](https://arxiv.org/pdf/2611.19260) | [候选仓库](https://github.com/iszhanjiawei/flow_matching_arxiv_daily) |
-| 2026-11-14 | 2026-11-14 | Low-Latency LLM-Based Streaming Multi-Talker ASR with Verifiable Rewards | Jing Pan et al. | [2611.19136](https://arxiv.org/abs/2611.19136) | [PDF](https://arxiv.org/pdf/2611.19136) | — |
+| 2026-11-14 | 2026-11-14 | Low-Latency LLM-Based Streaming Multi-Talker ASR with Verifiable Rewards | Jing Pan et al. | [2611.19136](https://arxiv.org/abs/2611.19136) | [PDF](https://arxiv.org/pdf/2611.19136) | [候选仓库](https://github.com/skywuxuan/ASR-arxiv-daily) |
 | 2026-11-14 | 2026-11-14 | Latency, Speech Recognition and Turn-Taking in Voice Agents for Spanish Phone Negotiation: An Externally Measured Comparison of Pipecat, LiveKit and GPT-Live | Jovan Popoca Moran et al. | [2611.19118](https://arxiv.org/abs/2611.19118) | [PDF](https://arxiv.org/pdf/2611.19118) | [论文链接](https://github.com/AILabFr8tech/voice-negotiation-agents) |
-| 2026-11-13 | 2026-11-13 | Dependable Voice Command for Multi-UAV Swarms Using Small Language Models | Afshin Ameri et al. | [2611.18924](https://arxiv.org/abs/2611.18924) | [PDF](https://arxiv.org/pdf/2611.18924) | — |
+| 2026-11-13 | 2026-11-13 | Dependable Voice Command for Multi-UAV Swarms Using Small Language Models | Afshin Ameri et al. | [2611.18924](https://arxiv.org/abs/2611.18924) | [PDF](https://arxiv.org/pdf/2611.18924) | [候选仓库](https://github.com/skywuxuan/ASR-arxiv-daily) |
 | 2026-11-13 | 2026-11-13 | Marimba: A System One Model for Speech | Solano Amadori | [2611.18330](https://arxiv.org/abs/2611.18330) | [PDF](https://arxiv.org/pdf/2611.18330) | [论文链接](https://github.com/Charcot-AI/marimba-api) |
 | 2026-11-13 | 2026-11-13 | What Do Multilingual Self-Supervised Speech Encoders Know About Sentence Meaning? | Kevin Krahn et al. | [2611.17686](https://arxiv.org/abs/2611.17686) | [PDF](https://arxiv.org/pdf/2611.17686) | [候选仓库](https://github.com/Tavish9/awesome-daily-AI-arxiv) |
 | 2026-11-12 | 2026-11-12 | CamSpokenNLI: A Pilot Resource for Cross-Variety Transfer Evaluation in Cameroon Pidgin English and Camfranglais | Tiani Pekins Ebika | [2611.17573](https://arxiv.org/abs/2611.17573) | [PDF](https://arxiv.org/pdf/2611.17573) | [候选仓库](https://github.com/arxivsub/arXivSub_daily_arxiv) |

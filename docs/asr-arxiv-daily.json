@@ -1,5 +1,5 @@
 {
-  "last_fetched": "2026-11-17T07:17:03+00:00",
+  "last_fetched": "2026-11-17T20:39:17+00:00",
   "topics": {
     "ASR": {
       "2609.18748": {
@@ -5999,9 +5999,9 @@
         "updated": "2026-11-16",
         "url": "https://arxiv.org/abs/2611.21001",
         "pdf_url": "https://arxiv.org/pdf/2611.21001",
-        "code_url": null,
-        "code_source": null,
-        "code_checked_at": "2026-11-17T07:17:04+00:00"
+        "code_url": "https://github.com/Tavish9/awesome-daily-AI-arxiv",
+        "code_source": "github_search",
+        "code_checked_at": "2026-11-17T20:39:17+00:00"
       },
       "2611.20436": {
         "title": "Learning from Distribution: Rethinking One-Hot Supervision for ASR and QA in Speech Language Models",
@@ -6018,9 +6018,9 @@
         "updated": "2026-11-16",
         "url": "https://arxiv.org/abs/2611.20436",
         "pdf_url": "https://arxiv.org/pdf/2611.20436",
-        "code_url": null,
-        "code_source": null,
-        "code_checked_at": "2026-11-17T07:17:06+00:00"
+        "code_url": "https://github.com/arxivsub/arXivSub_daily_arxiv",
+        "code_source": "github_search",
+        "code_checked_at": "2026-11-17T20:39:19+00:00"
       },
       "2611.20094": {
         "title": "FRAAC: A French Multimodal Large Language Model and Dataset forPictogram-Based Augmentative and Alternative Communication",
@@ -6034,9 +6034,9 @@
         "updated": "2026-11-15",
         "url": "https://arxiv.org/abs/2611.20094",
         "pdf_url": "https://arxiv.org/pdf/2611.20094",
-        "code_url": null,
-        "code_source": null,
-        "code_checked_at": "2026-11-17T07:17:08+00:00"
+        "code_url": "https://github.com/Tavish9/awesome-daily-AI-arxiv",
+        "code_source": "github_search",
+        "code_checked_at": "2026-11-17T20:39:21+00:00"
       },
       "2611.19913": {
         "title": "The Vocabulary Tax: Safely Trimming Unused Tokens from LLMs for On-Device Use",
@@ -6061,9 +6061,9 @@
         "updated": "2026-11-15",
         "url": "https://arxiv.org/abs/2611.19844",
         "pdf_url": "https://arxiv.org/pdf/2611.19844",
-        "code_url": null,
-        "code_source": null,
-        "code_checked_at": "2026-11-17T07:17:10+00:00"
+        "code_url": "https://github.com/liutaocode/TTS-arxiv-daily",
+        "code_source": "github_search",
+        "code_checked_at": "2026-11-17T20:39:24+00:00"
       },
       "2611.19512": {
         "title": "Sada-ASR: A Production Multidialectal Arabic Speech Recognition System",
@@ -6108,9 +6108,9 @@
         "updated": "2026-11-14",
         "url": "https://arxiv.org/abs/2611.19136",
         "pdf_url": "https://arxiv.org/pdf/2611.19136",
-        "code_url": null,
-        "code_source": null,
-        "code_checked_at": "2026-11-17T07:17:14+00:00"
+        "code_url": "https://github.com/skywuxuan/ASR-arxiv-daily",
+        "code_source": "github_search",
+        "code_checked_at": "2026-11-17T20:39:26+00:00"
       },
       "2611.19118": {
         "title": "Latency, Speech Recognition and Turn-Taking in Voice Agents for Spanish Phone Negotiation: An Externally Measured Comparison of Pipecat, LiveKit and GPT-Live",
@@ -6141,9 +6141,9 @@
         "updated": "2026-11-13",
         "url": "https://arxiv.org/abs/2611.18924",
         "pdf_url": "https://arxiv.org/pdf/2611.18924",
-        "code_url": null,
-        "code_source": null,
-        "code_checked_at": "2026-11-17T07:17:16+00:00"
+        "code_url": "https://github.com/skywuxuan/ASR-arxiv-daily",
+        "code_source": "github_search",
+        "code_checked_at": "2026-11-17T20:39:28+00:00"
       }
     }
   }
