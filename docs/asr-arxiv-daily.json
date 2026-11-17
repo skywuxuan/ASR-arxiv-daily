@@ -1,5 +1,5 @@
 {
-  "last_fetched": "2026-11-16T21:47:41+00:00",
+  "last_fetched": "2026-11-17T07:17:03+00:00",
   "topics": {
     "ASR": {
       "2609.18748": {
@@ -5983,6 +5983,167 @@
         "code_url": "https://github.com/arxivsub/arXivSub_daily_arxiv",
         "code_source": "github_search",
         "code_checked_at": "2026-11-16T18:00:05+00:00"
+      },
+      "2611.21001": {
+        "title": "Does the Voice Matter? Evaluating Frustration Detection on Deployed Clinical Voice-Agent Calls",
+        "authors": [
+          "Annika Michael",
+          "Zachary Ellis",
+          "Yuxiang Zhou",
+          "Samuel Thio",
+          "Yajie Vera He",
+          "Spencer Hazel",
+          "Jared Joselowitz"
+        ],
+        "published": "2026-11-16",
+        "updated": "2026-11-16",
+        "url": "https://arxiv.org/abs/2611.21001",
+        "pdf_url": "https://arxiv.org/pdf/2611.21001",
+        "code_url": null,
+        "code_source": null,
+        "code_checked_at": "2026-11-17T07:17:04+00:00"
+      },
+      "2611.20436": {
+        "title": "Learning from Distribution: Rethinking One-Hot Supervision for ASR and QA in Speech Language Models",
+        "authors": [
+          "Yujie Guo",
+          "Hongjie Chen",
+          "Jiaming Zhou",
+          "Jian Kang",
+          "Jie Li",
+          "Yongxiang Li",
+          "Yong Qin"
+        ],
+        "published": "2026-11-16",
+        "updated": "2026-11-16",
+        "url": "https://arxiv.org/abs/2611.20436",
+        "pdf_url": "https://arxiv.org/pdf/2611.20436",
+        "code_url": null,
+        "code_source": null,
+        "code_checked_at": "2026-11-17T07:17:06+00:00"
+      },
+      "2611.20094": {
+        "title": "FRAAC: A French Multimodal Large Language Model and Dataset forPictogram-Based Augmentative and Alternative Communication",
+        "authors": [
+          "Alexandre Audibert",
+          "François Portet",
+          "Benoit Favre",
+          "Maja Jonck Hjuler"
+        ],
+        "published": "2026-11-15",
+        "updated": "2026-11-15",
+        "url": "https://arxiv.org/abs/2611.20094",
+        "pdf_url": "https://arxiv.org/pdf/2611.20094",
+        "code_url": null,
+        "code_source": null,
+        "code_checked_at": "2026-11-17T07:17:08+00:00"
+      },
+      "2611.19913": {
+        "title": "The Vocabulary Tax: Safely Trimming Unused Tokens from LLMs for On-Device Use",
+        "authors": [
+          "Sattaya Singkul"
+        ],
+        "published": "2026-11-15",
+        "updated": "2026-11-15",
+        "url": "https://arxiv.org/abs/2611.19913",
+        "pdf_url": "https://arxiv.org/pdf/2611.19913",
+        "code_url": "https://github.com/JoesSattes/ai-model-explorer",
+        "code_source": "paper"
+      },
+      "2611.19844": {
+        "title": "A Speech-LLM Framework for Enrollment-Free Wake-Word-Guided Target-Speaker Recognition in Complex Noisy Scenarios for Seamless Human-Machine Interaction",
+        "authors": [
+          "Yuxiang Mei",
+          "Dongxing Xu",
+          "Yanhua Long"
+        ],
+        "published": "2026-11-15",
+        "updated": "2026-11-15",
+        "url": "https://arxiv.org/abs/2611.19844",
+        "pdf_url": "https://arxiv.org/pdf/2611.19844",
+        "code_url": null,
+        "code_source": null,
+        "code_checked_at": "2026-11-17T07:17:10+00:00"
+      },
+      "2611.19512": {
+        "title": "Sada-ASR: A Production Multidialectal Arabic Speech Recognition System",
+        "authors": [
+          "Mahmoud Khaled",
+          "Mohammed Abd-Elnaser",
+          "Mahmoud Mohsen",
+          "Hazem Ahmed",
+          "Abdelrahman Hafez"
+        ],
+        "published": "2026-11-14",
+        "updated": "2026-11-14",
+        "url": "https://arxiv.org/abs/2611.19512",
+        "pdf_url": "https://arxiv.org/pdf/2611.19512",
+        "code_url": "https://github.com/echonova-ai-solutions/arabic-asr-benchmark",
+        "code_source": "paper"
+      },
+      "2611.19260": {
+        "title": "Auditory-Feedback-Conditioned Flow TTS for Implicit Lombard Adaptation",
+        "authors": [
+          "Yunya Wang",
+          "Satoshi Nakamura"
+        ],
+        "published": "2026-11-14",
+        "updated": "2026-11-14",
+        "url": "https://arxiv.org/abs/2611.19260",
+        "pdf_url": "https://arxiv.org/pdf/2611.19260",
+        "code_url": "https://github.com/iszhanjiawei/flow_matching_arxiv_daily",
+        "code_source": "github_search",
+        "code_checked_at": "2026-11-17T07:17:12+00:00"
+      },
+      "2611.19136": {
+        "title": "Low-Latency LLM-Based Streaming Multi-Talker ASR with Verifiable Rewards",
+        "authors": [
+          "Jing Pan",
+          "Ruizhi Li",
+          "Ju Lin",
+          "Jing Zheng",
+          "Florian Metze"
+        ],
+        "published": "2026-11-14",
+        "updated": "2026-11-14",
+        "url": "https://arxiv.org/abs/2611.19136",
+        "pdf_url": "https://arxiv.org/pdf/2611.19136",
+        "code_url": null,
+        "code_source": null,
+        "code_checked_at": "2026-11-17T07:17:14+00:00"
+      },
+      "2611.19118": {
+        "title": "Latency, Speech Recognition and Turn-Taking in Voice Agents for Spanish Phone Negotiation: An Externally Measured Comparison of Pipecat, LiveKit and GPT-Live",
+        "authors": [
+          "Jovan Popoca Moran",
+          "Eduardo de Avila-Armenta",
+          "Raúl Alejandro Aquino-Ibarra",
+          "Jorge Octavio Nicolás-Díaz",
+          "Umberto Leon-Dominguez"
+        ],
+        "published": "2026-11-14",
+        "updated": "2026-11-14",
+        "url": "https://arxiv.org/abs/2611.19118",
+        "pdf_url": "https://arxiv.org/pdf/2611.19118",
+        "code_url": "https://github.com/AILabFr8tech/voice-negotiation-agents",
+        "code_source": "paper"
+      },
+      "2611.18924": {
+        "title": "Dependable Voice Command for Multi-UAV Swarms Using Small Language Models",
+        "authors": [
+          "Afshin Ameri",
+          "Luiz Giacomossi",
+          "Håkan Forsberg",
+          "Ivan Tomasic",
+          "Baran Cürüklü"
+        ],
+        "published": "2026-11-13",
+        "updated": "2026-11-13",
+        "url": "https://arxiv.org/abs/2611.18924",
+        "pdf_url": "https://arxiv.org/pdf/2611.18924",
+        "code_url": null,
+        "code_source": null,
+        "code_checked_at": "2026-11-17T07:17:16+00:00"
       }
     }
   }
