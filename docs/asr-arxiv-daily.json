@@ -1,5 +1,5 @@
 {
-  "last_fetched": "2026-11-17T20:39:17+00:00",
+  "last_fetched": "2026-11-18T20:12:28+00:00",
   "topics": {
     "ASR": {
       "2609.18748": {
@@ -5996,7 +5996,7 @@
           "Jared Joselowitz"
         ],
         "published": "2026-11-16",
-        "updated": "2026-11-16",
+        "updated": "2026-11-17",
         "url": "https://arxiv.org/abs/2611.21001",
         "pdf_url": "https://arxiv.org/pdf/2611.21001",
         "code_url": "https://github.com/Tavish9/awesome-daily-AI-arxiv",
@@ -6144,6 +6144,43 @@
         "code_url": "https://github.com/skywuxuan/ASR-arxiv-daily",
         "code_source": "github_search",
         "code_checked_at": "2026-11-17T20:39:28+00:00"
+      },
+      "2611.23115": {
+        "title": "Nunchi: Ears Help Eyes in Multi-Party Conversations",
+        "authors": [
+          "JunYeong Park",
+          "Shijing Wang",
+          "Seonwook Park",
+          "Michael Stengel",
+          "Shalini De Mello",
+          "Sang-Il Choi",
+          "Hyung Jin Chang"
+        ],
+        "published": "2026-11-17",
+        "updated": "2026-11-17",
+        "url": "https://arxiv.org/abs/2611.23115",
+        "pdf_url": "https://arxiv.org/pdf/2611.23115",
+        "code_url": "https://github.com/Tavish9/awesome-daily-AI-arxiv",
+        "code_source": "github_search",
+        "code_checked_at": "2026-11-18T20:12:28+00:00"
+      },
+      "2611.22627": {
+        "title": "Beyond Mimicry: Constrained Exploration with GRPO for Joint Multi-Talker ASR and Diarization under Unknown Speaker Counts",
+        "authors": [
+          "Yunrui Cai",
+          "Dingdong Wang",
+          "Lingwei Meng",
+          "Xixin Wu",
+          "Zhiyong Wu",
+          "Helen Meng"
+        ],
+        "published": "2026-11-17",
+        "updated": "2026-11-17",
+        "url": "https://arxiv.org/abs/2611.22627",
+        "pdf_url": "https://arxiv.org/pdf/2611.22627",
+        "code_url": "https://github.com/arxivsub/arXivSub_daily_arxiv",
+        "code_source": "github_search",
+        "code_checked_at": "2026-11-18T20:12:30+00:00"
       }
     }
   }

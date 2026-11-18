@@ -8,7 +8,7 @@ layout: default
 
 [使用与部署说明](./README.html#usage)
 
-> 最近成功抓取：2026-11-17T20:39:17+00:00（UTC）
+> 最近成功抓取：2026-11-18T20:12:28+00:00（UTC）
 
 每 12 小时检索一次，按首次提交日期倒序排列，历史论文会持续保留。
 
@@ -18,7 +18,9 @@ layout: default
 
 | 首次提交 | 更新日期 | 标题 | 作者 | arXiv | PDF | 代码 |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-11-16 | 2026-11-16 | Does the Voice Matter? Evaluating Frustration Detection on Deployed Clinical Voice-Agent Calls | Annika Michael et al. | [2611.21001](https://arxiv.org/abs/2611.21001) | [PDF](https://arxiv.org/pdf/2611.21001) | [候选仓库](https://github.com/Tavish9/awesome-daily-AI-arxiv) |
+| 2026-11-17 | 2026-11-17 | Nunchi: Ears Help Eyes in Multi-Party Conversations | JunYeong Park et al. | [2611.23115](https://arxiv.org/abs/2611.23115) | [PDF](https://arxiv.org/pdf/2611.23115) | [候选仓库](https://github.com/Tavish9/awesome-daily-AI-arxiv) |
+| 2026-11-17 | 2026-11-17 | Beyond Mimicry: Constrained Exploration with GRPO for Joint Multi-Talker ASR and Diarization under Unknown Speaker Counts | Yunrui Cai et al. | [2611.22627](https://arxiv.org/abs/2611.22627) | [PDF](https://arxiv.org/pdf/2611.22627) | [候选仓库](https://github.com/arxivsub/arXivSub_daily_arxiv) |
+| 2026-11-16 | 2026-11-17 | Does the Voice Matter? Evaluating Frustration Detection on Deployed Clinical Voice-Agent Calls | Annika Michael et al. | [2611.21001](https://arxiv.org/abs/2611.21001) | [PDF](https://arxiv.org/pdf/2611.21001) | [候选仓库](https://github.com/Tavish9/awesome-daily-AI-arxiv) |
 | 2026-11-16 | 2026-11-16 | Learning from Distribution: Rethinking One-Hot Supervision for ASR and QA in Speech Language Models | Yujie Guo et al. | [2611.20436](https://arxiv.org/abs/2611.20436) | [PDF](https://arxiv.org/pdf/2611.20436) | [候选仓库](https://github.com/arxivsub/arXivSub_daily_arxiv) |
 | 2026-11-15 | 2026-11-15 | FRAAC: A French Multimodal Large Language Model and Dataset forPictogram-Based Augmentative and Alternative Communication | Alexandre Audibert et al. | [2611.20094](https://arxiv.org/abs/2611.20094) | [PDF](https://arxiv.org/pdf/2611.20094) | [候选仓库](https://github.com/Tavish9/awesome-daily-AI-arxiv) |
 | 2026-11-15 | 2026-11-15 | The Vocabulary Tax: Safely Trimming Unused Tokens from LLMs for On-Device Use | Sattaya Singkul | [2611.19913](https://arxiv.org/abs/2611.19913) | [PDF](https://arxiv.org/pdf/2611.19913) | [论文链接](https://github.com/JoesSattes/ai-model-explorer) |
