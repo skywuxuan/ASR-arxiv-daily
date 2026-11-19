@@ -1,5 +1,5 @@
 {
-  "last_fetched": "2026-11-18T20:12:28+00:00",
+  "last_fetched": "2026-11-19T20:14:19+00:00",
   "topics": {
     "ASR": {
       "2609.18748": {
@@ -6181,6 +6181,20 @@
         "code_url": "https://github.com/arxivsub/arXivSub_daily_arxiv",
         "code_source": "github_search",
         "code_checked_at": "2026-11-18T20:12:30+00:00"
+      },
+      "2611.24721": {
+        "title": "Induction Head Origins of SLAM-ASR Speech Recognition Models",
+        "authors": [
+          "Artem Fedorchenko",
+          "Tanel Alumäe"
+        ],
+        "published": "2026-11-18",
+        "updated": "2026-11-18",
+        "url": "https://arxiv.org/abs/2611.24721",
+        "pdf_url": "https://arxiv.org/pdf/2611.24721",
+        "code_url": "https://github.com/Tavish9/awesome-daily-AI-arxiv",
+        "code_source": "github_search",
+        "code_checked_at": "2026-11-19T20:14:20+00:00"
       }
     }
   }
