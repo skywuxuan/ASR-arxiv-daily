@@ -1,5 +1,5 @@
 {
-  "last_fetched": "2026-11-22T19:14:22+00:00",
+  "last_fetched": "2026-11-23T06:39:57+00:00",
   "topics": {
     "ASR": {
       "2609.18748": {
@@ -6195,6 +6195,72 @@
         "code_url": "https://github.com/Tavish9/awesome-daily-AI-arxiv",
         "code_source": "github_search",
         "code_checked_at": "2026-11-19T20:14:20+00:00"
+      },
+      "2611.27434": {
+        "title": "No Audio, No Transcripts, No Problem: LLM-based ASR Adaptation Using Only Domain Documents",
+        "authors": [
+          "Sergio Burdisso",
+          "Dairazalia Sánchez-Cortés",
+          "Esaú Villatoro-Tello",
+          "Thibault Bañeras-Roux",
+          "Manjunath K E",
+          "Kadri Hacioglu",
+          "Petr Motlicek",
+          "Andreas Stolcke"
+        ],
+        "published": "2026-11-20",
+        "updated": "2026-11-20",
+        "url": "https://arxiv.org/abs/2611.27434",
+        "pdf_url": "https://arxiv.org/pdf/2611.27434",
+        "code_url": null,
+        "code_source": null,
+        "code_checked_at": "2026-11-23T06:39:57+00:00"
+      },
+      "2611.26796": {
+        "title": "Efficient Conversational Multi-Talker ASR with Predicted Speaker-Agnostic Activity Streams",
+        "authors": [
+          "Xiluo He",
+          "Magdalena Rybicka",
+          "Laureano Moro-Velazquez",
+          "Jesús Villalba",
+          "Thomas Thebaud",
+          "Najim Dehak"
+        ],
+        "published": "2026-11-19",
+        "updated": "2026-11-19",
+        "url": "https://arxiv.org/abs/2611.26796",
+        "pdf_url": "https://arxiv.org/pdf/2611.26796",
+        "code_url": null,
+        "code_source": null,
+        "code_checked_at": "2026-11-23T06:39:59+00:00"
+      },
+      "2611.26776": {
+        "title": "What Helps Language-Model Agents Review Violent Video? A Controlled Comparison with a Human Evidence Reference",
+        "authors": [
+          "Mohammed El Amine Mokhtari",
+          "Matei Mancas",
+          "Virginie Vandenbulcke"
+        ],
+        "published": "2026-11-19",
+        "updated": "2026-11-19",
+        "url": "https://arxiv.org/abs/2611.26776",
+        "pdf_url": "https://arxiv.org/pdf/2611.26776",
+        "code_url": "https://github.com/amine0110/evidence-graph-agents",
+        "code_source": "paper"
+      },
+      "2611.26759": {
+        "title": "Windchime: an Audiovisual Installation with Audio-Language Model implementations",
+        "authors": [
+          "Trent Eriksen",
+          "Celeste Betancur Gutierrez"
+        ],
+        "published": "2026-11-19",
+        "updated": "2026-11-19",
+        "url": "https://arxiv.org/abs/2611.26759",
+        "pdf_url": "https://arxiv.org/pdf/2611.26759",
+        "code_url": "https://github.com/Grashopr-888/NeurIPS2026_CreativeAI",
+        "code_source": "github_search",
+        "code_checked_at": "2026-11-23T06:40:01+00:00"
       }
     }
   }
