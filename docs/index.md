@@ -18,8 +18,8 @@ layout: default
 
 | 首次提交 | 更新日期 | 标题 | 作者 | arXiv | PDF | 代码 |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-11-20 | 2026-11-20 | No Audio, No Transcripts, No Problem: LLM-based ASR Adaptation Using Only Domain Documents | Sergio Burdisso et al. | [2611.27434](https://arxiv.org/abs/2611.27434) | [PDF](https://arxiv.org/pdf/2611.27434) | — |
-| 2026-11-19 | 2026-11-19 | Efficient Conversational Multi-Talker ASR with Predicted Speaker-Agnostic Activity Streams | Xiluo He et al. | [2611.26796](https://arxiv.org/abs/2611.26796) | [PDF](https://arxiv.org/pdf/2611.26796) | — |
+| 2026-11-20 | 2026-11-20 | No Audio, No Transcripts, No Problem: LLM-based ASR Adaptation Using Only Domain Documents | Sergio Burdisso et al. | [2611.27434](https://arxiv.org/abs/2611.27434) | [PDF](https://arxiv.org/pdf/2611.27434) | [候选仓库](https://github.com/Tavish9/awesome-daily-AI-arxiv) |
+| 2026-11-19 | 2026-11-19 | Efficient Conversational Multi-Talker ASR with Predicted Speaker-Agnostic Activity Streams | Xiluo He et al. | [2611.26796](https://arxiv.org/abs/2611.26796) | [PDF](https://arxiv.org/pdf/2611.26796) | [候选仓库](https://github.com/skywuxuan/ASR-arxiv-daily) |
 | 2026-11-19 | 2026-11-19 | What Helps Language-Model Agents Review Violent Video? A Controlled Comparison with a Human Evidence Reference | Mohammed El Amine Mokhtari et al. | [2611.26776](https://arxiv.org/abs/2611.26776) | [PDF](https://arxiv.org/pdf/2611.26776) | [论文链接](https://github.com/amine0110/evidence-graph-agents) |
 | 2026-11-19 | 2026-11-19 | Windchime: an Audiovisual Installation with Audio-Language Model implementations | Trent Eriksen et al. | [2611.26759](https://arxiv.org/abs/2611.26759) | [PDF](https://arxiv.org/pdf/2611.26759) | [候选仓库](https://github.com/Grashopr-888/NeurIPS2026_CreativeAI) |
 | 2026-11-18 | 2026-11-18 | Induction Head Origins of SLAM-ASR Speech Recognition Models | Artem Fedorchenko et al. | [2611.24721](https://arxiv.org/abs/2611.24721) | [PDF](https://arxiv.org/pdf/2611.24721) | [候选仓库](https://github.com/Tavish9/awesome-daily-AI-arxiv) |

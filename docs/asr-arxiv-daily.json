@@ -6212,9 +6212,9 @@
         "updated": "2026-11-20",
         "url": "https://arxiv.org/abs/2611.27434",
         "pdf_url": "https://arxiv.org/pdf/2611.27434",
-        "code_url": null,
-        "code_source": null,
-        "code_checked_at": "2026-11-23T06:39:57+00:00"
+        "code_url": "https://github.com/Tavish9/awesome-daily-AI-arxiv",
+        "code_source": "github_search",
+        "code_checked_at": "2026-11-23T19:54:47+00:00"
       },
       "2611.26796": {
         "title": "Efficient Conversational Multi-Talker ASR with Predicted Speaker-Agnostic Activity Streams",
@@ -6230,9 +6230,9 @@
         "updated": "2026-11-19",
         "url": "https://arxiv.org/abs/2611.26796",
         "pdf_url": "https://arxiv.org/pdf/2611.26796",
-        "code_url": null,
-        "code_source": null,
-        "code_checked_at": "2026-11-23T06:39:59+00:00"
+        "code_url": "https://github.com/skywuxuan/ASR-arxiv-daily",
+        "code_source": "github_search",
+        "code_checked_at": "2026-11-23T19:54:49+00:00"
       },
       "2611.26776": {
         "title": "What Helps Language-Model Agents Review Violent Video? A Controlled Comparison with a Human Evidence Reference",
