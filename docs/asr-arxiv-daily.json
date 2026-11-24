@@ -1,5 +1,5 @@
 {
-  "last_fetched": "2026-11-24T09:08:03+00:00",
+  "last_fetched": "2026-11-24T22:07:06+00:00",
   "topics": {
     "ASR": {
       "2609.18748": {
@@ -6276,9 +6276,9 @@
         "updated": "2026-11-23",
         "url": "https://arxiv.org/abs/2611.31055",
         "pdf_url": "https://arxiv.org/pdf/2611.31055",
-        "code_url": null,
-        "code_source": null,
-        "code_checked_at": "2026-11-24T09:08:03+00:00"
+        "code_url": "https://github.com/skywuxuan/ASR-arxiv-daily",
+        "code_source": "github_search",
+        "code_checked_at": "2026-11-24T22:07:07+00:00"
       },
       "2611.30694": {
         "title": "Synthetic Twins: Closing the Gap Between TTS Test Sets and Real Recordings in Turkish ASR Evaluation",
@@ -6320,9 +6320,9 @@
         "updated": "2026-11-22",
         "url": "https://arxiv.org/abs/2611.29557",
         "pdf_url": "https://arxiv.org/pdf/2611.29557",
-        "code_url": null,
-        "code_source": null,
-        "code_checked_at": "2026-11-24T09:08:10+00:00"
+        "code_url": "https://github.com/skywuxuan/ASR-arxiv-daily",
+        "code_source": "github_search",
+        "code_checked_at": "2026-11-24T22:07:09+00:00"
       },
       "2611.29455": {
         "title": "PAWP-TTS: Phoneme-Aware Weight Programming for Compact Bilingual English-Nepali Speech Synthesis",
@@ -6363,9 +6363,9 @@
         "updated": "2026-11-21",
         "url": "https://arxiv.org/abs/2611.28930",
         "pdf_url": "https://arxiv.org/pdf/2611.28930",
-        "code_url": null,
-        "code_source": null,
-        "code_checked_at": "2026-11-24T09:08:12+00:00"
+        "code_url": "https://github.com/skywuxuan/ASR-arxiv-daily",
+        "code_source": "github_search",
+        "code_checked_at": "2026-11-24T22:07:11+00:00"
       },
       "2611.28823": {
         "title": "When Being Wrong Is Right: Reverse-Capability Audio CAPTCHAs through Psychoacoustic Design",
@@ -6379,9 +6379,9 @@
         "updated": "2026-11-21",
         "url": "https://arxiv.org/abs/2611.28823",
         "pdf_url": "https://arxiv.org/pdf/2611.28823",
-        "code_url": null,
-        "code_source": null,
-        "code_checked_at": "2026-11-24T09:08:14+00:00"
+        "code_url": "https://github.com/skywuxuan/ASR-arxiv-daily",
+        "code_source": "github_search",
+        "code_checked_at": "2026-11-24T22:07:13+00:00"
       },
       "2611.28248": {
         "title": "Granary-v2: Scalable Multilingual Speech Data Curation for Predictable and Controllable Model Outputs",
@@ -6411,9 +6411,9 @@
         "updated": "2026-11-20",
         "url": "https://arxiv.org/abs/2611.28248",
         "pdf_url": "https://arxiv.org/pdf/2611.28248",
-        "code_url": null,
-        "code_source": null,
-        "code_checked_at": "2026-11-24T09:08:16+00:00"
+        "code_url": "https://github.com/skywuxuan/ASR-arxiv-daily",
+        "code_source": "github_search",
+        "code_checked_at": "2026-11-24T22:07:15+00:00"
       }
     }
   }

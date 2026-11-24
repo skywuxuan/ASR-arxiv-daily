@@ -4,7 +4,7 @@
 
 [使用与部署说明](./docs/README.md#usage)
 
-> 最近成功抓取：2026-11-24T09:08:03+00:00（UTC）
+> 最近成功抓取：2026-11-24T22:07:06+00:00（UTC）
 
 每 12 小时检索一次，按首次提交日期倒序排列，历史论文会持续保留。
 
@@ -14,15 +14,15 @@
 
 | 首次提交 | 更新日期 | 标题 | 作者 | arXiv | PDF | 代码 |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-11-23 | 2026-11-23 | CAST: A Deployed Speech-to-Text Cascade for Closed Captioning of Entertainment Television | Aditya Mishra et al. | [2611.31055](https://arxiv.org/abs/2611.31055) | [PDF](https://arxiv.org/pdf/2611.31055) | — |
+| 2026-11-23 | 2026-11-23 | CAST: A Deployed Speech-to-Text Cascade for Closed Captioning of Entertainment Television | Aditya Mishra et al. | [2611.31055](https://arxiv.org/abs/2611.31055) | [PDF](https://arxiv.org/pdf/2611.31055) | [候选仓库](https://github.com/skywuxuan/ASR-arxiv-daily) |
 | 2026-11-23 | 2026-11-23 | Synthetic Twins: Closing the Gap Between TTS Test Sets and Real Recordings in Turkish ASR Evaluation | Nur Yağmur Tuncer et al. | [2611.30694](https://arxiv.org/abs/2611.30694) | [PDF](https://arxiv.org/pdf/2611.30694) | [候选仓库](https://github.com/liutaocode/TTS-arxiv-daily) |
 | 2026-11-23 | 2026-11-23 | Scoring L2 Pronunciation Without Synthesis: Counterfactual Velocity Contrast in Frozen Flow-Matching TTS | Zehan Liu | [2611.29985](https://arxiv.org/abs/2611.29985) | [PDF](https://arxiv.org/pdf/2611.29985) | [候选仓库](https://github.com/liutaocode/TTS-arxiv-daily) |
-| 2026-11-22 | 2026-11-22 | S$2$SCORE: A Textless Unified Evaluation Metric for Speech-to-Speech Translation Systems | Lalaram Arya et al. | [2611.29557](https://arxiv.org/abs/2611.29557) | [PDF](https://arxiv.org/pdf/2611.29557) | — |
+| 2026-11-22 | 2026-11-22 | S$2$SCORE: A Textless Unified Evaluation Metric for Speech-to-Speech Translation Systems | Lalaram Arya et al. | [2611.29557](https://arxiv.org/abs/2611.29557) | [PDF](https://arxiv.org/pdf/2611.29557) | [候选仓库](https://github.com/skywuxuan/ASR-arxiv-daily) |
 | 2026-11-22 | 2026-11-22 | PAWP-TTS: Phoneme-Aware Weight Programming for Compact Bilingual English-Nepali Speech Synthesis | Firoj Paudel | [2611.29455](https://arxiv.org/abs/2611.29455) | [PDF](https://arxiv.org/pdf/2611.29455) | [论文链接](https://github.com/Firojpaudel/PAWP_TTS) |
 | 2026-11-22 | 2026-11-22 | Can Speech LLMs Recognize When Audio Evidence Is Insufficient? A Diagnostic Study and a Pre-Generation Probing Mitigation | Vladislav Nesterenko et al. | [2611.29393](https://arxiv.org/abs/2611.29393) | [PDF](https://arxiv.org/pdf/2611.29393) | [论文链接](https://github.com/ladnlav/slm-audio-evidence) |
-| 2026-11-21 | 2026-11-21 | CANDOR: A Multilingual Provenance-Documented Corpus for Dysarthric Speech Research | Bernard Muller et al. | [2611.28930](https://arxiv.org/abs/2611.28930) | [PDF](https://arxiv.org/pdf/2611.28930) | — |
-| 2026-11-21 | 2026-11-21 | When Being Wrong Is Right: Reverse-Capability Audio CAPTCHAs through Psychoacoustic Design | Mingjie Bao et al. | [2611.28823](https://arxiv.org/abs/2611.28823) | [PDF](https://arxiv.org/pdf/2611.28823) | — |
-| 2026-11-20 | 2026-11-20 | Granary-v2: Scalable Multilingual Speech Data Curation for Predictable and Controllable Model Outputs | Nithin Rao Koluguri et al. | [2611.28248](https://arxiv.org/abs/2611.28248) | [PDF](https://arxiv.org/pdf/2611.28248) | — |
+| 2026-11-21 | 2026-11-21 | CANDOR: A Multilingual Provenance-Documented Corpus for Dysarthric Speech Research | Bernard Muller et al. | [2611.28930](https://arxiv.org/abs/2611.28930) | [PDF](https://arxiv.org/pdf/2611.28930) | [候选仓库](https://github.com/skywuxuan/ASR-arxiv-daily) |
+| 2026-11-21 | 2026-11-21 | When Being Wrong Is Right: Reverse-Capability Audio CAPTCHAs through Psychoacoustic Design | Mingjie Bao et al. | [2611.28823](https://arxiv.org/abs/2611.28823) | [PDF](https://arxiv.org/pdf/2611.28823) | [候选仓库](https://github.com/skywuxuan/ASR-arxiv-daily) |
+| 2026-11-20 | 2026-11-20 | Granary-v2: Scalable Multilingual Speech Data Curation for Predictable and Controllable Model Outputs | Nithin Rao Koluguri et al. | [2611.28248](https://arxiv.org/abs/2611.28248) | [PDF](https://arxiv.org/pdf/2611.28248) | [候选仓库](https://github.com/skywuxuan/ASR-arxiv-daily) |
 | 2026-11-20 | 2026-11-20 | No Audio, No Transcripts, No Problem: LLM-based ASR Adaptation Using Only Domain Documents | Sergio Burdisso et al. | [2611.27434](https://arxiv.org/abs/2611.27434) | [PDF](https://arxiv.org/pdf/2611.27434) | [候选仓库](https://github.com/Tavish9/awesome-daily-AI-arxiv) |
 | 2026-11-19 | 2026-11-19 | Efficient Conversational Multi-Talker ASR with Predicted Speaker-Agnostic Activity Streams | Xiluo He et al. | [2611.26796](https://arxiv.org/abs/2611.26796) | [PDF](https://arxiv.org/pdf/2611.26796) | [候选仓库](https://github.com/skywuxuan/ASR-arxiv-daily) |
 | 2026-11-19 | 2026-11-19 | What Helps Language-Model Agents Review Violent Video? A Controlled Comparison with a Human Evidence Reference | Mohammed El Amine Mokhtari et al. | [2611.26776](https://arxiv.org/abs/2611.26776) | [PDF](https://arxiv.org/pdf/2611.26776) | [论文链接](https://github.com/amine0110/evidence-graph-agents) |
