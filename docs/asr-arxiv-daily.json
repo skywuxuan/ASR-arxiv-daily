@@ -1,5 +1,5 @@
 {
-  "last_fetched": "2026-11-23T23:36:47+00:00",
+  "last_fetched": "2026-11-24T09:08:03+00:00",
   "topics": {
     "ASR": {
       "2609.18748": {
@@ -6261,6 +6261,159 @@
         "code_url": "https://github.com/Grashopr-888/NeurIPS2026_CreativeAI",
         "code_source": "github_search",
         "code_checked_at": "2026-11-23T06:40:01+00:00"
+      },
+      "2611.31055": {
+        "title": "CAST: A Deployed Speech-to-Text Cascade for Closed Captioning of Entertainment Television",
+        "authors": [
+          "Aditya Mishra",
+          "Thanish Bolla",
+          "Bidisha Sharma",
+          "Balaji Pitchaikannu",
+          "Surbhi Sinha",
+          "Anup Kotalwar"
+        ],
+        "published": "2026-11-23",
+        "updated": "2026-11-23",
+        "url": "https://arxiv.org/abs/2611.31055",
+        "pdf_url": "https://arxiv.org/pdf/2611.31055",
+        "code_url": null,
+        "code_source": null,
+        "code_checked_at": "2026-11-24T09:08:03+00:00"
+      },
+      "2611.30694": {
+        "title": "Synthetic Twins: Closing the Gap Between TTS Test Sets and Real Recordings in Turkish ASR Evaluation",
+        "authors": [
+          "Nur Yağmur Tuncer",
+          "Mustafa Sertaç Türkel",
+          "Fatma Nur Korkmaz",
+          "Ahmet Tuğrul Bayrak"
+        ],
+        "published": "2026-11-23",
+        "updated": "2026-11-23",
+        "url": "https://arxiv.org/abs/2611.30694",
+        "pdf_url": "https://arxiv.org/pdf/2611.30694",
+        "code_url": "https://github.com/liutaocode/TTS-arxiv-daily",
+        "code_source": "github_search",
+        "code_checked_at": "2026-11-24T09:08:05+00:00"
+      },
+      "2611.29985": {
+        "title": "Scoring L2 Pronunciation Without Synthesis: Counterfactual Velocity Contrast in Frozen Flow-Matching TTS",
+        "authors": [
+          "Zehan Liu"
+        ],
+        "published": "2026-11-23",
+        "updated": "2026-11-23",
+        "url": "https://arxiv.org/abs/2611.29985",
+        "pdf_url": "https://arxiv.org/pdf/2611.29985",
+        "code_url": "https://github.com/liutaocode/TTS-arxiv-daily",
+        "code_source": "github_search",
+        "code_checked_at": "2026-11-24T09:08:07+00:00"
+      },
+      "2611.29557": {
+        "title": "S$2$SCORE: A Textless Unified Evaluation Metric for Speech-to-Speech Translation Systems",
+        "authors": [
+          "Lalaram Arya",
+          "Mrinmoy Bhattacharjee",
+          "S. R. Mahadeva Prasanna"
+        ],
+        "published": "2026-11-22",
+        "updated": "2026-11-22",
+        "url": "https://arxiv.org/abs/2611.29557",
+        "pdf_url": "https://arxiv.org/pdf/2611.29557",
+        "code_url": null,
+        "code_source": null,
+        "code_checked_at": "2026-11-24T09:08:10+00:00"
+      },
+      "2611.29455": {
+        "title": "PAWP-TTS: Phoneme-Aware Weight Programming for Compact Bilingual English-Nepali Speech Synthesis",
+        "authors": [
+          "Firoj Paudel"
+        ],
+        "published": "2026-11-22",
+        "updated": "2026-11-22",
+        "url": "https://arxiv.org/abs/2611.29455",
+        "pdf_url": "https://arxiv.org/pdf/2611.29455",
+        "code_url": "https://github.com/Firojpaudel/PAWP_TTS",
+        "code_source": "paper"
+      },
+      "2611.29393": {
+        "title": "Can Speech LLMs Recognize When Audio Evidence Is Insufficient? A Diagnostic Study and a Pre-Generation Probing Mitigation",
+        "authors": [
+          "Vladislav Nesterenko",
+          "Polina Doronicheva",
+          "Olga Golubeva",
+          "Polina Sheviakova"
+        ],
+        "published": "2026-11-22",
+        "updated": "2026-11-22",
+        "url": "https://arxiv.org/abs/2611.29393",
+        "pdf_url": "https://arxiv.org/pdf/2611.29393",
+        "code_url": "https://github.com/ladnlav/slm-audio-evidence",
+        "code_source": "paper"
+      },
+      "2611.28930": {
+        "title": "CANDOR: A Multilingual Provenance-Documented Corpus for Dysarthric Speech Research",
+        "authors": [
+          "Bernard Muller",
+          "LaVonne Roberts",
+          "Leo Kaiya",
+          "Antonio Ortiz Barrañón"
+        ],
+        "published": "2026-11-21",
+        "updated": "2026-11-21",
+        "url": "https://arxiv.org/abs/2611.28930",
+        "pdf_url": "https://arxiv.org/pdf/2611.28930",
+        "code_url": null,
+        "code_source": null,
+        "code_checked_at": "2026-11-24T09:08:12+00:00"
+      },
+      "2611.28823": {
+        "title": "When Being Wrong Is Right: Reverse-Capability Audio CAPTCHAs through Psychoacoustic Design",
+        "authors": [
+          "Mingjie Bao",
+          "Yu Dai",
+          "Guangke Chen",
+          "Guozhu Meng"
+        ],
+        "published": "2026-11-21",
+        "updated": "2026-11-21",
+        "url": "https://arxiv.org/abs/2611.28823",
+        "pdf_url": "https://arxiv.org/pdf/2611.28823",
+        "code_url": null,
+        "code_source": null,
+        "code_checked_at": "2026-11-24T09:08:14+00:00"
+      },
+      "2611.28248": {
+        "title": "Granary-v2: Scalable Multilingual Speech Data Curation for Predictable and Controllable Model Outputs",
+        "authors": [
+          "Nithin Rao Koluguri",
+          "Meline Mkrtchyan",
+          "Nune Tadevosyan",
+          "Aaftab V",
+          "Sushmitha Deva",
+          "Fan Qian",
+          "Davit Karamyan",
+          "Kunal Dhawan",
+          "Taejin Park",
+          "Piotr Zelasko",
+          "Arushi Dhingra",
+          "Viraj Karandikar",
+          "Shuoyang Ding",
+          "Slyne Deng",
+          "Onur Yilmaz",
+          "Praateek Mahajan",
+          "Utkarsh Vaidya",
+          "Nikolay Karpov",
+          "Jagadeesh Balam",
+          "Boris Ginsburg"
+        ],
+        "published": "2026-11-20",
+        "updated": "2026-11-20",
+        "url": "https://arxiv.org/abs/2611.28248",
+        "pdf_url": "https://arxiv.org/pdf/2611.28248",
+        "code_url": null,
+        "code_source": null,
+        "code_checked_at": "2026-11-24T09:08:16+00:00"
       }
     }
   }
