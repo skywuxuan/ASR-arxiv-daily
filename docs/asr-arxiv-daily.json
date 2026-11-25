@@ -1,5 +1,5 @@
 {
-  "last_fetched": "2026-11-24T22:07:06+00:00",
+  "last_fetched": "2026-11-25T07:46:45+00:00",
   "topics": {
     "ASR": {
       "2609.18748": {
@@ -6317,7 +6317,7 @@
           "S. R. Mahadeva Prasanna"
         ],
         "published": "2026-11-22",
-        "updated": "2026-11-22",
+        "updated": "2026-11-24",
         "url": "https://arxiv.org/abs/2611.29557",
         "pdf_url": "https://arxiv.org/pdf/2611.29557",
         "code_url": "https://github.com/skywuxuan/ASR-arxiv-daily",
@@ -6414,6 +6414,53 @@
         "code_url": "https://github.com/skywuxuan/ASR-arxiv-daily",
         "code_source": "github_search",
         "code_checked_at": "2026-11-24T22:07:15+00:00"
+      },
+      "2611.32697": {
+        "title": "Cif-query bridging for audio-native asr transfer to visual speech recognition",
+        "authors": [
+          "Chang Sun",
+          "Dongliang Xie",
+          "Wanpeng Xie",
+          "Bo Qin",
+          "Hong Yang"
+        ],
+        "published": "2026-11-24",
+        "updated": "2026-11-24",
+        "url": "https://arxiv.org/abs/2611.32697",
+        "pdf_url": "https://arxiv.org/pdf/2611.32697",
+        "code_url": null,
+        "code_source": null,
+        "code_checked_at": "2026-11-25T07:46:45+00:00"
+      },
+      "2611.32455": {
+        "title": "Phoneme-identity depth profiles do not reliably predict LoRA placement for dysarthric ASR",
+        "authors": [
+          "Bernard Muller",
+          "LaVonne Roberts"
+        ],
+        "published": "2026-11-24",
+        "updated": "2026-11-24",
+        "url": "https://arxiv.org/abs/2611.32455",
+        "pdf_url": "https://arxiv.org/pdf/2611.32455",
+        "code_url": null,
+        "code_source": null,
+        "code_checked_at": "2026-11-25T07:46:47+00:00"
+      },
+      "2611.31578": {
+        "title": "PazaBench: Large-Scale ASR Benchmark for Low-Resource Languages in Africa",
+        "authors": [
+          "Mercy Muchai",
+          "Nick Mumero Mwangi",
+          "Kevin Chege",
+          "Samuel Chege Maina"
+        ],
+        "published": "2026-11-23",
+        "updated": "2026-11-23",
+        "url": "https://arxiv.org/abs/2611.31578",
+        "pdf_url": "https://arxiv.org/pdf/2611.31578",
+        "code_url": null,
+        "code_source": null,
+        "code_checked_at": "2026-11-25T07:46:49+00:00"
       }
     }
   }

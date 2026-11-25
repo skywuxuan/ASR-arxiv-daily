@@ -4,7 +4,7 @@
 
 [使用与部署说明](./docs/README.md#usage)
 
-> 最近成功抓取：2026-11-24T22:07:06+00:00（UTC）
+> 最近成功抓取：2026-11-25T07:46:45+00:00（UTC）
 
 每 12 小时检索一次，按首次提交日期倒序排列，历史论文会持续保留。
 
@@ -14,10 +14,13 @@
 
 | 首次提交 | 更新日期 | 标题 | 作者 | arXiv | PDF | 代码 |
 | --- | --- | --- | --- | --- | --- | --- |
+| 2026-11-24 | 2026-11-24 | Cif-query bridging for audio-native asr transfer to visual speech recognition | Chang Sun et al. | [2611.32697](https://arxiv.org/abs/2611.32697) | [PDF](https://arxiv.org/pdf/2611.32697) | — |
+| 2026-11-24 | 2026-11-24 | Phoneme-identity depth profiles do not reliably predict LoRA placement for dysarthric ASR | Bernard Muller et al. | [2611.32455](https://arxiv.org/abs/2611.32455) | [PDF](https://arxiv.org/pdf/2611.32455) | — |
+| 2026-11-23 | 2026-11-23 | PazaBench: Large-Scale ASR Benchmark for Low-Resource Languages in Africa | Mercy Muchai et al. | [2611.31578](https://arxiv.org/abs/2611.31578) | [PDF](https://arxiv.org/pdf/2611.31578) | — |
 | 2026-11-23 | 2026-11-23 | CAST: A Deployed Speech-to-Text Cascade for Closed Captioning of Entertainment Television | Aditya Mishra et al. | [2611.31055](https://arxiv.org/abs/2611.31055) | [PDF](https://arxiv.org/pdf/2611.31055) | [候选仓库](https://github.com/skywuxuan/ASR-arxiv-daily) |
 | 2026-11-23 | 2026-11-23 | Synthetic Twins: Closing the Gap Between TTS Test Sets and Real Recordings in Turkish ASR Evaluation | Nur Yağmur Tuncer et al. | [2611.30694](https://arxiv.org/abs/2611.30694) | [PDF](https://arxiv.org/pdf/2611.30694) | [候选仓库](https://github.com/liutaocode/TTS-arxiv-daily) |
 | 2026-11-23 | 2026-11-23 | Scoring L2 Pronunciation Without Synthesis: Counterfactual Velocity Contrast in Frozen Flow-Matching TTS | Zehan Liu | [2611.29985](https://arxiv.org/abs/2611.29985) | [PDF](https://arxiv.org/pdf/2611.29985) | [候选仓库](https://github.com/liutaocode/TTS-arxiv-daily) |
-| 2026-11-22 | 2026-11-22 | S$2$SCORE: A Textless Unified Evaluation Metric for Speech-to-Speech Translation Systems | Lalaram Arya et al. | [2611.29557](https://arxiv.org/abs/2611.29557) | [PDF](https://arxiv.org/pdf/2611.29557) | [候选仓库](https://github.com/skywuxuan/ASR-arxiv-daily) |
+| 2026-11-22 | 2026-11-24 | S$2$SCORE: A Textless Unified Evaluation Metric for Speech-to-Speech Translation Systems | Lalaram Arya et al. | [2611.29557](https://arxiv.org/abs/2611.29557) | [PDF](https://arxiv.org/pdf/2611.29557) | [候选仓库](https://github.com/skywuxuan/ASR-arxiv-daily) |
 | 2026-11-22 | 2026-11-22 | PAWP-TTS: Phoneme-Aware Weight Programming for Compact Bilingual English-Nepali Speech Synthesis | Firoj Paudel | [2611.29455](https://arxiv.org/abs/2611.29455) | [PDF](https://arxiv.org/pdf/2611.29455) | [论文链接](https://github.com/Firojpaudel/PAWP_TTS) |
 | 2026-11-22 | 2026-11-22 | Can Speech LLMs Recognize When Audio Evidence Is Insufficient? A Diagnostic Study and a Pre-Generation Probing Mitigation | Vladislav Nesterenko et al. | [2611.29393](https://arxiv.org/abs/2611.29393) | [PDF](https://arxiv.org/pdf/2611.29393) | [论文链接](https://github.com/ladnlav/slm-audio-evidence) |
 | 2026-11-21 | 2026-11-21 | CANDOR: A Multilingual Provenance-Documented Corpus for Dysarthric Speech Research | Bernard Muller et al. | [2611.28930](https://arxiv.org/abs/2611.28930) | [PDF](https://arxiv.org/pdf/2611.28930) | [候选仓库](https://github.com/skywuxuan/ASR-arxiv-daily) |
