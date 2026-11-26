@@ -1,5 +1,5 @@
 {
-  "last_fetched": "2026-11-25T21:23:00+00:00",
+  "last_fetched": "2026-11-26T21:09:34+00:00",
   "topics": {
     "ASR": {
       "2609.18748": {
@@ -6461,6 +6461,19 @@
         "code_url": "https://github.com/Tavish9/awesome-daily-AI-arxiv",
         "code_source": "github_search",
         "code_checked_at": "2026-11-25T21:23:04+00:00"
+      },
+      "2611.34256": {
+        "title": "UMAI: UM Aware Inference with a Frozen Qwen3-ASR",
+        "authors": [
+          "Gyeongmin Kim"
+        ],
+        "published": "2026-11-25",
+        "updated": "2026-11-25",
+        "url": "https://arxiv.org/abs/2611.34256",
+        "pdf_url": "https://arxiv.org/pdf/2611.34256",
+        "code_url": "https://github.com/kdrkdrkdr/umai",
+        "code_source": "github_search",
+        "code_checked_at": "2026-11-26T21:09:34+00:00"
       }
     }
   }
